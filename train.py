@@ -3,10 +3,12 @@ from tqdm import tqdm
 import json
 import os
 import torch
+from torch import nn
 from torch.utils.data import DataLoader
-from transformers import BertJapaneseTokenizer, BertForSequenceClassification
+from transformers import BertJapaneseTokenizer, BertPreTrainedModel, BertModel
 import pytorch_lightning as pl
 from sklearn.metrics import classification_report
+import math
 
 MODEL_NAME = 'tohoku-nlp/bert-base-japanese-whole-word-masking'
 tokenizer =BertJapaneseTokenizer.from_pretrained(MODEL_NAME)
@@ -73,7 +75,87 @@ def tokenize_data(filename):
             dataset_for_loader.append(token)
     return dataset_for_loader
 
-class BertForJapaneseRecepientERC(pl.LightningModule):
+class PersonalizerAttention(nn.Module):
+    # バッチ間の特徴量の内積をとるSelf-Attention
+    # 入力[CLS](batch_size * hidden_size=768)、出力[personalized_CLS](batch_size * hidden_size=768)
+    def __init__(self, config):
+        super().__init__()
+
+        # Multi-head Attentionにするための設定
+        if config.hidden_size % config.num_attention_heads != 0 and not hasattr(config, "embedding_size"):
+            raise ValueError(
+                f"The hidden size ({config.hidden_size}) is not a multiple of the number of attention "
+                f"heads ({config.num_attention_heads})"
+            )
+        """
+        hidden_size = 768
+        num_attention_heads = 12
+        attention_head_size = 64
+        all_head_size = 768
+        """
+        self.num_attention_heads = config.num_attention_heads
+        self.attention_head_size = int(config.hidden_size / config.num_attention_heads)
+        self.all_head_size = self.num_attention_heads * self.attention_head_size
+        
+        # Q,K,Vを用意するための全結合層
+        self.query = nn.Linear(config.hidden_size, self.all_head_size)
+        self.key = nn.Linear(config.hidden_size, self.all_head_size)
+        self.value = nn.Linear(config.hidden_size, self.all_head_size)
+
+        # Dropout
+        self.dropout = nn.Dropout(config.attention_probs_dropout_prob)
+    
+    def transpose_for_scores(self, x):
+        # Multi-head Attention用にテンソルを変形(batch_size*hidden_size -> num_attention_heads*batch_size*attention_head_size)
+        new_x_shape = x.size()[:-1] + (self.num_attention_heads, self.attention_head_size)
+        x = x.view(*new_x_shape)
+        return x.permute(1, 0, 2)
+    
+    def forward(self, hidden_states):
+        # 入力は常にバッチサイズ分与えられるものとし、Attentionマスクは不要
+
+        # Q,K,Vを用意
+        query_layer = self.transpose_for_scores(self.query(hidden_states))
+        key_layer = self.transpose_for_scores(self.key(hidden_states))
+        value_layer = self.transpose_for_scores(self.value(hidden_states))
+
+        # Q * K^t
+        attention_scores = torch.matmul(query_layer, key_layer.transpose(-1, -2))
+        # QKt / √d
+        attention_scores = attention_scores / math.sqrt(self.attention_head_size)
+        # Softmax( QKt/√d )
+        attention_probs = nn.functional.softmax(attention_scores, dim=-1)
+
+        # ドロップアウト
+        attention_probs = self.dropout(attention_probs)
+
+        # Softmax(QKt/√d) * V
+        context_layer = torch.matmul(attention_probs, value_layer)
+
+        # Multi-head用に変形していたテンソルを元に戻す
+        context_layer = context_layer.permute(1, 0, 2).contiguous()
+        new_context_layer_shape = context_layer.size()[:-2] + (self.all_head_size,)
+        context_layer = context_layer.view(new_context_layer_shape)
+
+        return context_layer
+
+class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
+    def __init__(self, config):
+        super().__init__(config)
+        self.num_labels = config.num_labels
+        self.config = config
+
+        self.bert = BertModel(config)
+
+        self.attention = Attention()
+
+        classifier_dropout = (
+            config.classifier_dropout if config.classifier_dropout is not None else config.hidden_dropout_prob
+        )
+        self.dropout = nn.Dropout(classifier_dropout)
+        self.classifier = nn.Linear(config.hidden_size, config.num_labels)
+
+class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
     def __init__(self, model_name=MODEL_NAME, num_labels=8, lr=0.001, weight_decay=0.01, dropout=None):
         # model_name: 事前学習モデル
         # num_labels: ラベル数
@@ -83,7 +165,7 @@ class BertForJapaneseRecepientERC(pl.LightningModule):
         self.save_hyperparameters()
 
         # 事前学習モデルのロード
-        self.model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, classifier_dropout=dropout)
+        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch):
