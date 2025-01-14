@@ -1,13 +1,14 @@
 import torch
 from torch.utils.data import DataLoader
-from transformers import BertJapaneseTokenizer, BertForSequenceClassification
+from transformers import BertJapaneseTokenizer
+from .train import PersonalizedBertForSequenceClassification
 import pytorch_lightning as pl
 from sklearn.metrics import classification_report
 
 tokenizer_name = 'tohoku-nlp/bert-base-japanese-whole-word-masking'
 tokenizer = BertJapaneseTokenizer.from_pretrained(tokenizer_name)
 model_name = 'model_transformers'
-model = BertForSequenceClassification.from_pretrained(model_name)
+model = PersonalizedBertForSequenceClassification.from_pretrained(model_name)
 
 CATEGORIES = [
     'joy',
@@ -21,8 +22,8 @@ CATEGORIES = [
 ]
 MAX_LENGTH = 512
 
-utter1 = '助かる！'
-utter2 = '僕も助かる〜！\n心愛さんが眠るまで話そ'
+utter1 = ''
+utter2 = ''
 
 token=tokenizer(
     utter1, utter2,

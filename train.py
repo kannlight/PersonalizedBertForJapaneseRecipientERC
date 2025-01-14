@@ -6,6 +6,7 @@ import torch
 from torch import nn
 from torch.utils.data import DataLoader
 from transformers import BertJapaneseTokenizer, BertPreTrainedModel, BertModel
+from transformers.modeling_outputs import SequenceClassifierOutput
 import pytorch_lightning as pl
 from sklearn.metrics import classification_report
 import math
@@ -112,8 +113,6 @@ class PersonalizerAttention(nn.Module):
         return x.permute(1, 0, 2)
     
     def forward(self, hidden_states):
-        # 入力は常にバッチサイズ分与えられるものとし、Attentionマスクは不要
-
         # Q,K,Vを用意
         query_layer = self.transpose_for_scores(self.query(hidden_states))
         key_layer = self.transpose_for_scores(self.key(hidden_states))
@@ -142,18 +141,67 @@ class PersonalizerAttention(nn.Module):
 class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
     def __init__(self, config):
         super().__init__(config)
+        # 分類クラス数
         self.num_labels = config.num_labels
+
         self.config = config
 
+        # bert
         self.bert = BertModel(config)
-
-        self.attention = Attention()
-
+        # LayerNorm
+        self.LayerNorm = nn.LayerNorm(config.hidden_size, config.layer_norm_eps)
+        # 自前のAttention層
+        self.attention = PersonalizerAttention(config)
+        # Attention層前のドロップアウト
+        personalizer_dropout = (
+            config.personalizer_dropout if config.personalizer_dropout is not None else config.hidden_dropout_prob
+        )
+        # 全結合層前のドロップアウト
         classifier_dropout = (
             config.classifier_dropout if config.classifier_dropout is not None else config.hidden_dropout_prob
         )
-        self.dropout = nn.Dropout(classifier_dropout)
+        self.dropout1 = nn.Dropout(personalizer_dropout)
+        self.dropout2 = nn.Dropout(classifier_dropout)
+        # 全結合層
         self.classifier = nn.Linear(config.hidden_size, config.num_labels)
+
+        # 重みの初期化などをするPreTrainedModelのメソッド
+        self.post_init()
+
+    def forward(self, input_ids=None, attention_mask=None, token_type_ids=None, labels=None):
+        # bertの出力を得る
+        # (batch*512)->(batch*512*768)
+        bert_outputs = self.bert(
+            input_ids,
+            attention_mask=attention_mask,
+            token_type_ids=token_type_ids
+        )
+        # [CLS]を取得して、LayerNorm(Self-Attentionに入力する前に正規化すべき)とDropoutを適用
+        # (batch*512*768)->(batch*768)
+        pooled_output = bert_outputs[1]
+        # (batch*768)->(batch*768)
+        pooled_output = self.LayerNorm(pooled_output)
+        pooled_output = self.dropout1(pooled_output)
+
+        # Self-Attentionによってバッチ間で相互作用
+        # (batch*768)->(batch*768)
+        personalized_output = self.attention(pooled_output)
+
+        # ドロップアウトを適用して全結合層へ
+        # (batch*768)->(batch*768)
+        personalized_output = self.dropout2(personalized_output)
+        # (batch*768)->(batch*num_labels)
+        logits = self.classifier(personalized_output)
+
+        # とりあえずクロスエントロピーロスを計算して返してあげる
+        if labels is not None:
+            loss_fct = nn.CrossEntropyLoss()
+            loss = loss_fct(logits.view(logits.view(-1, self.num_labels), labels.view(-1)))
+        
+        return SequenceClassifierOutput(
+            loss=loss,
+            logits=logits
+        )
 
 class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
     def __init__(self, model_name=MODEL_NAME, num_labels=8, lr=0.001, weight_decay=0.01, dropout=None):
@@ -161,11 +209,12 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         # num_labels: ラベル数
         # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
         # weight_decay: 重み減衰の強度(L2正則化のような役割)
+        # dropout: 全結合層の前に適用するdropout率、デフォルトでNoneとしているがこの場合はconfig.hidden_dropout_probが適用される(0.1など)
         super().__init__()
         self.save_hyperparameters()
 
         # 事前学習モデルのロード
-        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, classifier_dropout=dropout)
+        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, personalizer_dropout=dropout, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch):
@@ -194,8 +243,8 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
     #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
     def configure_optimizers(self):
-        return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
-        # return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+        # return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+        return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
 
 def main():
     # データセットから対話データをトークン化
@@ -221,7 +270,7 @@ def main():
         callbacks = [checkpoint]
     )
     # 学習率を指定してモデルをロード
-    model = BertForJapaneseRecepientERC(lr=3e-5, weight_decay=0, dropout=0.2)
+    model = PersonalizedBertForJapaneseRecepientERC(lr=3e-5, weight_decay=0.01, dropout=0.2)
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
 
@@ -233,7 +282,7 @@ def main():
     # test = trainer.test(dataloaders=dataloader_test)
     # print(test[0]['test_report'])
 
-    best_model = BertForJapaneseRecepientERC.load_from_checkpoint(
+    best_model = PersonalizedBertForJapaneseRecepientERC.load_from_checkpoint(
         checkpoint.best_model_path
     )
     best_model.model.save_pretrained('./model_transformers')

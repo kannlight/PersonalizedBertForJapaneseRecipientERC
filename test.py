@@ -1,5 +1,6 @@
 import torch
-from transformers import BertJapaneseTokenizer, BertForSequenceClassification
+from transformers import BertJapaneseTokenizer
+from .train import PersonalizedBertForSequenceClassification
 from sklearn.metrics import classification_report
 import json
 import sys
@@ -8,7 +9,7 @@ import os
 tokenizer_name = 'tohoku-nlp/bert-base-japanese-whole-word-masking'
 tokenizer = BertJapaneseTokenizer.from_pretrained(tokenizer_name)
 best_model_name = 'model_transformers'
-model = BertForSequenceClassification.from_pretrained(best_model_name)
+model = PersonalizedBertForSequenceClassification.from_pretrained(best_model_name)
 # GPUを使用
 model = model.cuda()
 
