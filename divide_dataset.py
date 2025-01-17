@@ -1,30 +1,9 @@
 import random
-from tqdm import tqdm
 import json
 import os
-import torch
-from torch.utils.data import DataLoader
-from transformers import BertJapaneseTokenizer, BertForSequenceClassification
-import pytorch_lightning as pl
-from sklearn.metrics import classification_report
 
 batch_size = 8
 dataset_dir = ''
-
-def load_data():
-    # データセットの対話データをトークン化して返す
-    talk_data = []
-    for file in os.listdir(dataset_dir):
-        # データを読み込む
-        data = {}
-        with open(dataset_dir/+file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-
-        # 各対話を追加
-        if 'data' in data:
-            for talk in data['data']:
-                talk_data.append(talk)
-    return talk_data
 
 def generate_batch_user(filename):
     # [a,b,c,d,e,f] -> [[a,b],[c,d],[e,f]] (ex.batch size 2)
@@ -69,7 +48,6 @@ def main():
         json.dump(dataset_val, f, indent=4, ensure_ascii=False)
     with open('DatasetTest.json', 'w', encoding='utf-8') as f:
         json.dump(dataset_test, f, indent=4, ensure_ascii=False)
-
 
 if __name__ == "__main__":
     main()
