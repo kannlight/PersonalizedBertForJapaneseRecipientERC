@@ -5,7 +5,7 @@ import os
 import torch
 from torch import nn
 from torch.utils.data import DataLoader
-from transformers import BertJapaneseTokenizer, BertPreTrainedModel, BertModel
+from transformers import BertJapaneseTokenizer, BertPreTrainedModel, BertModel, get_scheduler
 from transformers.modeling_outputs import SequenceClassifierOutput
 import pytorch_lightning as pl
 from sklearn.metrics import classification_report
@@ -39,7 +39,8 @@ class_frequency = [
 
 cf = torch.tensor(class_frequency).cuda()
 
-ICFweight = torch.sum(cf) / cf # 割合の逆数
+ICFweight = 1 / cf
+ICFweight = ICFweight / torch.sum(ICFweight)
 
 def tokenize_data(filename):
     # データセットの対話データをトークン化して返す関数
@@ -228,13 +229,25 @@ class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
             )
 
 class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
-    def __init__(self, model_name=MODEL_NAME, num_labels=8, pack_size=8 lr=0.001, weight_decay=0.01, dropout=None):
+    def __init__(
+            self,
+            model_name=MODEL_NAME,
+            num_labels=8,
+            pack_size=8,
+            lr=0.001,
+            weight_decay=0.01,
+            dropout=None
+            warmup_steps=None,
+            total_steps=None
+        ):
         # model_name: 事前学習モデル
         # num_labels: ラベル数
         # pack_size: まとめて入力する対話の数
         # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
         # weight_decay: 重み減衰の強度(L2正則化のような役割)
         # dropout: 全結合層の前に適用するdropout率、デフォルトでNoneとしているがこの場合はconfig.hidden_dropout_probが適用される(0.1など)
+        # warmup_steps: ウォームアップの適用のステップ数
+        # total_steps: 学習全体のステップ数
         super().__init__()
         self.save_hyperparameters()
 
@@ -242,7 +255,7 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, pack_size=pack_size, personalizer_dropout=dropout, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
-    def training_step(self, batch):
+    def training_step(self, batch, batch_idx):
         output = self.model(
             input_ids=batch['input_ids'],
             attention_mask=batch['attention_mask'],
@@ -255,7 +268,7 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         return loss
     
     # 検証データを受け取って損失を返すメソッド
-    def validation_step(self, batch):
+    def validation_step(self, batch, batch_idx):
         output = self.model(
             input_ids=batch['input_ids'],
             attention_mask=batch['attention_mask'],
@@ -275,10 +288,26 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
     #     # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
     #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
 
-    def configure_optimizers(self):
-        # return torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
-        return torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+    def on_train_batch_start(self, batch, batch_idx):
+        # 学習率の変化を記録
+        current_lr = self.trainer.optimizers[0].param_groups[0]['lr']
+        self.log('learning_rate', current_lr)
 
+    def configure_optimizers(self):
+        # オプティマイザーの指定
+        # optimizer = torch.optim.Adam(self.parameters(), lr=self.hparams.lr)
+        optimizer = torch.optim.AdamW(self.parameters(), lr=self.hparams.lr, weight_decay=self.hparams.weight_decay)
+        # ウォームアップを適用
+        if self.hparams.warmup_steps is not None and self.hparams.total_steps is not None:
+            scheduler = get_scheduler(
+                name='linear',
+                optimizer=optimizer,
+                num_warmup_steps=self.hparams.warmup_steps,
+                num_training_steps=self.hparams.total_steps
+            )
+            return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
+        else:
+            return optimizer
 def main():
     # データセットから対話データをトークン化
     dataset_train = tokenize_data('DatasetTrain.json')
@@ -286,6 +315,14 @@ def main():
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, batch_size=8, shuffle=True)
     dataloader_val = DataLoader(dataset_val, batch_size=256)
+
+    # ハイパーパラメータ
+    max_epochs = 10 # 学習のエポック数
+    total_steps = len(dataloader_train) * max_epochs
+    warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
+    lr = 3e-5 # 初期学習率
+    wd = 0.1 # 重み減衰率
+    dropout = 0.1 # 全結合前のドロップアウト率
 
     # ファインチューニングの設定
     checkpoint = pl.callbacks.ModelCheckpoint(
@@ -299,11 +336,17 @@ def main():
     trainer = pl.Trainer(
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
-        max_epochs = 10, # 学習のエポック数
+        max_epochs = max_epochs, # 学習のエポック数
         callbacks = [checkpoint]
     )
-    # 学習率を指定してモデルをロード
-    model = PersonalizedBertForJapaneseRecepientERC(lr=3e-5, weight_decay=0.01, dropout=0.2)
+    # ハイパーパラメータを指定してモデルをロード
+    model = PersonalizedBertForJapaneseRecepientERC(
+        lr=lr,
+        weight_decay=wd,
+        dropout=dropout,
+        warmup_steps=warmup_steps,
+        total_steps=total_steps
+    )
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
 
