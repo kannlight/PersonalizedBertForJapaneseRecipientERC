@@ -3,13 +3,13 @@ import json
 import os
 
 batch_size = 8
-dataset_dir = ''
+dataset_dir = 'DatasetByLuke'
 
 def generate_batch_user(filename):
     # [a,b,c,d,e,f] -> [[a,b],[c,d],[e,f]] (ex.batch size 2)
     talk_data = []
     data = {}
-    with open(dataset_dir/+filename, 'r', encoding='utf-8') as f:
+    with open(dataset_dir+'/'+filename, 'r', encoding='utf-8') as f:
         data = json.load(f)
     # 対話を追加
     if 'data' in data:
