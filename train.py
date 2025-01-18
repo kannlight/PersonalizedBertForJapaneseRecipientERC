@@ -26,6 +26,8 @@ CATEGORIES = [
 ]
 MAX_LENGTH = 512
 
+pack_size = 8
+
 class_frequency = [
     4450.92560337,
      1259.4576316,
@@ -53,10 +55,12 @@ def tokenize_pack(filename):
     # 各対話をトークン化して追加
     if 'data' in data:
         for pack in data['data']:
-            text1, text2 = []
+            text1 = []
+            text2 = []
             for talk in pack:
                 # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
-                t1, t2 = []
+                t1 = []
+                t2 = []
                 for utter in talk['talk']:
                     if utter['type'] == 1:
                         t1.append(utter['utter'])
@@ -152,8 +156,6 @@ class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
         self.num_labels = config.num_labels
         # 特徴量の次元
         self.hidden_size = config.hidden_size
-        # 同時入力するデータ数(パックサイズ)
-        self.pack_size = config.pack_size
 
         self.config = config
 
@@ -162,9 +164,7 @@ class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
         # LayerNorm
         self.LayerNorm = nn.LayerNorm(self.hidden_size, config.layer_norm_eps)
         # Attention層前のドロップアウト
-        personalizer_dropout = (
-            config.personalizer_dropout if config.personalizer_dropout is not None else config.hidden_dropout_prob
-        )
+        personalizer_dropout = 0.1
         self.dropout1 = nn.Dropout(personalizer_dropout)
         # 専用のAttention層
         self.attention = PersonalizerAttention(config)
@@ -203,7 +203,7 @@ class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
         # (batch*pack,512,768)->(batch*pack,768)
         pooled_output = bert_outputs[1]
         # (batch*pack,768)->(batch,pack,768)
-        pooled_output = pooled_output.view(-1,self.pack_size,self.hidden_size)
+        pooled_output = pooled_output.view(-1,pack_size,self.hidden_size)
         # LayerNorm(Self-Attentionに入力する前に正規化すべき)とDropoutを適用
         # (batch,pack,768)->(batch,pack,768)
         pooled_output = self.LayerNorm(pooled_output)
@@ -241,10 +241,9 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
             self,
             model_name=MODEL_NAME,
             num_labels=8,
-            pack_size=8,
             lr=0.001,
             weight_decay=0.01,
-            dropout=None
+            dropout=None,
             warmup_steps=None,
             total_steps=None
         ):
@@ -260,7 +259,7 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         self.save_hyperparameters()
 
         # 事前学習モデルのロード
-        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, pack_size=pack_size, personalizer_dropout=dropout, classifier_dropout=dropout)
+        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch, batch_idx):
@@ -322,8 +321,8 @@ def main():
     dataset_train = tokenize_pack('DatasetTrain.json')
     dataset_val = tokenize_pack('DatasetVal.json')
     # データローダ作成
-    dataloader_train = DataLoader(dataset_train, batch_size=8, shuffle=True)
-    dataloader_val = DataLoader(dataset_val, batch_size=256)
+    dataloader_train = DataLoader(dataset_train, batch_size=4, shuffle=True)
+    dataloader_val = DataLoader(dataset_val, batch_size=4)
 
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
@@ -362,10 +361,6 @@ def main():
     # 結果表示
     print('best_model_path:', checkpoint.best_model_path)
     print('val_loss for best_model:', checkpoint.best_model_score)
-
-    # テストデータで評価
-    # test = trainer.test(dataloaders=dataloader_test)
-    # print(test[0]['test_report'])
 
     best_model = PersonalizedBertForJapaneseRecepientERC.load_from_checkpoint(
         checkpoint.best_model_path
