@@ -77,8 +77,8 @@ def tokenize_data(filename):
     return dataset_for_loader
 
 class PersonalizerAttention(nn.Module):
-    # バッチ間の特徴量の内積をとるSelf-Attention
-    # 入力[CLS](batch_size * hidden_size=768)、出力[personalized_CLS](batch_size * hidden_size=768)
+    # パック間の特徴量の内積をとるSelf-Attention
+    # 入力[CLS](batch_size,pack_size,hidden_size=768)、出力[personalized_CLS](batch_size,pack_size,hidden_size=768)
     def __init__(self, config):
         super().__init__()
 
@@ -107,10 +107,10 @@ class PersonalizerAttention(nn.Module):
         self.dropout = nn.Dropout(config.attention_probs_dropout_prob)
     
     def transpose_for_scores(self, x):
-        # Multi-head Attention用にテンソルを変形(batch_size*hidden_size -> num_attention_heads*batch_size*attention_head_size)
+        # Multi-head Attention用にテンソルを変形(batch_size,pack_size,hidden_size -> batch_size,num_attention_heads,pack_size,attention_head_size)
         new_x_shape = x.size()[:-1] + (self.num_attention_heads, self.attention_head_size)
-        x = x.view(*new_x_shape)
-        return x.permute(1, 0, 2)
+        x = x.view(new_x_shape)
+        return x.permute(0, 2, 1, 3)
     
     def forward(self, hidden_states):
         # Q,K,Vを用意
@@ -132,7 +132,7 @@ class PersonalizerAttention(nn.Module):
         context_layer = torch.matmul(attention_probs, value_layer)
 
         # Multi-head用に変形していたテンソルを元に戻す
-        context_layer = context_layer.permute(1, 0, 2).contiguous()
+        context_layer = context_layer.permute(0, 2, 1, 3).contiguous()
         new_context_layer_shape = context_layer.size()[:-2] + (self.all_head_size,)
         context_layer = context_layer.view(new_context_layer_shape)
 
@@ -143,70 +143,95 @@ class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
         super().__init__(config)
         # 分類クラス数
         self.num_labels = config.num_labels
+        # 特徴量の次元
+        self.hidden_size = config.hidden_size
+        # 同時入力するデータ数(パックサイズ)
+        self.pack_size = config.pack_size
 
         self.config = config
 
         # bert
         self.bert = BertModel(config)
         # LayerNorm
-        self.LayerNorm = nn.LayerNorm(config.hidden_size, config.layer_norm_eps)
-        # 自前のAttention層
-        self.attention = PersonalizerAttention(config)
+        self.LayerNorm = nn.LayerNorm(self.hidden_size, config.layer_norm_eps)
         # Attention層前のドロップアウト
         personalizer_dropout = (
             config.personalizer_dropout if config.personalizer_dropout is not None else config.hidden_dropout_prob
         )
+        self.dropout1 = nn.Dropout(personalizer_dropout)
+        # 専用のAttention層
+        self.attention = PersonalizerAttention(config)
         # 全結合層前のドロップアウト
         classifier_dropout = (
             config.classifier_dropout if config.classifier_dropout is not None else config.hidden_dropout_prob
         )
-        self.dropout1 = nn.Dropout(personalizer_dropout)
         self.dropout2 = nn.Dropout(classifier_dropout)
         # 全結合層
-        self.classifier = nn.Linear(config.hidden_size, config.num_labels)
+        self.classifier = nn.Linear(self.hidden_size, config.num_labels)
 
         # 重みの初期化などをするPreTrainedModelのメソッド
         self.post_init()
 
     def forward(self, input_ids=None, attention_mask=None, token_type_ids=None, labels=None):
+        """
+        input_ids,attention_mask,token_type_ids
+        (batch,pack,512)
+        labels
+        (batch,pack,1)
+        """
+        # bertに並列計算させるため形式を変更
+        # (batch,pack,512)->(batch*pack,512)
+        shaped_ids = input_ids.view(-1,MAX_LENGTH)
+        shaped_mask = attention_mask.view(-1,MAX_LENGTH)
+        shaped_type = token_type_ids.view(-1,MAX_LENGTH)
+
         # bertの出力を得る
-        # (batch*512)->(batch*512*768)
+        # (batch*pack,512)->(batch*pack,512,768)
         bert_outputs = self.bert(
-            input_ids,
-            attention_mask=attention_mask,
-            token_type_ids=token_type_ids
+            input_ids=shaped_ids,
+            attention_mask=shaped_mask,
+            token_type_ids=shaped_type
         )
-        # [CLS]を取得して、LayerNorm(Self-Attentionに入力する前に正規化すべき)とDropoutを適用
-        # (batch*512*768)->(batch*768)
+        # [CLS]を取得して、元の形状に戻す
+        # (batch*pack,512,768)->(batch*pack,768)
         pooled_output = bert_outputs[1]
-        # (batch*768)->(batch*768)
+        # (batch*pack,768)->(batch,pack,768)
+        pooled_output = pooled_output.view(-1,self.pack_size,self.hidden_size)
+        # LayerNorm(Self-Attentionに入力する前に正規化すべき)とDropoutを適用
+        # (batch,pack,768)->(batch,pack,768)
         pooled_output = self.LayerNorm(pooled_output)
         pooled_output = self.dropout1(pooled_output)
 
         # Self-Attentionによってバッチ間で相互作用
-        # (batch*768)->(batch*768)
+        # (batch,pack,768)->(batch,pack,768)
         personalized_output = self.attention(pooled_output)
 
         # ドロップアウトを適用して全結合層へ
-        # (batch*768)->(batch*768)
+        # (batch,pack,768)->(batch,pack,768)
         personalized_output = self.dropout2(personalized_output)
-        # (batch*768)->(batch*num_labels)
+        # (batch,pack,768)->(batch,pack,num_labels)
         logits = self.classifier(personalized_output)
 
-        # とりあえずクロスエントロピーロスを計算して返してあげる
+        # クロスエントロピーロスを計算して返す(batch*pack分ある損失の平均)
+        # 形式を変更して計算(batch,pack,num_labels)->(batch*pack,num_labels)
         if labels is not None:
             loss_fct = nn.CrossEntropyLoss()
-            loss = loss_fct(logits.view(logits.view(-1, self.num_labels), labels.view(-1)))
+            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
         
-        return SequenceClassifierOutput(
-            loss=loss,
-            logits=logits
-        )
+            return SequenceClassifierOutput(
+                loss=loss,
+                logits=logits
+            )
+        else:
+            return SequenceClassifierOutput(
+                logits=logits
+            )
 
 class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
-    def __init__(self, model_name=MODEL_NAME, num_labels=8, lr=0.001, weight_decay=0.01, dropout=None):
+    def __init__(self, model_name=MODEL_NAME, num_labels=8, pack_size=8 lr=0.001, weight_decay=0.01, dropout=None):
         # model_name: 事前学習モデル
         # num_labels: ラベル数
+        # pack_size: まとめて入力する対話の数
         # lr: 学習率(特に指定なければAdamのデフォルト値を設定)
         # weight_decay: 重み減衰の強度(L2正則化のような役割)
         # dropout: 全結合層の前に適用するdropout率、デフォルトでNoneとしているがこの場合はconfig.hidden_dropout_probが適用される(0.1など)
@@ -214,22 +239,30 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         self.save_hyperparameters()
 
         # 事前学習モデルのロード
-        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, personalizer_dropout=dropout, classifier_dropout=dropout)
+        self.model = PersonalizedBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels, pack_size=pack_size, personalizer_dropout=dropout, classifier_dropout=dropout)
 
     # 学習データを受け取って損失を返すメソッド
     def training_step(self, batch):
-        output = self.model(**batch)
+        output = self.model(
+            input_ids=batch['input_ids'],
+            attention_mask=batch['attention_mask'],
+            token_type_ids=batch['token_type_ids']
+        )
         # 損失関数にCEではなくICFを用いる
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
-        loss = loss_func(output.logits, batch['labels'])
+        loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
         self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
     def validation_step(self, batch):
-        output = self.model(**batch)
+        output = self.model(
+            input_ids=batch['input_ids'],
+            attention_mask=batch['attention_mask'],
+            token_type_ids=batch['token_type_ids']
+        )
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
-        val_loss = loss_func(output.logits, batch['labels'])
+        val_loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
         self.log('val_loss', val_loss)
 
     # # テストデータを受け取って評価指標を計算
