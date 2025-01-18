@@ -42,8 +42,8 @@ cf = torch.tensor(class_frequency).cuda()
 ICFweight = 1 / cf
 ICFweight = ICFweight / torch.sum(ICFweight)
 
-def tokenize_data(filename):
-    # データセットの対話データをトークン化して返す関数
+def tokenize_pack(filename):
+    # データセットの対話パック(対話データの配列)をトークン化して返す関数
     dataset_for_loader = []
     # データセットから対話データを読み込む
     data = {}
@@ -52,28 +52,32 @@ def tokenize_data(filename):
 
     # 各対話をトークン化して追加
     if 'data' in data:
-        for talk in data['data']:
-            # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
-            t1 = []
-            t2 = []
-            for utter in talk['talk']:
-                if utter['type'] == 1:
-                    t1.append(utter['utter'])
-                if utter['type'] == 2:
-                    t2.append(utter['utter'])
-            text1 = '\n'.join(t1)
-            text2 = '\n'.join(t2)
-            # トークン化
+        for pack in data['data']:
+            text1, text2 = []
+            for talk in pack:
+                # 1発話目(受信者の発話)と2発話目(送信者の発話)を取り出す（複数続いたら改行で繋げる）
+                t1, t2 = []
+                for utter in talk['talk']:
+                    if utter['type'] == 1:
+                        t1.append(utter['utter'])
+                    if utter['type'] == 2:
+                        t2.append(utter['utter'])
+                text1.append('\n'.join(t1))
+                text2.append('\n'.join(t2))
+            # 1パック分の対話データをまとめてトークン化
             token=tokenizer(
                 text1, text2,
                 truncation=True,
                 max_length=MAX_LENGTH,
                 padding="max_length",
+                return_tensors="pt"
             )
             # ラベル付け
-            token['labels'] = talk['label']
+            labels = []
+            for talk in pack:
+                labels.append(talk['label'])
             # バリューをテンソル化して追加
-            token = { k: torch.tensor(v) for k, v in token.items() }
+            token['labels'] = torch.tensor(labels)
             dataset_for_loader.append(token)
     return dataset_for_loader
 
@@ -140,6 +144,8 @@ class PersonalizerAttention(nn.Module):
         return context_layer
 
 class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
+    # 同一人物に関する文章を受け取って個別化した分類タスクを行うモデル
+    # 入力(batch_size,pack_size,seq_len)、出力(batch_size,pack_size,num_labels)
     def __init__(self, config):
         super().__init__(config)
         # 分類クラス数
@@ -229,6 +235,8 @@ class PersonalizedBertForSequenceClassification(BertPreTrainedModel):
             )
 
 class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
+    # 同一の受信者対話データ(2発話)を受け取って個別化した感情分類タスク(受信者感情)を行うモデル
+    # 入力(batch_size,pack_size,seq_len)、出力(batch_size,pack_size,num_labels)
     def __init__(
             self,
             model_name=MODEL_NAME,
@@ -308,10 +316,11 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
             return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
         else:
             return optimizer
+
 def main():
-    # データセットから対話データをトークン化
-    dataset_train = tokenize_data('DatasetTrain.json')
-    dataset_val = tokenize_data('DatasetVal.json')
+    # データセットから対話パックをトークン化
+    dataset_train = tokenize_pack('DatasetTrain.json')
+    dataset_val = tokenize_pack('DatasetVal.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, batch_size=8, shuffle=True)
     dataloader_val = DataLoader(dataset_val, batch_size=256)
