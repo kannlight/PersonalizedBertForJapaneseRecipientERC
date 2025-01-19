@@ -285,16 +285,6 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         val_loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
         self.log('val_loss', val_loss)
 
-    # # テストデータを受け取って評価指標を計算
-    # def test_step(self, batch):
-    #     # テストデータのラベル
-    #     true_labels = batch.pop('labels')
-    #     # モデルが出力した分類スコアから、最大値となるクラスを取得
-    #     output =self.model(**batch)
-    #     predicted_labels = output.logits.argmax(-1)
-    #     # precision, recall, f1, データ数 をクラス毎、ミクロ、マクロ、加重平均で算出
-    #     self.log('test_report', classification_report(true_labels, predicted_labels, target_names=CATEGORIES))
-
     def on_train_batch_start(self, batch, batch_idx):
         # 学習率の変化を記録
         current_lr = self.trainer.optimizers[0].param_groups[0]['lr']
