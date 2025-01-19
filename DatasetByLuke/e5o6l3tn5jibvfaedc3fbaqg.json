@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "そんな感じー！\n鶏豚骨ベースに魚介とか入ってて見た目よりあっさりして美味しかった"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "結構こってりそうやけどあっさりなんね\nうまそう〜"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "あっさり濃厚って感じ！（コクがある？っていうんかな）\nずっと気になってて近くにできたから初めて行ったけどここもおすすめする！"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3lbyezlemb22v",
+            "label": [
+                0.9873338937759399,
+                0.0001511927112005651,
+                0.011337930336594582,
+                0.00029341047047637403,
+                0.00022419841843657196,
+                0.00011307084787404165,
+                0.00017629483772907406,
+                0.00036998774157837033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "あっさり濃厚って感じ！（コクがある？っていうんかな）\nずっと気になってて近くにできたから初めて行ったけどここもおすすめする！"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "なるほどね\n俺も新しい店どっか攻めよかな"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "開拓していこう！\n私もあと1軒横浜家系ラーメンもできたから明日行こうか悩んでる"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3lbyn5cqkws2q",
+            "label": [
+                0.0026028077118098736,
+                0.00021002202993258834,
+                0.9966465830802917,
+                0.00014885138079989702,
+                9.965134086087346e-05,
+                0.00011833889584522694,
+                8.266414079116657e-05,
+                9.102904732571915e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "開拓していこう！\n私もあと1軒横浜家系ラーメンもできたから明日行こうか悩んでる"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "流石激戦区やな...\nうちはそもそも探さなあかんわ\n行こう！"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "気付いたらそこらに出来てるんよね\n茨木までいったら罪悪感のないラーメン屋とかあるらしい\nGoogleマップでまた探してみようよ（）\n場所が！！わからん！！地図苦手"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3lbypnq4lns2q",
+            "label": [
+                0.006574198603630066,
+                0.019245531409978867,
+                0.9406729340553284,
+                0.031011022627353668,
+                0.00027891743229702115,
+                0.0014783141668885946,
+                0.0003448992210905999,
+                0.00039412363548763096
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "気付いたらそこらに出来てるんよね\n茨木までいったら罪悪感のないラーメン屋とかあるらしい\nGoogleマップでまた探してみようよ（）\n場所が！！わからん！！地図苦手"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "えーなー　アンテナ貼っとかなあかんな\n俺がよく行くラーメン屋も罪悪感ないって看板に書いてあるな\nナビしよか？笑"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "仕事の暇な時に新店舗検索してるだけよ笑\nおんなじ系列やったりすんのかな？\n右左前後ろでお願いしたい笑　方角で言われてもわからん！！"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3lbyrm5bxbc2q",
+            "label": [
+                0.004370799288153648,
+                0.004968170076608658,
+                0.984994113445282,
+                0.002440467942506075,
+                0.0006494674598798156,
+                0.0008309406111948192,
+                0.0014421993400901556,
+                0.00030377734219655395
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "めちゃめちゃ気になってて笑った\n大阪来た時に食べにおいでよ（方向正反対やけど）"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "魅力的な響きやわ\n行くかな"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "カレーも担々麺も好きやもんな\nちなみに駅近くにワインバーもある"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3l7ui66rs4z2d",
+            "label": [
+                0.9989824891090393,
+                5.850326851941645e-05,
+                0.00031858086003921926,
+                0.00026443213573656976,
+                5.626923302770592e-05,
+                7.910156273283064e-05,
+                7.527048728661612e-05,
+                0.00016531176515854895
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "追いラー油ストップ言うまで掛けてくれるしおもしろいで\nワインは普通に飲む量負けそう笑\nこの近くにもう一軒たぶんワインっぽいとこあるし比較的安価なフレンチもある"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "いくら丼みたいな制度やな\n一本半には負けるわ\nええ街やなぁ"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "初めて行ったとき嘘やろ？って笑ったもんなこのやり方\nつまみ食べながらなら正直いくらでも飲めそう\n隣の茨木とかも美味しい店多いしおすすめ！\niL CHIANTIも20分電車のればすぐ着くで"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3l7utjqvjyr2q",
+            "label": [
+                0.46402037143707275,
+                0.0009109326638281345,
+                0.5180267691612244,
+                0.011973675340414047,
+                0.0009561899350956082,
+                0.0009539725724607706,
+                0.0009754401980899274,
+                0.0021826219744980335
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "昨日帰ってきて風呂入ってからの記憶が"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "楽しそうやったで"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "いつも以上に…？\nアグライアに行ったのはかろうじて覚えてる！"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3kxjphekpuw2w",
+            "label": [
+                0.9972150325775146,
+                0.00024029934138525277,
+                0.0008595742983743548,
+                0.0010796072892844677,
+                6.228176061995327e-05,
+                0.00019055363372899592,
+                0.00010760183067759499,
+                0.00024503975873813033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "いつも以上に…？\nアグライアに行ったのはかろうじて覚えてる！"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "いつも以上に楽しそうやったで\nルーレットは...？"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "普段もだいぶ楽しんでるんやけどまじか\n行ったっけ……"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3kxjpuv5qda2b",
+            "label": [
+                0.1373404711484909,
+                0.08930041640996933,
+                0.022271621972322464,
+                0.4966537058353424,
+                0.0016979763749986887,
+                0.24083106219768524,
+                0.008742162957787514,
+                0.0031625786796212196
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "普段もだいぶ楽しんでるんやけどまじか\n行ったっけ……"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "それならよかった\nマジ？最後寝てたのは覚えてない？"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "お酒しばらく控えよ…\nうそや　ほんまに？　そもそも何時に寝たん…"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3kxjqjeu6qa2r",
+            "label": [
+                0.0007329572108574212,
+                0.9575235247612,
+                0.0004037734470330179,
+                0.003845804836601019,
+                0.002312388736754656,
+                0.02850310504436493,
+                0.0065353806130588055,
+                0.0001430351403541863
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "お酒しばらく控えよ…\nうそや　ほんまに？　そもそも何時に寝たん…"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "おもろかったからもっと飲もう笑\n2時くらい"
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "そんなになん笑　なんかやってそうでこわいんやけど笑\n日付回った記憶がそもそもないな…"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3kxjwj3myqt2s",
+            "label": [
+                0.00569654256105423,
+                0.0033496981486678123,
+                0.0016976529732346535,
+                0.01444031298160553,
+                0.00027278836932964623,
+                0.973588764667511,
+                0.0006929892697371542,
+                0.0002612260286696255
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 1,
+                    "utter": "そんなになん笑　なんかやってそうでこわいんやけど笑\n日付回った記憶がそもそもないな…"
+                },
+                {
+                    "author": "did:plc:pzni4lkjhubjkf4bpdldmvca",
+                    "type": 2,
+                    "utter": "特に何もしてなかったで、たぶん\nなるほどね..."
+                },
+                {
+                    "author": "did:plc:e5o6l3tn5jibvfaedc3fbaqg",
+                    "type": 3,
+                    "utter": "たぶん…なんもなくてそんなおもろいことないやろうし絶対なんかやったやつ…\nCFさっきみたけどちゃんとルレ行ってたらしいという事実確認は取れた（）"
+                }
+            ],
+            "uri": "at://did:plc:e5o6l3tn5jibvfaedc3fbaqg/app.bsky.feed.post/3kxk7dericd2s",
+            "label": [
+                0.7920403480529785,
+                0.05620148032903671,
+                0.023671474307775497,
+                0.01407866831868887,
+                0.004914802499115467,
+                0.05625990778207779,
+                0.035039857029914856,
+                0.017793485894799232
+            ]
+        }
+    ]
+}

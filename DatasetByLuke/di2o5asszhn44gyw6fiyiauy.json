@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "オレも来たよ！"
+                },
+                {
+                    "author": "did:plc:yxjjr3sfiauyfthf5pp7tdzv",
+                    "type": 2,
+                    "utter": "よォ、来たな"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "お待たせ"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbmgxt4bok2e",
+            "label": [
+                0.9973428845405579,
+                0.0002850797609426081,
+                0.0018581257900223136,
+                0.00013007863890379667,
+                7.32608386897482e-05,
+                7.906313840067014e-05,
+                0.0001229193148901686,
+                0.00010870249388972297
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "お待たせ"
+                },
+                {
+                    "author": "did:plc:yxjjr3sfiauyfthf5pp7tdzv",
+                    "type": 2,
+                    "utter": "そんな待ってねーよ。ここでもヨロシクするから\n料理できるのか。後で色いろ教えてよ"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "ありがとう、嬉しい\n\nうん！人並みにね、オレが教えられる範囲でね？"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbmj4pac3s2e",
+            "label": [
+                0.9996391534805298,
+                4.627578891813755e-05,
+                9.679579670773819e-05,
+                5.658231020788662e-05,
+                2.6598063413985074e-05,
+                4.324548353906721e-05,
+                4.9935042625293136e-05,
+                4.1449868149356917e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "ありがとう、嬉しい\n\nうん！人並みにね、オレが教えられる範囲でね？"
+                },
+                {
+                    "author": "did:plc:yxjjr3sfiauyfthf5pp7tdzv",
+                    "type": 2,
+                    "utter": "いいよ、それで。ちなみに得意料理はなんだ？"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "OK\n\n得意料理？煮物かな"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbnr2ntnc22c",
+            "label": [
+                0.9653932452201843,
+                0.00043842248851433396,
+                0.03283369168639183,
+                0.00023122670245356858,
+                0.0001462930958950892,
+                0.0003066442150156945,
+                0.0002814212639350444,
+                0.0003690646553877741
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "OK\n\n得意料理？煮物かな"
+                },
+                {
+                    "author": "did:plc:yxjjr3sfiauyfthf5pp7tdzv",
+                    "type": 2,
+                    "utter": "肉じゃがとかか？俺肉類好きだよ\n出汁とかむずかしそーだな"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "今度作ろうか？\n\nいや、粉末だしとかあるから"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbpcqa5msk2v",
+            "label": [
+                0.0017641845624893904,
+                0.0002659233578015119,
+                0.997527539730072,
+                0.00010988573194481432,
+                6.279661465669051e-05,
+                0.00012783525744453073,
+                7.1841808676254e-05,
+                7.001328049227595e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "今度作ろうか？\n\nいや、粉末だしとかあるから"
+                },
+                {
+                    "author": "did:plc:yxjjr3sfiauyfthf5pp7tdzv",
+                    "type": 2,
+                    "utter": "作ってくれ。あ、そーなのか？それは手間省けるからいいな\nほら、出汁から作って具を煮込めるんだろ？時間かけてやんなきゃなんねーらしーし、\nそれ出来るのって才能じゃねえの"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "ベース弾くから、手先のトレーニング的な感じで始めたからなぁ\n\nまっかせて！"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbr7wqsqjc2y",
+            "label": [
+                0.160736545920372,
+                0.5892959237098694,
+                0.16916096210479736,
+                0.0033093600068241358,
+                0.0013804136542603374,
+                0.06180200353264809,
+                0.011479496024549007,
+                0.002835215302184224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "こんなオレでも良かったら仲良くなれたら嬉しいかな\n\n(仕様書確認済)"
+                },
+                {
+                    "author": "did:plc:w6ny53rcckfjmcbrsfewmbhh",
+                    "type": 2,
+                    "utter": "えへへ、もちろんですよっ。\n俺も、仲良くお話して貰いたいですし！(にぱ、)\n\nそういえば自己紹介がまだでしたね！俺、タツキですっ。え〜っと、、他に何か言うこと、、(ううむ、、)"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "ありがとう！\nあ、敬語じゃなくて大丈夫だからね？\n\nふふ、ゆっくりで大丈夫だよ"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbpcojqymc2v",
+            "label": [
+                0.9995138645172119,
+                6.354035576805472e-05,
+                0.0001913843589136377,
+                5.511317795026116e-05,
+                2.1508700228878297e-05,
+                5.4396030463976786e-05,
+                5.249505920801312e-05,
+                4.767719656229019e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "ありがとう！\nあ、敬語じゃなくて大丈夫だからね？\n\nふふ、ゆっくりで大丈夫だよ"
+                },
+                {
+                    "author": "did:plc:w6ny53rcckfjmcbrsfewmbhh",
+                    "type": 2,
+                    "utter": "ししっ、どーいたしましてですっ！\nほえ、そうですかっ？じゃあ敬語使わないっ！(にぱ、)\n\nえへへ、ありがとっ！"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "うんうん、それでいこ？\n\nそうだ、タツキ、くんでいいのかな？違ったらごめんね？\n\nフォローいいかな？"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbxnichmgk2o",
+            "label": [
+                0.017371948808431625,
+                0.000600211089476943,
+                0.9808789491653442,
+                0.00018337903020437807,
+                0.00011112268839497119,
+                0.0004512636223807931,
+                0.00019081789650954306,
+                0.00021222836221568286
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "うんうん、それでいこ？\n\nそうだ、タツキ、くんでいいのかな？違ったらごめんね？\n\nフォローいいかな？"
+                },
+                {
+                    "author": "did:plc:w6ny53rcckfjmcbrsfewmbhh",
+                    "type": 2,
+                    "utter": "ししっ、お互い気楽に、的な感じっ？\n\nん！いーよ〜っ！(ぐっ、)\n\nいいよ〜っ。俺からお先に繋げとくね~ぃ！"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "それが1番じゃない？肩肘張ったら疲れちゃうし\n\nおっけー\n\nありがとう!!返しとくね"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbxnmwhkac2o",
+            "label": [
+                0.9982641339302063,
+                8.16092942841351e-05,
+                0.0012444911990314722,
+                8.059154788497835e-05,
+                6.427285552490503e-05,
+                6.594209116883576e-05,
+                9.756871440913528e-05,
+                0.00010135579941561446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 1,
+                    "utter": "それが1番じゃない？肩肘張ったら疲れちゃうし\n\nおっけー\n\nありがとう!!返しとくね"
+                },
+                {
+                    "author": "did:plc:w6ny53rcckfjmcbrsfewmbhh",
+                    "type": 2,
+                    "utter": "あははっ。確かに〜！日常生きてくだけでも気ィ張って頑張ってるのに、お話する時も張ってたら、疲労困憊っ。\n\nししっ、こちらこそ〜！ありがとねぃっ。"
+                },
+                {
+                    "author": "did:plc:di2o5asszhn44gyw6fiyiauy",
+                    "type": 3,
+                    "utter": "そうだよ、力を抜ける場所は無いとね \nだから楽に緩くいこ\n\n改めてよろしくね"
+                }
+            ],
+            "uri": "at://did:plc:di2o5asszhn44gyw6fiyiauy/app.bsky.feed.post/3lbxnqstzac2o",
+            "label": [
+                0.01417832262814045,
+                0.000546129303984344,
+                0.9843175411224365,
+                0.00017179673886857927,
+                0.00011038623779313639,
+                0.00024344970006495714,
+                0.0002148948551621288,
+                0.00021750408632215112
+            ]
+        }
+    ]
+}

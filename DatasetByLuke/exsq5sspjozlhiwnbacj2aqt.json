@@ -1,0 +1,279 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "構築ってどうやんの？\n\nって、きっと馬鹿な質問なんだろうな。\n\n他のデッキが回せないのなら、相剣をちゃんと使えるようになりたい。\n約束は守れなかったけど、ダイヤまではやっぱり行きたい。\n\n何をすれば私は強くなれるのだろうか…"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "構築はむずい。\n\n大体の人は他の人の構築を参考にしながら組んでる。"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "難しいよね。\nそうだよね…"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3lesymd6ilc2g",
+            "label": [
+                0.05709836632013321,
+                0.07029372453689575,
+                0.0027016429230570793,
+                0.004113394767045975,
+                0.000611252908129245,
+                0.860994279384613,
+                0.002937789773568511,
+                0.0012496142880991101
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "難しいよね。\nそうだよね…"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "だから最初は真似事でだいじょぶよ！\n1から組むって人は本当に一部"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "みおりー\nたすけて"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3letjf4ugrk2k",
+            "label": [
+                0.002231614664196968,
+                0.9685967564582825,
+                0.02293901890516281,
+                0.000432796950917691,
+                0.00017494916392024606,
+                0.004626004956662655,
+                0.0007920431671664119,
+                0.00020681277965195477
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "みおりー\nたすけて"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "どした？"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "相剣センチュリオンを弄ろうと思ってるんだけど、何をどうしていいか困ってる。"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3letohdtkgs2j",
+            "label": [
+                0.04938926175236702,
+                0.5987266302108765,
+                0.022853882983326912,
+                0.001327419769950211,
+                0.0009096673456951976,
+                0.3228074908256531,
+                0.002993156434968114,
+                0.0009924982441589236
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "相剣センチュリオンを弄ろうと思ってるんだけど、何をどうしていいか困ってる。"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "ほうほう。どうしていじろうと思ったん？"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "1番は、センチュリオン展開を2回出来たほうがいいのかな？思うことがあったから。"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "きいてくれてありがとう。\nセンチュリオンの出張パーツ2つずつ採用してみるね！"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3letpfa475c2j",
+            "label": [
+                0.46401965618133545,
+                0.0012577163288369775,
+                0.5324379205703735,
+                0.0005180512671358883,
+                0.00030843689455650747,
+                0.0004259334527887404,
+                0.00044009884004481137,
+                0.0005921259871684015
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "キスキルとリイラが行ったり来たりしてる！！\n訳わかんない。\nみんな、よくこんなん回せるよな……"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "あれは割と現代遊戯王らしい動きするから難しいよ。"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "現代遊戯王か…\n難しいね。"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3lbhi6bwso22h",
+            "label": [
+                0.21081173419952393,
+                0.011914573609828949,
+                0.025200756266713142,
+                0.007048650179058313,
+                0.00043528343667276204,
+                0.7410016059875488,
+                0.0018220144556835294,
+                0.001765332417562604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "現代遊戯王か…\n難しいね。"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "ワイでよけりゃ教えるわよ"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "ありがと。\n迷惑掛けるからやめとく！\n遠慮とかじゃなく、ほんとにヤバいらしい。"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3lbhjhqxrl22h",
+            "label": [
+                0.0068804542534053326,
+                0.006542660761624575,
+                0.0013718707486987114,
+                0.03347517549991608,
+                0.0005035381764173508,
+                0.949539840221405,
+                0.0010612037731334567,
+                0.0006253484752960503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "ありがと。\n迷惑掛けるからやめとく！\n遠慮とかじゃなく、ほんとにヤバいらしい。"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "でも思い詰めながらやるんじゃ勿体無いっしょ。\n誰かに強制されてるわけではないんだし、やりたいことやろうぜ😉"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "うん、イビルツインはやりたい。\nでも、せっかく友達になったみおりーは失いたくない。\nセンチュリオンを教えてくれたFFさんはいなくなった…"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3lbhkyzr3ec2h",
+            "label": [
+                0.00022789978538639843,
+                0.9990465044975281,
+                0.00014855398330837488,
+                0.000101590616395697,
+                5.566621621255763e-05,
+                0.00021916448895353824,
+                0.0001701382570900023,
+                3.0501581932185218e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "うん、イビルツインはやりたい。\nでも、せっかく友達になったみおりーは失いたくない。\nセンチュリオンを教えてくれたFFさんはいなくなった…"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "そんなんでさよなら〜ってするほど薄情ではないンゴよ。\nもう完全に教えてもらえん感じ？"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "愚痴聞いてもらってるだけで十分助かってるよ。\n師匠には卒業だって言われちゃったし、FFさんには分からないところが分からない、遊戯王が嫌いになったって言われて垢消されたから、ちとトラウマ。"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3lbiluzbnqk2b",
+            "label": [
+                0.00023976321972440928,
+                0.9979531764984131,
+                0.0001445387169951573,
+                0.00014516268856823444,
+                0.00011753716535167769,
+                0.000958060089033097,
+                0.000401037948904559,
+                4.083434760104865e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 1,
+                    "utter": "愚痴聞いてもらってるだけで十分助かってるよ。\n師匠には卒業だって言われちゃったし、FFさんには分からないところが分からない、遊戯王が嫌いになったって言われて垢消されたから、ちとトラウマ。"
+                },
+                {
+                    "author": "did:plc:fwg5u7cu3gpwa5jlyemwv5aq",
+                    "type": 2,
+                    "utter": "なるほどなぁ。\nまあ前みたいにルーム作って相手してフィードバックするくらいなら全然やるし、また誘って💪"
+                },
+                {
+                    "author": "did:plc:exsq5sspjozlhiwnbacj2aqt",
+                    "type": 3,
+                    "utter": "ありがとー！\nま、私がポンコツうんこって話なのよ（笑）\n立派なうんこになりてぇー！💩"
+                }
+            ],
+            "uri": "at://did:plc:exsq5sspjozlhiwnbacj2aqt/app.bsky.feed.post/3lbj2dhouws2c",
+            "label": [
+                0.5332886576652527,
+                0.0175519660115242,
+                0.44298896193504333,
+                0.0009541839826852083,
+                0.00039169139927253127,
+                0.0015926449559628963,
+                0.0024201932828873396,
+                0.0008116587996482849
+            ]
+        }
+    ]
+}

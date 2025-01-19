@@ -1,0 +1,339 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "その人、私のFCのマスターさんですｗ"
+                },
+                {
+                    "author": "did:plc:2rrly7b6csvz5cqfvde5y7ud",
+                    "type": 2,
+                    "utter": "まあ！　素敵な方からお水をいただいてしまいました……！　ありがたカパカパ🥒"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "体調を崩す、なんか同じ水を狂おしく求めてしまう、など変化が御座いましたらご相談下さい・・・"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3ldygptsxqk2z",
+            "label": [
+                0.0003390260098967701,
+                0.00139183783903718,
+                0.9955572485923767,
+                0.00021565871429629624,
+                9.573868737788871e-05,
+                0.0020931833423674107,
+                0.00016549199062865227,
+                0.00014197731798049062
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "体調を崩す、なんか同じ水を狂おしく求めてしまう、など変化が御座いましたらご相談下さい・・・"
+                },
+                {
+                    "author": "did:plc:3u2mdov7mz7pauot2w44axpi",
+                    "type": 2,
+                    "utter": "戦闘苦手で北風に打ち震えるカッパのようなささみさんが、わたしの口八丁に引っかかって下限ヤミセカに申請してくださって、とてもとてもうれしかったです！ありがとうありがとう！報酬のきゅうりです🫴🥒🥒🥒🥒🥒🥒\n\nこのイベントはギミック踏んで床に転がってもごめんて思わなくてよいですし、転がってもワイプしてもこのステージもう一回あそべるドン！くらいのノリで行けるので、じぶんのミスがみんなにご迷惑を…って思ってる戦闘苦手勢にこそ、ベテランでもふつうに床に転がってます、ヒーラーは限界突破のヒリヒリ感を楽しめます、普段よくわからず引っかかってるとこ質問できます！げーむは自由です！感を体感してほしくってェ…🥒"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "口八丁のくだり以外全く同意ですw"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3ldz3u2pjdc2z",
+            "label": [
+                0.9981581568717957,
+                3.847394327749498e-05,
+                0.0005264818901196122,
+                0.00044354182318784297,
+                0.00018062021990772337,
+                9.052339737536386e-05,
+                0.00016905367374420166,
+                0.0003932325344067067
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "私はナイトメアー・ビフォア・クリスマス、ですかね。"
+                },
+                {
+                    "author": "did:plc:oidpmy3ium7cho7fguxgscts",
+                    "type": 2,
+                    "utter": "ダイ・ハード2！"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "日付以外クリ要素無いんですが、これは…"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3ldx3k5ycvk2n",
+            "label": [
+                0.0016347365453839302,
+                0.9855114221572876,
+                0.00017089229368139058,
+                0.002837144071236253,
+                0.00020305208454374224,
+                0.00833727978169918,
+                0.0012441129656508565,
+                6.134107388788834e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "いぬよ…世界を救うのです…"
+                },
+                {
+                    "author": "did:plc:3u2mdov7mz7pauot2w44axpi",
+                    "type": 2,
+                    "utter": "クリスタリウムのルームメイトは思うように進めって言ってくれてるよ"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "誰よその女！！！"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3lfbtny6zas2j",
+            "label": [
+                0.0007534181349910796,
+                0.00020816999312955886,
+                0.0004861991328652948,
+                0.9965603947639465,
+                0.000702685967553407,
+                0.000617725308984518,
+                0.0005216500139795244,
+                0.00014984158042352647
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "誰よその女！！！"
+                },
+                {
+                    "author": "did:plc:3u2mdov7mz7pauot2w44axpi",
+                    "type": 2,
+                    "utter": "大吟醸ものの年季入った幽霊よ"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "吟醸具合は米の研磨具合なので解釈違いですね、その女。"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3lfc52ufkis2j",
+            "label": [
+                0.2556596100330353,
+                0.028690004721283913,
+                0.004866872914135456,
+                0.32525843381881714,
+                0.004287764895707369,
+                0.047560978680849075,
+                0.3281641900539398,
+                0.005512192379683256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "吟醸具合は米の研磨具合なので解釈違いですね、その女。"
+                },
+                {
+                    "author": "did:plc:3u2mdov7mz7pauot2w44axpi",
+                    "type": 2,
+                    "utter": "ところでいいかんじのルームシューズしりません？いまルームシューズ難民。"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "極寒ではないので無印とかのモコッとしてるけど洗える奴を複数買ってローテしてますね。足首まで覆うのは脱ぎ履きがめんどいので普通にスリッパ形態の奴。"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3lfca767qyk2j",
+            "label": [
+                0.3695659339427948,
+                0.000833784812130034,
+                0.6225253939628601,
+                0.000842905486933887,
+                0.0005770905409008265,
+                0.0020521876867860556,
+                0.0012719412334263325,
+                0.002330748364329338
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "個人的に、あめさんは十二分に待ってると思うわ。"
+                },
+                {
+                    "author": "did:plc:oidpmy3ium7cho7fguxgscts",
+                    "type": 2,
+                    "utter": "待つが持つに見えたし\nじゅうにぶんにがじゅうにふんて読んだし\n\nわしはもうだめじゃ"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "あと2カ月ちょっと頑張って。"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3le7gyr4hpk2z",
+            "label": [
+                0.0003096618747804314,
+                0.0002671255206223577,
+                0.999015212059021,
+                0.0001229280896950513,
+                6.544606731040403e-05,
+                9.512715769233182e-05,
+                6.743570702383295e-05,
+                5.698919267160818e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "半年なら不要だよ。"
+                },
+                {
+                    "author": "did:plc:oidpmy3ium7cho7fguxgscts",
+                    "type": 2,
+                    "utter": "前のやつ7年くらい使ってたけどグリス塗り直しなんてしたことない。"
+                },
+                {
+                    "author": "did:plc:oidpmy3ium7cho7fguxgscts",
+                    "type": 2,
+                    "utter": "中の掃除もそんな高頻度でしなかった。\n中を触って静電気やらなにやらで壊す方がこわいとか思っちゃうｗ\n\n（大昔から自作もBTOで中のパーツ替えたりもしてきてますけど、それでも極力中は触りたくない）"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "あめさんはPCより自分の体のチェックしてぇ～"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3ldkijy6bts2d",
+            "label": [
+                0.00032493434264324605,
+                0.000839880493003875,
+                0.9978951215744019,
+                0.00023075795616023242,
+                0.00013215751096140593,
+                0.00034399464493617415,
+                0.00013805706112179905,
+                9.510654490441084e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "君達は何も判っていない。重要なのはそれじゃない。"
+                },
+                {
+                    "author": "did:plc:guoamouubagh5s4hsiemkzj2",
+                    "type": 2,
+                    "utter": "最初からきれいなあしゅんなんていなかったんだよ…"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "嘘だっ！！！！（ナタを構えながら"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3lczkjcdbcc2z",
+            "label": [
+                0.016430243849754333,
+                0.15861324965953827,
+                0.007492410019040108,
+                0.6605121493339539,
+                0.10265109688043594,
+                0.0306573323905468,
+                0.020946063101291656,
+                0.0026974244974553585
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "いーや、早まってないね！！！"
+                },
+                {
+                    "author": "did:plc:hicp42d26aetgiswdfr5xcpm",
+                    "type": 2,
+                    "utter": "じゃあ…ナタをしまって？🥺🥺🥺"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "ｳｯｳｯ、ぼくはただ、きれいなあしゅんを取り戻したくて…"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3lczlko6dvs2z",
+            "label": [
+                0.0007307487539947033,
+                0.9966025352478027,
+                0.0015984128694981337,
+                0.00011922935664188117,
+                7.743559399386868e-05,
+                0.00042496182140894234,
+                0.0004011863493360579,
+                4.547148637357168e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 1,
+                    "utter": "突き上げたこの手に握りしめた誓いが光になってしまうな。"
+                },
+                {
+                    "author": "did:plc:3u2mdov7mz7pauot2w44axpi",
+                    "type": 2,
+                    "utter": "願い事は全部この手で叶えるわよっ"
+                },
+                {
+                    "author": "did:plc:w3bkbypz4zggsfxjwtn3ffh2",
+                    "type": 3,
+                    "utter": "そんな前向きな話をしてないなって。"
+                }
+            ],
+            "uri": "at://did:plc:w3bkbypz4zggsfxjwtn3ffh2/app.bsky.feed.post/3lcmw6sukhc2u",
+            "label": [
+                0.025157621130347252,
+                0.6021973490715027,
+                0.0014596697874367237,
+                0.07201384752988815,
+                0.002087208442389965,
+                0.11243268847465515,
+                0.18321825563907623,
+                0.0014333105646073818
+            ]
+        }
+    ]
+}

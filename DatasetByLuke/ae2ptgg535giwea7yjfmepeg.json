@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "（家族で待ち合わせて初詣の予定で時間前に神社に着いた）"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "親父、早かったな。\nお母さんはまだ来ねーのか？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "し、ショオトォォォ！\nちゃんと来たな（歓喜の表情を見せて）"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3lenyfz2itk2j",
+            "label": [
+                0.9995260238647461,
+                5.344772944226861e-05,
+                0.00010655840742401779,
+                0.00015390793851111084,
+                3.071909668506123e-05,
+                3.688921788125299e-05,
+                5.050388426752761e-05,
+                4.199499380774796e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "二度寝だと？"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "する前にバタバタしてたな…めりくりいぶだ、お父さん"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "お。イブだな。\n俺は今日仕事が忙しくてクリスマス用の飯はないが。"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3le26duc64c2o",
+            "label": [
+                0.2711874842643738,
+                0.6995675563812256,
+                0.006489005405455828,
+                0.009194888174533844,
+                0.00035026491968892515,
+                0.007607661187648773,
+                0.004606866743415594,
+                0.000996321439743042
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "お。イブだな。\n俺は今日仕事が忙しくてクリスマス用の飯はないが。"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "流石No.1ヒーロー、忙しそうだな……休憩はしろよォ(炎印の缶コーヒーぽいと投げて)"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "ケーキは明日だな\nお前は冬美達とでもケーキを食べていろ\n（缶コーヒー受け取り）"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3le26v3zdwk2o",
+            "label": [
+                0.04345766082406044,
+                0.012952456250786781,
+                0.933508038520813,
+                0.0009259867365472019,
+                0.002360978163778782,
+                0.002805507043376565,
+                0.0028254620265215635,
+                0.0011639713775366545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "（取り敢えず無言で頭ぽんぽんした）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "……、ガキ扱いしてンな(一瞬受け入れるも頭を振って払い)"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "ガキ扱いなど…（と言いながら思わず己の手を見つめて）"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3ldikpuq6vc24",
+            "label": [
+                0.02928381972014904,
+                0.6957915425300598,
+                0.0013631785986945033,
+                0.005668360274285078,
+                0.02550519071519375,
+                0.07256656885147095,
+                0.16726256906986237,
+                0.0025587803684175014
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "これだから年寄りは（rtされた人←）"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "手が滑ったって言っただろ。\n君そんなに私と変わらない癖に（はわわわわわわ）"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "あ\"?貴様は俺より十は年上の癖にあつかましい"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3ldbjguuoq22t",
+            "label": [
+                0.009195406921207905,
+                0.024495162069797516,
+                0.003481860039755702,
+                0.11331530660390854,
+                0.6744613647460938,
+                0.013928096741437912,
+                0.15808148682117462,
+                0.0030413069762289524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "あ\"?貴様は俺より十は年上の癖にあつかましい"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "え？そう言うなら年上を敬ってくれても良いんだぜ？（親指グッ）"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "貴様を敬うとか片腹痛いわ！"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3ldbjls2hu22t",
+            "label": [
+                0.0034655132330954075,
+                0.059110913425683975,
+                0.0032267961651086807,
+                0.006765680853277445,
+                0.7055768966674805,
+                0.012829403392970562,
+                0.20717531442642212,
+                0.0018494648393243551
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "貴様を敬うとか片腹痛いわ！"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "…………正露丸あげようか？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "それ前にも聞いたな"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3ldbjyfwuvs2t",
+            "label": [
+                0.4848942160606384,
+                0.0011854184558615088,
+                0.01952008716762066,
+                0.4849344789981842,
+                0.000597626029048115,
+                0.0032325093634426594,
+                0.0033082652371376753,
+                0.002327461028471589
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "それ前にも聞いたな"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "え？私の前に言った事ちゃんと覚えてたの？\n私を好きって事で良いよね？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "あ\"!?\n何故そうなった！？\n灼くか"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3ldbk4l4hys2t",
+            "label": [
+                0.0006134402938187122,
+                0.0003742707776837051,
+                0.0007302158628590405,
+                0.9975582361221313,
+                0.00021827938326168805,
+                0.00023914432676974684,
+                0.0001663127331994474,
+                0.00010011244012275711
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "大声出すな！世間様は真夜中だぞ！"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "君の方が絶対声デカいよね！？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "貴様は態度がデカいだろ"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3lcddm3ol7k25",
+            "label": [
+                0.0034129349514842033,
+                0.004229240585118532,
+                0.0035037132911384106,
+                0.007616180460900068,
+                0.9565320611000061,
+                0.004612300079315901,
+                0.01846366748213768,
+                0.001629873993806541
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "貴様は態度がデカいだろ"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "わぁ、酷い言われよう"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "貴様にはそれくらい言っても問題ない"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3lcddv5jvr225",
+            "label": [
+                0.005117365624755621,
+                0.010951186530292034,
+                0.0029405017849057913,
+                0.0033911881037056446,
+                0.9050023555755615,
+                0.011010490357875824,
+                0.058139294385910034,
+                0.0034476497676223516
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "貴様にはそれくらい言っても問題ない"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "まあ其処は私と君との仲だしね（親指グッ）"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "oO(…それは間違いない）（仏頂面）"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3lcde6qpdqs25",
+            "label": [
+                0.0006307342555373907,
+                0.9964963793754578,
+                0.00017366843530908227,
+                0.0001728945499053225,
+                8.446005813311785e-05,
+                0.0013170841848477721,
+                0.0010842835763469338,
+                4.0562157664680853e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 1,
+                    "utter": "oO(…それは間違いない）（仏頂面）"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "HAHAHA!私達仲良し！認めたね！"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 3,
+                    "utter": "…取り敢えず五月蝿いから灼くか"
+                }
+            ],
+            "uri": "at://did:plc:ae2ptgg535giwea7yjfmepeg/app.bsky.feed.post/3lcdenen2wk25",
+            "label": [
+                0.004327741451561451,
+                0.002646686276420951,
+                0.992169201374054,
+                9.970653627533466e-05,
+                6.542594928760082e-05,
+                0.0003179055347573012,
+                0.000277338462183252,
+                9.597870666766539e-05
+            ]
+        }
+    ]
+}

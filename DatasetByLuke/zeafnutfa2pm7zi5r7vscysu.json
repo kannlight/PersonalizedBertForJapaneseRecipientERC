@@ -1,0 +1,339 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "ばちこりが思ったより雑魚かった"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "休むならここかなって"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "今日出ないのは勿体なかったぞ"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lbyevwryes2r",
+            "label": [
+                0.0004758837167173624,
+                0.9983564019203186,
+                0.00022017369337845594,
+                0.00015377932868432254,
+                0.00015289403381757438,
+                0.0003046492056455463,
+                0.0002862097171600908,
+                4.995712879463099e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "今日出ないのは勿体なかったぞ"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "まじか"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "映画見るだけだった"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lbyfk3ctik2r",
+            "label": [
+                0.9630624651908875,
+                0.018822895362973213,
+                0.0064431107603013515,
+                0.005659983027726412,
+                0.00015844270819798112,
+                0.0021463490556925535,
+                0.003011713270097971,
+                0.0006951061659492552
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "映画見るだけだった"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "そういや今回その回じゃん\nまあラーメン美味かったしいいか"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "まぁあと一回どこで休むか考えとこうぜ"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lbykwdbte225",
+            "label": [
+                0.0019110428402200341,
+                0.0002518656838219613,
+                0.9974007606506348,
+                8.633857942186296e-05,
+                6.326365109998733e-05,
+                0.00013561129162553698,
+                8.27058611321263e-05,
+                6.83135658618994e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "なんで"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "最近なんかしたっけ"
+                },
+                {
+                    "author": "did:plc:lzvdsrn3jtxrabm2wulwakoc",
+                    "type": 2,
+                    "utter": "今度あった時話すわ"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "生殺しマジか"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lddtxt4dok27",
+            "label": [
+                0.003852751338854432,
+                0.1521475911140442,
+                0.0018776943907141685,
+                0.028837183490395546,
+                0.05540405958890915,
+                0.29039818048477173,
+                0.4658742845058441,
+                0.0016082535730674863
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "生殺しマジか"
+                },
+                {
+                    "author": "did:plc:lzvdsrn3jtxrabm2wulwakoc",
+                    "type": 2,
+                    "utter": "ゆのくんに嫌われてるの伝えたの結婚やってない？"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "伝えてないけどwwwww"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lddu3h5vo227",
+            "label": [
+                0.9987571239471436,
+                0.00012900122965220362,
+                0.00021702722006011754,
+                0.00044292406528256834,
+                4.645360240829177e-05,
+                0.00018095262930728495,
+                0.00011767965042963624,
+                0.00010886650125030428
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "伝えてないけどwwwww"
+                },
+                {
+                    "author": "did:plc:lzvdsrn3jtxrabm2wulwakoc",
+                    "type": 2,
+                    "utter": "え、ゆのくん言ってたけど"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "そもそもおれゆのくんと喋ってないし言ったんだとしたらあるくんだろうな\nそれか空リプで気づいたか"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lddu7zb53k27",
+            "label": [
+                0.7767472267150879,
+                0.016839172691106796,
+                0.11426785588264465,
+                0.03626406565308571,
+                0.002345855114981532,
+                0.02770709991455078,
+                0.012724870815873146,
+                0.013103928416967392
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "そもそもおれゆのくんと喋ってないし言ったんだとしたらあるくんだろうな\nそれか空リプで気づいたか"
+                },
+                {
+                    "author": "did:plc:lzvdsrn3jtxrabm2wulwakoc",
+                    "type": 2,
+                    "utter": "あー多分あるくん経由だな\nこりんから聞いたって時化け物すぎでビビった"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "こないだ飲んだ時に合宿の話になってあるくんには言っちゃった\nあいつ口軽かったか〜"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lddv4pcdfk27",
+            "label": [
+                0.0272726658731699,
+                0.7743925452232361,
+                0.00321018579415977,
+                0.031111449003219604,
+                0.0009204623638652265,
+                0.1572587639093399,
+                0.005049639847129583,
+                0.0007842343184165657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "マチアプは自分のためだろ"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "そう思うことにするわ"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "逆に誰のためだと思ってたの？"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lar2znidtc2f",
+            "label": [
+                0.007477941922843456,
+                0.014221555553376675,
+                0.0033991856034845114,
+                0.2227991670370102,
+                0.4166976511478424,
+                0.009496746584773064,
+                0.3231501877307892,
+                0.0027575974818319082
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "逆に誰のためだと思ってたの？"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "普通に相手のためじゃないの？\n自分だけのために使わない、即ち相手のために使うもんだと思ってたけど"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "あーそういうことね\n人のためってのは自分も含んだニュアンスなのね\nてっきり自分含まれてないと思ってた"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lar4h3k5wk2f",
+            "label": [
+                0.0013113640015944839,
+                0.0003275334893260151,
+                0.0007050277781672776,
+                0.9968385696411133,
+                0.00022956723114475608,
+                0.00017031311290338635,
+                0.0002286870585521683,
+                0.00018889628699980676
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "あーそういうことね\n人のためってのは自分も含んだニュアンスなのね\nてっきり自分含まれてないと思ってた"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "自分に利がないのに金使うわけないよ\nその前提が抜けてたのはすまんこ"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "まんこって言葉は汚いから使わない方が良いよ"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lar4of7xxs2f",
+            "label": [
+                0.004071495495736599,
+                0.041483499109745026,
+                0.003735676407814026,
+                0.001444689347408712,
+                0.0027387882582843304,
+                0.08122751861810684,
+                0.8636631965637207,
+                0.0016350876539945602
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 1,
+                    "utter": "まんこって言葉は汚いから使わない方が良いよ"
+                },
+                {
+                    "author": "did:plc:6k5j37grtcalnowhqjnzzj3r",
+                    "type": 2,
+                    "utter": "確かに\n女の一部だしな"
+                },
+                {
+                    "author": "did:plc:zeafnutfa2pm7zi5r7vscysu",
+                    "type": 3,
+                    "utter": "女って言葉も汚いよー"
+                }
+            ],
+            "uri": "at://did:plc:zeafnutfa2pm7zi5r7vscysu/app.bsky.feed.post/3lar4rvtne22f",
+            "label": [
+                0.002997572300955653,
+                0.014405356720089912,
+                0.0015444180462509394,
+                0.001595327048562467,
+                0.0023710066452622414,
+                0.0030164418276399374,
+                0.9735029935836792,
+                0.00056690804194659
+            ]
+        }
+    ]
+}

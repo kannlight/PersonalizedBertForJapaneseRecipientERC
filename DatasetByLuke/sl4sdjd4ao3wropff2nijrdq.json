@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "ｵｷｬﾜ"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "おうせ〜はなんでも直してくれる…"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "おうせーくんが一度直してくれたといっても特別大事にすることはなく壊れたらまた持ってきそう"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3lc3fnxmikc2d",
+            "label": [
+                0.6478112936019897,
+                0.02093793824315071,
+                0.22524631023406982,
+                0.0062238797545433044,
+                0.001370487967506051,
+                0.07995599508285522,
+                0.010964442975819111,
+                0.007489682640880346
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "おうせーくんが一度直してくれたといっても特別大事にすることはなく壊れたらまた持ってきそう"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "おうせ〜がいつでも直してくれるという信頼（その男短命種だぞ！）"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "普通なら直してくれた男はもういないのだな…となるところそうではないのが良いよね(よいか？？)"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3lc3fueez7k2d",
+            "label": [
+                0.9995766282081604,
+                7.799973536748439e-05,
+                0.00011655769776552916,
+                5.01492504554335e-05,
+                2.099800985888578e-05,
+                6.00299536017701e-05,
+                4.9654605390969664e-05,
+                4.7999648813856766e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "普通なら直してくれた男はもういないのだな…となるところそうではないのが良いよね(よいか？？)"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "よくはないけどよい　ゴロリ"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "わはは こねりこねり"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3lc3fw3fj5k2d",
+            "label": [
+                0.9994586110115051,
+                0.0001106923446059227,
+                0.00014728108362760395,
+                6.790366751374677e-05,
+                2.6235380573780276e-05,
+                6.820695125497878e-05,
+                8.304970106109977e-05,
+                3.810765338130295e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "わはは こねりこねり"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "ムニャーン"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "あたたかいほうじ茶をどうぞ"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3lc3fyxra5s2d",
+            "label": [
+                0.010499928146600723,
+                0.0016448860988020897,
+                0.9870413541793823,
+                0.0001433544821338728,
+                0.00010602381371427327,
+                0.00019695064111147076,
+                0.00021658539480995387,
+                0.00015084623009897768
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "あたたかいほうじ茶をどうぞ"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "いただきまふ"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "途中の駅で冷凍の水餃子が売ってたのでスープに入れて食べようねぇ"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3lc3g4epmmc2d",
+            "label": [
+                0.07417285442352295,
+                0.000882588152308017,
+                0.9235337972640991,
+                0.000350756075931713,
+                0.00020714470883831382,
+                0.00037619794602505863,
+                0.00023317908926401287,
+                0.00024348258739337325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "実家の面々は相変わらずだったけれど、家の私物を処分したきりの久しぶりに帰省したのもあってか、あれこれ強要はされなかったのでこれから少しは歩み寄れるだろうか。わからんな。はよ家帰って落ち着きたいな。となった帰省の旅でした。友人達は忙しく体調に不安を抱えつつも皆しっかり生きていたので、私もまた会う日まで日々積み重ねてがんばりたいところ。新幹線に乗ったのでしばらく揺られながら帰ります。お昼は遅かったから帰宅後ご飯でよさそう"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "おつでふぽめ"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "帰ったらおこたでごろごろしようねぇぽめちゃん。ことしもよろしく"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3leql2eyxvc2u",
+            "label": [
+                0.2828385829925537,
+                0.0035374436993151903,
+                0.7113383412361145,
+                0.0004244928131811321,
+                0.00027412924100644886,
+                0.0004393707786221057,
+                0.0006677021738141775,
+                0.00047995144268497825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "帰ったらおこたでごろごろしようねぇぽめちゃん。ことしもよろしく"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "よろしくでふ！（おもちを食べながら）"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "おもちおいしいねぇﾓﾁﾓﾁ"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3leqlo7jjyc2l",
+            "label": [
+                0.9996418952941895,
+                4.0614831959828734e-05,
+                8.869080920703709e-05,
+                6.50300644338131e-05,
+                3.0426472221734002e-05,
+                3.96204850403592e-05,
+                4.9953283451031893e-05,
+                4.386366344988346e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "おもちおいしいねぇﾓﾁﾓﾁ"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "もちがもちを食べている…と思いながらみかんをむいている一期さん"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "なにかしつれいなことをおもっていまふね？と見つめながらもぐもぐをやめないぽめであった"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3leqmoq4t522z",
+            "label": [
+                0.9955400824546814,
+                0.0011338774347677827,
+                0.0011985021410509944,
+                0.0005262892227619886,
+                6.713950278935954e-05,
+                0.0009440187714062631,
+                0.0002935524098575115,
+                0.00029657286358997226
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "なにかしつれいなことをおもっていまふね？と見つめながらもぐもぐをやめないぽめであった"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "いえそんなことは…ほっぺぷに…"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "むふー…それならいいでふよ？おもちいっしょにたべましょうね"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3leqmzlm4jc2r",
+            "label": [
+                0.8446982502937317,
+                0.0013122654054313898,
+                0.15232540667057037,
+                0.0004123594844713807,
+                0.000210891681490466,
+                0.000308574759401381,
+                0.00040523536154069006,
+                0.0003269925946369767
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 1,
+                    "utter": "むふー…それならいいでふよ？おもちいっしょにたべましょうね"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 2,
+                    "utter": "いっしょにこたつでおもちとみかんを食べるお正月　のどか"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 3,
+                    "utter": "しあわせのぽめ ふふー"
+                }
+            ],
+            "uri": "at://did:plc:sl4sdjd4ao3wropff2nijrdq/app.bsky.feed.post/3leqna36j5s2c",
+            "label": [
+                0.999620795249939,
+                5.2468742069322616e-05,
+                0.00012390277697704732,
+                5.6844670325517654e-05,
+                2.3196738766273484e-05,
+                4.026207170682028e-05,
+                4.534693653113209e-05,
+                3.710265445988625e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "( ꒪ͧ⌓꒪ͧ)"
+                },
+                {
+                    "author": "did:plc:jd5vt4xakshjtixs2id5gzna",
+                    "type": 2,
+                    "utter": "ε٩( º∀º )۶з"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "٩( ꒪ͧ∀꒪ͧ )۶"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3lbuxxnjf4k2r",
+            "label": [
+                0.9971390962600708,
+                0.00017177729750983417,
+                0.0022374484688043594,
+                7.745659968350083e-05,
+                7.325481419684365e-05,
+                8.27629046398215e-05,
+                0.00012432149378582835,
+                9.39437813940458e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "٩( ꒪ͧ∀꒪ͧ )۶"
+                },
+                {
+                    "author": "did:plc:jd5vt4xakshjtixs2id5gzna",
+                    "type": 2,
+                    "utter": "(˵ ͡° ͜ʖ ͡°˵)"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "(๑ ิټ ิ)"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3lbuyhedtnk2h",
+            "label": [
+                0.9825726747512817,
+                0.0015660421922802925,
+                0.012116131372749805,
+                0.00039253680733963847,
+                0.00033659706241451204,
+                0.0006388684269040823,
+                0.0017965740989893675,
+                0.0005806061089970171
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "(๑ ิټ ิ)"
+                },
+                {
+                    "author": "did:plc:jd5vt4xakshjtixs2id5gzna",
+                    "type": 2,
+                    "utter": "(   ຶ౪ ຶ)"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "(๑¯ਊ¯)"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3lbuyncxnyc2h",
+            "label": [
+                0.9709223508834839,
+                0.0007498604245483875,
+                0.02505934238433838,
+                0.00032462901435792446,
+                0.0004802754847332835,
+                0.0005781243671663105,
+                0.0013992604799568653,
+                0.0004860775079578161
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "(๑¯ਊ¯)"
+                },
+                {
+                    "author": "did:plc:jd5vt4xakshjtixs2id5gzna",
+                    "type": 2,
+                    "utter": "(⨀•̫͡•⨀)"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "ʘ⁠🐽⁠ʘ"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3lbv3hszy4c2e",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "٩( 'ω' )و"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "(*´∀｀)"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "( ◜ᴗ◝ )"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3letfw4va4k2a",
+            "label": [
+                0.9961524605751038,
+                0.0002120185672538355,
+                0.0029821766074746847,
+                8.356967737199739e-05,
+                7.663213182240725e-05,
+                0.0001323607430094853,
+                0.00021995577844791114,
+                0.00014083305723033845
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "( ◜ᴗ◝ )"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "😭"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "🫂"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3letgahs6sc2a",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "🫂"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "ｱﾘｶﾞﾄｰ🐻🫂🍚"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "🐻🫂🍚"
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3letgmm3pyc2a",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 1,
+                    "utter": "🐻🫂🍚"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "やさしい…しゅき…"
+                },
+                {
+                    "author": "did:plc:ms3g4tt3ym3wgqoh5e2tn4lz",
+                    "type": 3,
+                    "utter": "(○´3｀)ﾉ⌒♡*:･。."
+                }
+            ],
+            "uri": "at://did:plc:ms3g4tt3ym3wgqoh5e2tn4lz/app.bsky.feed.post/3letgzusr3227",
+            "label": [
+                0.9969038367271423,
+                0.0002636537537910044,
+                0.0022707239259034395,
+                9.795406367629766e-05,
+                7.18533992767334e-05,
+                9.192056313622743e-05,
+                0.00019373073882889003,
+                0.00010617775842547417
+            ]
+        }
+    ]
+}

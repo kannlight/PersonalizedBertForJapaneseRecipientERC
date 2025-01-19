@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "もこもこ靴下界隈\n28.5㎝に人権なし"
+                },
+                {
+                    "author": "did:plc:fixlracrgqu2wocp25db6qza",
+                    "type": 2,
+                    "utter": "もこもこはあったかくないよ。桐灰の足の冷えない靴下買っとこ！"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "桐灰ってホッカイロの作ってる会社なんだ\nあったかそうだけど28.5に人権はなかった"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3lbqirjners25",
+            "label": [
+                0.0017867222195491195,
+                0.006838567089289427,
+                0.00038139481330290437,
+                0.9884618520736694,
+                0.0002705773804336786,
+                0.0009958395967260003,
+                0.0010697267716750503,
+                0.00019534637976903468
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "桐灰ってホッカイロの作ってる会社なんだ\nあったかそうだけど28.5に人権はなかった"
+                },
+                {
+                    "author": "did:plc:fixlracrgqu2wocp25db6qza",
+                    "type": 2,
+                    "utter": "ほんとだ！絶対あると思ったのに🥹ホカロンの靴下なら28までならあったよ。0.5は誤差だよ。だめならつま先切ろ🤗"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "纒足はイヤ😭"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3lbqkfhsmh22r",
+            "label": [
+                0.004365931730717421,
+                0.009320419281721115,
+                0.0017424931284040213,
+                0.001733276410959661,
+                0.001494413590990007,
+                0.004595148377120495,
+                0.9761999249458313,
+                0.000548370648175478
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "纒足はイヤ😭"
+                },
+                {
+                    "author": "did:plc:fixlracrgqu2wocp25db6qza",
+                    "type": 2,
+                    "utter": "よし、生地から調達しよ！\nまさろん作るんや"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "まさろん とは？\n結局一周回って 家の中でもスニーカー履くムーブが最強かも"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3lbqkzcn4vk2s",
+            "label": [
+                0.9931696653366089,
+                0.0003300568787381053,
+                0.004506393801420927,
+                0.0005251652910374105,
+                0.00013600027887150645,
+                0.0002732950379140675,
+                0.00028864500927738845,
+                0.0007707961485721171
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "まさろん とは？\n結局一周回って 家の中でもスニーカー履くムーブが最強かも"
+                },
+                {
+                    "author": "did:plc:fixlracrgqu2wocp25db6qza",
+                    "type": 2,
+                    "utter": "ホカロンの偽物のことだよ。\nまっさんだからマサロン\n家の中ならスリッパどうよ、あたしこの間無印のぬくぬくスリッパ買ったらめちゃよかったです"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "補足がないとわからん\nスリッパはね 後方の防御が薄すぎる\n履くタイプのやつは 暑すぎて中がしっとりするから微妙"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3lbqlhfxk4s2s",
+            "label": [
+                0.02042083628475666,
+                0.7244194149971008,
+                0.0012121512554585934,
+                0.0035075494088232517,
+                0.0025031110271811485,
+                0.007461145054548979,
+                0.23941867053508759,
+                0.0010570947779342532
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "補足がないとわからん\nスリッパはね 後方の防御が薄すぎる\n履くタイプのやつは 暑すぎて中がしっとりするから微妙"
+                },
+                {
+                    "author": "did:plc:fixlracrgqu2wocp25db6qza",
+                    "type": 2,
+                    "utter": "……足をあっためるのは来世にしよ🤗"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "壊死する前に足湯つくるか"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3lbqlvaaats2s",
+            "label": [
+                0.0018873184453696012,
+                0.0023470961023122072,
+                0.9840467572212219,
+                0.0002810126752592623,
+                0.00013429942191578448,
+                0.010911867953836918,
+                0.00021556472347583622,
+                0.00017604033928364515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "おまねこなんで燃えてんの？"
+                },
+                {
+                    "author": "did:plc:y3pwnsyw6zpiuztzuuoo4fuy",
+                    "type": 2,
+                    "utter": "自衛隊かオタクコンテンツっぽいものを叩きたい人がおまねこをメスケモだと勘違いしたうえで名前がジョセイキみたいだし服を着ていないなんて女性蔑視だ性搾取だとかわめき出したのが発端"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "動物擬人化に性的興奮が何ていうやつは自分がそうでないとあり得んやろ"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3le6zbmqsmk2h",
+            "label": [
+                0.024732425808906555,
+                0.004454601556062698,
+                0.0014796382747590542,
+                0.009991617873311043,
+                0.0035856012254953384,
+                0.02452106587588787,
+                0.9292327761650085,
+                0.0020023398101329803
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "動物擬人化に性的興奮が何ていうやつは自分がそうでないとあり得んやろ"
+                },
+                {
+                    "author": "did:plc:y3pwnsyw6zpiuztzuuoo4fuy",
+                    "type": 2,
+                    "utter": "まず\n御前崎のねこ（オス）\nの略称である\nおまねこ（オスである）\nから　ね　を　ん　に変換したら卑猥な名前だとか叩く口実にする辺りだいぶ頭がヤバい脳内思春期中学生の変態"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "ちょっと一般的なところからは逸脱しているように思えますね"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3le6zwwvo2k2h",
+            "label": [
+                0.004198114853352308,
+                0.0036418167874217033,
+                0.00043733720667660236,
+                0.0026010735891759396,
+                0.0004136271891184151,
+                0.9841406345367432,
+                0.004198849201202393,
+                0.0003686445124913007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "ちょっと一般的なところからは逸脱しているように思えますね"
+                },
+                {
+                    "author": "did:plc:y3pwnsyw6zpiuztzuuoo4fuy",
+                    "type": 2,
+                    "utter": "まぁなので真っ当な批判による炎上とかではないのでスルーでおk"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "レッテル貼り系のディスりバトルは反論なしは肯定と服従だから\n淡々と否定と訂正は必要と思いますね"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3le72h3m4ls25",
+            "label": [
+                0.0016614359337836504,
+                0.0012493830872699618,
+                0.9526290893554688,
+                0.0008384362445212901,
+                0.011381465941667557,
+                0.0012164474464952946,
+                0.028966881334781647,
+                0.0020568682812154293
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "レッテル貼り系のディスりバトルは反論なしは肯定と服従だから\n淡々と否定と訂正は必要と思いますね"
+                },
+                {
+                    "author": "did:plc:y3pwnsyw6zpiuztzuuoo4fuy",
+                    "type": 2,
+                    "utter": "もう公式が色々と対応してる"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "まー俯瞰してみればただのいちゃもんだしな。\nバカが何か言ってるわで済めばいいんだけど\nバカとバカがシナジーを起こすから厄介なんだよな"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3le733d4t3s2h",
+            "label": [
+                0.0033241792116314173,
+                0.015365086495876312,
+                0.0012868816265836358,
+                0.0015037101693451405,
+                0.03321788087487221,
+                0.024953069165349007,
+                0.9192649722099304,
+                0.0010842899791896343
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 1,
+                    "utter": "まー俯瞰してみればただのいちゃもんだしな。\nバカが何か言ってるわで済めばいいんだけど\nバカとバカがシナジーを起こすから厄介なんだよな"
+                },
+                {
+                    "author": "did:plc:y3pwnsyw6zpiuztzuuoo4fuy",
+                    "type": 2,
+                    "utter": "別の無敵の人じゃと思うがおまねこの作者さんに殺害予告とかも出ておるらしいから、公に騒がれる事は無いのじゃろうが批判側に逮捕者は出るね"
+                },
+                {
+                    "author": "did:plc:lxwfc3lnc7sg2fafxi2boe6a",
+                    "type": 3,
+                    "utter": "刺殺ブームすぎ"
+                }
+            ],
+            "uri": "at://did:plc:lxwfc3lnc7sg2fafxi2boe6a/app.bsky.feed.post/3le73i3s7ns2h",
+            "label": [
+                0.001712593948468566,
+                0.0007664872100576758,
+                0.0005217595607973635,
+                0.9916901588439941,
+                0.00017431064043194056,
+                0.004461569245904684,
+                0.0005003586411476135,
+                0.00017270262469537556
+            ]
+        }
+    ]
+}

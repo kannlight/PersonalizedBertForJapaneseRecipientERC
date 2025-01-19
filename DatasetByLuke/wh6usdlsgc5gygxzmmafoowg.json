@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "えへへへへへ🥳ありがとうございます(ง ˙˘˙ )ว\nﾓｻ(ง ˘ω˘ )วﾓｻ ﾓｻ(ง ˘ω˘ )วﾓｻ笑\n\nアルバ救難もいってみよーかなーって、ちょこっとだけ思い始めましたw"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "おおw行ってみてw\n面白いよ\nギミック多いからドラマ色々あるし"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "ドラマ！前の野良ミラみたいなドラマにまた出会いたい！w"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lb7udrposs2c",
+            "label": [
+                0.0008016289211809635,
+                0.0002694768481887877,
+                0.9985643029212952,
+                0.00010596653737593442,
+                6.043373650754802e-05,
+                7.713539525866508e-05,
+                6.343568384181708e-05,
+                5.7561112043913454e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "ドラマ！前の野良ミラみたいなドラマにまた出会いたい！w"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "抑制出来なくてホストと自分以外クエキャンしていなくなったりとかカオスもあります😌\n2人消えるとジャッジされてもクエ続行って言うね笑\n行け行けゴーゴー٩( 'ω' )و"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "カオスも体験しに行かないとなぁwww"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lb7vfclym22c",
+            "label": [
+                0.0025813670363277197,
+                0.000244273483986035,
+                0.9964589476585388,
+                0.00026270802482031286,
+                4.563609036267735e-05,
+                0.00027102322201244533,
+                6.21631188550964e-05,
+                7.388426456600428e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "カオスも体験しに行かないとなぁwww"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "アルバは上で降りる気配のないホストさんとかいるからのうw"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "えっ...キャンプ大好きマンがいるって事ですか！？"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lb7w3iyxok2c",
+            "label": [
+                0.0005349967977963388,
+                0.00031209035660140216,
+                0.0006271046004258096,
+                0.9977566599845886,
+                0.00020227677305229008,
+                0.00027623577625490725,
+                0.0001785828499123454,
+                0.00011218269355595112
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "えっ...キャンプ大好きマンがいるって事ですか！？"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "デスルーラした後戻ってこないホストさんもいるよw"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "くっ...(›'ᾥ',‹)\n\n何が楽しくてモンハンやってるんでしょうね😅まぁ、そういう人がいるから生まれるドラマもあるのか...w"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lb7w7vcjp22c",
+            "label": [
+                0.005466117523610592,
+                0.6754420399665833,
+                0.0017427464481443167,
+                0.0026445239782333374,
+                0.0011694232234731317,
+                0.011333314701914787,
+                0.30172377824783325,
+                0.00047805471695028245
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "茶ナスまじ強い…1人で3乙かましましたわ😇あとにやったレベル高いゴマちゃんのほうが楽だった説🫠茶ナスのチャージブレスまじ無理怖い。"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "私は原初メルゼナに乙ワンセットキメてきたわ"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "メルゼナちゃんも強い…あの変な攻撃やめて頂きたい😇"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lc25yoal3s2h",
+            "label": [
+                0.004786092322319746,
+                0.015429853461682796,
+                0.0004918933263979852,
+                0.9265000224113464,
+                0.000624827342107892,
+                0.04943596199154854,
+                0.0024429049808532,
+                0.0002883613633457571
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "メルゼナちゃんも強い…あの変な攻撃やめて頂きたい😇"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "瞬間移動するよね=͟͞  ˙꒳˙ )"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "あれズルっ子よね…わしらハンターにもその力授けてくれ…"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lc26dcowac2h",
+            "label": [
+                0.00038666074397042394,
+                0.0017033147159963846,
+                0.9972255229949951,
+                0.00018809146422427148,
+                8.443896513199434e-05,
+                0.0001947767159435898,
+                0.00014497771917376667,
+                7.213903882075101e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "あれズルっ子よね…わしらハンターにもその力授けてくれ…"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "怪異克服メルゼナ倒すのたちけてまおまお"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "すぐ乙るマンですけどそれでもよろしければ⸜(*˙꒳˙*)⸝笑"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lc27leof7k2h",
+            "label": [
+                0.002275924663990736,
+                0.00042899930849671364,
+                0.9967197775840759,
+                9.014218085212633e-05,
+                7.193344208644703e-05,
+                0.00019141736265737563,
+                0.00012444876483641565,
+                9.738070366438478e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "すぐ乙るマンですけどそれでもよろしければ⸜(*˙꒳˙*)⸝笑"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "じゃワシは集会所で既に乙るもんねぇぇぇ(≧∇≦)"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "ところでさ、私まだ傀異レベル200なんだけど、楓さんのクエ…一緒にできるの！？レベル違い過ぎるとできないですよね😭？"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lc3fjxzn6k2v",
+            "label": [
+                0.001735473284497857,
+                0.0002770932042039931,
+                0.997108519077301,
+                0.00042556680273264647,
+                4.918136983178556e-05,
+                0.00028197799110785127,
+                4.465804522624239e-05,
+                7.749966607661918e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "ところでさ、私まだ傀異レベル200なんだけど、楓さんのクエ…一緒にできるの！？レベル違い過ぎるとできないですよね😭？"
+                },
+                {
+                    "author": "did:plc:2qhvswsw3ynlbiczcsbmmfk2",
+                    "type": 2,
+                    "utter": "私の怪異レベル100行ってないで"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "怪異克服メルゼナはいけるってことかな🤔？"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3lc3hag3oa22v",
+            "label": [
+                0.002860788954421878,
+                0.0003503781626932323,
+                0.9962320923805237,
+                0.0001917493063956499,
+                5.0396625738358125e-05,
+                0.00017160829156637192,
+                6.0856233176309615e-05,
+                8.22152869659476e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "エルデンリング値下げしないかなー🫠やってみたいんだよなー。グロいからTVじゃできないなーと思ってたけどポータル手に入っちゃたので出来ちゃうんだよなー🫠来年ワイルズも来るから流石に今からは無理そうなんだよなー🫠\n\n精神と時の部屋くれ。"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "エルデンリングはそこまでグロくはな…多分無いと思われる\nえっぐwってのはたまにあるけど\n普通に夜でもできるもん\nブラボは夜できないもん…"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "グロもえっぐいのも私は大丈夫なんですけど小さき人がいるのでなるべく避けてたのですよ🫠私がTVでゲームしてるの見るの好きみたいで😅携帯機だと「怖いのやってるよー」って言えば離れていくしw\n\nブラボってブラッドボーンです？？あれは暗そうだし怖そうだから無理😭"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3laxjhx3tus2s",
+            "label": [
+                0.00610718410462141,
+                0.004034250974655151,
+                0.0006688856519758701,
+                0.020315147936344147,
+                0.0003059192968066782,
+                0.9671027064323425,
+                0.0011854534968733788,
+                0.0002805680560413748
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "グロもえっぐいのも私は大丈夫なんですけど小さき人がいるのでなるべく避けてたのですよ🫠私がTVでゲームしてるの見るの好きみたいで😅携帯機だと「怖いのやってるよー」って言えば離れていくしw\n\nブラボってブラッドボーンです？？あれは暗そうだし怖そうだから無理😭"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "なるなるw\n\nブラボからグロ系抑えてめちゃくちゃ明るくしたのがエルデという感じかなぁ\n馬でのんびり旅が出来るし\nたまに突然襲われるけど笑"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "突然襲われるwwwいやだなぁwwwww\n\nフロムゲーってやったことなかったんですけど、いけますかねぇ🫠アクション下手くそマンでもいける…かしら…😇"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3laxkgpkhuc2t",
+            "label": [
+                0.046457160264253616,
+                0.006824810989201069,
+                0.6736840009689331,
+                0.032568514347076416,
+                0.00037626762059517205,
+                0.2385004311800003,
+                0.000824981601908803,
+                0.0007637542439624667
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "突然襲われるwwwいやだなぁwwwww\n\nフロムゲーってやったことなかったんですけど、いけますかねぇ🫠アクション下手くそマンでもいける…かしら…😇"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "時間が合えばお供しますがw\nヘタレだけど笑"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "お供して欲しい😭\nとりあえず購入おーけーかお伺い立ててみますー🥳(PSポータル買うてもろたんで流石に続けては…ww)"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3laxm6trf2k2t",
+            "label": [
+                0.0005076506058685482,
+                0.00019591039745137095,
+                0.99894779920578,
+                9.33134215301834e-05,
+                5.618871364276856e-05,
+                8.665361383464187e-05,
+                6.245218537515029e-05,
+                5.0130609452025965e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "お供して欲しい😭\nとりあえず購入おーけーかお伺い立ててみますー🥳(PSポータル買うてもろたんで流石に続けては…ww)"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "頑張れー٩( 'ω' )و笑\n侵入はあるけどマルチ面白いよん"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "突然襲われるとか侵入されるとか物騒すぎますなwwwwwwすきww"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3laxmfmrc522t",
+            "label": [
+                0.9988453388214111,
+                8.552780491299927e-05,
+                6.338344974210486e-05,
+                0.0002834124898072332,
+                4.046138928970322e-05,
+                0.00045401754323393106,
+                0.00013320775178726763,
+                9.456723637413234e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 1,
+                    "utter": "突然襲われるとか侵入されるとか物騒すぎますなwwwwwwすきww"
+                },
+                {
+                    "author": "did:plc:7gjqjipvs7li3n6zi2mpdewt",
+                    "type": 2,
+                    "utter": "モンハンから行くと死ねねぇってなるんだけど\n敵じゃなくて普通に落下で逝くからね😊"
+                },
+                {
+                    "author": "did:plc:wh6usdlsgc5gygxzmmafoowg",
+                    "type": 3,
+                    "utter": "落下wwwゼルダのブレワイみたいな事になるのかwwwあーもう！楽しそう！"
+                }
+            ],
+            "uri": "at://did:plc:wh6usdlsgc5gygxzmmafoowg/app.bsky.feed.post/3laxnfimick2t",
+            "label": [
+                0.9813792705535889,
+                0.0002435247733956203,
+                0.016382679343223572,
+                0.0014045044081285596,
+                9.368386236019433e-05,
+                0.00019305739260744303,
+                0.00011326833919156343,
+                0.00018991302931681275
+            ]
+        }
+    ]
+}

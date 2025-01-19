@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "ドライヤーの電源コードの修理に5000円出そうか迷ってる。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "直してあげようか(^ω^)"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "ピカピカ光るゲーミングドライヤーになって帰ってきそう。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbubrxnzjc2c",
+            "label": [
+                0.005047137383371592,
+                0.000559728650841862,
+                0.993861198425293,
+                0.00014448958972934633,
+                7.114269101293758e-05,
+                0.00013627744920086116,
+                7.983355317264795e-05,
+                0.0001002454009721987
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "ピカピカ光るゲーミングドライヤーになって帰ってきそう。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "それだ！"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "へ？‎( ꒪⌓꒪)"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbucbw26gc2r",
+            "label": [
+                0.010228926315903664,
+                0.00368485483340919,
+                0.0027835071086883545,
+                0.981221079826355,
+                0.0002837538195308298,
+                0.0005290055414661765,
+                0.0009827460162341595,
+                0.00028611323796212673
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "へ？‎( ꒪⌓꒪)"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "ピカピカ光るLEDならたくさん持ってるから、ピカピカ光るようにしてあげる！"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "電気食いそう。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbucflxw6s2n",
+            "label": [
+                0.004962136968970299,
+                0.004223398864269257,
+                0.0017687213839963078,
+                0.0038823841605335474,
+                0.0002412186295259744,
+                0.9823958873748779,
+                0.0022580078803002834,
+                0.00026825760141946375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "電気食いそう。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "もぐもぐ"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "ついでにメロディまで流れそう。エレクトロ二カルパレードみたいな。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbucju2ppc2n",
+            "label": [
+                0.0023407945409417152,
+                0.0003267730644438416,
+                0.996845006942749,
+                0.00017599259444978088,
+                5.211616735323332e-05,
+                0.00011660544259939343,
+                7.351611566264182e-05,
+                6.91259847371839e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "ついでにメロディまで流れそう。エレクトロ二カルパレードみたいな。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "吹き出し口にハーモニカでもくっつけるか（ふぁー"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "うるせえええええ！\n\n風弱そう。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbucpu3jik2c",
+            "label": [
+                0.0030797019135206938,
+                0.02802140638232231,
+                0.003950826823711395,
+                0.010676596313714981,
+                0.8874977827072144,
+                0.004652407020330429,
+                0.06081818416714668,
+                0.0013030574191361666
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "暴食したい。具体的にはのり塩ポテチ食べたい。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "バリバリ食べよう"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "いただきます。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbmlzsqetk27",
+            "label": [
+                0.9979804158210754,
+                0.00010952592128887773,
+                0.0015038279816508293,
+                6.925396883161739e-05,
+                5.5096836149459705e-05,
+                6.690372538287193e-05,
+                0.00012327278091106564,
+                9.166904055746272e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "いただきます。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "ひょいぱく"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "一緒に食べよう。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbmm3pw6as2f",
+            "label": [
+                0.02638203091919422,
+                0.001411906210705638,
+                0.9711652398109436,
+                0.00025363112217746675,
+                0.00015834002988412976,
+                0.00021314765035640448,
+                0.00023864736431278288,
+                0.00017710376414470375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "一緒に食べよう。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "一人占め"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "あーんザラザラザラバリバリむしゃむしゃ。(´~｀*)"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbmmj62wvs2i",
+            "label": [
+                0.28883832693099976,
+                0.21335160732269287,
+                0.04353894665837288,
+                0.03092760033905506,
+                0.11778715997934341,
+                0.04700230807065964,
+                0.25201037526130676,
+                0.006543674040585756
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "あーんザラザラザラバリバリむしゃむしゃ。(´~｀*)"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "あー！"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "ご馳走様でした。"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbmnnaxjb22v",
+            "label": [
+                0.9996179342269897,
+                4.2410123569425195e-05,
+                0.00010283957089995965,
+                5.2701085223816335e-05,
+                3.1906223739497364e-05,
+                4.665843152906746e-05,
+                5.809710273751989e-05,
+                4.739210999105126e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 1,
+                    "utter": "ご馳走様でした。"
+                },
+                {
+                    "author": "did:plc:ptd5fyg5sz5iyossg7ulv5nj",
+                    "type": 2,
+                    "utter": "ずるい！"
+                },
+                {
+                    "author": "did:plc:czvh4gj7sl3hsukykjzxzjcn",
+                    "type": 3,
+                    "utter": "おやすみなさい。(:3[____]"
+                }
+            ],
+            "uri": "at://did:plc:czvh4gj7sl3hsukykjzxzjcn/app.bsky.feed.post/3lbmoaxe7ms2c",
+            "label": [
+                0.9992714524269104,
+                0.00010321042645955458,
+                0.0002835628401953727,
+                5.169996074982919e-05,
+                3.373156869201921e-05,
+                5.281229823594913e-05,
+                0.00013201142428442836,
+                7.149668090278283e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,279 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "めっちゃ考えてるじゃん\n編成的考えは私のほうが浅くてくさ\n\nとりあえずドラフトにはシャオリン入れておいてバンのカカシにしてる"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "キャラコロしてるだけだぜ！！！\nBANピックに怯えて3キャラは使えるように準備してる"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "私も使えるキャラ増やそうとして練習してる\nまたやるぞ"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lbvjy5s5w72h",
+            "label": [
+                0.0013870828552171588,
+                0.00027860276168212295,
+                0.9979123473167419,
+                0.00011289896792732179,
+                7.238168473122641e-05,
+                9.655867324909195e-05,
+                7.142327376641333e-05,
+                6.8793618993368e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "私も使えるキャラ増やそうとして練習してる\nまたやるぞ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "今から行けるぜ！"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "お、休憩か やるか"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lbvkpuatki2t",
+            "label": [
+                0.1854594647884369,
+                0.0033545203041285276,
+                0.8041078448295593,
+                0.004227263852953911,
+                0.0003159855550620705,
+                0.0008340353379026055,
+                0.0009289698209613562,
+                0.000771951861679554
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "お、休憩か やるか"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "休憩終わり近くなったらまた言うぜ！"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "あい！\n\n25あと落ちすると250くらいしかないから\n同じくらいになるように前貼るといいぞ！"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lbvl3n33rg2f",
+            "label": [
+                0.002819215413182974,
+                0.00045950376079417765,
+                0.9960665106773376,
+                0.00016066523676272482,
+                8.169846842065454e-05,
+                0.00017696281429380178,
+                0.00011000064841937274,
+                0.00012546352809295058
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "あい！\n\n25あと落ちすると250くらいしかないから\n同じくらいになるように前貼るといいぞ！"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "同じ体力割合になるよう立ち回るってこと？\nコスト周りはセオリー覚えていかんとな…"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "うむ！\n極端な例だけど\nかりにマゾ3コス落ちて\n私2.5が直後に落ちると全快のマゾと瀕死の私が並ぶことになる"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lbvlgau3rl2e",
+            "label": [
+                0.01995161361992359,
+                0.027691442519426346,
+                0.006769135128706694,
+                0.16095741093158722,
+                0.0013313191011548042,
+                0.7802417874336243,
+                0.0018006409518420696,
+                0.00125663704238832
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "やるやん！"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "3000以上なったし多分ランクマ行けっぞ！"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "やるかー(半分寝てるけど)"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lcfpx33ct523",
+            "label": [
+                0.0038995209615677595,
+                0.0005218874430283904,
+                0.9949925541877747,
+                8.510004408890381e-05,
+                6.370326445903629e-05,
+                0.00022813362011220306,
+                0.00012181372585473582,
+                8.733475260669366e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "やるかー(半分寝てるけど)"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "見せてやるか…実力"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "きゃりーしてくれ！"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lcfrgq23sl2e",
+            "label": [
+                0.0008161341538652778,
+                0.0004269698401913047,
+                0.9983205199241638,
+                0.00014420412480831146,
+                8.151566726155579e-05,
+                7.699149864492938e-05,
+                8.070163312368095e-05,
+                5.2975821745349094e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "きゃりーしてくれ！"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "すごい上にいるシャオリンってどうやってカットすんのこれ\n弾撃っても当たらんぞ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "シャープこいつおかしくない？"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "あそこまで行ったら2回目落ちちゃっていいよ"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lcfsltian22i",
+            "label": [
+                0.027609558776021004,
+                0.4058893620967865,
+                0.41083216667175293,
+                0.0011521836277097464,
+                0.0016817848663777113,
+                0.08030085265636444,
+                0.07024736702442169,
+                0.0022867517545819283
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "あそこまで行ったら2回目落ちちゃっていいよ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "了解っす\n前出るキャラ選んだ方がええかな…全員射撃寄りなんすよね"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "今のシャオリンシャオリンでお互いが拘束してはめ殺すので来たのにもったいない！\nバランス考えすぎて抜け落ちてたでしょ！"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lcft5onlfr27",
+            "label": [
+                0.00253403396345675,
+                0.9746078848838806,
+                0.0014286929508671165,
+                0.00624124426394701,
+                0.006613502278923988,
+                0.0011148822959512472,
+                0.007056804373860359,
+                0.0004029575502499938
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 1,
+                    "utter": "シャオリン始めました"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 2,
+                    "utter": "シャオさん始まったか…\n俺も18号動き始めた"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 3,
+                    "utter": "スキン買ったから(単純)"
+                }
+            ],
+            "uri": "at://did:plc:eb4bbdz3zjnycf67hblbt7ah/app.bsky.feed.post/3lc6qdj2fns2w",
+            "label": [
+                0.999258816242218,
+                6.326006405288354e-05,
+                0.00041309502557851374,
+                5.402649912866764e-05,
+                4.459952106117271e-05,
+                4.204924334771931e-05,
+                6.900387961650267e-05,
+                5.519767364603467e-05
+            ]
+        }
+    ]
+}

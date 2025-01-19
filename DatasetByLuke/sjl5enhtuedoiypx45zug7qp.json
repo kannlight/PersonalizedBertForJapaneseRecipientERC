@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "とりあえず全部カートに入れて最終日に考えよ"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "最終日忘れてそう…"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "忘れたならそれはいらないものだったのさ…"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3lbqdhmm3ic2g",
+            "label": [
+                0.011904126033186913,
+                0.9789322018623352,
+                0.0016049838159233332,
+                0.0007724068709649146,
+                0.00011166361218784004,
+                0.002361968392506242,
+                0.004070284776389599,
+                0.00024235178716480732
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "忘れたならそれはいらないものだったのさ…"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "そっかなるほ！今年はその手でいくわ！"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "ところで何買うの？家庭用サウナ？"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3lbqsafloik2g",
+            "label": [
+                0.008721078746020794,
+                0.0003218140627723187,
+                0.9887019395828247,
+                0.0013915188610553741,
+                0.00012025760224787518,
+                0.000414445239584893,
+                0.000119846808956936,
+                0.0002091352071147412
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "ところで何買うの？家庭用サウナ？"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "何で家庭用サウナ買うと思ったの？？？欲しいか欲しくないかで言えば欲しいが"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "ピーナッツくんがレポしてて私もちょっとほしくなったから…"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3lbrd4taxf22g",
+            "label": [
+                0.0021525195334106684,
+                0.00031756266253069043,
+                0.9970763921737671,
+                0.00013476696040015668,
+                5.500195766217075e-05,
+                0.00012889437493868172,
+                6.79907388985157e-05,
+                6.696504715364426e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "ピーナッツくんがレポしてて私もちょっとほしくなったから…"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "豆そんな事してたんだ…買ったらレポよろ"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "あれガレージ必要やねん… あとはなんだろ タコ焼き器とか？"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3lbrf6aylo22g",
+            "label": [
+                0.0009543047635816038,
+                0.00032680854201316833,
+                0.9979578256607056,
+                0.00040519447065889835,
+                3.5784738429356366e-05,
+                0.00021780942915938795,
+                4.540021109278314e-05,
+                5.6897606555139646e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "脱稿…していたのか！？"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "は？まだだが？"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "己で逃げ道を塞いでいるな"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3let3glex522w",
+            "label": [
+                0.007177404128015041,
+                0.8505187034606934,
+                0.0007952936575748026,
+                0.0021627447567880154,
+                0.001742751570418477,
+                0.10915455967187881,
+                0.02797648310661316,
+                0.000472106272354722
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "己で逃げ道を塞いでいるな"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "まぁ見ててくださいよ"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "私は信じてるぞ"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3let4qy3tis2o",
+            "label": [
+                0.0005685993819497526,
+                0.00034346917527727783,
+                0.9983677268028259,
+                0.00010324274626327679,
+                0.00012742674152832478,
+                0.00026566171436570585,
+                0.00010168807057198137,
+                0.00012230714492034167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "私は信じてるぞ"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "ありがとう…原稿不備がないかだけ不安"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "原稿に不備がないのは信用してない"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3let5icteq22o",
+            "label": [
+                0.04148154705762863,
+                0.011031441390514374,
+                0.00487075699493289,
+                0.00182642403524369,
+                0.009337224066257477,
+                0.2961694598197937,
+                0.6256586313247681,
+                0.00962452869862318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 1,
+                    "utter": "原稿に不備がないのは信用してない"
+                },
+                {
+                    "author": "did:plc:5xn473aizie53m63iogcdhru",
+                    "type": 2,
+                    "utter": "だから早期入稿が必要ってワケ"
+                },
+                {
+                    "author": "did:plc:sjl5enhtuedoiypx45zug7qp",
+                    "type": 3,
+                    "utter": "えらすぎる どのくらい終わってるんですか？"
+                }
+            ],
+            "uri": "at://did:plc:sjl5enhtuedoiypx45zug7qp/app.bsky.feed.post/3let6ryrkqc2o",
+            "label": [
+                0.02055450715124607,
+                0.0018543602200224996,
+                0.008199295029044151,
+                0.9667725563049316,
+                0.0005210704985074699,
+                0.0005400321097113192,
+                0.00048606249038130045,
+                0.0010721248108893633
+            ]
+        }
+    ]
+}

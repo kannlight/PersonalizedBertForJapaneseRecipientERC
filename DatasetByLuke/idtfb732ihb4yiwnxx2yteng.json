@@ -1,0 +1,429 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "ffさんのこと仲良くなったら○○ちゃ(てゃ)とか○○ちって呼びたい、普通に名前呼ぶよりも仲良い感じする"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "甘てゃ"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "もんてゃ！！！！♡♡♡"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lc2k7r6qu224",
+            "label": [
+                0.9994971752166748,
+                6.551061960635707e-05,
+                0.00016029630205594003,
+                0.00010780838783830404,
+                3.47611858160235e-05,
+                3.068656224058941e-05,
+                5.6265052990056574e-05,
+                4.742558303405531e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "もんてゃ！！！！♡♡♡"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "はやくまた甘てゃとユナりたい、、"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "やろうやろう〜！\nもんてゃ上手かった､､私ももっと頑張らねば、"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lc2m6lq5q224",
+            "label": [
+                0.015050494112074375,
+                0.0007073274464346468,
+                0.9832287430763245,
+                0.00039921372081153095,
+                0.00013362488243728876,
+                0.0001279877033084631,
+                0.00012486797641031444,
+                0.00022773015371058136
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "やろうやろう〜！\nもんてゃ上手かった､､私ももっと頑張らねば、"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "ね今ひま？1戦だけいかん？w"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "やるべ！"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lc2mbizmv224",
+            "label": [
+                0.011151419021189213,
+                0.00035329899401403964,
+                0.9840116500854492,
+                0.003338366048410535,
+                0.00027353447512723505,
+                0.0002674455754458904,
+                0.00014839580398984253,
+                0.0004557957872748375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "やるべ！"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "ないすーーー🥹🥹"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "ゼラオラ害悪プレイ過ぎて泣いた"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "あれなんでバックドア行ったんや､､"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lc2n3v62ds2w",
+            "label": [
+                0.0007154734921641648,
+                0.0010365647030994296,
+                0.00040588853880763054,
+                0.9961593151092529,
+                0.00016076037718448788,
+                0.0011566797038540244,
+                0.0002837585343513638,
+                8.155148680089042e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "ffのみんなだいすきだから私以外のffの子同士でお話してるの見るとニンマリしてしまう"
+                },
+                {
+                    "author": "did:plc:vbpdrinncq3hdbeihmboxkfk",
+                    "type": 2,
+                    "utter": "甘ちゃとmonてゃの絡み好き"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "なに！それはうれしい"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lfcutqwtrk2g",
+            "label": [
+                0.9995449185371399,
+                5.1824856200255454e-05,
+                0.00010103390377480537,
+                0.0001383901690132916,
+                3.1015792046673596e-05,
+                4.02110927097965e-05,
+                5.1023525884374976e-05,
+                4.155971691943705e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "なに！それはうれしい"
+                },
+                {
+                    "author": "did:plc:vbpdrinncq3hdbeihmboxkfk",
+                    "type": 2,
+                    "utter": "無限に会話続けといてほしい"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "草、ちなみに私もたかはちともんてゃの絡みすきです\n敬語からタメになるとことか見守ってました"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lfdsqlotf22g",
+            "label": [
+                0.999624490737915,
+                4.175360663793981e-05,
+                0.00010562972602201626,
+                4.8673220589989796e-05,
+                3.361048948136158e-05,
+                3.902374373865314e-05,
+                5.172123928787187e-05,
+                5.517692261491902e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "草、ちなみに私もたかはちともんてゃの絡みすきです\n敬語からタメになるとことか見守ってました"
+                },
+                {
+                    "author": "did:plc:vbpdrinncq3hdbeihmboxkfk",
+                    "type": 2,
+                    "utter": "草\n硬派なので仲良くなるのに時間がかかるんです😌"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "いやでもだからこそタメになった時てえてえが過ぎるんですよね"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3lfdwcn2wbk2g",
+            "label": [
+                0.9996175765991211,
+                5.282756683300249e-05,
+                8.153817179845646e-05,
+                8.268788951681927e-05,
+                2.6780287953442894e-05,
+                4.854049620917067e-05,
+                4.0608225390315056e-05,
+                4.940883081872016e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "ま～～じか！完全に自己満だたけど需要あるのうれしい\nもんてゃとおそろいしたいべさ"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "全然需要あり！見るだけで楽しい！！\nおそろコスメってこと？可愛すぎじゃん🥹❤️‍🔥❤️‍🔥"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "それは良かった 🥺\nそゆこと！！いろちとかでもめっちゃいいよね！"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le573eag722l",
+            "label": [
+                0.999618411064148,
+                4.249897028785199e-05,
+                0.00011588920460781083,
+                6.017576379235834e-05,
+                3.108247619820759e-05,
+                3.62951795978006e-05,
+                4.7699195420136675e-05,
+                4.785949568031356e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "それは良かった 🥺\nそゆこと！！いろちとかでもめっちゃいいよね！"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "え、最高ですが🥹🥹🥹\n最近気になってるコスメとかある？？おそろするならやっぱリップとかがいいかな…"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "え～なんだろ、でも結局リップはなんぼ持っててもいいからね\nDintoとrom&ndで買うこと多いからティントおそろいできたらうれしい！あと前から気になってるのはムジゲマンション"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le6zesboic2y",
+            "label": [
+                0.002772341249510646,
+                0.0002877498045563698,
+                0.9964655637741089,
+                0.000122245037346147,
+                8.08411932666786e-05,
+                0.00010617652878863737,
+                8.109044574666768e-05,
+                8.398117643082514e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "え～なんだろ、でも結局リップはなんぼ持っててもいいからね\nDintoとrom&ndで買うこと多いからティントおそろいできたらうれしい！あと前から気になってるのはムジゲマンション"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "私もティントは結局ロムアンドばっかり使ってる…！！ディント使ったことない、気になる！！ムジゲマンションは初めて聞いたから調べます"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "ロムアンドのおすすめティント教えてほしい！Dintoはね、うるちゅるになるし色展開も多くていいんだけど公式画像と結構色味違うことが多々あるのがね～…\nムジゲマンションはなんかねめっちゃパケがお洒落なの、使いやすいかは別として…笑"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le7t2w7sjc2z",
+            "label": [
+                0.0007016994641162455,
+                0.0003661469672806561,
+                0.9985665678977966,
+                9.303731349064037e-05,
+                4.811385224456899e-05,
+                9.898001735564321e-05,
+                7.00294112903066e-05,
+                5.5525983043480664e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "もんてゃメリクリ！🎄"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "甘てゃ〜〜メリクリ！！🥰🎄🎄"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "恋愛相談いつでも聞くよ！あとユナイトしよぜ！♡"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le4mroglts2m",
+            "label": [
+                0.004460625350475311,
+                0.0002716572489589453,
+                0.9946002960205078,
+                0.00017094757640734315,
+                0.00012857955880463123,
+                0.00012834543304052204,
+                0.00013303548621479422,
+                0.00010647792078088969
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "恋愛相談いつでも聞くよ！あとユナイトしよぜ！♡"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "え、きいてほしい…🥹\nユナイトもする…最近勝てない…"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "DMでもなんでもしてくれ～！\n私もランクマ全然勝てない🥹ダークライいつになったらナーフされるんですか"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le56zinwf22l",
+            "label": [
+                0.0003728355513885617,
+                0.9851363301277161,
+                0.009983355179429054,
+                0.00023892155149951577,
+                0.0007295102695934474,
+                0.0008954489603638649,
+                0.0025452347472310066,
+                9.831979696173221e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "DMでもなんでもしてくれ～！\n私もランクマ全然勝てない🥹ダークライいつになったらナーフされるんですか"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "ありがと…🥹今考えることすら面倒ターン来てるから落ち着いたらdmするかも…その時はよろしく🥹🥹\nいやほんとそれな〜〜あと結局味方ゲー過ぎて暴言止まらない^ ^"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "おっけ任せろ 👊\nそうなんだよね～野良で味方にエスバ、ジュナ、マフォきて終わったと思ったら全員金青バッジ持ちで圧勝した時もあったし、、結局は味方、、"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le6z46fuas2y",
+            "label": [
+                0.9812235832214355,
+                0.0011846418492496014,
+                0.013807506300508976,
+                0.000596526893787086,
+                0.0002021844411501661,
+                0.0013866419903934002,
+                0.0005485242581926286,
+                0.0010502899531275034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 1,
+                    "utter": "おっけ任せろ 👊\nそうなんだよね～野良で味方にエスバ、ジュナ、マフォきて終わったと思ったら全員金青バッジ持ちで圧勝した時もあったし、、結局は味方、、"
+                },
+                {
+                    "author": "did:plc:rksokv7j6glnjiioulznqlw3",
+                    "type": 2,
+                    "utter": "バカ柔らかそうなのに圧勝するのアツすぎてワロタ\nマジで真面目に編成とか考えてピックしてる我々はなんなんだろうね…"
+                },
+                {
+                    "author": "did:plc:idtfb732ihb4yiwnxx2yteng",
+                    "type": 3,
+                    "utter": "私も頭抱えてブラッキーにしたんだけどやりやすくて助かった笑\nほんとだよね！アタッカー即ピされるからわざわざサポタン使えるようにしっかり練習してるし…即ピしたくせにろくにダメージ出さない人とか本当にやめてほしい"
+                }
+            ],
+            "uri": "at://did:plc:idtfb732ihb4yiwnxx2yteng/app.bsky.feed.post/3le7sxaxkas2z",
+            "label": [
+                0.8240264058113098,
+                0.006459215190261602,
+                0.0007658154936507344,
+                0.0014999760314822197,
+                0.008938411250710487,
+                0.0038286340422928333,
+                0.15251432359218597,
+                0.0019672242924571037
+            ]
+        }
+    ]
+}

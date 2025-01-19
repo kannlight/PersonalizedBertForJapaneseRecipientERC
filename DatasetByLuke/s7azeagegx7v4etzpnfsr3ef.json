@@ -1,0 +1,694 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "よくないです"
+                },
+                {
+                    "author": "did:plc:lapkmrw2kgoq2gvmfelh3gj4",
+                    "type": 2,
+                    "utter": "Gスタ交流会は来年、再来年とチャンスはあるかもと思っていいとして全国大会なんて一生に1度出れるか出れないかぐらいの話だからどう考えても全国行けなくて悔しいが勝るに決まってるね"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "決勝負けてすみませんでした、、"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lbwe7mxn222e",
+            "label": [
+                0.00023793433501850814,
+                0.9990578293800354,
+                0.00014665296475868672,
+                0.00010219073010375723,
+                8.053864439716563e-05,
+                0.0001266308972844854,
+                0.00021442057914100587,
+                3.38570935127791e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "決勝負けてすみませんでした、、"
+                },
+                {
+                    "author": "did:plc:lapkmrw2kgoq2gvmfelh3gj4",
+                    "type": 2,
+                    "utter": "決勝だけ0-3のスト負けだったのはもう仕方ないとしか言えない…"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "ばずの負け＝チームの負けだから俺が戦犯だよ"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lbwpjligvk2f",
+            "label": [
+                0.005690806079655886,
+                0.3409859836101532,
+                0.003977131564170122,
+                0.0022343529853969812,
+                0.2710956633090973,
+                0.031665604561567307,
+                0.3400297164916992,
+                0.004320737440139055
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "ばずの負け＝チームの負けだから俺が戦犯だよ"
+                },
+                {
+                    "author": "did:plc:lapkmrw2kgoq2gvmfelh3gj4",
+                    "type": 2,
+                    "utter": "個人戦績1番良くて戦犯は流石に嘘だべ_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "そうだよな拾うとこ拾ったから報われてもいいよなぁ‼️"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lbz4puvrgs23",
+            "label": [
+                0.005211664363741875,
+                0.00088584388140589,
+                0.9930850267410278,
+                0.00013829139061272144,
+                0.0001675452949712053,
+                0.00010150425805477425,
+                0.00020031521853525192,
+                0.00020988650794606656
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "そうだよな拾うとこ拾ったから報われてもいいよなぁ‼️"
+                },
+                {
+                    "author": "did:plc:lapkmrw2kgoq2gvmfelh3gj4",
+                    "type": 2,
+                    "utter": "当たり前にねー"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "流石ガブよく分かってんじゃん"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lbz53wyf3s23",
+            "label": [
+                0.9106000661849976,
+                0.0008517568930983543,
+                0.0048698787577450275,
+                0.07504972815513611,
+                0.001209016889333725,
+                0.0006429674685932696,
+                0.0017993419896811247,
+                0.0049771652556955814
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "常連さんに事実上の出禁通告を喰らったので僕が結束行けません。。今までお世話になりました、、、"
+                },
+                {
+                    "author": "did:plc:lapkmrw2kgoq2gvmfelh3gj4",
+                    "type": 2,
+                    "utter": "むしろアイツの方が開催地的な都合で来れる訳ないから実質出禁だし、君は出禁じゃないから安心していいよ"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "主催のガブエリウス怖、関東に引きこもろ"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lerfbtcpvc2m",
+            "label": [
+                0.0010438101598992944,
+                0.0011491376208141446,
+                0.0010547725250944495,
+                0.0011573211522772908,
+                0.0003605515812523663,
+                0.9945996999740601,
+                0.000442646472947672,
+                0.00019212698680348694
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "注意しようとした結果あいつは悪化しました\nすいません(;_;)"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 2,
+                    "utter": "爆弾だから無視しよう"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "もう向こうから切られたから関わろうにも近付けんw"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3ley627nwz22s",
+            "label": [
+                0.0015504546463489532,
+                0.9961452484130859,
+                0.00018765314598567784,
+                0.00016730248171370476,
+                6.37424600427039e-05,
+                0.0009643039084039629,
+                0.0008702584891580045,
+                5.111544669489376e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "もう向こうから切られたから関わろうにも近付けんw"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 2,
+                    "utter": "近寄らない方がいい……\nストレス溜まるだけ"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "俺に寄って来なくても身内にくっついてくるのがなぁ"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leyz2dsylc2b",
+            "label": [
+                0.019807837903499603,
+                0.6975877285003662,
+                0.000774830230511725,
+                0.008053806610405445,
+                0.00173861940857023,
+                0.03769178315997124,
+                0.23387354612350464,
+                0.0004719081043731421
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "俺に寄って来なくても身内にくっついてくるのがなぁ"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 2,
+                    "utter": "とくにうぃんくさんにね……"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "あいつが常に1番の被害者"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lezmvrpwkc2g",
+            "label": [
+                0.00808869581669569,
+                0.013674254529178143,
+                0.003473883494734764,
+                0.002970218425616622,
+                0.7801634669303894,
+                0.009894343093037605,
+                0.17929360270500183,
+                0.0024415208026766777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "あいつが常に1番の被害者"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 2,
+                    "utter": "離れた方がいいのに\nメンタル心配……"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "まぁその辺上手く立ち回ってくれてるから大丈夫よ"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3lezywkh23k2g",
+            "label": [
+                0.9799473285675049,
+                0.00035317163565196097,
+                0.018161781132221222,
+                0.00010535711044212803,
+                0.0001899818453239277,
+                0.0006290104356594384,
+                0.0002133350499207154,
+                0.00040000208537094295
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "取引の都合で住所教えた相手から年賀状来たんだけど、これ怒っていいんだろうか"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "普通取引以外の用途で住所使ったら駄目よ"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "ちなみにAさんです"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqmstfvpc2e",
+            "label": [
+                0.9840664863586426,
+                0.000875528552569449,
+                0.011260922066867352,
+                0.00039863737765699625,
+                0.00020510585454758257,
+                0.0009434103849343956,
+                0.0011224846821278334,
+                0.001127435825765133
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "ちなみにAさんです"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "いつも頭を抱えてるあのAさんかな"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "まさしくいつも頭抱え\"させてる\"A○○Aさんですね"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqwjyc2gk2w",
+            "label": [
+                0.9801509380340576,
+                0.0005662438343279064,
+                0.013568329624831676,
+                0.0024134390987455845,
+                0.00030212171259336174,
+                0.000408578896895051,
+                0.0005518874968402088,
+                0.002038364065811038
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "まさしくいつも頭抱え\"させてる\"A○○Aさんですね"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "まず喪中とかの可能性も考えなさいとかも言いたいね"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "今年もお説教から始まりかぁ(´-ω-)ﾊｧ…"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqwrja53k2w",
+            "label": [
+                0.0003436719416640699,
+                0.9981576800346375,
+                0.00020227316417731345,
+                0.00013042747741565108,
+                7.042023207759485e-05,
+                0.00026802284992299974,
+                0.0007966370321810246,
+                3.089733581873588e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "今年もお説教から始まりかぁ(´-ω-)ﾊｧ…"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "今まで作品とか販売した相手にも送ってそうで若干怖い\n私は匿名便使ったのでアレだけど"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "それまたちょい有り得るのが、\n俺も匿名にすれば良かった"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqxs2fxyc2w",
+            "label": [
+                0.0011476959334686399,
+                0.9797072410583496,
+                0.00039356976049020886,
+                0.0008171458612196147,
+                0.0002820140216499567,
+                0.01678111031651497,
+                0.0007742604939267039,
+                9.699132351670414e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "それまたちょい有り得るのが、\n俺も匿名にすれば良かった"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "恐れていたこと起きてるじゃねーか……………"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "砲、怒りの長文フェイズ入ります"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3ler6e45oic2m",
+            "label": [
+                0.0022520015481859446,
+                0.0072756181471049786,
+                0.007434146944433451,
+                0.006344137247651815,
+                0.9620569944381714,
+                0.00786944292485714,
+                0.004707700107246637,
+                0.002059996360912919
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "取引の都合で住所教えた相手から年賀状来たんだけど、これ怒っていいんだろうか"
+                },
+                {
+                    "author": "did:plc:43ucbhvudrpulcxpkol5kvaj",
+                    "type": 2,
+                    "utter": "怒っていい、乱用だから"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "悪気ないんだろうけど、送るなら一言くれても良かったよなぁとは思う"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqacljxyc2e",
+            "label": [
+                0.0033975557889789343,
+                0.2657293677330017,
+                0.008831304498016834,
+                0.003762309905141592,
+                0.08387003093957901,
+                0.0021260560024529696,
+                0.63018798828125,
+                0.002095406176522374
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "悪気ないんだろうけど、送るなら一言くれても良かったよなぁとは思う"
+                },
+                {
+                    "author": "did:plc:43ucbhvudrpulcxpkol5kvaj",
+                    "type": 2,
+                    "utter": "そも取引したから送ってもいい発想中々しないわ\nどうしてそうなったって正直ベース"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "俺も問いたいレベル"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqmryukyk2e",
+            "label": [
+                0.006137934047728777,
+                0.0011665639467537403,
+                0.9371187090873718,
+                0.018364688381552696,
+                0.017440173774957657,
+                0.007009008899331093,
+                0.007990730926394463,
+                0.0047722067683935165
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "俺も問いたいレベル"
+                },
+                {
+                    "author": "did:plc:43ucbhvudrpulcxpkol5kvaj",
+                    "type": 2,
+                    "utter": "また何か送られるとかないとは思うけど一回口頭注意しといても良き"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "そすね\n何なら他の奴にも同様のことしてる可能性ありそう"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqnhzzoy22e",
+            "label": [
+                0.006109485402703285,
+                0.013025598600506783,
+                0.004883974324911833,
+                0.004794593900442123,
+                0.1350593864917755,
+                0.31458809971809387,
+                0.517731249332428,
+                0.003807659028097987
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "そすね\n何なら他の奴にも同様のことしてる可能性ありそう"
+                },
+                {
+                    "author": "did:plc:43ucbhvudrpulcxpkol5kvaj",
+                    "type": 2,
+                    "utter": "流石にやばすぎて信頼紛失案件…"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "既に薄いけどもうギリのとこまできてる"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqvcngtwk2w",
+            "label": [
+                0.008953996933996677,
+                0.0016338663408532739,
+                0.015996498987078667,
+                0.0016156267374753952,
+                0.00045001934631727636,
+                0.9702108502388,
+                0.0004939201753586531,
+                0.0006451106164604425
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "既に薄いけどもうギリのとこまできてる"
+                },
+                {
+                    "author": "did:plc:43ucbhvudrpulcxpkol5kvaj",
+                    "type": 2,
+                    "utter": "てかあの人なの？どこかしらでも問題起こしてるやん"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "知ってるやつなんか、"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3leqxpel4l22w",
+            "label": [
+                0.25113818049430847,
+                0.1723080277442932,
+                0.011511148884892464,
+                0.04613851010799408,
+                0.03833121806383133,
+                0.23923419415950775,
+                0.21816599369049072,
+                0.02317272126674652
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "D(ドシタン)……"
+                },
+                {
+                    "author": "did:plc:24lgigkpkw3pn3w5rg4h4ikf",
+                    "type": 2,
+                    "utter": "大会前にフリーやったらパーツ欠損飯屋が弱くて気分良くなったのかしらんがなんか煽り散らかされました()"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "あんまり距離感バグってるようなら一喝入れてもいいと思うよ()\n\nそういや我々が雑談フリーしてる時もロクに返事してないのに1人でずっと喋ってたな"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3ldlmhhmpqs2w",
+            "label": [
+                0.004760642535984516,
+                0.0026348610408604145,
+                0.005828429479151964,
+                0.020453792065382004,
+                0.10970038175582886,
+                0.010610426776111126,
+                0.8434261679649353,
+                0.0025852317921817303
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "あんまり距離感バグってるようなら一喝入れてもいいと思うよ()\n\nそういや我々が雑談フリーしてる時もロクに返事してないのに1人でずっと喋ってたな"
+                },
+                {
+                    "author": "did:plc:24lgigkpkw3pn3w5rg4h4ikf",
+                    "type": 2,
+                    "utter": "どう言語化すればいいかわからんからAVさんに彼の介護と修正して欲しいんだよなぁ()"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "元介護職だからね"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3ldlpmq34hc2w",
+            "label": [
+                0.9900127649307251,
+                0.0010167643195018172,
+                0.002558646257966757,
+                0.0006373169599100947,
+                0.00027941493317484856,
+                0.001401284709572792,
+                0.001415689941495657,
+                0.0026780879124999046
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "元介護職だからね"
+                },
+                {
+                    "author": "did:plc:24lgigkpkw3pn3w5rg4h4ikf",
+                    "type": 2,
+                    "utter": "そり"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "嫌な奴の嫌な奴になりたいらしいけど、Dは嫌な奴に該当しないから諸説(？)"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3ldnl7eoxck2b",
+            "label": [
+                0.40740370750427246,
+                0.022568337619304657,
+                0.006473418325185776,
+                0.06544286757707596,
+                0.005595717113465071,
+                0.09764811396598816,
+                0.3848399221897125,
+                0.010027914308011532
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 1,
+                    "utter": "嫌な奴の嫌な奴になりたいらしいけど、Dは嫌な奴に該当しないから諸説(？)"
+                },
+                {
+                    "author": "did:plc:24lgigkpkw3pn3w5rg4h4ikf",
+                    "type": 2,
+                    "utter": "今度耐え切れなくなったらAVにお金渡して介護＆修正させるわ()"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 3,
+                    "utter": "バイトで草"
+                }
+            ],
+            "uri": "at://did:plc:s7azeagegx7v4etzpnfsr3ef/app.bsky.feed.post/3ldnvwswibs24",
+            "label": [
+                0.9994671940803528,
+                5.725510709453374e-05,
+                8.292291022371501e-05,
+                0.00017579460109118372,
+                2.64484369836282e-05,
+                5.4811629524920136e-05,
+                8.690214599482715e-05,
+                4.876358434557915e-05
+            ]
+        }
+    ]
+}

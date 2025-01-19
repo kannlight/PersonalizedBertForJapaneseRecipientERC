@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "んっどういたしまして、それとよろしく八奈見さん。"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "うん、よろしくね。\n(肉まん両手で抱えながら"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "八奈見さんそれ大丈夫？(肉まん抱えるの見てまた交通費足りなくなったりしてないか心配して)"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3l6afv42abm2q",
+            "label": [
+                0.002268015407025814,
+                0.0009580686455592513,
+                0.0020609984640032053,
+                0.0038008454721421003,
+                0.0002874129277188331,
+                0.9900410771369934,
+                0.0003222176746930927,
+                0.0002613560063764453
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "八奈見さんそれ大丈夫？(肉まん抱えるの見てまた交通費足りなくなったりしてないか心配して)"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "温水君、私ね気づいちゃったんだよ。肉まんの可能性ってやつに....。"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "(今度は急に何を言い出すんだろう…？)\n肉まんの…可能性？良ければ聞いていい？"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3l6ahstnk3w2x",
+            "label": [
+                0.0014737556921318173,
+                0.0003848031919915229,
+                0.9957049489021301,
+                0.0013271064963191748,
+                6.52587041258812e-05,
+                0.0008722749771550298,
+                8.538900874555111e-05,
+                8.644508488941938e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "(今度は急に何を言い出すんだろう…？)\n肉まんの…可能性？良ければ聞いていい？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "肉まんってさ、ふかふかじゃん？あったかいじゃん？世界平和だよね。"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "……それ…だけ…？けどそれで平和になってくれるといいよね…いろいろと…肉まん食べたくなってきたな…"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3l6aoi5xohz2k",
+            "label": [
+                0.000622306193690747,
+                0.0006140838377177715,
+                0.9983590245246887,
+                8.127243199851364e-05,
+                3.886173362843692e-05,
+                0.0001475764438509941,
+                8.598203567089513e-05,
+                5.093427171232179e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "……それ…だけ…？けどそれで平和になってくれるといいよね…いろいろと…肉まん食べたくなってきたな…"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "あげないよ...！？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "しょうがないそれなら俺もなにか買ってこようかな…夜食"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3l6aqrz3twd2o",
+            "label": [
+                0.006029151845723391,
+                0.0015105350175872445,
+                0.9917003512382507,
+                0.00012128892558394,
+                8.738713950151578e-05,
+                0.00021363276755437255,
+                0.0002173260727431625,
+                0.00012032989616272971
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "八奈見さんどうしてるかな…"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "呼んだ？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "よ！呼んだ無い！"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3labssvlvfc2s",
+            "label": [
+                0.044571418315172195,
+                0.13995349407196045,
+                0.01052324753254652,
+                0.1662980318069458,
+                0.5491623878479004,
+                0.018291069194674492,
+                0.064183808863163,
+                0.007016532588750124
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "よ！呼んだ無い！"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "どっち...！？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "うっ…今ごろ何してるのかな〜？って少しだけ気になった…"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3labtzzwze32w",
+            "label": [
+                0.04134709760546684,
+                0.09874852746725082,
+                0.8038443922996521,
+                0.002147645689547062,
+                0.0003317806404083967,
+                0.0505688413977623,
+                0.0020409792196005583,
+                0.0009707380668260157
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "うっ…今ごろ何してるのかな〜？って少しだけ気になった…"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "お風呂入ってアイス食べてるよ"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "そっかそっか、って急に変なこと聞いてごめん"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3labvdqdnpr2e",
+            "label": [
+                0.00532629806548357,
+                0.9677416086196899,
+                0.0002756444737315178,
+                0.003508363850414753,
+                0.00016086634423118085,
+                0.02094220742583275,
+                0.001881998497992754,
+                0.00016299777780659497
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "そっかそっか、って急に変なこと聞いてごめん"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "変なこと？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "何してるか気になった〜とか"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3laflbxoxad2a",
+            "label": [
+                0.004668830893933773,
+                0.0005344034871086478,
+                0.9940226674079895,
+                0.0002666792133823037,
+                7.005738734733313e-05,
+                0.0001658418623264879,
+                0.00013034480798523873,
+                0.0001411336415912956
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 1,
+                    "utter": "何してるか気になった〜とか"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "何？温水君暇なの？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 3,
+                    "utter": "べ！別に暇じゃぁ……ソシャゲのイベント周回したり！スタミナ消費したり！"
+                }
+            ],
+            "uri": "at://did:plc:lzvov73jyopgkaqwfgb3ybx4/app.bsky.feed.post/3lajaxuoau42c",
+            "label": [
+                0.001370004378259182,
+                0.0018141649197787046,
+                0.9955761432647705,
+                0.00017991724598687142,
+                0.0002366630214964971,
+                0.00020751009287778288,
+                0.0004951574373990297,
+                0.00012047757627442479
+            ]
+        }
+    ]
+}

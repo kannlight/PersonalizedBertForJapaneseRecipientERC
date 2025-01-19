@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "正座で待機しすぎていい加減足がしびれてきたんですが・ｘ・；"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "あー、きこえなーーーい！！"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "ギミック！・・・　ギミック！・・・\nわたしのこえが　きこえますね・ｘ・？"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lbu2uq4vke2y",
+            "label": [
+                0.8193456530570984,
+                0.0041438075713813305,
+                0.16827881336212158,
+                0.005854124668985605,
+                0.0002874044585041702,
+                0.0007832152768969536,
+                0.0006156028830446303,
+                0.0006914497935213149
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "ギミック！・・・　ギミック！・・・\nわたしのこえが　きこえますね・ｘ・？"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "きこえません……😴😴😴"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "聞こえてるじゃないの、しっかりと・ｘ・\n\nなに、心配はいらない・ｘ・\nだんだん苦しいのが楽しくなってくるさ・ｘ・"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lbuamyq5sr2o",
+            "label": [
+                0.010412574745714664,
+                0.002360961167141795,
+                0.9847054481506348,
+                0.00030044346931390464,
+                0.0002810814476106316,
+                0.0010174880735576153,
+                0.00034213796607218683,
+                0.0005798171041533351
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "聞こえてるじゃないの、しっかりと・ｘ・\n\nなに、心配はいらない・ｘ・\nだんだん苦しいのが楽しくなってくるさ・ｘ・"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "エルデンリングもダークソウルもクリアした私がこの程度のゲームに苦しむわけが……わけが（脳裏をかすめるマリオ3の記憶）"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "その理論だとそれらを楽勝でクリアできるわたしがデンリンもダクソもクリアできないわけが無い……はずなんだよなぁ・ｘ・；"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lbuau37xv22y",
+            "label": [
+                0.6272752285003662,
+                0.05899498984217644,
+                0.1098596602678299,
+                0.01286108698695898,
+                0.004958197940140963,
+                0.1492680013179779,
+                0.016906728968024254,
+                0.019876210018992424
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "その理論だとそれらを楽勝でクリアできるわたしがデンリンもダクソもクリアできないわけが無い……はずなんだよなぁ・ｘ・；"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "1年後くらいにエルデンリング初見ノーダメクリアを達成したぷり娘氏に突撃インタビューしなくては！？！？"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "いやぁ、デンリンは強敵でしたね・ｘ・\n特にぷり娘さんが溶鉱炉に親指立てて沈んでいくシーンは涙なしには語れませんね・ｘ・"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lbub3d5azt2g",
+            "label": [
+                0.9958653450012207,
+                0.0020203597377985716,
+                0.00015693642490077764,
+                0.0009772831108421087,
+                5.3929255955154076e-05,
+                0.0004974311450496316,
+                0.00016075660823844373,
+                0.0002679579483810812
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "う　と　お　が鬼門だった・ｘ・；"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "次のか行のストックは十分ですか？？"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "か:カラテカ\nき:キャプテン翼II スーパーストライカー\nく:クォース(Quarth)\nけ:ケルナグール\nこ:コナミワイワイワールド\n\n……図らずもFC縛りになってしまった・ｘ・；"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lflzf2x4ts2v",
+            "label": [
+                0.11621760576963425,
+                0.7256848216056824,
+                0.0057279132306575775,
+                0.07779216021299362,
+                0.0005230548558756709,
+                0.07083125412464142,
+                0.002266171621158719,
+                0.0009570149704813957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "か:カラテカ\nき:キャプテン翼II スーパーストライカー\nく:クォース(Quarth)\nけ:ケルナグール\nこ:コナミワイワイワールド\n\n……図らずもFC縛りになってしまった・ｘ・；"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "そこはギミック！ではないんですか！\nか行でプレイ済みのゲーム、ゴーストリコンワイルドランズ以外なにもない疑惑…！\nと思ったら原神がありましたね"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "濁点は別扱いかな、と思ったので……・ｘ・；\n\nが：がんばれゴエモン2 奇天烈将軍マッギネス\nぎ：Gimmick！\nぐ：グラディウス\nげ：ゲゲゲの鬼太郎 妖怪大魔境\nご：Goat Simulator\n\nと言うわけで、が行でした・ｘ・"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lfmhabtx3f2b",
+            "label": [
+                0.9729952812194824,
+                0.002621098654344678,
+                0.02089531719684601,
+                0.0009140170295722783,
+                0.0002492393250577152,
+                0.000738158356398344,
+                0.0008990293717943132,
+                0.0006878614658489823
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "濁点は別扱いかな、と思ったので……・ｘ・；\n\nが：がんばれゴエモン2 奇天烈将軍マッギネス\nぎ：Gimmick！\nぐ：グラディウス\nげ：ゲゲゲの鬼太郎 妖怪大魔境\nご：Goat Simulator\n\nと言うわけで、が行でした・ｘ・"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "ぷり娘さんは濁点別枠でも全文字プレイ済みな勢いかぁ🤣\nがんばれゴエモンとゴーストオブツシマもあったなぁとは思ったものの結局か行は濁点付き以外思いつかない件！\nキルゾーンとかキングオブファイターズとか名前は知ってても触ったことないのよねえ……あっ、機動戦士ガンダムから始まる何かなら触ってる気がする！！"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "2～3歳くらいからゲームやってたしね・ｘ・；\nか行(濁音あり)だと、クロノトリガー(クロス)とか極上パロディウスとかはやった事ないかな・ｘ・？"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lfmlgrkqfy2g",
+            "label": [
+                0.0353056862950325,
+                0.0008713629213161767,
+                0.9617503881454468,
+                0.0003186901449225843,
+                0.00022413885744754225,
+                0.0004901133943349123,
+                0.00046182109508663416,
+                0.0005778881022706628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 1,
+                    "utter": "2～3歳くらいからゲームやってたしね・ｘ・；\nか行(濁音あり)だと、クロノトリガー(クロス)とか極上パロディウスとかはやった事ないかな・ｘ・？"
+                },
+                {
+                    "author": "did:plc:vp6z2dqb4essazwtdp5myrq5",
+                    "type": 2,
+                    "utter": "クロノ・トリガーならSteam版を積んでますわよ？"
+                },
+                {
+                    "author": "did:plc:aej5ppamxjhdkdht2bikyig7",
+                    "type": 3,
+                    "utter": "積んでるのは、うん……プレイしたうちに入らないね・ｘ・；"
+                }
+            ],
+            "uri": "at://did:plc:aej5ppamxjhdkdht2bikyig7/app.bsky.feed.post/3lfmn5ggdwd2j",
+            "label": [
+                0.008074641227722168,
+                0.9835388660430908,
+                0.00032708459184505045,
+                0.001468453323468566,
+                0.00010640778054948896,
+                0.004540476482361555,
+                0.0018340845126658678,
+                0.0001099747751140967
+            ]
+        }
+    ]
+}

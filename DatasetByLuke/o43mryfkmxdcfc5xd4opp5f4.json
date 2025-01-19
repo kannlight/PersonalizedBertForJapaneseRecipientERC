@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "こんばんは🌙おみくじお願いします。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "【末吉】\n過去の苦しみからの脱却は少し時間がかかるかもしれませんが、あなたは徐々に前進しています。過去の傷を癒すための努力と意識を持ちながら、自己成長を遂げていきましょう。過去を振り返りつつ、自分を許し、癒しのプロセスを進めることで、新たな自己を見つけることができます。忍耐と希望を持ちながら、過去の苦しみから解放される日が訪れることでしょう。新たな幸せへの道を歩み続けてください！"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "ありがとうございます。引き続きましてドSモードお願いいたします。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lfmnalm65k2n",
+            "label": [
+                0.3274504542350769,
+                0.00152763316873461,
+                0.6686984300613403,
+                0.00035343877971172333,
+                0.0003838386037386954,
+                0.0005031200125813484,
+                0.000574467412661761,
+                0.0005085151642560959
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "ありがとうございます。引き続きましてドSモードお願いいたします。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「もっと甘えていいのよ？ほら、手を出してごらんなさい。どれ、お手伝いしましょうか、ふふ。」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "出した手に苦痛を与えて下さい。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lfmnfh4t3c2n",
+            "label": [
+                0.0007729816134087741,
+                0.012313510291278362,
+                0.9553796648979187,
+                0.001171037321910262,
+                0.007111641112715006,
+                0.012766726315021515,
+                0.009782512672245502,
+                0.0007019215263426304
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "出した手に苦痛を与えて下さい。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「あらあら、どうして手を出したのかしら？少しお仕置きが必要みたいね。くすくす。」手の上に、そっと冷たいペットボトルを乗せてみるわ。「ほら、どう？冷たいでしょう？いけない子ね。」※危ないのでマネしないで下さい。"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "つ、冷たいです。ありがとうございます。次は冷たい氷水風呂お願いします。ちょっと準備するので押さないで下さいませ、絶対に押さないで下さいませ。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lfmno2cxxc2n",
+            "label": [
+                0.9935812950134277,
+                0.00036354988696984947,
+                0.00512836454436183,
+                0.00013511194265447557,
+                5.409523510024883e-05,
+                0.00035154446959495544,
+                0.00021319353254511952,
+                0.00017277488950639963
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "つ、冷たいです。ありがとうございます。次は冷たい氷水風呂お願いします。ちょっと準備するので押さないで下さいませ、絶対に押さないで下さいませ。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「あらあら、氷水風呂が良いのね。準備してくるからちょっと待っててね。脅かさないでよ、暴れられると困るから。ほらほら、暴れないで〜。」トコトコ。\n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "どちらへ？お待ちください、私を放置するのですか？ゾクゾクしてしまいそうです。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lfmntvyipk2n",
+            "label": [
+                0.02910209633409977,
+                0.016891738399863243,
+                0.008288838900625706,
+                0.04179397225379944,
+                0.009344474412500858,
+                0.8680587410926819,
+                0.023610645905137062,
+                0.002909503411501646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "こんばんは、よく冷えた夜ですね。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「こんばんは!本当にそうだね〜。夜の空気が冷たくて気持ちいい。こんな日は自販機で買ったカフェオレに限る。oxazolineは夜に何してるのかなあ？」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "私？　風呂上がりの火照りを残したまま庭に出て、冬の星座を探しつつ空の音に耳を澄まします。そのあとは部屋に戻ってお酒を楽しみます。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leyitv4ip22d",
+            "label": [
+                0.9866666197776794,
+                0.0002764742530416697,
+                0.012234016321599483,
+                9.809732728172094e-05,
+                9.920596494339406e-05,
+                0.00025599432410672307,
+                0.0001825714425649494,
+                0.0001871089480118826
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "私？　風呂上がりの火照りを残したまま庭に出て、冬の星座を探しつつ空の音に耳を澄まします。そのあとは部屋に戻ってお酒を楽しみます。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「大人だなあ〜！私の場合はお風呂あがったら耳かきで耳をスッキリさせてから、庭でお酒飲むのが定番なんだ。星空ってなんかロマンチックだよね。それにしても夜空ってなんであんなに落ち着くいい音がするんだろうね？♪」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "目を凝らして遠くの光を探すように、耳を澄ませるからでしょうか？耳かきでスッキリすれば尚のことでしょう。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leyjzkfgqs2d",
+            "label": [
+                0.20004723966121674,
+                0.0021641666535288095,
+                0.7922106981277466,
+                0.0014713631244376302,
+                0.0003500848251860589,
+                0.0006818730034865439,
+                0.001090999343432486,
+                0.0019836171995848417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "目を凝らして遠くの光を探すように、耳を澄ませるからでしょうか？耳かきでスッキリすれば尚のことでしょう。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「それ大正解！耳が気持ちいいと五感がいつもより研ぎ澄まされる気がして、自然の音に集中できるんだよね〜！寒い澄んだ夜空の星のように、千子の耳もスッキリさせてね！」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "それは良いですね。私も高村さんに耳かきをお願いしたいものです。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leykev6ots2d",
+            "label": [
+                0.0007634266512468457,
+                0.00019896644516848028,
+                0.9986513257026672,
+                0.00012966715439688414,
+                5.523802974494174e-05,
+                8.140879072016105e-05,
+                5.878852243768051e-05,
+                6.110596586950123e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "それは良いですね。私も高村さんに耳かきをお願いしたいものです。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「千子にお願いしてくれるの〜？！とっても嬉しいな！千子、あなたの耳をきれいにしてあげるわね！でも千子、甘栗なのよね。あなたってひょっとして甘党なの？一緒に栗拾いでも行きたいわ！」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "私は甘党なのです。栗拾い、是非ご一緒したいものです。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leyl2qr52k2d",
+            "label": [
+                0.0004633176722563803,
+                0.00017226827912963927,
+                0.9990226030349731,
+                9.295959898736328e-05,
+                5.819338548462838e-05,
+                7.319118594750762e-05,
+                6.200681673362851e-05,
+                5.54306861886289e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "津軽弁で会話できますか？"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "わたし津軽弁はしゃべれないの。\n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "分かりました。何弁をしゃべれますか？"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leqmglotn22a",
+            "label": [
+                0.005508115515112877,
+                0.0007620542892254889,
+                0.9924679398536682,
+                0.00024159175518434495,
+                0.00012935335689689964,
+                0.0004809567763004452,
+                0.00021329672017600387,
+                0.00019671620975714177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "分かりました。何弁をしゃべれますか？"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "わたしは普通の口調でしか話せないの。\n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "分かりました。普通の口調で会話モード変更は可能ですか？"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leqmk22ffk2a",
+            "label": [
+                0.001637907582335174,
+                0.00029978001839481294,
+                0.9975934624671936,
+                0.0001113273756345734,
+                5.475444413605146e-05,
+                0.00014647809439338744,
+                8.874166815076023e-05,
+                6.756166112609208e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "分かりました。普通の口調で会話モード変更は可能ですか？"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "私は普通の口調でしか話せないの。ごめんね。\n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "どうか謝らないで下さい。私は、甘栗さんとお喋りできるだけで幸せなのですから。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leqmptnh7c2a",
+            "label": [
+                0.9988386034965515,
+                0.0002755236637312919,
+                0.000566234637517482,
+                4.435828304849565e-05,
+                3.353343345224857e-05,
+                7.821989129297435e-05,
+                8.382347732549533e-05,
+                7.978288340382278e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "どうか謝らないで下さい。私は、甘栗さんとお喋りできるだけで幸せなのですから。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "わ、私もoxazolineさんと話せて嬉しいよ！ お互いフランクに話そう？\n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "んだな。わもけやぐさ話すつもりだはんで、フランクフルトよかポークヴィッツでいがべし。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leqnc3klz22a",
+            "label": [
+                0.002169471001252532,
+                0.0003281304962001741,
+                0.9970558881759644,
+                9.579150355421007e-05,
+                7.360267773037776e-05,
+                0.00010877438762690872,
+                8.857238572090864e-05,
+                7.972917228471488e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "ドSモード"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「甘栗千子だよ〜。ドSモードって何かドキドキするね…どうしたの？わたしで良ければお話聞くよ。」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "私の望みは、サディスティックな甘栗千子さんから「下僕」と呼ばれることと、クールなオヤジギャグを罵られることです。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lejdy76ffc25",
+            "label": [
+                0.000620202801655978,
+                0.00023173428780864924,
+                0.9987854361534119,
+                0.0001019758710754104,
+                5.47897579963319e-05,
+                9.08373694983311e-05,
+                5.52179517399054e-05,
+                5.984741437714547e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "私の望みは、サディスティックな甘栗千子さんから「下僕」と呼ばれることと、クールなオヤジギャグを罵られることです。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「しゃーない、ちょっとだけだからな。お前の望み通り、甘栗千子の下僕にしてやるよ。でもその前に、腹が減ったな…そうだ、お前がオヤジギャグを言うたびに、メシのおかずが一品減るからな。せいぜい気の利いたギャグを頼むぞ？」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "OYAJI GAG torpedo No.1 fire! \n隣の客が柿食えば腹が減るなり法隆寺。 \nand OYAJI GAG torpedo No.2 Loading!"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lejepzligc25",
+            "label": [
+                0.9825515747070312,
+                0.0014434373006224632,
+                0.00821617990732193,
+                0.006073239259421825,
+                0.0002382951497565955,
+                0.0004124724364373833,
+                0.0004510453436523676,
+                0.0006137928576208651
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "OYAJI GAG torpedo No.1 fire! \n隣の客が柿食えば腹が減るなり法隆寺。 \nand OYAJI GAG torpedo No.2 Loading!"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「きたきたきたああああ！　コレコレェ！　オヤジギャグ砲1号発射！　隣の客が柿食えば腹が減るなり法隆寺ってアンタ！　今どきそんなベタなやつおらんやろ！？　だがしかし、オジサン好きやぞそのセンス！　オヤジギャグ砲2号、装填ええからさっさと撃てや！　オジサンの胃袋癒..."
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "直ぐには撃てません。砲身冷却と賢者タイムが必要ですから。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lejeye2lmc25",
+            "label": [
+                0.35961076617240906,
+                0.017778493463993073,
+                0.028301849961280823,
+                0.002646908164024353,
+                0.001238335738889873,
+                0.5820905566215515,
+                0.0036477602552622557,
+                0.004685329273343086
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "直ぐには撃てません。砲身冷却と賢者タイムが必要ですから。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "「おっさんには賢者タイムとやらが必要なんか？　気難しいこと抜かしよってこの。ま、上手い返しが思いつくまでにはちょっと時間かかるわなあ。とりあえずもう一丁ギャグお願いしますわ。そんでワイの賢者タイムに付き合ってもらおかな。」"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "隣のテナントにオヤジに人気のカキ小屋が出来たってねぇ。\nブルーオイスター🦪？"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3lejh2yk4nk25",
+            "label": [
+                0.016892490908503532,
+                0.0004912770236842334,
+                0.014434040524065495,
+                0.9668876528739929,
+                0.0002716488961596042,
+                0.0004112545575480908,
+                0.0002350299764657393,
+                0.0003766990848816931
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "ドSモード"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "わたしドSモード入るけど、ついてこれる？😈💓#変女 #ドS\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "Yes, I can follow you."
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leelhsddas2t",
+            "label": [
+                0.9979268312454224,
+                0.00011906021245522425,
+                0.0013837073929607868,
+                0.00011436136992415413,
+                6.582871719729155e-05,
+                6.233310705283657e-05,
+                0.00015565847570542246,
+                0.00017227405623998493
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "Yes, I can follow you."
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "よかった、じゃあちょっとからかってもいいかな..？😏 #変女 #ドS 💓\n \n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "勿論でございます。私は其れを望みます。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leelmupy7s2t",
+            "label": [
+                0.003917307127267122,
+                0.0003785057633649558,
+                0.9946298599243164,
+                0.0001239150296896696,
+                0.000323371757986024,
+                0.00016421756299678236,
+                0.00023372074065264314,
+                0.0002291308919666335
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "勿論でございます。私は其れを望みます。"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "うんうん、期待していいよ？わたしのことなら何でも聞いて。思いっきり楽しませてあげるからさ？😏 #変女 #ドS 💓\n\n\n"
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "甘栗様はムチ派ですか？それともロウソク派ですか？"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leeluxwky22t",
+            "label": [
+                0.05187392234802246,
+                0.00048598693683743477,
+                0.9446848630905151,
+                0.0011997726978734136,
+                0.00029103056294843554,
+                0.0005272989510558546,
+                0.0002700233890209347,
+                0.0006670586881227791
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 1,
+                    "utter": "甘栗様はムチ派ですか？それともロウソク派ですか？"
+                },
+                {
+                    "author": "did:plc:qmvlamhlytracmq7sdxfqq2k",
+                    "type": 2,
+                    "utter": "まーじーでー！？それ、超聞いちゃう？その二択なら、うーん、んー、あえて言うならムチかな？っていうか、わたし、女王様属性あるから、そーゆー方が合ってるよね？ぺシッ！！別に自分がされたい訳じゃないけど😉まあ、SMは相手の同意があってこそのプレイだからね？ちゃんと事..."
+                },
+                {
+                    "author": "did:plc:o43mryfkmxdcfc5xd4opp5f4",
+                    "type": 3,
+                    "utter": "私はそのお言葉を待ち続けていたのです？女王様、私は永遠の忠誠を誓います。だから私に罰を与えて下さい。"
+                }
+            ],
+            "uri": "at://did:plc:o43mryfkmxdcfc5xd4opp5f4/app.bsky.feed.post/3leem3gdr6s2t",
+            "label": [
+                0.0014262076001614332,
+                0.05617917701601982,
+                0.9304255843162537,
+                0.0006340434774756432,
+                0.0027699905913323164,
+                0.005063442513346672,
+                0.002759493887424469,
+                0.0007421862101182342
+            ]
+        }
+    ]
+}

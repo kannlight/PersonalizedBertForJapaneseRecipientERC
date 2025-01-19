@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "爆豪、林檎…??ウチのもあげる…(しれっと、たい焼き皿に乗せて)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "おい…其れ、ぜってェ美味しくねェし味染みまくりだろ!! (くわっと目を釣り上げ)安心しろ、俺は女にも容赦なく優しい(？)からな。\nこれをお裾分けしたる(大福は渡さずに端によせ彼女の皿にウサギ林檎置いてやり)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "…わざわざウサギにしてある…(笑)\nって、林檎もまぁまぁ味染みてるよね、これ!?"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpuxh6nec2u",
+            "label": [
+                0.0018177138408645988,
+                0.00041317151044495404,
+                0.0011670360108837485,
+                0.9959163069725037,
+                0.00012876135588157922,
+                0.0002739823830779642,
+                0.0001617492234800011,
+                0.0001212476781802252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "…わざわざウサギにしてある…(笑)\nって、林檎もまぁまぁ味染みてるよね、これ!?"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "どうせ烏かウサギ野郎辺りだろォけどな。毎度手の込んだ形しやがッて、器用すぎンだわ(褒めてる)\n味染みてて美味いぞ、食え"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "ん…たい焼きよりは、固形だし食べやすいかな…??(苦笑いしながら、一口食べて)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpvgf3bmk2u",
+            "label": [
+                0.9947191476821899,
+                0.0003531187539920211,
+                0.00334283709526062,
+                0.00027709960704669356,
+                6.205736281117424e-05,
+                0.0006381163257174194,
+                0.0003581253404263407,
+                0.0002495124936103821
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "ん…たい焼きよりは、固形だし食べやすいかな…??(苦笑いしながら、一口食べて)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "…(強い女だなッと眺め、口直し用に真っ赤に染まった水を置いといてやり)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "…ねぇ、これ何入ってるの…(見るからに赤い液体を怪訝そうに見て)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpvzz35y22u",
+            "label": [
+                0.027330290526151657,
+                0.004270501434803009,
+                0.007844611071050167,
+                0.24466684460639954,
+                0.0006191709544509649,
+                0.7128279805183411,
+                0.001538281561806798,
+                0.0009022692684084177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "…ねぇ、これ何入ってるの…(見るからに赤い液体を怪訝そうに見て)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "甘いのばっかだし口直しに唐辛子ジュース？"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "ぜっったい、いらない!!\n爆豪飲みなよ!?(押し返し)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpwbwda2k2u",
+            "label": [
+                0.05144819617271423,
+                0.04297703504562378,
+                0.49350860714912415,
+                0.041322749108076096,
+                0.24508240818977356,
+                0.01037012692540884,
+                0.09929322451353073,
+                0.01599762961268425
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "わ、爆豪も餡子…って、大福!?\nなんかウチより美味しくなさそう…(苦笑)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "たい焼きより掴みにくいしドロドロになっとるわ(真顔)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "うわ、ギリギリだね…(様子を見れば苦笑いし)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcptrs6tcc2u",
+            "label": [
+                0.3424703776836395,
+                0.030616164207458496,
+                0.006812775041908026,
+                0.13971874117851257,
+                0.001984810922294855,
+                0.46593132615089417,
+                0.008331323973834515,
+                0.004134545102715492
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "うわ、ギリギリだね…(様子を見れば苦笑いし)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "テメェのたい焼きの上乗せて食ってみろよ(言いながらたい焼きの上に乗せて"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "あっ、ちょっと…!!(慌てて止めようとするも、間に合わず)\nたい焼きで餡子と出汁が合わないの分かってるのに、さらに増やさないでよ…(苦笑い)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpva3awms2u",
+            "label": [
+                0.007721198722720146,
+                0.8041255474090576,
+                0.0004295191029086709,
+                0.14266075193881989,
+                0.003115161322057247,
+                0.025142107158899307,
+                0.016380978748202324,
+                0.0004246401658747345
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "あっ、ちょっと…!!(慌てて止めようとするも、間に合わず)\nたい焼きで餡子と出汁が合わないの分かってるのに、さらに増やさないでよ…(苦笑い)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "まだ皮があるだけマシじゃね…？\n俺は1個で胸焼けしたわ…"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "爆豪のも一応皮あるじゃん。お餅だけど…(笑)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpvketgvs2u",
+            "label": [
+                0.011209940537810326,
+                0.0010765813058242202,
+                0.001175780314952135,
+                0.985276997089386,
+                0.00015799971879459918,
+                0.0005018662195652723,
+                0.0004126288404222578,
+                0.00018813226779457182
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "い、いただきます…\n(緊張しながらも具材を取れば困惑し)\nえ、なにこれ。…たい焼き…??"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "初参加でネタ食材かよ、ようこそって感じだな(笑いこらえ)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "なんかデロデロしてるし、甘いし…(一口食べれば、顔を顰めて)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpsfl6kkc2u",
+            "label": [
+                0.32830268144607544,
+                0.11296118050813675,
+                0.004687258508056402,
+                0.02948407270014286,
+                0.001374984160065651,
+                0.48301854729652405,
+                0.0370974987745285,
+                0.0030738527420908213
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "なんかデロデロしてるし、甘いし…(一口食べれば、顔を顰めて)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "おお…海老つみれ食うか？(味変しろよ、と皿差し出して)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "海老、美味しいのに…荼毘は食べないの??(こっちもどうぞ??と、たい焼き差し出して)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpsoijxms2u",
+            "label": [
+                0.28779470920562744,
+                0.2103920876979828,
+                0.11977620422840118,
+                0.339144229888916,
+                0.007877442985773087,
+                0.012123644351959229,
+                0.015143785625696182,
+                0.007747881580144167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "海老、美味しいのに…荼毘は食べないの??(こっちもどうぞ??と、たい焼き差し出して)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "俺は魚介類嫌いなンだよ…大福貰ったのに今度はたい焼きかよ、(しゃあねェ、とたい焼き少し受け取り)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "魚介ダメなんだ??\nふっ…デザート沢山だね??(くすくす笑い)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpt67cklk2u",
+            "label": [
+                0.9898102283477783,
+                0.0006307196454145014,
+                0.00048648822121322155,
+                0.008359955623745918,
+                6.837878026999533e-05,
+                0.0002523442672099918,
+                0.00023880381195340306,
+                0.00015294992772396654
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "魚介ダメなんだ??\nふっ…デザート沢山だね??(くすくす笑い)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "生臭いのが勝ってな…、…甘いのは好きだからまぁイける(たい焼き口に入れてはもぐつき)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "なるほど…海老は大丈夫そうなのにねぇ。たい焼き、不思議な味しない??(笑)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcptl5gqvk2u",
+            "label": [
+                0.0020846351981163025,
+                0.0003314402711112052,
+                0.002219785237684846,
+                0.9945665597915649,
+                0.00011482005356810987,
+                0.0003781385312322527,
+                0.0001695379032753408,
+                0.0001350213133264333
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "い、いただきます…\n(緊張しながらも具材を取れば困惑し)\nえ、なにこれ。…たい焼き…??"
+                },
+                {
+                    "author": "did:plc:d2kmv42oqadtqjbkz33xgi3r",
+                    "type": 2,
+                    "utter": "あら、耳郎さん、今日の当たりかもしれませんわ\n私お蕎麦でしたの、こちらもいかがです？（縁外失礼）"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "ヤオモモ〜…(泣きつき)\nえ。もらってもいいの??\n\n(絡み感謝)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpsmf47rk2u",
+            "label": [
+                0.873757004737854,
+                0.037753861397504807,
+                0.0024334427434951067,
+                0.08036598563194275,
+                0.0004426647792570293,
+                0.0032488026190549135,
+                0.0010577038628980517,
+                0.0009405474411323667
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "ヤオモモ〜…(泣きつき)\nえ。もらってもいいの??\n\n(絡み感謝)"
+                },
+                {
+                    "author": "did:plc:d2kmv42oqadtqjbkz33xgi3r",
+                    "type": 2,
+                    "utter": "お蕎麦は美味しいですわよ（小皿に取り分けて）"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "ありがと〜…(味わって食べて)\n蕎麦ってことは、轟辺りかな…??"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcpswurt7s2u",
+            "label": [
+                0.9992634654045105,
+                8.467803854728118e-05,
+                0.0004000482149422169,
+                5.859349403181113e-05,
+                2.5973045922000892e-05,
+                5.3024843509774655e-05,
+                5.5375723604811355e-05,
+                5.889590102015063e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "ありがと〜…(味わって食べて)\n蕎麦ってことは、轟辺りかな…??"
+                },
+                {
+                    "author": "did:plc:d2kmv42oqadtqjbkz33xgi3r",
+                    "type": 2,
+                    "utter": "きっと轟さんですわね\n私、闇鍋は…あっと驚くものをと言われて…（にこにこ）"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "え、ヤオモモ何入れたの…??(恐る恐る)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcptaapwuk2u",
+            "label": [
+                0.0010565088596194983,
+                0.000289113144390285,
+                0.0013801291352137923,
+                0.9959956407546997,
+                0.00015998871822375804,
+                0.0008443442056886852,
+                0.00014588909107260406,
+                0.00012841695570386946
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "え、ヤオモモ何入れたの…??(恐る恐る)"
+                },
+                {
+                    "author": "did:plc:d2kmv42oqadtqjbkz33xgi3r",
+                    "type": 2,
+                    "utter": "も…申し訳ございませんわ（目を逸らした）"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "え、これヤオモモ!?(たい焼き指さし)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3lcptjbqg222u",
+            "label": [
+                0.0006336761289276183,
+                0.00033604289637878537,
+                0.0006619806517846882,
+                0.9976054430007935,
+                0.00022383872419595718,
+                0.00023370431154035032,
+                0.00018447887850925326,
+                0.00012086944479960948
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "大丈夫、ウチも同じだから…"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "皆が迎え来てくれとるから助かっとる。"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "仲良しでいいね(笑)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3l75r7i4zk42d",
+            "label": [
+                0.9996057152748108,
+                4.627110683941282e-05,
+                0.00012716020864900202,
+                6.674773612758145e-05,
+                2.546235191402957e-05,
+                4.2760650103446096e-05,
+                4.593221819959581e-05,
+                3.987122545368038e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "仲良しでいいね(笑)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "仲良しというか、俺が迷子というかな。\n良いヤツらだわ"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "お世話されてる爆 豪、レアじゃんね(笑)"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3l75tniqzum2z",
+            "label": [
+                0.6598865389823914,
+                0.0014992193318903446,
+                0.00830833800137043,
+                0.32740017771720886,
+                0.0003686320560518652,
+                0.001072790240868926,
+                0.0005486916052177548,
+                0.0009157261811196804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "お世話されてる爆 豪、レアじゃんね(笑)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "お世話されとる俺ッて言い方が笑う、世話されてねェし"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "迷子捕まえて貰ってる時点で、しっかりお世話されてるじゃん??"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3l75tyq5aej2d",
+            "label": [
+                0.9978182315826416,
+                0.00011232195538468659,
+                0.000495240674354136,
+                0.0010734626557677984,
+                9.50790781644173e-05,
+                4.4660355342784896e-05,
+                0.00014661913155578077,
+                0.00021439687407109886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 1,
+                    "utter": "迷子捕まえて貰ってる時点で、しっかりお世話されてるじゃん??"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "しゃあねェだろ。最初はテメェも迷子だろ同じだわ、ザマァ(笑)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 3,
+                    "utter": "絶対先に使いこなしてやる…"
+                }
+            ],
+            "uri": "at://did:plc:l7wxavhknlqaxwrqa7zurcqw/app.bsky.feed.post/3l76a6yiedq2i",
+            "label": [
+                0.0007207833114080131,
+                0.00026042279205285013,
+                0.9985383749008179,
+                0.0001504969404777512,
+                8.847647404763848e-05,
+                0.00010817106522154063,
+                5.927506208536215e-05,
+                7.404035568470135e-05
+            ]
+        }
+    ]
+}

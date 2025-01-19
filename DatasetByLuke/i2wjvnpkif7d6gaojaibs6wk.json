@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "5桁目指そう"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "そんなに！？！？！？！？！？！？！？！？！？！？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "そろそろ5桁時間行った？"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lbvypd7wfs2n",
+            "label": [
+                0.3456914722919464,
+                0.008757984265685081,
+                0.030979562550783157,
+                0.536989152431488,
+                0.0010968062561005354,
+                0.06813788414001465,
+                0.00390320410951972,
+                0.004443963523954153
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "そろそろ5桁時間行った？"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "そろそろね。"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "あと2時間くらいか"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lbw2jenr5k2n",
+            "label": [
+                0.2158893197774887,
+                0.29642924666404724,
+                0.04392583668231964,
+                0.02008960023522377,
+                0.0010834642453119159,
+                0.4109538197517395,
+                0.009243798442184925,
+                0.0023849038407206535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "あと2時間くらいか"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "時空歪みすぎだろ"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "黄金のレガシーとかけてる？"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lbw5omm6522n",
+            "label": [
+                0.6787763237953186,
+                0.004868750460445881,
+                0.13205952942371368,
+                0.16435882449150085,
+                0.0017821629298850894,
+                0.005982960108667612,
+                0.006962308660149574,
+                0.00520917447283864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "黄金のレガシーとかけてる？"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "確かに\nじゃあそれで"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "嘘つけ\nお前ストーリー全飛ばし"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lbwd43w5422n",
+            "label": [
+                0.005141545087099075,
+                0.0144170131534338,
+                0.0019217595690861344,
+                0.04774024710059166,
+                0.8137320876121521,
+                0.012220901437103748,
+                0.10285384207963943,
+                0.0019727118778973818
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "タンク最高の瞬間"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "こーれタンク最高の瞬間です"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "マッチさんのあそこ………硬くて最高でした………///"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lcbxlidnsc2y",
+            "label": [
+                0.999653697013855,
+                4.249884659657255e-05,
+                9.602276986697689e-05,
+                5.487239104695618e-05,
+                2.740114177868236e-05,
+                4.120045559830032e-05,
+                4.297087070881389e-05,
+                4.13527523051016e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "マッチさんのあそこ………硬くて最高でした………///"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "え？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "事後最高の瞬間"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lccevaztds2y",
+            "label": [
+                0.999643087387085,
+                4.654440999729559e-05,
+                7.737500709481537e-05,
+                6.120773468865082e-05,
+                2.7533265892998315e-05,
+                5.0792910769814625e-05,
+                4.983652615919709e-05,
+                4.3588785047177225e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "事後最高の瞬間"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "いいや最中も最高の瞬間だね\nしたことないけど"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "なんかごめん"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lccl7p6z222y",
+            "label": [
+                0.0002746493264567107,
+                0.9983139038085938,
+                0.00014778300828766078,
+                0.00014936896332073957,
+                8.166359475580975e-05,
+                0.0005501494742929935,
+                0.000448459351900965,
+                3.405153984203935e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "なんかごめん"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "なぜ謝るんですか？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "スイパラ行きたいね"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3lccmlblz4c2y",
+            "label": [
+                0.0004190986219327897,
+                0.0002257526939501986,
+                0.9990096092224121,
+                9.313027112511918e-05,
+                5.035091089666821e-05,
+                8.777503535384312e-05,
+                6.400590791599825e-05,
+                5.024686470278539e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "流石に強くなりすぎかもしれん"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 2,
+                    "utter": "こいつなんで火力上がったんだ…？？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "わからなすぎる\n火力最弱の戦士が何も無しなのに……"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3laqejttmqs2t",
+            "label": [
+                0.00032075977651402354,
+                0.9960982799530029,
+                0.00011322644422762096,
+                0.00037525425432249904,
+                0.000267479830654338,
+                0.0018656646134331822,
+                0.0009170052362605929,
+                4.220420669298619e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "わからなすぎる\n火力最弱の戦士が何も無しなのに……"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 2,
+                    "utter": "戦士君モーション早くなっただけなの可哀想すぎ"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "ほんとになんで？？？\nもともとホルムは発生クソ早かったし"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3laqf2ngkvc2t",
+            "label": [
+                0.00058674969477579,
+                0.000996677903458476,
+                0.00046996568562462926,
+                0.9909918308258057,
+                0.001227156724780798,
+                0.004040432162582874,
+                0.0015028463676571846,
+                0.000184393793460913
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "ほんとになんで？？？\nもともとホルムは発生クソ早かったし"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 2,
+                    "utter": "運営は戦士アンチか…\n戦士だけ無いのは可哀想だから適当に追加した説"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "まあ暗黒かナイトに着替えればええか！！！"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3laqgj5tiuk2t",
+            "label": [
+                0.008168593049049377,
+                0.0008890476892702281,
+                0.9901264905929565,
+                0.0001595475769136101,
+                0.00010201436816714704,
+                0.00023764018260408193,
+                0.00017727111116982996,
+                0.00013936679170001298
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 1,
+                    "utter": "まあ暗黒かナイトに着替えればええか！！！"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 2,
+                    "utter": "あれガンブレは？？？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 3,
+                    "utter": "なんか3層もガンブレで行こうとしたらマッチさんに怒られたので……"
+                }
+            ],
+            "uri": "at://did:plc:i2wjvnpkif7d6gaojaibs6wk/app.bsky.feed.post/3laqgm2hz4s2t",
+            "label": [
+                0.00031839351868256927,
+                0.9987474679946899,
+                0.00011876659846166149,
+                0.00022776010155212134,
+                5.506099478225224e-05,
+                0.00032502057729288936,
+                0.00018291424203198403,
+                2.4479933927068487e-05
+            ]
+        }
+    ]
+}

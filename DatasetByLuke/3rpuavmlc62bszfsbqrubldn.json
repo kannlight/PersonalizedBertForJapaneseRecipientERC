@@ -1,0 +1,1174 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "(睡眠を心配されとるツギハギが見えた)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "（親父より早起きだからな）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "(おっさんもなかなか早いのにアレより早いんか)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lfcvgy4l522x",
+            "label": [
+                0.0005906347651034594,
+                0.0008924764115363359,
+                0.00036055591772310436,
+                0.996996283531189,
+                0.00016011019761208445,
+                0.0005828025168739259,
+                0.00032720688614062965,
+                8.991215145215392e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "(おっさんもなかなか早いのにアレより早いんか)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "（だから平和の象徴が心配してたんじゃねぇか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "(布団に縛りあげて一定時間まで寝かしつけるしかねぇんじゃね)."
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lfcvsidazs2x",
+            "label": [
+                0.1481582075357437,
+                0.3308020532131195,
+                0.12541599571704865,
+                0.004144505597651005,
+                0.0016082549700513482,
+                0.37866315245628357,
+                0.00863309483975172,
+                0.0025747271720319986
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "(布団に縛りあげて一定時間まで寝かしつけるしかねぇんじゃね)."
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "（布団消し炭にしそうじゃないか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "(高級な布団にしときゃちょっとは遠慮するんじゃね)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lffed3ia3k2o",
+            "label": [
+                0.029449263587594032,
+                0.19657844305038452,
+                0.722480833530426,
+                0.004108135588467121,
+                0.005570581182837486,
+                0.02254006452858448,
+                0.015405447222292423,
+                0.0038671609945595264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "(高級な布団にしときゃちょっとは遠慮するんじゃね)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "（山一つ消し炭にする奴が布団ごときで遠慮するか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "(戦闘になったらそうだろうが寝るときは…ちっとは気になるんじゃねぇか)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lfffirixuc2o",
+            "label": [
+                0.007308428641408682,
+                0.03652012720704079,
+                0.010305249132215977,
+                0.018788255751132965,
+                0.786500871181488,
+                0.016923509538173676,
+                0.11853951215744019,
+                0.005114066880196333
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "(戦闘になったらそうだろうが寝るときは…ちっとは気になるんじゃねぇか)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "（…親父を見張りに置いとくか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "(ある意味喜びそうだな、ツギハギ)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lfffztisik2o",
+            "label": [
+                0.9824007749557495,
+                0.0007382480544038117,
+                0.015060143545269966,
+                0.0003905298071913421,
+                0.00014209700748324394,
+                0.0005443475674837828,
+                0.00034957972820848227,
+                0.00037435643025673926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "帰りに雪降ってきやがったわ(さっさと風呂に入ってきた)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "天気予報見ると随分南の方でも雪降るらしいな。\n明日のあたりヒーローへの出動依頼が凄そうだな。\n早めに寝て備えた方が良いかもな"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "今回は広めに雪が降るっていっとるからな\nヂィィ……クラスターがあるとは言え威力が上がりにくいからウゼェンだわ…"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lfcvr6jmds2x",
+            "label": [
+                0.0009455564431846142,
+                0.9441535472869873,
+                0.0007568164146505296,
+                0.0012860074639320374,
+                0.02361259236931801,
+                0.008249539881944656,
+                0.020654989406466484,
+                0.0003409110358916223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "今回は広めに雪が降るっていっとるからな\nヂィィ……クラスターがあるとは言え威力が上がりにくいからウゼェンだわ…"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "雪なら俺が相性良いし、爆豪は俺のサポートに回ってくれたら良いんじゃないか？"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "あ″！？\nンで俺がテメェのサポートしなきゃなんねェンだよ！！(手のひら爆破させ)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lffec2hues2o",
+            "label": [
+                0.0047754524275660515,
+                0.09023572504520416,
+                0.0031346087343990803,
+                0.7859545350074768,
+                0.08845891058444977,
+                0.01436695083975792,
+                0.01142063271254301,
+                0.0016531836008653045
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "あ″！？\nンで俺がテメェのサポートしなきゃなんねェンだよ！！(手のひら爆破させ)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "合理的だろう？（きょとん）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "俺が全力出せるようにテメェが俺をサポートしろやァァァァァ！"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lffeip2d3k2o",
+            "label": [
+                0.00228439480997622,
+                0.013572115451097488,
+                0.008821441791951656,
+                0.004935798700898886,
+                0.9594658613204956,
+                0.004184188786894083,
+                0.005005366634577513,
+                0.0017309272661805153
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "俺が全力出せるようにテメェが俺をサポートしろやァァァァァ！"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "お前寒さ苦手だろう？\n俺がメインの方が良いんじゃないか？（きょとん）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "苦手じゃねぇわ！嫌いなだけだわ！！\nテメェの火でちっとあっためろや"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lfffwpmtyc2o",
+            "label": [
+                0.0018440624698996544,
+                0.009332318790256977,
+                0.004657578654587269,
+                0.004857301712036133,
+                0.9627736210823059,
+                0.004226692020893097,
+                0.010928090661764145,
+                0.0013804621994495392
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "そういや……クリスマスのプレゼントはもう投げに行っていいんか…？\nまだ決めてねぇけど"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "多分大丈夫だ。\nくじも引くらしい"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "ほぉん\nンなら決めたら部屋投げに行くか…"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3ldgmzpwgqk22",
+            "label": [
+                0.07483217865228653,
+                0.05783030763268471,
+                0.8343654274940491,
+                0.001559952273964882,
+                0.0016083455411717296,
+                0.008216185495257378,
+                0.0200046319514513,
+                0.0015830211341381073
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "ほぉん\nンなら決めたら部屋投げに行くか…"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "ナイトアイの部屋だな。\n俺もまだ決まってない"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "忘れそうだしな、早めに決めるわ\nテメェはそばじゃねぇんか…(真顔)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3ldgogp7c3c22",
+            "label": [
+                0.006808716803789139,
+                0.17446932196617126,
+                0.02797533944249153,
+                0.01294038537889719,
+                0.5031836032867432,
+                0.17909729480743408,
+                0.09012497216463089,
+                0.005400385241955519
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "忘れそうだしな、早めに決めるわ\nテメェはそばじゃねぇんか…(真顔)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "お？爆豪は蕎麦が欲しいのか？（きょとん）\nなら親父の懇意にしてる老舗の美味い蕎麦にしようか？"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "テメェが蕎麦以外の選択肢を考えとるからだろうがァ！！\nワンパターンでそば行くと思うだろが！"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3ldnywinz3c2i",
+            "label": [
+                0.0025439681485295296,
+                0.007417722605168819,
+                0.0027649535331875086,
+                0.007315404713153839,
+                0.9696523547172546,
+                0.003700602799654007,
+                0.005116486921906471,
+                0.00148850551340729
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "テメェが蕎麦以外の選択肢を考えとるからだろうがァ！！\nワンパターンでそば行くと思うだろが！"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "俺は蕎麦でも構わないが、クリスマスプレゼントに蕎麦は流石に無いかと思ったんだが。\n蕎麦は爆豪に個人的渡すぞ。"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "そこは空気読んだンか……\nつか個人的にかよ！"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3ldnzjzbbu22i",
+            "label": [
+                0.008624239824712276,
+                0.02030906081199646,
+                0.0030734401661902666,
+                0.9053707122802734,
+                0.04859933257102966,
+                0.0022011827677488327,
+                0.010259550996124744,
+                0.0015624779043719172
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "そこは空気読んだンか……\nつか個人的にかよ！"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "…親父にそれはお歳暮だってツッコミ入れられたんだが"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "まぁ、そうなるだろな\n俺的にはお歳暮でも遅いと思っとるが"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3ldnztbkef22i",
+            "label": [
+                0.9459736943244934,
+                0.006375194527208805,
+                0.004954089876264334,
+                0.004459044896066189,
+                0.001910695107653737,
+                0.010352881625294685,
+                0.020203465595841408,
+                0.005770960357040167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "テメェもそこそこヤベェもん引いてんな"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "…否、救いようのない具材だよなッて…てめェは何だったンだよ"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "まだ固形が残ンだろが\nこっちはとろとろになっとるわ(大福を相手の皿に乗せ)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpsj77woc2o",
+            "label": [
+                0.4494000971317291,
+                0.12085364013910294,
+                0.042254406958818436,
+                0.07889031618833542,
+                0.13018831610679626,
+                0.1245853453874588,
+                0.03446437418460846,
+                0.01936347968876362
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "まだ固形が残ンだろが\nこっちはとろとろになっとるわ(大福を相手の皿に乗せ)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "否、林檎も煮すぎると…ッて、え…だい、ふく？(乗せられた皿を見つめ大福とウサギの林檎交互に見つめ)おい、こら…どォいう組み合わせだゴラァ、爆_勝てめぇも食えやおらッ(相手の皿に林檎乗っけ)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "ふはっ…！いいじゃねぇか甘いもん同士くっとけや\n…って俺はりんごいらねぇわ！！"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpsxz46js2o",
+            "label": [
+                0.31403449177742004,
+                0.24941766262054443,
+                0.02428317628800869,
+                0.31138503551483154,
+                0.02399522252380848,
+                0.016438880935311317,
+                0.054770179092884064,
+                0.005675388500094414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "ふはっ…！いいじゃねぇか甘いもん同士くっとけや\n…って俺はりんごいらねぇわ！！"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "食えやッ!! 口に突っ込まれるよりマシだろォが!!(グイグイ皿に乗せた林檎押し付け)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "口に突っ込まれんのも嫌だが自分で食うのも遠慮してェわ！"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcptguzblk2o",
+            "label": [
+                0.0021921831648796797,
+                0.02227967046201229,
+                0.0020736604928970337,
+                0.0052032507956027985,
+                0.12150312960147858,
+                0.01615840569138527,
+                0.8293701410293579,
+                0.0012195177841931581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "口に突っ込まれんのも嫌だが自分で食うのも遠慮してェわ！"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "遠慮せんで食えや、ほらほら(押し付けるように林檎乗っけたフォーク向け)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "ちゃんと自分で食えよ(フォークを持った腕を掴みそのまま相手の口に向けて動かし"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpuk7yqk22o",
+            "label": [
+                0.0022709714248776436,
+                0.0086737722158432,
+                0.0051161446608603,
+                0.005959668196737766,
+                0.9643197655677795,
+                0.003217491786926985,
+                0.008981023915112019,
+                0.0014612458180636168
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "ピザ、くれ(皿差し出し)"
+                },
+                {
+                    "author": "did:plc:wlatekpzqolv3aw4mtndxzxz",
+                    "type": 2,
+                    "utter": "焼きたて熱々だ（皿に切り分けて）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "アンタが焼いたンか…？？\n(もぐもぐと食い始め)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpuv6s4hc2o",
+            "label": [
+                0.9678365588188171,
+                0.003465755842626095,
+                0.013656552881002426,
+                0.006304995156824589,
+                0.00133551808539778,
+                0.0032628600019961596,
+                0.002568397903814912,
+                0.0015693835448473692
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "アンタが焼いたンか…？？\n(もぐもぐと食い始め)"
+                },
+                {
+                    "author": "did:plc:wlatekpzqolv3aw4mtndxzxz",
+                    "type": 2,
+                    "utter": "ピザは趣味の一つだ\n美味いだろう？"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "うめぇ\n普通にピザ屋で働けんじゃねぇか？(もう一つとおかわり要求)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpvcmwlds2o",
+            "label": [
+                0.9980946183204651,
+                0.00010734759416664019,
+                0.0009678971255198121,
+                0.00032910919981077313,
+                8.932895434554666e-05,
+                0.00011766305397031829,
+                0.00014025649579707533,
+                0.00015367039304692298
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "うめぇ\n普通にピザ屋で働けんじゃねぇか？(もう一つとおかわり要求)"
+                },
+                {
+                    "author": "did:plc:wlatekpzqolv3aw4mtndxzxz",
+                    "type": 2,
+                    "utter": "ピザーラ神野店だが？（くくっ）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "ふはっ！そういや最初にいっとったなァ？\nンなら今度持ち帰りで半額にしてもらおうじゃねぇか"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpvrbrvs22o",
+            "label": [
+                0.0025694710202515125,
+                0.0004743445897474885,
+                0.9953078627586365,
+                0.0006890788790769875,
+                0.00047376725706271827,
+                8.831436571199447e-05,
+                0.0002389961009612307,
+                0.0001581547548994422
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "ふはっ！そういや最初にいっとったなァ？\nンなら今度持ち帰りで半額にしてもらおうじゃねぇか"
+                },
+                {
+                    "author": "did:plc:wlatekpzqolv3aw4mtndxzxz",
+                    "type": 2,
+                    "utter": "俺のピザのお代は「情報」だ。\n価値が有る情報を持ち込むんだな（ﾆﾔﾘ）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "ほぉん……？\nンならなんか探すか……"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpxihhrec2o",
+            "label": [
+                0.04597814008593559,
+                0.04134703055024147,
+                0.9060080647468567,
+                0.0013437254820019007,
+                0.00034421600867062807,
+                0.0020686115603893995,
+                0.002328819129616022,
+                0.0005813680472783744
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "あんこ率高すぎだろ"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "わ、爆豪も餡子…って、大福!?\nなんかウチより美味しくなさそう…(苦笑)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "たい焼きより掴みにくいしドロドロになっとるわ(真顔)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcptmxfod22o",
+            "label": [
+                0.00621772650629282,
+                0.7047885656356812,
+                0.000468939048005268,
+                0.07174762338399887,
+                0.0037342915311455727,
+                0.19865383207798004,
+                0.013878244906663895,
+                0.0005107396864332259
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "たい焼きより掴みにくいしドロドロになっとるわ(真顔)"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "うわ、ギリギリだね…(様子を見れば苦笑いし)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "テメェのたい焼きの上乗せて食ってみろよ(言いながらたい焼きの上に乗せて"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpuo5m2pc2o",
+            "label": [
+                0.031223949044942856,
+                0.02055566944181919,
+                0.47786447405815125,
+                0.00946196261793375,
+                0.4257050156593323,
+                0.01042631920427084,
+                0.018423646688461304,
+                0.00633900985121727
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "テメェのたい焼きの上乗せて食ってみろよ(言いながらたい焼きの上に乗せて"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "あっ、ちょっと…!!(慌てて止めようとするも、間に合わず)\nたい焼きで餡子と出汁が合わないの分かってるのに、さらに増やさないでよ…(苦笑い)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "まだ皮があるだけマシじゃね…？\n俺は1個で胸焼けしたわ…"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpveow4ok2o",
+            "label": [
+                0.00042527762707322836,
+                0.9939789772033691,
+                0.00016193973715417087,
+                0.0012317346408963203,
+                0.00021260484936647117,
+                0.0022050365805625916,
+                0.0017350076232105494,
+                4.950218499288894e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "…大福いるか…？？"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "ありがとう。口直しに頂くよ"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "まぁ……口直しになるかはわからねぇが辛いのよかマシだろ……"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpry72qyk2o",
+            "label": [
+                0.034960221499204636,
+                0.021937165409326553,
+                0.9295910000801086,
+                0.000414351059589535,
+                0.0005963175790384412,
+                0.005849260371178389,
+                0.005283968523144722,
+                0.0013677843380719423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "おるな\nそいつはリンゴ食っとるわ"
+                },
+                {
+                    "author": "did:plc:yhy52hn4uh7mhnd462joweot",
+                    "type": 2,
+                    "utter": "鍋のリンゴとか罰ゲームじゃん（けらけら）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "前はみかんの煮たやつが当たったみてぇだぞ\n鍋で果物はヤべェ匂いしかしねぇわ"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcptokx6is2o",
+            "label": [
+                0.9962608218193054,
+                9.621142089599743e-05,
+                0.0015876693651080132,
+                0.0010887490352615714,
+                0.00020567915635183454,
+                0.00020772372954525054,
+                0.00018236227333545685,
+                0.00037066463846713305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "まぁ……口直しになるかはわからねぇが辛いのよかマシだろ……"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "今回もかっちゃんズのどちらかかな？（クスクス）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "まぁ……そォだろよ(眉間に皺寄せ)\nつかあんだけ食材あって辛いもんを的確に当てるアンタの運が怖ェわ"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpsriqq522o",
+            "label": [
+                0.013146639801561832,
+                0.003076542867347598,
+                0.0031945789232850075,
+                0.22554351389408112,
+                0.0009380639530718327,
+                0.7513843178749084,
+                0.0016584093682467937,
+                0.0010579520603641868
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "まぁ……そォだろよ(眉間に皺寄せ)\nつかあんだけ食材あって辛いもんを的確に当てるアンタの運が怖ェわ"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "もしかしてまた君かな？（小首を傾げて）\n狙った訳じゃないのに（くじ番号も今迄避けてたものにしたんだけど）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "残念ながらそっちは俺じゃねぇ\nある意味今回もアンタに当たったら面白ェとは思ったが…"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpursqnrs2o",
+            "label": [
+                0.004120856523513794,
+                0.9936347007751465,
+                0.0002801450027618557,
+                0.0003161425411235541,
+                0.00010322502930648625,
+                0.0004580781969707459,
+                0.0010130038717761636,
+                7.387235382338986e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "残念ながらそっちは俺じゃねぇ\nある意味今回もアンタに当たったら面白ェとは思ったが…"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 2,
+                    "utter": "今回も君だったら赤い糸を感じちゃうよね"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "色んな意味で″俺″に対してまじで縁ありすぎだわ\n今度から交互に当たるんじゃね？"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpvublobs2o",
+            "label": [
+                0.17387855052947998,
+                0.10165689140558243,
+                0.025317369028925896,
+                0.3028150796890259,
+                0.003740462940186262,
+                0.3652547597885132,
+                0.01830652542412281,
+                0.009030366316437721
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "アンタにもこれやるわ(大福を相手の皿に乗せて)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 2,
+                    "utter": "……なんだこれは…(大福を凝視している)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "和菓子だな、煮られたからドロドロになっとる"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcptrskt3k2o",
+            "label": [
+                0.8778286576271057,
+                0.02265074849128723,
+                0.011864880099892616,
+                0.045225631445646286,
+                0.0013496188912540674,
+                0.02362818457186222,
+                0.013272006995975971,
+                0.00418034428730607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "和菓子だな、煮られたからドロドロになっとる"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 2,
+                    "utter": "…これ、よかったら…(取り分けた鶏肉を相手の皿に乗せた)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "アンタは鶏肉か…\nいいもんあたっとるな(もらったもんをすぐに口に入れ満足げな顔して"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpuyec6wk2o",
+            "label": [
+                0.9974060654640198,
+                0.00035890680737793446,
+                0.0003252713358961046,
+                0.0012225008103996515,
+                6.984604260651395e-05,
+                0.00019194230844732374,
+                0.00020583391597028822,
+                0.00021960506273899227
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "アンタは鶏肉か…\nいいもんあたっとるな(もらったもんをすぐに口に入れ満足げな顔して"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 2,
+                    "utter": "…当たってしまって申し訳ない…(ぽつり)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "運も実力っていうだろが\n今回はアンタがその運勝ち取ったってこったろ(口に鶏肉放り込みながら)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpvkx4y7k2o",
+            "label": [
+                0.07836376130580902,
+                0.016510365530848503,
+                0.2038320153951645,
+                0.03526155650615692,
+                0.6308307647705078,
+                0.004142803605645895,
+                0.011823720298707485,
+                0.019235048443078995
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "運も実力っていうだろが\n今回はアンタがその運勝ち取ったってこったろ(口に鶏肉放り込みながら)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 2,
+                    "utter": "……次は君も勝てるといいな…(大福を思い切って食べてみた)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "ぜってぇ勝つに決まってンだろ\n完全勝利目指してんだからな\n……美味いか？"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpwhpxsos2o",
+            "label": [
+                0.003939561080187559,
+                0.0037884400226175785,
+                0.9593460559844971,
+                0.0015904194442555308,
+                0.025408359244465828,
+                0.0012566599762067199,
+                0.00295661436393857,
+                0.0017139336559921503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "大福なんざとろとろになってヤベェことになっとンぞ…"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "えらいもん引き当ててンのが居るなァ…"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "テメェにも分けてやるわ(素早く小分けにした大福を相手の皿に置いて)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcprzh4oi22o",
+            "label": [
+                0.4179958701133728,
+                0.024689102545380592,
+                0.2616434395313263,
+                0.008137268014252186,
+                0.22676095366477966,
+                0.01742228865623474,
+                0.029908429831266403,
+                0.013442694209516048
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "テメェにも分けてやるわ(素早く小分けにした大福を相手の皿に置いて)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "ゲ、声掛けなきゃ良かったわ…(しゃあねェ、と海老つみれを相手の皿に移して)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "エビ…のつみれはテメェ食えんのかよ\n(皿に乗ったもの見つめて"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpsat5vm22o",
+            "label": [
+                0.005216015502810478,
+                0.8855416178703308,
+                0.0022565957624465227,
+                0.018250441178679466,
+                0.05286245048046112,
+                0.007949966937303543,
+                0.02691209316253662,
+                0.0010108239948749542
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "エビ…のつみれはテメェ食えんのかよ\n(皿に乗ったもの見つめて"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "食えねェからお父さんが肉と交換してくれた、残ったのやる(ぽいぽいと海老つみれ相手の皿に移して)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "エビ団子もダメなんかよ\nって俺はテメェの食材処理係じゃねぇぞ！！\n(文句は言いつつも自分の食材が食材だけに止めようとはせず)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpslgvk6k2o",
+            "label": [
+                0.0020662753377109766,
+                0.011663878336548805,
+                0.0023421270307153463,
+                0.006526116281747818,
+                0.9614183902740479,
+                0.005473216064274311,
+                0.009050839580595493,
+                0.0014592040097340941
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "エビ団子もダメなんかよ\nって俺はテメェの食材処理係じゃねぇぞ！！\n(文句は言いつつも自分の食材が食材だけに止めようとはせず)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "魚介類はノーセンキューだしお前だけじゃなく他にも配ってっから安心しろよ、しかし甘ェな(貰った大福も口に入れて)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "形なくなったら行けるやつもたまにおんだろ\nクソ甘くて一口でヤベェわ"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpswhmlq22o",
+            "label": [
+                0.5085175037384033,
+                0.099247507750988,
+                0.0061111669056117535,
+                0.08077190816402435,
+                0.0026702918112277985,
+                0.2194928377866745,
+                0.07775816321372986,
+                0.00543056009337306
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 1,
+                    "utter": "形なくなったら行けるやつもたまにおんだろ\nクソ甘くて一口でヤベェわ"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "とろっとろだがデザートとしてはイイな、(甘いのは平気なので普通に食える←)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 3,
+                    "utter": "……よし、テメェの皿に代わりに乗っけたる(次々と大福乗せて)"
+                }
+            ],
+            "uri": "at://did:plc:3rpuavmlc62bszfsbqrubldn/app.bsky.feed.post/3lcpt7rlez22o",
+            "label": [
+                0.30996739864349365,
+                0.09289778023958206,
+                0.29129767417907715,
+                0.018175920471549034,
+                0.1786719113588333,
+                0.028806230053305626,
+                0.0637747272849083,
+                0.016408318653702736
+            ]
+        }
+    ]
+}

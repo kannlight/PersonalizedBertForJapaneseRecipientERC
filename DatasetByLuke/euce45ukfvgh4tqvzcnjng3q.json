@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "おやすみVTuber"
+                },
+                {
+                    "author": "did:plc:zfpcden7w66egh27saf5z7xd",
+                    "type": 2,
+                    "utter": "寝かしつけに来るお姉さん、美味しそうですね"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "食われたらサラウイルス広がるようにしとこっと"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3lc272c52z22c",
+            "label": [
+                0.001245764084160328,
+                0.0010549824219197035,
+                0.9951207041740417,
+                0.00013878714526072145,
+                0.0001654349034652114,
+                0.001907765632495284,
+                0.00023729207168798894,
+                0.00012922919995617121
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "食われたらサラウイルス広がるようにしとこっと"
+                },
+                {
+                    "author": "did:plc:zfpcden7w66egh27saf5z7xd",
+                    "type": 2,
+                    "utter": "こんもり爆増したりしませんかね"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "「ボクだよ」って言いながら身体の中にこんもり？えぐーい"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3lc275dk7zs2c",
+            "label": [
+                0.7586982846260071,
+                0.04422867298126221,
+                0.013516528531908989,
+                0.043341752141714096,
+                0.0015190752455964684,
+                0.12595312297344208,
+                0.009243091568350792,
+                0.003499383572489023
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "「ボクだよ」って言いながら身体の中にこんもり？えぐーい"
+                },
+                {
+                    "author": "did:plc:zfpcden7w66egh27saf5z7xd",
+                    "type": 2,
+                    "utter": "わー、とっても誰かで見たい光景！知らない人でやってくれないかな...こんもり。"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "こんもりにたかられて爆破される人は見たことあるけど"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3lc27aqcpz22c",
+            "label": [
+                0.013550207018852234,
+                0.014853483065962791,
+                0.0006697585922665894,
+                0.06949470192193985,
+                0.0017207779455929995,
+                0.8865514397621155,
+                0.012079299427568913,
+                0.0010803830809891224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "こんもりにたかられて爆破される人は見たことあるけど"
+                },
+                {
+                    "author": "did:plc:zfpcden7w66egh27saf5z7xd",
+                    "type": 2,
+                    "utter": "とっても見たい光景だァ......"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "こもこもこも"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3lc27cqyt6c2c",
+            "label": [
+                0.9995195865631104,
+                6.23331216047518e-05,
+                0.00017394912720192224,
+                4.372027615318075e-05,
+                3.0509505450027063e-05,
+                4.491420986596495e-05,
+                7.499617640860379e-05,
+                5.003327169106342e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "人が少ない＝過激派も少ない\nあっちはすでに混沌と化している気がします"
+                },
+                {
+                    "author": "did:plc:biphhpqt7aqpyqrmny676a63",
+                    "type": 2,
+                    "utter": "もうTwitterはダメです\n人が増えすぎました"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "人が多くて手に余りそうで頭空っぽの発言ができなくて青空に逃げるのだなぁと思います"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3ldizj3bsl22f",
+            "label": [
+                0.001439809100702405,
+                0.9950157999992371,
+                0.0003218339988961816,
+                0.00022070208797231317,
+                5.28041273355484e-05,
+                0.0024501136504113674,
+                0.0004425449878908694,
+                5.637048161588609e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "人が多くて手に余りそうで頭空っぽの発言ができなくて青空に逃げるのだなぁと思います"
+                },
+                {
+                    "author": "did:plc:biphhpqt7aqpyqrmny676a63",
+                    "type": 2,
+                    "utter": "青空おだやか〜ですよ\n今日はもうネタツイにまで噛み付いてるおしまい垢を見つけてしまい、石の下の虫を見つけた気分になりました\nTwitterは毒です"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "青空にはプロモがないですからね、プロモはあってもいいけど詐欺はまじでやめて欲しい。警備ザルかよって思ってしまう…青空が心地よいです"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3ldizovue6s2u",
+            "label": [
+                0.007394667249172926,
+                0.01592732034623623,
+                0.000645493739284575,
+                0.002958577824756503,
+                0.00505731301382184,
+                0.04471147060394287,
+                0.9220075607299805,
+                0.0012975162826478481
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "青空にはプロモがないですからね、プロモはあってもいいけど詐欺はまじでやめて欲しい。警備ザルかよって思ってしまう…青空が心地よいです"
+                },
+                {
+                    "author": "did:plc:biphhpqt7aqpyqrmny676a63",
+                    "type": 2,
+                    "utter": "プロモも終わってますもんね〜Twitter\n青空ほんと心地よい"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "あそこは治安が終わってる大都会だと思ってます。あっちにしかいない友人とバカなことをしゃべるために市民ビザを持ってギラギラな魔都へ出かける感じです"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3ldizxgnsxk2u",
+            "label": [
+                0.03623795881867409,
+                0.019076064229011536,
+                0.09111475199460983,
+                0.0023440024815499783,
+                0.0014928894815966487,
+                0.8261594176292419,
+                0.01975509710609913,
+                0.003819819772616029
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 1,
+                    "utter": "あそこは治安が終わってる大都会だと思ってます。あっちにしかいない友人とバカなことをしゃべるために市民ビザを持ってギラギラな魔都へ出かける感じです"
+                },
+                {
+                    "author": "did:plc:biphhpqt7aqpyqrmny676a63",
+                    "type": 2,
+                    "utter": "確かにそんな感じかも\n歌舞伎町とかに近いかもですね"
+                },
+                {
+                    "author": "did:plc:euce45ukfvgh4tqvzcnjng3q",
+                    "type": 3,
+                    "utter": "西成かなって…"
+                }
+            ],
+            "uri": "at://did:plc:euce45ukfvgh4tqvzcnjng3q/app.bsky.feed.post/3ldj26n3xmk2m",
+            "label": [
+                0.21039897203445435,
+                0.01907341741025448,
+                0.7524521946907043,
+                0.0023953209165483713,
+                0.000517125881742686,
+                0.010369855910539627,
+                0.002748092170804739,
+                0.002044931286945939
+            ]
+        }
+    ]
+}

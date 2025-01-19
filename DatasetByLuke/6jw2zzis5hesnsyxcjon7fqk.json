@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "追加枠受かってすぐに振り込んでメールもしたけど参加確定来ないねー\nどっちだ？"
+                },
+                {
+                    "author": "did:plc:x4ikwihbpo7gsmq6nzm6jmrh",
+                    "type": 2,
+                    "utter": "自分は最初の募集で受かって振込みしたんだけどね。\n\n報告を忘れてて少し後で報告したんですわ。\n\n返信はないんだけど、一体どうなってるのだろう・・・？？？（聞きなさい）"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "それは確認した方がいいですね\n追加枠募集された段階で確認してもよかったと思いますよ！"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3lf5ijsasls2r",
+            "label": [
+                0.0024318902287632227,
+                0.0003052928950637579,
+                0.9959059953689575,
+                0.00028084669611416757,
+                0.00021086324704810977,
+                0.0001667112810537219,
+                0.00021287934214342386,
+                0.00048552759108133614
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "それは確認した方がいいですね\n追加枠募集された段階で確認してもよかったと思いますよ！"
+                },
+                {
+                    "author": "did:plc:x4ikwihbpo7gsmq6nzm6jmrh",
+                    "type": 2,
+                    "utter": "とりま確認の連絡を発射しましたー！"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "担当者違うのかもしれませんが\nXの中の人が宣伝ツイート（といいね）してたから私も問合せてみましたわー"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3lfac575pwk2w",
+            "label": [
+                0.007498885039240122,
+                0.00019097716722171754,
+                0.9914306998252869,
+                0.00029210993670858443,
+                0.00013277337711770087,
+                0.00012625854287762195,
+                0.00014252765686251223,
+                0.00018581382755655795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "担当者違うのかもしれませんが\nXの中の人が宣伝ツイート（といいね）してたから私も問合せてみましたわー"
+                },
+                {
+                    "author": "did:plc:x4ikwihbpo7gsmq6nzm6jmrh",
+                    "type": 2,
+                    "utter": "自分も今回はXの方にDMしてみました。\n\nどんな振り分けになってるのかはわからないけど、メール担当の人がどの程度メールを確認しているのかわからないですしね。"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "エッ　DMはどうでしょうね……？"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3lfb7nkiuac2o",
+            "label": [
+                0.014070223085582256,
+                0.006224405951797962,
+                0.6341841220855713,
+                0.3412873148918152,
+                0.00046138223842717707,
+                0.0025329298805445433,
+                0.0005232657422311604,
+                0.0007164701237343252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "エッ　DMはどうでしょうね……？"
+                },
+                {
+                    "author": "did:plc:x4ikwihbpo7gsmq6nzm6jmrh",
+                    "type": 2,
+                    "utter": "メールでも発信しました〜！\n\n多方向からアクセスすれば気づきやすいかなぁと。"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "うーん\n自分がイベントの主催だとしても窓口以外への問合せは「ハァ？」ってなりますが\n不備があると判断したメールは能動的にスルーするっぽいので悪手かもなーとかちょっと\n（前にほぼ同一の文面で問合せしたときに「前のは不備があったためお返事しませんでした」みたい一文が添えてあったので）"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3lfbhoxkt7k2i",
+            "label": [
+                0.014798843301832676,
+                0.010701295919716358,
+                0.003029181156307459,
+                0.006103820167481899,
+                0.0024398183450102806,
+                0.3599839508533478,
+                0.6009235382080078,
+                0.0020194384269416332
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "カツ丼"
+                },
+                {
+                    "author": "did:plc:etzi77yrtibc2xrrg6fdcxjh",
+                    "type": 2,
+                    "utter": "海鮮丼…"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "特盛天丼"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3ldggpqakak2z",
+            "label": [
+                0.9970418810844421,
+                0.0002046343288384378,
+                0.0017683804035186768,
+                0.0004951874725520611,
+                9.420303831575438e-05,
+                7.333469693548977e-05,
+                0.00015438420814462006,
+                0.00016799483273644
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "特盛天丼"
+                },
+                {
+                    "author": "did:plc:etzi77yrtibc2xrrg6fdcxjh",
+                    "type": 2,
+                    "utter": "あぅ……\n\nローストビーフ丼！"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "チーズロコモコ丼"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3ldglc673ac2y",
+            "label": [
+                0.9988442659378052,
+                9.412310464540496e-05,
+                0.0007171094766817987,
+                0.0001126155984820798,
+                4.166026337770745e-05,
+                4.3194326281081885e-05,
+                7.238560647238046e-05,
+                7.459837797796354e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "チーズロコモコ丼"
+                },
+                {
+                    "author": "did:plc:etzi77yrtibc2xrrg6fdcxjh",
+                    "type": 2,
+                    "utter": "ビ、ビビンバ…"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "ビビンバンバン\nビビンバンバン\nビビンバンバン丼"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3ldhwz5m3hc2f",
+            "label": [
+                0.9952528476715088,
+                0.0002317205216968432,
+                0.0038102068938314915,
+                0.00024117373686749488,
+                9.823348955251276e-05,
+                6.752744957339019e-05,
+                0.0001442449720343575,
+                0.0001540221128379926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 1,
+                    "utter": "ビビンバンバン\nビビンバンバン\nビビンバンバン丼"
+                },
+                {
+                    "author": "did:plc:etzi77yrtibc2xrrg6fdcxjh",
+                    "type": 2,
+                    "utter": "To the next\n特ダレ　一番上"
+                },
+                {
+                    "author": "did:plc:6jw2zzis5hesnsyxcjon7fqk",
+                    "type": 3,
+                    "utter": "Eyday 温たまがあるだけで　超deluxe"
+                }
+            ],
+            "uri": "at://did:plc:6jw2zzis5hesnsyxcjon7fqk/app.bsky.feed.post/3ldiaqig4e22e",
+            "label": [
+                0.999645471572876,
+                4.91034152219072e-05,
+                9.914859401760623e-05,
+                5.87833856116049e-05,
+                2.5395560442120768e-05,
+                3.675491097965278e-05,
+                4.15953436458949e-05,
+                4.37295348092448e-05
+            ]
+        }
+    ]
+}

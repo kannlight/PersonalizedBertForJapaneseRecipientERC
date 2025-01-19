@@ -1,0 +1,524 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "アサヒのアルコール3.5%のやつのCMやってたやん\n「僕はこのくらいの度数がちょうどいい」とか言ってちょっと低めならアルコールアピってて\nやのに記憶飛ぶ位酔うって😅\n他のは知らんけどアサヒは降ろされるやろな"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "相当お酒好きみたいやん🥃"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "それか弱いくせにメッチアホみたいに飲んだか"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lf2yzpl2hk2n",
+            "label": [
+                0.141068696975708,
+                0.14207658171653748,
+                0.019636088982224464,
+                0.15831179916858673,
+                0.04534273222088814,
+                0.34466323256492615,
+                0.13272641599178314,
+                0.016174428164958954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "それか弱いくせにメッチアホみたいに飲んだか"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "何階か知らんけどよう落ちんかったなと💦"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "落ちて亡くなってたらまた陰謀論とかTwitterで騒がれるんやんな"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lf2zo7uxyc2n",
+            "label": [
+                0.025542661547660828,
+                0.07669676840305328,
+                0.010208397172391415,
+                0.0019901280757039785,
+                0.0008572728838771582,
+                0.8787616491317749,
+                0.004908729810267687,
+                0.001034442218951881
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "落ちて亡くなってたらまた陰謀論とかTwitterで騒がれるんやんな"
+                },
+                {
+                    "author": "did:plc:mwyl44e6aqxpir7xldri3jqa",
+                    "type": 2,
+                    "utter": "三浦春馬みたいにね\nもうアレ何なん？\n不定期で流れてくる"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "芸能界ってどんなヤバいとこなん？😂\n有吉もなんかつぶやいたら国家機密を小出しにしてるとか言われてるやろ🤣🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lf46xuk3uk24",
+            "label": [
+                0.0017090135952457786,
+                0.001690650125965476,
+                0.0012706380803138018,
+                0.9497595429420471,
+                0.000581692554987967,
+                0.043757613748311996,
+                0.0009551804978400469,
+                0.0002755292516667396
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "芸能界ってどんなヤバいとこなん？😂\n有吉もなんかつぶやいたら国家機密を小出しにしてるとか言われてるやろ🤣🤣🤣"
+                },
+                {
+                    "author": "did:plc:mwyl44e6aqxpir7xldri3jqa",
+                    "type": 2,
+                    "utter": "それも憶測なのに声だけデカイ\n国家機密をたかが芸能人がどれほど知ってるかって ちょっと考えたら(ヾﾉ･∀･`)ﾅｲﾅｲwってわかるだろうにwww"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "能登の震災も国が起こして有吉がインスタで匂わせてたってよwwwww\nチキンの丸焼きの写真が震災の倒壊がひどかったとこの地形と一緒とか\n無いわー😂"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lf4axvg7ms24",
+            "label": [
+                0.0007344500045292079,
+                0.0004775125125888735,
+                0.0003057942958548665,
+                0.9975064396858215,
+                0.00018763504340313375,
+                0.0003790986374951899,
+                0.00030931687797419727,
+                9.978098387364298e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "ノンアル１本半で無事撃沈、今起きましたおはようございますまた寝ますおやすみなさい"
+                },
+                {
+                    "author": "did:plc:k35ulmec2xgseffmehivs2qc",
+                    "type": 2,
+                    "utter": "おやすみぃ"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "おはようございます"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lepmdtewck2d",
+            "label": [
+                0.9992819428443909,
+                5.820349178975448e-05,
+                0.00034452954423613846,
+                6.98195508448407e-05,
+                4.3929529056185856e-05,
+                4.082691884832457e-05,
+                8.943369175540283e-05,
+                7.12529945303686e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "おはようございます"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "おはよー😃\nこっちは今日もいい天気☀️"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "おはよ☺️\n大晦日元日と引きこもってたから、今日はパンとヨーグルト買いに外に出てみよう🚶‍♂️\nそしてセブイレにも寄ってチョコプレッツェルを探すのさ🥨"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lepribto3223",
+            "label": [
+                0.0016892957501113415,
+                0.00022308732150122523,
+                0.9976598024368286,
+                0.0001213361756526865,
+                7.159646338550374e-05,
+                9.738520748214796e-05,
+                6.759470124961808e-05,
+                6.997463060542941e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "おはよ☺️\n大晦日元日と引きこもってたから、今日はパンとヨーグルト買いに外に出てみよう🚶‍♂️\nそしてセブイレにも寄ってチョコプレッツェルを探すのさ🥨"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "見つけたらまとめ買いしなきゃ👍一袋あっという間🤣"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "そーでしょーなー😅\nこないださつまいもチップお得用開けたらふと見たら空っぽなってた😂"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3lepsdawkr22q",
+            "label": [
+                0.010748880915343761,
+                0.23834075033664703,
+                0.0003772854106500745,
+                0.7424367666244507,
+                0.0007657858077436686,
+                0.004797874018549919,
+                0.0022342114243656397,
+                0.00029847538098692894
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "そーでしょーなー😅\nこないださつまいもチップお得用開けたらふと見たら空っぽなってた😂"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "毎日食っちゃ寝生活最高❣️\n袋ごと食べたらすぐなくなる💦"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "昨日はポテチお皿に出してたのに無くなったらすぐ足してたからなんの意味もなかった😂😂😂"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3leqnzkkz4k2p",
+            "label": [
+                0.0003646911063697189,
+                0.9989317059516907,
+                0.00014760435442440212,
+                0.0001613179047126323,
+                6.605104863410816e-05,
+                0.00010642610868671909,
+                0.0001913677842821926,
+                3.076358188991435e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "昨日はポテチお皿に出してたのに無くなったらすぐ足してたからなんの意味もなかった😂😂😂"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "ポテチは袋全解放👍"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "ポテチはホンマ無理やんな🥔"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3leqyw4dtw22g",
+            "label": [
+                0.0003797427925746888,
+                0.9965215921401978,
+                0.0001590906613273546,
+                0.0003597560280468315,
+                0.00011071556946262717,
+                0.0007304445025511086,
+                0.0016991031588986516,
+                3.947327786590904e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "明日がお肉焼くのでアルコール有りの方は明日飲むことに決定いたしました🍺\n今日はノンアルで肩慣らし😎"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "お腹は大丈夫かい？\nお正月のあいだにしっかり食べて太るんだゾ☺️"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "それがあなた、昨日今日で１kgほど増えてて震えてるんですけれども？"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3leogagftp22q",
+            "label": [
+                0.00297737424261868,
+                0.006160215009003878,
+                0.0012902154121547937,
+                0.18886585533618927,
+                0.0011941996635869145,
+                0.7976077795028687,
+                0.0014014681801199913,
+                0.0005029264139011502
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "顔はヌートリアやけどな"
+                },
+                {
+                    "author": "did:plc:2ejixvhxjcoshlxbcrbeatid",
+                    "type": 2,
+                    "utter": "韓国にもヌートリアおるかな？"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "あの繁殖力、韓国にもおるやろ"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldr72lyw722j",
+            "label": [
+                0.002181735122576356,
+                0.000325793051160872,
+                0.0014182841405272484,
+                0.9936593174934387,
+                0.00025293813087046146,
+                0.001404416048899293,
+                0.000507011020090431,
+                0.00025057944003492594
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "今日のアド街ック天国鶴岡天満宮やって『豊島屋映るかも』って思って観ててんけど、『豊島屋は小町なので今回は映りません』てナレーションされてがっくり。\n私の行った方全然映らんくてしょんぼり。\n更に噂に聞いてたくるみっこを買って帰るのを忘れてたのアド街で思い出してげっそり。\n\nでもたった今Amazonで切り落とし2830円でポチッたった（てへぺろ）"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "ちがた2880円やた（カタコト）"
+                },
+                {
+                    "author": "did:plc:mbafbba3skeuygespmbhh3jz",
+                    "type": 2,
+                    "utter": "クルミッ子の切り落とし、昔はあんなに綺麗に包装されてなくて、大きさもバラバラで袋に入って数100円で売ってたんだよ😭私なんて、切れっぱし、って呼んでた\n\nアレよアレよという間に有名になっちゃって本店なんていつも開店前から並んでて午前中には売り切れちゃうし💦\n\nいつか娘に頼まれて買おうとして寒い中、震えながら50分くらい待ったこともあった\n\nなかなか手に入らなくなっちゃった💧"
+                },
+                {
+                    "author": "did:plc:mbafbba3skeuygespmbhh3jz",
+                    "type": 2,
+                    "utter": "んで鶴岡八幡宮だよん☺️⛩️✨"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "ああ！鶴岡天満宮ってなんやねん⁉️😂\n\n友達がインスタあげててくるみっこ美味しいよね〜とかのせてたから食べてみたいなーと思ってたのに鎌倉着いたら鳩サブレーに支配されて今日の今日まですっかり忘れてたぁ😱\n\nAmazonサイコーありがとうAmazon👍\n\nそれともっかいよくみたら2830円やった\n私の目大丈夫かな？😅"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldszrthp3k2l",
+            "label": [
+                0.5417612791061401,
+                0.017202645540237427,
+                0.0013312825467437506,
+                0.42402970790863037,
+                0.0008393414900638163,
+                0.011867518536746502,
+                0.0015458471607416868,
+                0.0014224424958229065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "ああ！鶴岡天満宮ってなんやねん⁉️😂\n\n友達がインスタあげててくるみっこ美味しいよね〜とかのせてたから食べてみたいなーと思ってたのに鎌倉着いたら鳩サブレーに支配されて今日の今日まですっかり忘れてたぁ😱\n\nAmazonサイコーありがとうAmazon👍\n\nそれともっかいよくみたら2830円やった\n私の目大丈夫かな？😅"
+                },
+                {
+                    "author": "did:plc:mbafbba3skeuygespmbhh3jz",
+                    "type": 2,
+                    "utter": "それ、私、直径18㎝のお皿をネットで注文したつもりが届いたの見たら13㎝で目が飛び出たことあったよ〜🤣\n\n小っさ！！小皿やん！って声出たもん\n\n８と３はダメ🙅‍♀️私は極度の乱視もあるから見間違える👁️"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "結局安い方でよかった😌"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldt2hrr3jk2l",
+            "label": [
+                0.9996205568313599,
+                4.996660936740227e-05,
+                9.876023977994919e-05,
+                5.4812357120681554e-05,
+                2.7760310331359506e-05,
+                4.121657912037335e-05,
+                5.624216646538116e-05,
+                5.060494368080981e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "新潟行った時買って食べた〜\nCMソングも歌える😎\n実際には聞いたことないけど\nさだまさしがラジオで歌ってたので"
+                },
+                {
+                    "author": "did:plc:mbafbba3skeuygespmbhh3jz",
+                    "type": 2,
+                    "utter": "えー！？わたしも見た事ない😳この缶に入ったのが元祖なんだ〜\n\nしかし柿ピーを米と豆で食事って…😂今度何かで使おーっと_φ(･_･"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "この頃デパートの名産品コーナーとかにもよく置いてあるよ\n\n是非使って！\n昔会社のおばちゃんに「あんたお菓子ばっかり食べんとちゃんとしたご飯食べ！」って説教されたから「これは米と豆ですがなにか？」って言ったらなんとも言えん顔された😂"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldq6xk7tp22a",
+            "label": [
+                0.003476647660136223,
+                0.9910445213317871,
+                0.0005299953045323491,
+                0.003217293880879879,
+                7.520925282733515e-05,
+                0.0008234072593040764,
+                0.0007481548236683011,
+                8.476302173221484e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "おっはよ〜\n\nお腹はぴちぴちにも慣れてきた\nそもがガス溜まりやすい系なのでまぁ通常運転👍\n\nでも今回の検査でその通常運転で思ってたのが病気のせいだったかも？やからなんでも調べてみるもんやね😅\n\n冷蔵庫は箱入り娘よな👸"
+                },
+                {
+                    "author": "did:plc:k35ulmec2xgseffmehivs2qc",
+                    "type": 2,
+                    "utter": "そっかぁ。\n検査頑張ったもんね、\nなんともないと良いねほんと🙏🙏🙏\n\n今日はワタスも朝から病院day  \n鼻血が頻回→耳鼻科\n（出血部位の原因の為)\n今日は痛そうで、焼く心の準備出来ず、来年にお返事にした。鼻の中に麻酔💦💦\n痛そすぎる。怖い💦\n\nこれからあと2つの科を回らなくてはでっスのょ。\n頑張ります(ง ･֊･)ง´-"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "焼くん痛いって言うよね😱\n鼻の血管弱いんかな？\nうちの子も昔からメッチ鼻血ブーマンで一回焼くかって話もあったけどママ友にあれは痛いでって言われてそのままにした\n季節の風物詩として少し暖かくなると鼻血、夏になると鼻血、娘は流し続けている😅\n\n病院周りってほんと滅入るけどその後には美味しいもの食べてホッとして☕️"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldmtof242226",
+            "label": [
+                0.998565137386322,
+                0.0005309561383910477,
+                0.0002537170657888055,
+                7.0861482527107e-05,
+                2.866420618374832e-05,
+                0.00029873684979975224,
+                0.00013283526641316712,
+                0.00011912864283658564
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "焼くん痛いって言うよね😱\n鼻の血管弱いんかな？\nうちの子も昔からメッチ鼻血ブーマンで一回焼くかって話もあったけどママ友にあれは痛いでって言われてそのままにした\n季節の風物詩として少し暖かくなると鼻血、夏になると鼻血、娘は流し続けている😅\n\n病院周りってほんと滅入るけどその後には美味しいもの食べてホッとして☕️"
+                },
+                {
+                    "author": "did:plc:mbafbba3skeuygespmbhh3jz",
+                    "type": 2,
+                    "utter": "へむたんのお子様たちも鼻が弱いんだね💦うちは妹と甥っ子が鼻血も出したし色んな事でずっと耳鼻科に通ってた\n\n父が蓄膿症で手術したことあったけどあれ、焼いたんだろうか？今となってはもう聞けないし母も覚えてないだろうけど…\n\nみんなお大事にしてね\n元気にお正月を迎えよう！！🎍"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "うちはもう鼻血の達人なので幼稚園の時からサッとティッシュで押さえて俯いてる😂\n学校の先生が心配して迎えに来てって言われてんけど（うち基準では）普通の鼻血やったわ\nその時お医者さんに連れてけって言われてん\nそれでなかったら焼くとか聞くこともなかったと思う"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldmwkvwbh22v",
+            "label": [
+                0.08899819105863571,
+                0.33725836873054504,
+                0.008744452148675919,
+                0.08323823660612106,
+                0.009856450371444225,
+                0.4338948130607605,
+                0.02688843198120594,
+                0.011121092364192009
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 1,
+                    "utter": "うちはもう鼻血の達人なので幼稚園の時からサッとティッシュで押さえて俯いてる😂\n学校の先生が心配して迎えに来てって言われてんけど（うち基準では）普通の鼻血やったわ\nその時お医者さんに連れてけって言われてん\nそれでなかったら焼くとか聞くこともなかったと思う"
+                },
+                {
+                    "author": "did:plc:k35ulmec2xgseffmehivs2qc",
+                    "type": 2,
+                    "utter": "鼻血の達人(*´ノi｀)\n                         🩸\nも〜太鼓の達人みたく言う𐤔𐤔𐤔\n\n私も鼻血くらいで、との迷いもありだったが、\nごみ捨てに歩き🩸\nスーパーで会計中に🩸\nティッシュも持たない状況で辛くて…\n\n食べてる最中に🩸は\nもう、味もせず\n\nって、もう、日常生活ままならず🔍べたら3回/週以上続くなどは1度受診をってなってて今日行ったの。\nでも鼻に麻酔💉にビビり、一旦保湿してみて、考えますぅぅぅぅ⤵⤵⤵弱気\n\nその他は無事終わり、帰途へ\n･*･:≡(　ε:)"
+                },
+                {
+                    "author": "did:plc:jpvy4gmzkpbkcgfcjmteqibf",
+                    "type": 3,
+                    "utter": "早く！早く帰って温まるのよ‼️"
+                }
+            ],
+            "uri": "at://did:plc:jpvy4gmzkpbkcgfcjmteqibf/app.bsky.feed.post/3ldmzuakev22l",
+            "label": [
+                0.0018149266252294183,
+                0.0008072135387919843,
+                0.996727705001831,
+                0.000146065533044748,
+                0.00016073157894425094,
+                0.00011750315024983138,
+                0.00013364797632675618,
+                9.225769463228062e-05
+            ]
+        }
+    ]
+}

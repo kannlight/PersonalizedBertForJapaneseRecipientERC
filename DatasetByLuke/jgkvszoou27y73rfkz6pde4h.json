@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "おうせ〜はなんでも直してくれる…"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 2,
+                    "utter": "おうせーくんが一度直してくれたといっても特別大事にすることはなく壊れたらまた持ってきそう"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "おうせ〜がいつでも直してくれるという信頼（その男短命種だぞ！）"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lc3fpa5w4s2l",
+            "label": [
+                0.0044603506103158,
+                0.20902812480926514,
+                0.006644930690526962,
+                0.12188224494457245,
+                0.2820280194282532,
+                0.31152600049972534,
+                0.059472836554050446,
+                0.004957434255629778
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "おうせ〜がいつでも直してくれるという信頼（その男短命種だぞ！）"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 2,
+                    "utter": "普通なら直してくれた男はもういないのだな…となるところそうではないのが良いよね(よいか？？)"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "よくはないけどよい　ゴロリ"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lc3fvhsjoc2l",
+            "label": [
+                0.9996305704116821,
+                5.501112173078582e-05,
+                7.688577170483768e-05,
+                5.559347846428864e-05,
+                2.4173024939955212e-05,
+                5.183087341720238e-05,
+                6.315566133707762e-05,
+                4.281100700609386e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "よくはないけどよい　ゴロリ"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 2,
+                    "utter": "わはは こねりこねり"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "ムニャーン"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lc3fwvhvds2l",
+            "label": [
+                0.22520241141319275,
+                0.4229657053947449,
+                0.005509885493665934,
+                0.09774898737668991,
+                0.008769787847995758,
+                0.04461003839969635,
+                0.1929226517677307,
+                0.0022705290466547012
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "ムニャーン"
+                },
+                {
+                    "author": "did:plc:sl4sdjd4ao3wropff2nijrdq",
+                    "type": 2,
+                    "utter": "あたたかいほうじ茶をどうぞ"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "いただきまふ"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lc3fzi2it22l",
+            "label": [
+                0.9843834042549133,
+                0.00027620274340733886,
+                0.014537841081619263,
+                0.00013327966735232621,
+                0.00013608568406198174,
+                0.00017609854694455862,
+                0.00019927974790334702,
+                0.00015779846580699086
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "ズドド"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "ズドねっこ！気持ち分かり…だよ。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "そっとねこてを乗せてくるでか"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf7slfk4422e",
+            "label": [
+                0.9958426356315613,
+                0.00016413423873018473,
+                0.00025305405142717063,
+                0.0033686943352222443,
+                5.662080002366565e-05,
+                9.659818169893697e-05,
+                0.00012424099259078503,
+                9.407089237356558e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "そっとねこてを乗せてくるでか"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "て！！かわいいな！！ｷﾞｭｯｯｯ"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "縦に長くなったまま照れている"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf7u3duhks2e",
+            "label": [
+                0.9469456672668457,
+                0.004495894070714712,
+                0.0038071265444159508,
+                0.020891385152935982,
+                0.0002392373571638018,
+                0.021810948848724365,
+                0.0008934636134654284,
+                0.0009163046488538384
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "縦に長くなったまま照れている"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "肉球むにむに。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "ちょっと困っている"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf7wirj4ws2e",
+            "label": [
+                0.002316763624548912,
+                0.9621034860610962,
+                0.0012089925585314631,
+                0.0014824148965999484,
+                0.000656822812743485,
+                0.0287383571267128,
+                0.003306732513010502,
+                0.00018631144484970719
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "ちょっと困っている"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "…手の間の毛を刈った方がいいな？"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "いえこのままでだいじょうぶかと…ウゴゴゴ"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf7x2vet622e",
+            "label": [
+                0.00546741858124733,
+                0.0017601557774469256,
+                0.006354618817567825,
+                0.0009270284208469093,
+                0.00029838140471838415,
+                0.9843639731407166,
+                0.00046370545169338584,
+                0.0003646520199254155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "スケジュール切り直すぜ〜って古いノート解体して手帳のリフィル作ってたら思いっきり手を挟みましたね…リングに…"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "ぎゃむっ！！"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "おててはさんだでか"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf22v542s22e",
+            "label": [
+                0.06963420659303665,
+                0.04325329512357712,
+                0.0027194495778530836,
+                0.8555516600608826,
+                0.002426211489364505,
+                0.01674017682671547,
+                0.008207747712731361,
+                0.0014672609977424145
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "おててはさんだでか"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "しったいです…"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "ねこが怪我をしている！治療しなければ！ねこの手を挟んだドアは粉砕しなければ！"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf23rbhwbs2e",
+            "label": [
+                0.0028663461562246084,
+                0.02989840693771839,
+                0.010823224671185017,
+                0.21806700527668,
+                0.019692929461598396,
+                0.7133964896202087,
+                0.003208692418411374,
+                0.0020468684379011393
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "ねこが怪我をしている！治療しなければ！ねこの手を挟んだドアは粉砕しなければ！"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "ネロがファを羽交い絞めにしている間にねこは賢者にいたいのいたいのとんでいけしてもらっていた。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "もうへいきですのでゴネリ"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf2hnt5bwc2e",
+            "label": [
+                0.16724157333374023,
+                0.20197421312332153,
+                0.08674750477075577,
+                0.002921955892816186,
+                0.004195171408355236,
+                0.023482775315642357,
+                0.5086174607276917,
+                0.004819370340555906
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "もうへいきですのでゴネリ"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "良かった！！！！！！（疲労困憊料理人）"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "ひとしきりでかを撫で回したファは料理人疲れさせ罪でゆで卵の殻剥き担当した"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf2hvfd7xs2e",
+            "label": [
+                0.9919082522392273,
+                0.0008638275321573019,
+                0.003100053407251835,
+                0.000483622687170282,
+                0.00020815302559640259,
+                0.0018169115064665675,
+                0.0006943846237845719,
+                0.0009247964480891824
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "ひとしきりでかを撫で回したファは料理人疲れさせ罪でゆで卵の殻剥き担当した"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "無心で卵を剥く主人の足を温める忠義ねこ。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "ねこがやさしい…！"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lf2mxbjodk2e",
+            "label": [
+                0.9996150732040405,
+                6.774022767785937e-05,
+                7.791968528181314e-05,
+                8.650822564959526e-05,
+                2.1147958250367083e-05,
+                3.885196565533988e-05,
+                4.858474130742252e-05,
+                4.416230149217881e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "フォロワーがキレてたのこれか〜（メジャークライムス終盤まできた）"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "最終話まで行ったら連絡してほしい。終盤の展開よりも最終話の締め方だったから。キレてたフォロワーより。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "おっけー（ゴネゴネのでか）"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3levy75ewm22b",
+            "label": [
+                0.9995892643928528,
+                5.946416422375478e-05,
+                0.00010146256681764498,
+                6.144386861706153e-05,
+                2.678103555808775e-05,
+                5.3116997150937095e-05,
+                7.005876250332221e-05,
+                3.842254591290839e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "おっけー（ゴネゴネのでか）"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "でかも一緒に待ってようね（ぎちぎゅ…）"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "床暖で長くなっていたでか"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3levydmh3lc2b",
+            "label": [
+                0.0014169052010402083,
+                0.0008215596899390221,
+                0.0004192338092252612,
+                0.9965029954910278,
+                0.00013322047016117722,
+                0.0003868169442284852,
+                0.0002233795094070956,
+                9.581538324709982e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "床暖で長くなっていたでか"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "事情がよく飲み込めておらず固まっている。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "寝てたので何のことかさっぱりわからないがおまえは僕の味方だよな？と言われて勢いよくオ゛ァ゛！って鳴いた"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lew3amyb7k2b",
+            "label": [
+                0.0801430344581604,
+                0.0032649727072566748,
+                0.0016585247358307242,
+                0.9122061729431152,
+                0.0005199519800953567,
+                0.0011068674502894282,
+                0.0005634479457512498,
+                0.0005371220177039504
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "寝てたので何のことかさっぱりわからないがおまえは僕の味方だよな？と言われて勢いよくオ゛ァ゛！って鳴いた"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "忠義ねこ。"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "ネロとこしあんかつぶあんかで議論になってただけなのに…"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lew4pi47qs2b",
+            "label": [
+                0.0032816275488585234,
+                0.8564459681510925,
+                0.0004527229757513851,
+                0.10893847793340683,
+                0.003916503861546516,
+                0.006524384953081608,
+                0.020134659484028816,
+                0.00030567878275178373
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 1,
+                    "utter": "ネロとこしあんかつぶあんかで議論になってただけなのに…"
+                },
+                {
+                    "author": "did:plc:e23cr4e6vrja4fkuue5miwfg",
+                    "type": 2,
+                    "utter": "多数決勝利だ！！"
+                },
+                {
+                    "author": "did:plc:jgkvszoou27y73rfkz6pde4h",
+                    "type": 3,
+                    "utter": "でかの手を上げさせつつ"
+                }
+            ],
+            "uri": "at://did:plc:jgkvszoou27y73rfkz6pde4h/app.bsky.feed.post/3lewdbd6oz22b",
+            "label": [
+                0.9059697985649109,
+                0.0022796611301600933,
+                0.08361869305372238,
+                0.0021798009984195232,
+                0.0005906109581701458,
+                0.002704799408093095,
+                0.0017337718745693564,
+                0.0009228016133420169
+            ]
+        }
+    ]
+}

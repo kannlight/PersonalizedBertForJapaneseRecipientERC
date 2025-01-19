@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "四時とかあと1分やん"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "違う朝か、おらん！"
+                },
+                {
+                    "author": "did:plc:pufhgskscn2ealyaorh6zwme",
+                    "type": 2,
+                    "utter": "気づいてくれてなにより"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "飛ばせば１６:30くらいにつく？？"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lbjfzizzak2j",
+            "label": [
+                0.0016837014118209481,
+                0.0002703784848563373,
+                0.9975064396858215,
+                0.00022164311667438596,
+                4.3514781282283366e-05,
+                0.00015950902889017016,
+                5.060156399849802e-05,
+                6.420117279049009e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "飛ばせば１６:30くらいにつく？？"
+                },
+                {
+                    "author": "did:plc:pufhgskscn2ealyaorh6zwme",
+                    "type": 2,
+                    "utter": "戦闘機でも飛ばす前提なのか？？？？？"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "もちろん😸"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lbjg7ytock2j",
+            "label": [
+                0.9136791825294495,
+                0.0009509429219178855,
+                0.08268915861845016,
+                0.00023129695910029113,
+                0.0004133296897634864,
+                0.0005603633471764624,
+                0.0006447128835134208,
+                0.0008310649427585304
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "もちろん😸"
+                },
+                {
+                    "author": "did:plc:pufhgskscn2ealyaorh6zwme",
+                    "type": 2,
+                    "utter": "ビーコン立てといて"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "サブ性能ガン積みのね"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lbjgilzigs2j",
+            "label": [
+                0.2967993915081024,
+                0.004999268334358931,
+                0.6804583668708801,
+                0.007429279386997223,
+                0.0007920786156319082,
+                0.003946236334741116,
+                0.002362410770729184,
+                0.0032128512393683195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "おはようございます"
+                },
+                {
+                    "author": "did:plc:juvjuupcizoirbudpjlmboaq",
+                    "type": 2,
+                    "utter": "おはよう"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "おはにょ"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lfobjeujzc2a",
+            "label": [
+                0.9990284442901611,
+                0.00015347261796705425,
+                0.0004006314848084003,
+                7.042825018288568e-05,
+                5.151097502675839e-05,
+                6.645209214184433e-05,
+                0.00015908497152850032,
+                6.985398067627102e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "おはにょ"
+                },
+                {
+                    "author": "did:plc:juvjuupcizoirbudpjlmboaq",
+                    "type": 2,
+                    "utter": "私は今から寝るか頑張って起きて夜寝るか悩み中"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "頑張って起きて夜寝るしか"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lfockgkajc2a",
+            "label": [
+                0.010384106077253819,
+                0.05182677134871483,
+                0.9321150779724121,
+                0.00041092108585871756,
+                0.00021164873032830656,
+                0.003581228433176875,
+                0.0011083605932071805,
+                0.00036188651574775577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "頑張って起きて夜寝るしか"
+                },
+                {
+                    "author": "did:plc:juvjuupcizoirbudpjlmboaq",
+                    "type": 2,
+                    "utter": "しかない？"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "しかない。"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lfocn5l6ok2a",
+            "label": [
+                0.10882031172513962,
+                0.12326806783676147,
+                0.7234730124473572,
+                0.0008011602330952883,
+                0.0010518059134483337,
+                0.03335454314947128,
+                0.00647691497579217,
+                0.0027541909366846085
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "しかない。"
+                },
+                {
+                    "author": "did:plc:juvjuupcizoirbudpjlmboaq",
+                    "type": 2,
+                    "utter": "んじゃ頑張って耐える"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "寝るまでリングフィットすれば多分起きれるよ"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lfocwjq6zs2a",
+            "label": [
+                0.0016523583326488733,
+                0.0003353494394104928,
+                0.9975683093070984,
+                8.919445826904848e-05,
+                5.803733802167699e-05,
+                0.00012613521539606154,
+                8.285737567348406e-05,
+                8.763452933635563e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 1,
+                    "utter": "寝るまでリングフィットすれば多分起きれるよ"
+                },
+                {
+                    "author": "did:plc:juvjuupcizoirbudpjlmboaq",
+                    "type": 2,
+                    "utter": "長くて10分くらいしかできんのですが"
+                },
+                {
+                    "author": "did:plc:nsjo3nl22cpmi5kvubo5hygn",
+                    "type": 3,
+                    "utter": "大共感"
+                }
+            ],
+            "uri": "at://did:plc:nsjo3nl22cpmi5kvubo5hygn/app.bsky.feed.post/3lfod2mq2ok2a",
+            "label": [
+                0.9994102716445923,
+                4.321760934544727e-05,
+                0.00011794676538556814,
+                0.00018126498616766185,
+                5.047617378295399e-05,
+                4.107756103621796e-05,
+                6.20805294602178e-05,
+                9.36373180593364e-05
+            ]
+        }
+    ]
+}

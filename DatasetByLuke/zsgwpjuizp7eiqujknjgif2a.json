@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "お〜🤩例の！（笑）"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "ハンバーグ「は」作れるのよww"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "ハンバーグ作ってくれるだけでも\nじゅうぶんですよ✨\n嬉しいですよね😆"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbchq2psxc22",
+            "label": [
+                0.9996058344841003,
+                5.329496707418002e-05,
+                0.00011243285553064197,
+                5.822085586260073e-05,
+                3.153309808112681e-05,
+                3.874430331052281e-05,
+                5.044340650783852e-05,
+                4.9514379497850314e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "ハンバーグ作ってくれるだけでも\nじゅうぶんですよ✨\n嬉しいですよね😆"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "_(┐「ε:)_後片付けまでがセットだと思うの！"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "あら😧\n確かに！それはやって欲しいです！"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbcj7tsdd22r",
+            "label": [
+                0.0008083285647444427,
+                0.0001842575875343755,
+                0.9985767602920532,
+                0.00015775514475535601,
+                6.8623514380306e-05,
+                7.891123823355883e-05,
+                6.496827700175345e-05,
+                6.040850712452084e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "あら😧\n確かに！それはやって欲しいです！"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "キッチンの惨劇たるや…"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "🥺"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbck4ffvfs25",
+            "label": [
+                0.9546816349029541,
+                0.01177215576171875,
+                0.016648154705762863,
+                0.0019300321582704782,
+                0.0008721549529582262,
+                0.0031943125650286674,
+                0.009581319987773895,
+                0.001320292940363288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "🥺"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "２日くらい放置したい"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "ためるとどんどん\nやりたくなくなりますよね〜😅"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbckjeohrs2q",
+            "label": [
+                0.0011536924866959453,
+                0.987210750579834,
+                0.000538162246812135,
+                0.00036397669464349747,
+                0.00013577216304838657,
+                0.0014337695902213454,
+                0.009095365181565285,
+                6.853353988844901e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "ど真ん中✨🦜"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "(*｢･д･)それや！"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "イェーイ✌️"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lb7zrn4ycs2w",
+            "label": [
+                0.9995843768119812,
+                4.836703374166973e-05,
+                0.0001252379297511652,
+                6.920695886947215e-05,
+                3.299905438325368e-05,
+                4.20904289057944e-05,
+                5.73469114897307e-05,
+                4.036429163534194e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "イェーイ✌️"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "(´∀｀)チチッて鳴くんよ〜"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "可愛い😍"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbb7qx44ds2l",
+            "label": [
+                0.9996201992034912,
+                4.097885175724514e-05,
+                0.00011819225619547069,
+                6.508648220915347e-05,
+                2.7294674509903416e-05,
+                4.255558451404795e-05,
+                4.58494687336497e-05,
+                3.9769573049852625e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "可愛い😍"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "しかも上下に動くんよねー"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "目に浮かびます（笑）\n鳥さん飼いたいなぁ\n喘息があるので\n無理なんですけどね😂"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbbjqnftfk2w",
+            "label": [
+                0.0013178566005080938,
+                0.00042505873716436327,
+                0.9978579878807068,
+                9.28983572521247e-05,
+                4.183676355751231e-05,
+                0.0001335960259893909,
+                7.499334606109187e-05,
+                5.581105870078318e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "目に浮かびます（笑）\n鳥さん飼いたいなぁ\n喘息があるので\n無理なんですけどね😂"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "セキセイインコを保護してたことあるけど、ずっとカーテン齧ってたよww\nワンコ挑発して尻尾の羽根を毟られたりww"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "私がまだ喘息なかった頃は\n（小6の頃突然なりました）\nセキセイインコ飼ってました❤️\n本当可愛いですよね😍\nわんこ挑発見てみたいです😂"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lbbmi7bcw222",
+            "label": [
+                0.7395853400230408,
+                0.0009266919223591685,
+                0.25746864080429077,
+                0.0005079814582131803,
+                0.00030021611019037664,
+                0.00038489242433570325,
+                0.0003422408190090209,
+                0.00048406378482468426
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "木に留まってる！"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "(*｢･д･)」正解！"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "わぁい(*≧∇≦)"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lb7g5ggids2a",
+            "label": [
+                0.9995744824409485,
+                4.585087299346924e-05,
+                0.00014830881264060736,
+                7.092979649314657e-05,
+                3.0740546208107844e-05,
+                4.104874824406579e-05,
+                4.983438702765852e-05,
+                3.882364399032667e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "わぁい(*≧∇≦)"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "(*´∇｀*)可愛くてずっと見ちゃった"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "生き物は魅力的です✨\n虫は苦手だけど（笑）"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lb7jk3dey22z",
+            "label": [
+                0.9996055960655212,
+                4.272420483175665e-05,
+                0.0001334426924586296,
+                5.62539862585254e-05,
+                2.7224112272961065e-05,
+                3.839178316411562e-05,
+                4.550883750198409e-05,
+                5.086521559860557e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "生き物は魅力的です✨\n虫は苦手だけど（笑）"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "_(┐「ε:)_夏前に行った時は、国蝶のオオムラサキを園内に飼ってるの見たよ"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "おぉ〜🤩\n蝶は好きです🦋"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lb7mfpyzjk2q",
+            "label": [
+                0.9994910955429077,
+                3.664253745228052e-05,
+                0.0001844206708483398,
+                8.884351700544357e-05,
+                3.677048152894713e-05,
+                3.753424243768677e-05,
+                5.7739503972698e-05,
+                6.693167961202562e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 1,
+                    "utter": "おぉ〜🤩\n蝶は好きです🦋"
+                },
+                {
+                    "author": "did:plc:2awedpve5y2uwnp34hjjp2oy",
+                    "type": 2,
+                    "utter": "_(┐「ε:)_ババが見た時は…イモイモだった…"
+                },
+                {
+                    "author": "did:plc:zsgwpjuizp7eiqujknjgif2a",
+                    "type": 3,
+                    "utter": "あらぁ…残念🐛"
+                }
+            ],
+            "uri": "at://did:plc:zsgwpjuizp7eiqujknjgif2a/app.bsky.feed.post/3lb7tvqeg3s2h",
+            "label": [
+                0.0003077546716667712,
+                0.9989827275276184,
+                0.0001699932909104973,
+                0.00016646100266370922,
+                6.247641431400552e-05,
+                9.843318548519164e-05,
+                0.00018025143072009087,
+                3.1877862056717277e-05
+            ]
+        }
+    ]
+}

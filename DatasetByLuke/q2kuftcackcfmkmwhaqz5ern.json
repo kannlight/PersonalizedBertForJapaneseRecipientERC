@@ -1,0 +1,284 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "えらいことしてしまったなぁ、と思う気持ちと自分用に欲しかったから！いいの！！！と思う気持ちで揺れている……\n\nま、もうやっちゃったしね！お金払うもんね！今からだけど！\n\nサチさん、出そうです。\nいちがつさん、つくえのすみっこに置かせてください………。"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "あ、いや、まだできてないんだけど。入稿はしました。\n\nよっぽどの誤字脱字がない限り持っていきます………"
+                },
+                {
+                    "author": "did:plc:i5l7tbsueo3g3ybkjxt554wu",
+                    "type": 2,
+                    "utter": "おーーー！！！やった！！！やったよーーー！！！"
+                },
+                {
+                    "author": "did:plc:i5l7tbsueo3g3ybkjxt554wu",
+                    "type": 2,
+                    "utter": "レミさんの新刊あります！！！ってお品書きに書けるじゃん！！ヒャッホー！！"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "あ、いや、ないよ、そんなにないの。書かなくていいよ💦\nそして無配のつもりで……💦\n手持ちだし、3……くらい……？\nあ、いちがつさんには勝手に押し付けるつもりなので……"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lb7m4cog2c22",
+            "label": [
+                0.6406651139259338,
+                0.07638217508792877,
+                0.1174401342868805,
+                0.006903453264385462,
+                0.0029039231594651937,
+                0.1024266704916954,
+                0.04328447952866554,
+                0.009993985295295715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "あ、いや、ないよ、そんなにないの。書かなくていいよ💦\nそして無配のつもりで……💦\n手持ちだし、3……くらい……？\nあ、いちがつさんには勝手に押し付けるつもりなので……"
+                },
+                {
+                    "author": "did:plc:i5l7tbsueo3g3ybkjxt554wu",
+                    "type": 2,
+                    "utter": "ちょっと！すくなすぎる！！"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "そもそもそんなに刷ってない……\n自分とサチさんと、いちがつさんが持っててくれたらそれで………\n\nじゃ5もってく………"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lb7mros3as22",
+            "label": [
+                0.0020996977109462023,
+                0.004670614376664162,
+                0.9923474788665771,
+                0.00012248374696355313,
+                6.52159214951098e-05,
+                0.00040696750511415303,
+                0.0001813802373362705,
+                0.00010611321340547875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "そもそもそんなに刷ってない……\n自分とサチさんと、いちがつさんが持っててくれたらそれで………\n\nじゃ5もってく………"
+                },
+                {
+                    "author": "did:plc:i5l7tbsueo3g3ybkjxt554wu",
+                    "type": 2,
+                    "utter": "え…マジでいってんの…？"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "え…………\nあれ………？うん………\n\nマジで刷ってない…………"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lb7ntebznk22",
+            "label": [
+                0.00046221993397921324,
+                0.0023260770831257105,
+                0.00030858610989525914,
+                0.9955788254737854,
+                0.0002803175593726337,
+                0.0006127785891294479,
+                0.00033973620156757534,
+                9.15136988623999e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "え…………\nあれ………？うん………\n\nマジで刷ってない…………"
+                },
+                {
+                    "author": "did:plc:i5l7tbsueo3g3ybkjxt554wu",
+                    "type": 2,
+                    "utter": "いやん…！\nま、まあ次よ！"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "いやだってさ、最近書いてないし、私が書いたの読む人いないじゃん……？\n\nちゅ………ちゅぎ………？"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lb7nwxxmt222",
+            "label": [
+                0.00029703517793677747,
+                0.9969378709793091,
+                0.00014822205412201583,
+                0.0003679747460409999,
+                0.00017209544603247195,
+                0.0009465052280575037,
+                0.0010973195312544703,
+                3.295770147815347e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "えらいことしてしまったなぁ、と思う気持ちと自分用に欲しかったから！いいの！！！と思う気持ちで揺れている……\n\nま、もうやっちゃったしね！お金払うもんね！今からだけど！\n\nサチさん、出そうです。\nいちがつさん、つくえのすみっこに置かせてください………。"
+                },
+                {
+                    "author": "did:plc:2zu4a4yzj7qjkqxzofdjqf72",
+                    "type": 2,
+                    "utter": "😭😭😭"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "emさーん！やりました！がんばっ……てはそんなにないかも………\n新作じゃないし💦\n\nでもやっぱり『入稿しました』の文字見るとなんかおぉぉ……ってなりますね🥰"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lbcf7ry7b22k",
+            "label": [
+                0.9996392726898193,
+                5.330107160261832e-05,
+                9.276556374970824e-05,
+                7.226684829220176e-05,
+                2.2621283278567716e-05,
+                3.5347038647159934e-05,
+                4.424409780767746e-05,
+                4.011346027255058e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "emさーん！やりました！がんばっ……てはそんなにないかも………\n新作じゃないし💦\n\nでもやっぱり『入稿しました』の文字見るとなんかおぉぉ……ってなりますね🥰"
+                },
+                {
+                    "author": "did:plc:2zu4a4yzj7qjkqxzofdjqf72",
+                    "type": 2,
+                    "utter": "レミーツさんお疲れ様です！\nいやいや、新作じゃなくても凄い！本を出すって勇気も気力もいるし！\n出来ればイベント会場にお邪魔して強奪したかったです～～！！\n\n…あまり…刷ってないんですよね…😭"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "なんか気力、体力、お金がしょぼしょぼになってきて。\n出すなら今かな！と……\n\nお姉さんもこられない感じですか？\nもしよければ押し付けさせてください！！！"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lbcigll6a22k",
+            "label": [
+                0.00018565758364275098,
+                0.0005306105013005435,
+                0.998796820640564,
+                0.00010808387742144987,
+                9.127007069764659e-05,
+                0.00013104116078466177,
+                9.912471432471648e-05,
+                5.72492899664212e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "なんか気力、体力、お金がしょぼしょぼになってきて。\n出すなら今かな！と……\n\nお姉さんもこられない感じですか？\nもしよければ押し付けさせてください！！！"
+                },
+                {
+                    "author": "did:plc:2zu4a4yzj7qjkqxzofdjqf72",
+                    "type": 2,
+                    "utter": "姉、呪術にいるんですけど‥おいいわスペース寄れるのかな‥\n確かかなり場所が離れていたような‥\n一度聞いてみます💦"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "おぉ、そうなんですね〜！\nちなみにスペ番とかホール？教えていただいてもいいですか？\n持っていきます！"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lbdpivscy22y",
+            "label": [
+                0.0022393043618649244,
+                0.00022762846492696553,
+                0.996548593044281,
+                0.0006603598012588918,
+                7.998378714546561e-05,
+                8.876741048879921e-05,
+                5.77883402002044e-05,
+                9.768039308255538e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "おぉ、そうなんですね〜！\nちなみにスペ番とかホール？教えていただいてもいいですか？\n持っていきます！"
+                },
+                {
+                    "author": "did:plc:2zu4a4yzj7qjkqxzofdjqf72",
+                    "type": 2,
+                    "utter": "え、レミーツさんありがとうございます✨✨\n後でお知らせします〜〜✨✨✨\n感謝です✨✨✨"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "ぺらっぺらですが受け取ってください！！！"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lbf3gtswbk2z",
+            "label": [
+                0.0011913132620975375,
+                0.000513459206558764,
+                0.9977970123291016,
+                0.00011184241157025099,
+                6.283070979407057e-05,
+                0.00014470586029347032,
+                9.833828517002985e-05,
+                8.044420974329114e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 1,
+                    "utter": "ぺらっぺらですが受け取ってください！！！"
+                },
+                {
+                    "author": "did:plc:2zu4a4yzj7qjkqxzofdjqf72",
+                    "type": 2,
+                    "utter": "レミーツさん〜！\n姉がお使いに伺うので、新刊下さいさせて下さい！！なので、お、お取り置き‥お願いできますでしょうか🙏🙏🙏"
+                },
+                {
+                    "author": "did:plc:q2kuftcackcfmkmwhaqz5ern",
+                    "type": 3,
+                    "utter": "わーい！もちろんですっ！\n無配ですので受け取ってくださいー！"
+                }
+            ],
+            "uri": "at://did:plc:q2kuftcackcfmkmwhaqz5ern/app.bsky.feed.post/3lbofsf74sk2j",
+            "label": [
+                0.99887615442276,
+                6.0204412875464186e-05,
+                0.0007389762904495001,
+                6.508096703328192e-05,
+                5.638646689476445e-05,
+                4.835973959416151e-05,
+                7.946846744744107e-05,
+                7.532056770287454e-05
+            ]
+        }
+    ]
+}

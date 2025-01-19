@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "こなってが28キラーしたいって"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "今ちょっと皮付き8人いっぺんに相手する気力起きない…"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "２人だから４人だよ？"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbyjl5zafs2y",
+            "label": [
+                0.967645525932312,
+                0.0019199949456378818,
+                0.020688993856310844,
+                0.005222667474299669,
+                0.0008928882889449596,
+                0.0004916366306133568,
+                0.0015763998962938786,
+                0.0015617720782756805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "２人だから４人だよ？"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "ほんとに大丈夫？私が7人相手にするような状況にならない？？？"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "場合によっては1v9覚悟した方がいい"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbyjw765cs2y",
+            "label": [
+                0.0008271774277091026,
+                0.001886333106085658,
+                0.0009437162661924958,
+                0.0014392082812264562,
+                0.0008651266107335687,
+                0.9931195974349976,
+                0.0006629838026128709,
+                0.0002559202548582107
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "場合によっては1v9覚悟した方がいい"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "だと思った笑笑"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "7じゃないから出来るね…？"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbyk5ssgr22y",
+            "label": [
+                0.08473651856184006,
+                0.0039597246795892715,
+                0.9074772596359253,
+                0.0010689747286960483,
+                0.0002082043356494978,
+                0.00151401839684695,
+                0.0005465996218845248,
+                0.0004886120441369712
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "7じゃないから出来るね…？"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "できない…やりたくない………🥺"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "こなってかわいそうやろがい！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbykck2gnc2y",
+            "label": [
+                0.00030761639936827123,
+                0.9984319806098938,
+                0.00013096394832246006,
+                0.00034972382127307355,
+                0.0001407340751029551,
+                0.00027983429026789963,
+                0.0003216182813048363,
+                3.7619149225065485e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "春感どこに…？"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "ｶﾚﾌﾞﾁｬﾝのふともも"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "胃を壊すので没収しますね～～～"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lf7ytj7ubc2o",
+            "label": [
+                0.010483326390385628,
+                0.7751575708389282,
+                0.0017360759666189551,
+                0.0010844722855836153,
+                0.0011702988995239139,
+                0.19512943923473358,
+                0.014716492965817451,
+                0.0005222551990300417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "胃を壊すので没収しますね～～～"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "ﾝｬーーーーーーーー‼️（ｶﾚﾌﾞﾁｬﾝのふとももにしがみつく）"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "残念それはフランスパンだ…"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lfa3lxshvc2o",
+            "label": [
+                0.0008070061448961496,
+                0.998354971408844,
+                0.00023771391715854406,
+                0.00022271690249908715,
+                4.1884795791702345e-05,
+                0.00015201680071186274,
+                0.00015006991452537477,
+                3.367412500665523e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "残念それはフランスパンだ…"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "ｶﾚﾌﾞﾁｬﾝのフランスパン⁉️⁉️！？！！？！？！？！？！？！？！？！？！！？！！？"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "ヤマザキのフランスパンね"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lfa4rumrlc2o",
+            "label": [
+                0.9934403300285339,
+                0.00019115816394332796,
+                0.005628589540719986,
+                0.00018469114729668945,
+                9.372875501867384e-05,
+                7.484298112103716e-05,
+                0.00015184168296400458,
+                0.00023484215489588678
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "ヤマザキのフランスパンね"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "ｸｩｩ〜〜ﾝ…パクパク"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "ほら…まだあるぞ！はらを空かせてこんな痩せほそってしまって…！"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lfa6xlpocc2o",
+            "label": [
+                0.006234834901988506,
+                0.9413866400718689,
+                0.006359979975968599,
+                0.005337073002010584,
+                0.001846973435021937,
+                0.035084646195173264,
+                0.003196158679202199,
+                0.0005537114338949323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "監獄歓迎"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "何事…？我無罪也…"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "迷惑防止条例違反　本人申告有"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ldeyzjcxyk2f",
+            "label": [
+                0.02206595428287983,
+                0.03404255956411362,
+                0.0011145967291668057,
+                0.07305055111646652,
+                0.23027873039245605,
+                0.10881323367357254,
+                0.5256824493408203,
+                0.0049519469030201435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "迷惑防止条例違反　本人申告有"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "来本人！？！！？！！？\n叔父様‼️我無罪也‼️\n望、愛愛面会…🥰"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "死鎖飛叔父既帰宅　顔面蒼白満悲哀"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ldfezldhlc2f",
+            "label": [
+                0.00028131899307481945,
+                0.9988641738891602,
+                0.00012549942766781896,
+                0.00015796677325852215,
+                4.894301309832372e-05,
+                0.0002773926535155624,
+                0.00021482474403455853,
+                2.9800117772538215e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "死鎖飛叔父既帰宅　顔面蒼白満悲哀"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "可哀想…我欲帰宅即舐舐撫撫"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "問題無貴殿帰宅先監獄故"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ldffaixivc2f",
+            "label": [
+                0.005248586181551218,
+                0.44771435856819153,
+                0.0015377452364191413,
+                0.013390699401497841,
+                0.0019441728945821524,
+                0.5252888202667236,
+                0.004353704862296581,
+                0.0005218432634137571
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "問題無貴殿帰宅先監獄故"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "我無罪也‼️\n其冤罪也‼️求欲釈放‼️\n死銛撃叔父〜〜要求救助〜"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "汚経模様"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ldffka5zqk2f",
+            "label": [
+                0.000776127097196877,
+                0.9947690367698669,
+                0.0002356362238060683,
+                0.0002947034954559058,
+                0.00010610459139570594,
+                0.0010498830815777183,
+                0.0027243364602327347,
+                4.416879892232828e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "俺の時はトドメ刺してたな"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "たし🦀………気楽にやりたいめう"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "ベルカス、引越しによるブランクを理由に後方腕組みお気軽参戦を計画中"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ld4hsuuh7k2b",
+            "label": [
+                0.003450940130278468,
+                0.00025282398564741015,
+                0.9957402944564819,
+                0.00013694196240976453,
+                8.730824629310519e-05,
+                0.00015716113557573408,
+                9.023343591252342e-05,
+                8.435292693320662e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "ベルカス、引越しによるブランクを理由に後方腕組みお気軽参戦を計画中"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "やったぜ！はよ引越し終わらせて！"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "ネット開通出来るかしら…ネット会社は共用部の鍵借りてこい言うし、管理会社は業者が借りにこいって言うし、相談先もない。ほんまカス"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ld5ikecdm22w",
+            "label": [
+                0.002591520082205534,
+                0.18911761045455933,
+                0.0021580345928668976,
+                0.002966076834127307,
+                0.03428128734230995,
+                0.006315187085419893,
+                0.7617762684822083,
+                0.0007940331124700606
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "ネット開通出来るかしら…ネット会社は共用部の鍵借りてこい言うし、管理会社は業者が借りにこいって言うし、相談先もない。ほんまカス"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "ネット会社変えたらいかんのか…？？？話がたらい回しにされるの最悪すぎる…"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "お客様都合によるキャンセルは云々言ってくるから、工事できませんって向こうに言わせるしかない……。"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ld5s7knkzs2k",
+            "label": [
+                0.00489579513669014,
+                0.3469279110431671,
+                0.0021526908967643976,
+                0.0035149173345416784,
+                0.12061729282140732,
+                0.017353907227516174,
+                0.5033804178237915,
+                0.0011570617789402604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "お客様都合によるキャンセルは云々言ってくるから、工事できませんって向こうに言わせるしかない……。"
+                },
+                {
+                    "author": "did:plc:mvxbcrjjlsuthijalpotz7cd",
+                    "type": 2,
+                    "utter": "カスゥ！！！！！ほんとどうなってんの…消費者センター的なとこに相談とかできないんかな…"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "昔の携帯会社も大概カスだったからね…規制されない限りこういうこと良くやるのよ。だからカスなんよ…。"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3ld5vevbdhk2w",
+            "label": [
+                0.002602390479296446,
+                0.004141573328524828,
+                0.001989091979339719,
+                0.0009792338823899627,
+                0.008199232630431652,
+                0.0026959681417793036,
+                0.97856605052948,
+                0.0008264296920970082
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "ドッグランと28したい気もするけど、かおすになる気もする"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "ワン！！！（やろう！！！！）"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "でもこの野良犬、夜帰ってこないしな…"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbazkxf4xc2h",
+            "label": [
+                0.005027168430387974,
+                0.006708800792694092,
+                0.000806280761025846,
+                0.002359620062634349,
+                0.0003056015120819211,
+                0.983528733253479,
+                0.0010143427643924952,
+                0.0002495027438271791
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "でもこの野良犬、夜帰ってこないしな…"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "夜帰ってるよ"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "遅いし…？"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbc5gwtjk222",
+            "label": [
+                0.0016785962507128716,
+                0.001927894540131092,
+                0.0011535336961969733,
+                0.9915177226066589,
+                0.00014397536870092154,
+                0.0031356539111584425,
+                0.00033311237348243594,
+                0.00010962138912873343
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "遅いし…？"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "明日の夜なら行ける"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "アシタ　オデ　ヨテイ　アル"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbccibhiv223",
+            "label": [
+                0.4264731705188751,
+                0.3091316819190979,
+                0.050237640738487244,
+                0.023164289072155952,
+                0.031142355874180794,
+                0.05009853467345238,
+                0.09794313460588455,
+                0.011809224262833595
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "アシタ　オデ　ヨテイ　アル"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "他なら木曜夜か日曜ならたぶんいける"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "我望木　我願遊早"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbcdplqdik23",
+            "label": [
+                0.0071153901517391205,
+                0.0015313945477828383,
+                0.9902558922767639,
+                0.00017929179011844099,
+                0.0002381438243901357,
+                0.00019936886383220553,
+                0.0002630517410580069,
+                0.00021754848421551287
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 1,
+                    "utter": "我望木　我願遊早"
+                },
+                {
+                    "author": "did:plc:y3tfcxgtpzqnwdmttt4awnzh",
+                    "type": 2,
+                    "utter": "明後日木曜夜八～十時頃如何？"
+                },
+                {
+                    "author": "did:plc:gauboqped34fntwusbgrrhuc",
+                    "type": 3,
+                    "utter": "了承承諾承認"
+                }
+            ],
+            "uri": "at://did:plc:gauboqped34fntwusbgrrhuc/app.bsky.feed.post/3lbchg45fbk24",
+            "label": [
+                0.9993531107902527,
+                4.8031222831923515e-05,
+                0.00021280771761666983,
+                5.886092549189925e-05,
+                5.091040293336846e-05,
+                5.959197005722672e-05,
+                0.0001124594418797642,
+                0.00010424997890368104
+            ]
+        }
+    ]
+}

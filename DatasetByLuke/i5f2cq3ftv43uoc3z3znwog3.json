@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Bom dia, Ricardo! Um domingo de paz a todos. 🥰❤️😘🌼"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Olá, minha querida! Tudo tranquilo?"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Tá sim e que com você?"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3leyygkapac22",
+            "label": [
+                0.7796130180358887,
+                0.014817561022937298,
+                0.14469341933727264,
+                0.03388171270489693,
+                0.005176994018256664,
+                0.005343122873455286,
+                0.008400234393775463,
+                0.008073951117694378
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Tá sim e que com você?"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Xii, amiga. Mas está assustadoramente tranquilo? Kkk"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Assustadoramente maravilhoso. 🤣😅"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3leyyv4ed2222",
+            "label": [
+                0.9867442846298218,
+                0.0018274512840434909,
+                0.0068398769944906235,
+                0.0015514022670686245,
+                0.00042974483221769333,
+                0.0005953632644377649,
+                0.0010399285238236189,
+                0.0009719145600683987
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Assustadoramente maravilhoso. 🤣😅"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Agora sim. Fiquei tranquilo. Essa é minha amiga.😂😂"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Sempre assustadoramente bem. Algumas vezes bem mortinha."
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3lez23iuxwc22",
+            "label": [
+                0.9598190188407898,
+                0.00390597153455019,
+                0.023970400914549828,
+                0.004072020296007395,
+                0.001053710118867457,
+                0.0012973728589713573,
+                0.0026466480921953917,
+                0.003234904957935214
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Sempre assustadoramente bem. Algumas vezes bem mortinha."
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Faz parte."
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "😅🌼"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3lez27tbmps22",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Muito obrigada, Ricardo! Que seja de muita paz. 😅🥰🌼"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Olá, minha querida. Pelo que já lhe conheço, vc tá bem né?☺️☺️"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Assustadoramente bem e mal. 🙃🤭😅🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3lecsfpcy3c2q",
+            "label": [
+                0.9613810181617737,
+                0.006267436780035496,
+                0.02155270241200924,
+                0.0032797192689031363,
+                0.0008819767972454429,
+                0.001808268716558814,
+                0.0023183273151516914,
+                0.002510431921109557
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Assustadoramente bem e mal. 🙃🤭😅🤣🤣"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Está na fronteira? Kkkk"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Tentando me equilibrar no Slackline. 😅🤣🥰"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3lecuzuznis2q",
+            "label": [
+                0.9600508809089661,
+                0.006093733943998814,
+                0.023496713489294052,
+                0.0027613365091383457,
+                0.0009401417337357998,
+                0.0017053731717169285,
+                0.0029124165885150433,
+                0.0020393249578773975
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Tentando me equilibrar no Slackline. 😅🤣🥰"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Então tá tranquilo. Isso você faz de olhos fechados.☺️"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Esperando 2025 🙃😅"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3lecviafa7s2q",
+            "label": [
+                0.02184750698506832,
+                0.0034030687529593706,
+                0.972307026386261,
+                0.0005092667997814715,
+                0.00012181931379018351,
+                0.0013098632916808128,
+                0.0002952659851871431,
+                0.00020626811601687223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 1,
+                    "utter": "Esperando 2025 🙃😅"
+                },
+                {
+                    "author": "did:plc:qvsb6ohxhmhhsagd5n5cvmqw",
+                    "type": 2,
+                    "utter": "Ainda tem uns \"caroçinhos\" de 2024, menina. Dá pra aproveitar.☺️☺️"
+                },
+                {
+                    "author": "did:plc:i5f2cq3ftv43uoc3z3znwog3",
+                    "type": 3,
+                    "utter": "Queria dormir e acordar em 2025. 😊🤭"
+                }
+            ],
+            "uri": "at://did:plc:i5f2cq3ftv43uoc3z3znwog3/app.bsky.feed.post/3lecwabvqls2q",
+            "label": [
+                0.9910571575164795,
+                0.0009202377405017614,
+                0.00633981404826045,
+                0.00027071739896200597,
+                0.0001690415374469012,
+                0.00033493730006739497,
+                0.0004902826040051877,
+                0.0004177435184828937
+            ]
+        }
+    ]
+}

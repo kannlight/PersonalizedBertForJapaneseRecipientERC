@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "おい寝るな"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "クックックッッッ"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "いい表現見つかりましたか？"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lbtfuaqs272l",
+            "label": [
+                0.014646845869719982,
+                0.00037048369995318353,
+                0.9839956164360046,
+                0.00027847199817188084,
+                0.0001260634744539857,
+                0.0002449869061820209,
+                0.00013402567128650844,
+                0.00020340675837360322
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "いい表現見つかりましたか？"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "クッで押さえ込んでます"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "は？？？？？？？？？？大して変わんねえじゃねえか💥💥💥💥💥💥"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lbtgd3fu2h2w",
+            "label": [
+                0.014523973688483238,
+                0.028428472578525543,
+                0.003079381538555026,
+                0.12781855463981628,
+                0.5499814748764038,
+                0.006380371283739805,
+                0.266893595457077,
+                0.0028942518401890993
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "は？？？？？？？？？？大して変わんねえじゃねえか💥💥💥💥💥💥"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "大天使ずんだもちちゃんってこれから呼びますハイ"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "腹立つ腹立つ腹立つ腹立つ"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lbtgl6kzgz24",
+            "label": [
+                0.0027785268612205982,
+                0.0059004658833146095,
+                0.005643775686621666,
+                0.004787880927324295,
+                0.9707950353622437,
+                0.004371840972453356,
+                0.0039879437536001205,
+                0.0017345990054309368
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "腹立つ腹立つ腹立つ腹立つ"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "怒らないで大天使"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "きんもぉ🤢"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lbtguhr3za2b",
+            "label": [
+                0.9939674139022827,
+                0.001905725453980267,
+                0.0016403363551944494,
+                0.0004962888779118657,
+                0.0002533391525503248,
+                0.00040662125684320927,
+                0.0010654315119609237,
+                0.0002649262605700642
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "りゅっくさんによる投げキッスのバーゲンセールは一体なんなの？"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "欲しいの？あーげないッ⭐︎"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "じゃあ私の投げキッスあげる😘"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lfa453gpaw2a",
+            "label": [
+                0.15328703820705414,
+                0.0015086507191881537,
+                0.843141496181488,
+                0.000527119729667902,
+                0.0002791274164337665,
+                0.000396615854697302,
+                0.0004416043229866773,
+                0.0004182513221167028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "じゃあ私の投げキッスあげる😘"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "🏸"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "は？？？？？？？？？？？"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lfa4auyhtg2k",
+            "label": [
+                0.0036248669493943453,
+                0.0058093746192753315,
+                0.0009678718633949757,
+                0.9535682797431946,
+                0.009561607614159584,
+                0.0016470785485580564,
+                0.0242280513048172,
+                0.0005928501486778259
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "は？？？？？？？？？？？"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "わたしのキッスを飛ばす準備です😘"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "はよ寄越せ"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lfa4iqi4rg2t",
+            "label": [
+                0.0018784896237775683,
+                0.012927518226206303,
+                0.007490083575248718,
+                0.00578894792124629,
+                0.9519718289375305,
+                0.005585654638707638,
+                0.013003675267100334,
+                0.0013538365019485354
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "はよ寄越せ"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "😘❤️🏸😘❤️🏸😘❤️🏸😘❤️🏸"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "😘🤍🏓 😘🤍🏓 😘🤍🏓 😘🤍🏓"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lfa4qh5etn2e",
+            "label": [
+                0.8377927541732788,
+                0.01334682758897543,
+                0.13047809898853302,
+                0.0019008067902177572,
+                0.0014964354922994971,
+                0.004199759569019079,
+                0.00822153128683567,
+                0.0025637249927967787
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 1,
+                    "utter": "😘🤍🏓 😘🤍🏓 😘🤍🏓 😘🤍🏓"
+                },
+                {
+                    "author": "did:plc:rvqjrkcwyfx7xhajh7ng7wps",
+                    "type": 2,
+                    "utter": "めでたいね❤️"
+                },
+                {
+                    "author": "did:plc:lvnuq6vufvicikznf5ozm46l",
+                    "type": 3,
+                    "utter": "超めでたいソング 〜こんなに幸せでいいのかな？〜"
+                }
+            ],
+            "uri": "at://did:plc:lvnuq6vufvicikznf5ozm46l/app.bsky.feed.post/3lfa4ua2fdw2t",
+            "label": [
+                0.9996272325515747,
+                5.8811023336602375e-05,
+                9.162908099824563e-05,
+                6.1032711528241634e-05,
+                2.383056198596023e-05,
+                4.799544331035577e-05,
+                4.393481867737137e-05,
+                4.5425444113789126e-05
+            ]
+        }
+    ]
+}

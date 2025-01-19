@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "今日は白菜の気分だったからというのもあります……！！\nでも前職の韓国の料理人曰く「美味しくてキモチがこもってるなら何入れてもイイノヨ」と教わったので若干辛口の闇鍋です！\n白菜美味しいですよね！"
+                },
+                {
+                    "author": "did:plc:zddh7mgx26ss4gixai6w5d45",
+                    "type": 2,
+                    "utter": "なるほどな！？\nいつもうどんと卵と豆腐入れて真っ白にしてますね…白菜普通に美味しいやろな…いれたい"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "美味しい優しい味だ……！\n幅広く色んな料理に使えるのは嬉しい"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3lbjv7giivc24",
+            "label": [
+                0.999613344669342,
+                4.177731170784682e-05,
+                0.0001243299775524065,
+                5.6515593314543366e-05,
+                3.178965926053934e-05,
+                4.084173997398466e-05,
+                4.6032993850531057e-05,
+                4.534093022812158e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "美味しい優しい味だ……！\n幅広く色んな料理に使えるのは嬉しい"
+                },
+                {
+                    "author": "did:plc:zddh7mgx26ss4gixai6w5d45",
+                    "type": 2,
+                    "utter": "魚介入れても野菜入れてもお肉入れてもおいしいですもんね\n卵も美味しい"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "なるほど！美味しそう…美味すぎるから食材を変えて毎日お鍋がいいってなるわね🍲"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3lbjvpaez4k24",
+            "label": [
+                0.26213449239730835,
+                0.001164874411188066,
+                0.7341837286949158,
+                0.0009777415543794632,
+                0.00026513455668464303,
+                0.00041426150710321963,
+                0.0003325526195112616,
+                0.0005272413254715502
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "なるほど！美味しそう…美味すぎるから食材を変えて毎日お鍋がいいってなるわね🍲"
+                },
+                {
+                    "author": "did:plc:zddh7mgx26ss4gixai6w5d45",
+                    "type": 2,
+                    "utter": "そして締めにつかうものもコメやちゃんぽんメン、マロニー、しらたき、ちゅうかめん、うどんいろいろあるわけね…"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "お腹がすいてくる(´,,•﹃•,,｀)お米入れて雑炊はよくやりますね！\nマロニーとしらたきは作ったことないから今度やってみよう…！"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3lbjw3sd7ws24",
+            "label": [
+                0.001163315842859447,
+                0.0002682964550331235,
+                0.9981833100318909,
+                0.00011726517550414428,
+                5.399120709626004e-05,
+                9.177796164294705e-05,
+                6.555291474796832e-05,
+                5.640252129524015e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "お腹がすいてくる(´,,•﹃•,,｀)お米入れて雑炊はよくやりますね！\nマロニーとしらたきは作ったことないから今度やってみよう…！"
+                },
+                {
+                    "author": "did:plc:zddh7mgx26ss4gixai6w5d45",
+                    "type": 2,
+                    "utter": "たぶんスンドゥブ的にはマロニーがまだあいそう。\nしらたきはダイエット的なそくめんがありますね…しらたきはよく煮込んでね。"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "ほうほう！！どっちも食べたことないからその情報はとても助かります！\nしらたきよく煮込みます！"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3lbjwe3nej224",
+            "label": [
+                0.9871425628662109,
+                0.00016956450417637825,
+                0.011836360208690166,
+                0.0003290659806225449,
+                0.0001352236868115142,
+                8.723124483367428e-05,
+                0.00010833473788807169,
+                0.00019179025548510253
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "久しぶりに描くとこんなに逞しかったっけとなる……"
+                },
+                {
+                    "author": "did:plc:iefgefqaf3rnho7gjrbvedzc",
+                    "type": 2,
+                    "utter": "初期トォは少年らしさたっぷりでしたからねぇ。\n大人トォは元々の好青年らしさを残しつつ、上位忍者っぽさが増して逞しくなりましたよねえ..."
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "子供だと思ってたやつがいつの間にか強くなって大人になっていたような感慨深さ……"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3leinnqxwuc2p",
+            "label": [
+                0.6741499304771423,
+                0.010441836901009083,
+                0.00047446665121242404,
+                0.30896294116973877,
+                0.00044487466220743954,
+                0.0033284223172813654,
+                0.001365126809105277,
+                0.0008323750807903707
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "子供だと思ってたやつがいつの間にか強くなって大人になっていたような感慨深さ……"
+                },
+                {
+                    "author": "did:plc:iefgefqaf3rnho7gjrbvedzc",
+                    "type": 2,
+                    "utter": "大人になりましたねえ...\nでもまだ動物に秘密を話しそうな感じもある(("
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "女にもなったりもする…"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3leiq3gorxc2p",
+            "label": [
+                0.17996671795845032,
+                0.03456765040755272,
+                0.020574843510985374,
+                0.7051770687103271,
+                0.0007187329465523362,
+                0.05536762997508049,
+                0.001951929065398872,
+                0.0016754422103986144
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "女にもなったりもする…"
+                },
+                {
+                    "author": "did:plc:iefgefqaf3rnho7gjrbvedzc",
+                    "type": 2,
+                    "utter": "ヤマト細胞が斜歯忍軍で研究されてそう"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "真面目にありそうw\n大和の蒼い目についても何らかの資料はある"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3leiqh35jek2p",
+            "label": [
+                0.000586430192925036,
+                0.0001416146260453388,
+                0.9987999200820923,
+                0.00013527454575523734,
+                6.51210721116513e-05,
+                0.00014108351024333388,
+                6.661700899712741e-05,
+                6.405768363038078e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "真面目にありそうw\n大和の蒼い目についても何らかの資料はある"
+                },
+                {
+                    "author": "did:plc:iefgefqaf3rnho7gjrbvedzc",
+                    "type": 2,
+                    "utter": "蒼い目の秘密...！\n水嵩組は調査対象になってそうですねえ。水嵩さんが守ってくれているかもしれないけど..."
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "斜歯の研究対象になっててもよく分かってないからのびのびとやっていそうな大和"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3leiyjvsit227",
+            "label": [
+                0.0019715495873242617,
+                0.00017106028099078685,
+                0.9973777532577515,
+                0.00011660570453386754,
+                6.766600563423708e-05,
+                0.00014899225789122283,
+                6.721065437886864e-05,
+                7.927776459837332e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "今10話まで来ました！！萎えるぜ……"
+                },
+                {
+                    "author": "did:plc:dottq3oy7q2c3jireewfoexy",
+                    "type": 2,
+                    "utter": "最高にかっこいいよね！"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "妖怪側にも憎めないとこあっていいですね……！！変身後のオカルンがめちゃくちゃタイプ……"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3ldngdq2sbc2q",
+            "label": [
+                0.9996342658996582,
+                3.8291196688078344e-05,
+                0.0001044684395310469,
+                6.127844972070307e-05,
+                3.069366721319966e-05,
+                3.881804514094256e-05,
+                4.551709207589738e-05,
+                4.652899951906875e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "妖怪側にも憎めないとこあっていいですね……！！変身後のオカルンがめちゃくちゃタイプ……"
+                },
+                {
+                    "author": "did:plc:dottq3oy7q2c3jireewfoexy",
+                    "type": 2,
+                    "utter": "わかる、俺たちは同志だ姐さん"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "ガシッ(強い握手からの抱擁)\n変身後の顔つきとか普段のオカルンとのギャップとか刺さりまくってしまった"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3ldnhp2zdi22q",
+            "label": [
+                0.9319248795509338,
+                0.008788523264229298,
+                0.0027538961730897427,
+                0.04105395823717117,
+                0.0007958611822687089,
+                0.00876672100275755,
+                0.0015493258833885193,
+                0.004366881679743528
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "ガシッ(強い握手からの抱擁)\n変身後の顔つきとか普段のオカルンとのギャップとか刺さりまくってしまった"
+                },
+                {
+                    "author": "did:plc:dottq3oy7q2c3jireewfoexy",
+                    "type": 2,
+                    "utter": "わかるぅ！\n変身後の声がさぁ……いいんよ……"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "急に低い声になるから……響く声に思わずヘッドフォン外しちゃった\n突然下の名前呼びになるのも好き……"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3ldnhxf6efk2q",
+            "label": [
+                0.9996515512466431,
+                4.589859236148186e-05,
+                6.249421130632982e-05,
+                8.250047540059313e-05,
+                2.50334578595357e-05,
+                4.399051613290794e-05,
+                4.635122968466021e-05,
+                4.221832932671532e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 1,
+                    "utter": "急に低い声になるから……響く声に思わずヘッドフォン外しちゃった\n突然下の名前呼びになるのも好き……"
+                },
+                {
+                    "author": "did:plc:dottq3oy7q2c3jireewfoexy",
+                    "type": 2,
+                    "utter": "ももチャーン……ってね……\nわかりみすぎて姐さんをハグしたい"
+                },
+                {
+                    "author": "did:plc:e5iywu54mbxqxymopt6puzcj",
+                    "type": 3,
+                    "utter": "会いたかったぜえ……\nいや、会いたいぜえ……(ハグッ)\nめっちゃファンアート描く…"
+                }
+            ],
+            "uri": "at://did:plc:e5iywu54mbxqxymopt6puzcj/app.bsky.feed.post/3ldniazdlxs2q",
+            "label": [
+                0.05058135837316513,
+                0.5820987820625305,
+                0.3589041829109192,
+                0.0015031276270747185,
+                0.0008010069723241031,
+                0.002329745329916477,
+                0.002819099696353078,
+                0.0009627147228457034
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "ゆっくりきゃるきゃるかな("
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「ゆっくりきゃるきゃるしていってね！,,＞∀＜,,（？」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "はーたんが言うのか…w"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3lbtqxp3hs22e",
+            "label": [
+                0.032397642731666565,
+                0.0015694015892222524,
+                0.0025296376552432775,
+                0.9620330929756165,
+                0.0001988350850297138,
+                0.0004857820749748498,
+                0.0004392146656755358,
+                0.00034634722396731377
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "はーたんが言うのか…w"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「きゃるきゃるがはよいわないから…,,＞∀＜,,」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "ﾊｲ…"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3lbtrbq6eo22e",
+            "label": [
+                0.38903844356536865,
+                0.5346970558166504,
+                0.01176668144762516,
+                0.0032540112733840942,
+                0.0007077112095430493,
+                0.03660169243812561,
+                0.022349800914525986,
+                0.0015845306916162372
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "ﾊｲ…"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「はい、せーの！,,＞∀＜,,」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "ゆっくりしていってね！"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3lbtrpdb22k2l",
+            "label": [
+                0.8150500655174255,
+                0.0007718920824117959,
+                0.18190298974514008,
+                0.0004358653968665749,
+                0.0003796778037212789,
+                0.0005075524095445871,
+                0.00048160695587284863,
+                0.0004703477898146957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "ゆっくりしていってね！"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「よし、蹴飛ばそう,,＞∀＜,,（ｹﾞｼｯ」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "ヤメロォ！？"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3lbts5gz4rs23",
+            "label": [
+                0.02928956225514412,
+                0.47046154737472534,
+                0.007829954847693443,
+                0.06340275704860687,
+                0.06750322878360748,
+                0.0848948135972023,
+                0.2736428380012512,
+                0.0029753046110272408
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "なんだかんだブルースカイ全然利用してないな"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "きゃるぅ？( ˘ω˘ )"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "きゃるるるる"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3kjp77nojwn2i",
+            "label": [
+                0.999099850654602,
+                0.00023551247431896627,
+                0.00029160614940337837,
+                0.0001195036165881902,
+                3.1725339795229957e-05,
+                5.158097337698564e-05,
+                0.0001193708012579009,
+                5.081563358544372e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "きゃるるるる"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "てしっ"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "ブェ"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3kjqfoaxxac2p",
+            "label": [
+                0.003328454913571477,
+                0.9437505602836609,
+                0.0008759355405345559,
+                0.004951370880007744,
+                0.00847956258803606,
+                0.002439172938466072,
+                0.03590729832649231,
+                0.0002676333242561668
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "ブェ"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「,,＞∀＜,,（お鼻ﾌﾞﾆﾌﾞﾆ」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "べくしゅ"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3kjrqbvrm7c2z",
+            "label": [
+                0.014891590923070908,
+                0.004859614185988903,
+                0.9779239296913147,
+                0.0002288483956363052,
+                0.0003001074946951121,
+                0.0005973010556772351,
+                0.0008952721254900098,
+                0.0003033426182810217
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "べくしゅ"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「ぅゎきちゃない！,,＞∀＜,,（ルイの羽毛で拭き拭き」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "アイスブリザード🌬️❄️❄️"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3kjrrbh5ms32a",
+            "label": [
+                0.34273746609687805,
+                0.05126390606164932,
+                0.006785454694181681,
+                0.20288816094398499,
+                0.0010146490531042218,
+                0.3871672451496124,
+                0.006378842052072287,
+                0.00176426291000098
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 1,
+                    "utter": "アイスブリザード🌬️❄️❄️"
+                },
+                {
+                    "author": "did:plc:cr44jhxs5yzheyg3kbddnsvh",
+                    "type": 2,
+                    "utter": "はーたん「どうして！？,,＞∀＜,,」"
+                },
+                {
+                    "author": "did:plc:c7towlolx6nv7uiaanij7zqz",
+                    "type": 3,
+                    "utter": "きゃるぅ？"
+                }
+            ],
+            "uri": "at://did:plc:c7towlolx6nv7uiaanij7zqz/app.bsky.feed.post/3kjrrhi52332b",
+            "label": [
+                0.9995077848434448,
+                8.455412171315402e-05,
+                0.00018893014930654317,
+                6.298275548033416e-05,
+                2.349340502405539e-05,
+                3.606572499847971e-05,
+                5.836374111822806e-05,
+                3.7932109989924356e-05
+            ]
+        }
+    ]
+}

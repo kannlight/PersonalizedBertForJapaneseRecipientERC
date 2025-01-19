@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "それあれや…\nあれ？昨日ログボ(ログイン)貰ってたっけ？確か貰ってた筈や→日付変わって見たら大体忘れてる"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "やめて…あるあるじゃんそれも……orz"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "薬をログボ感覚にすんなよww"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3lf77tylvxs2k",
+            "label": [
+                0.013849601149559021,
+                0.008829664438962936,
+                0.0023392364382743835,
+                0.13911430537700653,
+                0.7135224938392639,
+                0.01760667748749256,
+                0.10192239284515381,
+                0.002815640764310956
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "薬をログボ感覚にすんなよww"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "いやでも命に即時関わるようなもんじゃないとそんなんだってw常習なんだもの私…\n\nログボも薬も間がちょこちょこ空いてて「？？」ってなる"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "そして次の受診時、薬を貰って…\nやっべ全然飲んでないから減らねぇw\nってパターンだろw"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3lf77zzvih22k",
+            "label": [
+                0.02592293731868267,
+                0.9063219428062439,
+                0.0030545673798769712,
+                0.0028254548087716103,
+                0.0005599922733381391,
+                0.0546945258975029,
+                0.006034242454916239,
+                0.0005863202968612313
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "そして次の受診時、薬を貰って…\nやっべ全然飲んでないから減らねぇw\nってパターンだろw"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "そう\n本当に最悪「あ、今回薬無くても次回の受診まで在庫あります……(´・ω・｀)」とか言いそうになる←流石に破棄してちゃんと貰うけど"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "湿布みたいな賞味期限関係なければいいけど薬はなw\n特にオレはめまいの薬とかサボって1箱あったわw(しかもくそ高いw)"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3lf7abo26ck2k",
+            "label": [
+                0.002191299106925726,
+                0.007494961377233267,
+                0.00027860532281920314,
+                0.9750027656555176,
+                0.0006211422733031213,
+                0.012615920975804329,
+                0.0015623433282598853,
+                0.00023293244885280728
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "湿布みたいな賞味期限関係なければいいけど薬はなw\n特にオレはめまいの薬とかサボって1箱あったわw(しかもくそ高いw)"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "そうそう、しまいにはいつのだっけ？何の薬だっけ？？とかなると絶対いつか事故るし(年齢関係なく判断ミスすることはあるから)\n\nおいそれ結構危なくないのかwサボんなwww"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "似たような事してるw\nめまい再発したら、これ飲んどきゃええか…\nストック沢山あるし( •̀ω•́ )✧"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3lf7ajn5qok2k",
+            "label": [
+                0.0084224259480834,
+                0.003625962184742093,
+                0.9516293406486511,
+                0.0003330876643303782,
+                0.00023365256492979825,
+                0.034908782690763474,
+                0.0004053278244100511,
+                0.0004414702416397631
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "うむ\n正面玄関の自販機に置いてたわ"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "何か微妙に遠いとこ配置すんのやめてほしいわw"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "え？正面玄関以外から入るとこあるの？\n車持ちで立体駐車場とかなら別だがw"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3l2eujcemyn2f",
+            "label": [
+                0.0004718329291790724,
+                0.0002862015971913934,
+                0.00043541970080696046,
+                0.9978522062301636,
+                0.0002591639931779355,
+                0.00025758944684639573,
+                0.0003195417521055788,
+                0.00011813487071776763
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "え？正面玄関以外から入るとこあるの？\n車持ちで立体駐車場とかなら別だがw"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "あぁごめん紛らわしいな\n家から微妙に行きにくいのよ"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "あれ？苗穂駅に住んでるんだっけ？"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3l2fawjsvip2q",
+            "label": [
+                0.0006366358720697463,
+                0.00025781060685403645,
+                0.0010660799453034997,
+                0.9973040819168091,
+                0.00018191803246736526,
+                0.00023745915677864105,
+                0.00018156063742935658,
+                0.0001344804622931406
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "あれ？苗穂駅に住んでるんだっけ？"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "いや、桑園だからさ\n休みの日に行けなくはないけどめんどくさいw"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "あれいつの間にか桑園女子になってたw"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3l2fbzmaulf2f",
+            "label": [
+                0.0009798590326681733,
+                0.00038377282908186316,
+                0.0006797221722081304,
+                0.9972198009490967,
+                0.0001722901506582275,
+                0.0002465749566908926,
+                0.00020496579236350954,
+                0.00011305304360575974
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "あれいつの間にか桑園女子になってたw"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "そもそも苗穂に居た記憶は無いぞw"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "なぜかLilyさん苗穂って結びつけていたw"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3l2fcebo4vh2q",
+            "label": [
+                0.004660585429519415,
+                0.0004880335764028132,
+                0.000678315875120461,
+                0.9931963682174683,
+                0.00012878655979875475,
+                0.00045421908725984395,
+                0.00023588149633724242,
+                0.00015776792133692652
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "おめヾ(*´∀｀*)ﾉ\n行動力早くてワロタww"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "おめあり(*´∀｀)\nだっていつなくなるかわからないじゃん？しかも、公式には頼れる情報が無いと来てる\n確実にあるとわかってるなら行くよw"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "しかも早朝ってのが笑うw"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3kvzkcmxdd622",
+            "label": [
+                0.014488588087260723,
+                0.00045433026389218867,
+                0.0007466839160770178,
+                0.9827629327774048,
+                0.0002667505759745836,
+                0.0005577833508141339,
+                0.0004911861033178866,
+                0.00023173194495029747
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "しかも早朝ってのが笑うw"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "時間帯ミスると絶対人多くなるし、まだ早ければ暑さがマシかなって(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "フローズンコーラの自販機って北海道にないのかな？\nたまにTwitterのTLで見るんだけどさ"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3kvzkizgcea2i",
+            "label": [
+                0.00030900861020199955,
+                0.00035459804348647594,
+                0.9989787340164185,
+                0.00012129952665418386,
+                4.504295429796912e-05,
+                8.556328975828364e-05,
+                6.171090353745967e-05,
+                4.415153307490982e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 1,
+                    "utter": "無いのか…\nしゃーない、作るか…\n成功するかは知らんけどw\nただのキンキンに冷えたコーラになるかカチコチコーラになるかw"
+                },
+                {
+                    "author": "did:plc:f2fcpwtmftshl3a3caxx5r7y",
+                    "type": 2,
+                    "utter": "作ってみた動画お待ちしてますw"
+                },
+                {
+                    "author": "did:plc:gvexztk2ebtvkga2yqaxhvvg",
+                    "type": 3,
+                    "utter": "何気にフローズン化って難しいんだよねw\n中が凍りついてもシャーベット化しなくてただキンキンに冷えたコーラとか←まだ完全に凍らないだけマシな方"
+                }
+            ],
+            "uri": "at://did:plc:gvexztk2ebtvkga2yqaxhvvg/app.bsky.feed.post/3kvzkzd3tm22g",
+            "label": [
+                0.012182663194835186,
+                0.25563082098960876,
+                0.0014594452222809196,
+                0.28924059867858887,
+                0.0009916123235598207,
+                0.43671491742134094,
+                0.002933118725195527,
+                0.0008467937586829066
+            ]
+        }
+    ]
+}

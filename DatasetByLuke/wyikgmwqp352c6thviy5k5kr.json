@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "アルハイゼン…"
+                },
+                {
+                    "author": "did:plc:yra7p3gblct4b27wqhdcs5dv",
+                    "type": 2,
+                    "utter": "セノか…"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "嗚呼、おれだ"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3dzm2fxi2d",
+            "label": [
+                0.5340428352355957,
+                0.07735764980316162,
+                0.30115827918052673,
+                0.007702569477260113,
+                0.006666450761258602,
+                0.03910999372601509,
+                0.020171433687210083,
+                0.013790705241262913
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "嗚呼、おれだ"
+                },
+                {
+                    "author": "did:plc:yra7p3gblct4b27wqhdcs5dv",
+                    "type": 2,
+                    "utter": "来るとはな"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "気になってな。ダジャレは言えないが"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3fcrcnzt2c",
+            "label": [
+                0.34169691801071167,
+                0.026225730776786804,
+                0.5057104229927063,
+                0.0052784807048738,
+                0.001753500779159367,
+                0.10289949923753738,
+                0.010600708425045013,
+                0.005834741052240133
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "気になってな。ダジャレは言えないが"
+                },
+                {
+                    "author": "did:plc:yra7p3gblct4b27wqhdcs5dv",
+                    "type": 2,
+                    "utter": "言わなくとも良いのでは？"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "そうだな…"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3hfkdt6u2i",
+            "label": [
+                0.8143845796585083,
+                0.06773468106985092,
+                0.018974876031279564,
+                0.009676448069512844,
+                0.0015487048076465726,
+                0.06142242252826691,
+                0.018511509522795677,
+                0.00774679658934474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "そうだな…"
+                },
+                {
+                    "author": "did:plc:yra7p3gblct4b27wqhdcs5dv",
+                    "type": 2,
+                    "utter": "そう言えばティナリも来るのか？"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "来るかもしれない"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3keq4jgl2n",
+            "label": [
+                0.0014076967490836978,
+                0.0003066935751121491,
+                0.9977263808250427,
+                0.000149195795529522,
+                4.831420665141195e-05,
+                0.00022915283625479788,
+                6.297719664871693e-05,
+                6.964401836739853e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "来てみた…"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "セノじゃないか！"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "嗚呼、来てみたぞ"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3cz7p6f32t",
+            "label": [
+                0.12299598753452301,
+                0.000916155579034239,
+                0.8733989000320435,
+                0.0008761556237004697,
+                0.0002647200890351087,
+                0.00048803113168105483,
+                0.0006490806117653847,
+                0.0004109579313080758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "嗚呼、来てみたぞ"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "ティナリも呼ぶかい？"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "四人揃うか？"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3dzyagh622",
+            "label": [
+                0.0011670796666294336,
+                0.00026901400997303426,
+                0.9981266856193542,
+                0.00012908049393445253,
+                5.128329939907417e-05,
+                0.0001494235621066764,
+                5.651717583532445e-05,
+                5.085607335786335e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "四人揃うか？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "揃えるべきだろ！"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "…そうだな、また四人でゆっくり呑みたいしな"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3fdgugdh2i",
+            "label": [
+                0.001351450220681727,
+                0.0006114185671322048,
+                0.9975947737693787,
+                9.299997327616438e-05,
+                7.815073331585154e-05,
+                8.693163545103744e-05,
+                0.00011144638119731098,
+                7.284831372089684e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "…そうだな、また四人でゆっくり呑みたいしな"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "いいな！飲もう飲もう！"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "嗚呼、呑もう楽しもう"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3hg4nt6r2z",
+            "label": [
+                0.8425693511962891,
+                0.0008558573899790645,
+                0.15440469980239868,
+                0.00024047127226367593,
+                0.0003407857730053365,
+                0.0006639045313932002,
+                0.0005338211194612086,
+                0.0003910756786353886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 1,
+                    "utter": "嗚呼、呑もう楽しもう"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "沢山呑むぞー！"
+                },
+                {
+                    "author": "did:plc:wyikgmwqp352c6thviy5k5kr",
+                    "type": 3,
+                    "utter": "酔うんだろうな"
+                }
+            ],
+            "uri": "at://did:plc:wyikgmwqp352c6thviy5k5kr/app.bsky.feed.post/3kt3kf3hard2j",
+            "label": [
+                0.042661286890506744,
+                0.007825425826013088,
+                0.03834922984242439,
+                0.003603104269132018,
+                0.0004387139924801886,
+                0.9039865136146545,
+                0.0021042090374976397,
+                0.0010315233375877142
+            ]
+        }
+    ]
+}

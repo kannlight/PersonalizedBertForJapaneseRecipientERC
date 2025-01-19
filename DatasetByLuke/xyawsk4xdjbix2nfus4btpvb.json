@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "さよ風呂絶対界隈かと思ってた"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "めんどくて次の日の朝とかにしがち"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "次の日でも朝にちゃんと入るのは普通に偉い"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3lbw7m7joqk2s",
+            "label": [
+                0.9995539784431458,
+                4.256599277141504e-05,
+                7.303134771063924e-05,
+                7.725839532213286e-05,
+                4.15188551414758e-05,
+                4.407570668263361e-05,
+                8.357648766832426e-05,
+                8.407708810409531e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "次の日でも朝にちゃんと入るのは普通に偉い"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "家に引きこもってたら入らないかも"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "わかる"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3lbwdsbbmvc2r",
+            "label": [
+                0.9992460012435913,
+                5.0587088480824605e-05,
+                0.0003071809478569776,
+                0.00010964170360239223,
+                4.10696302424185e-05,
+                5.38268759555649e-05,
+                9.087007492780685e-05,
+                0.00010073385055875406
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "わかる"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "お風呂入らなくていい動物うらやましい"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "わかる猫とか羨ましい"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3lbwkh2q4rk2f",
+            "label": [
+                0.522244393825531,
+                0.12096183747053146,
+                0.28011637926101685,
+                0.04741239547729492,
+                0.0012560057220980525,
+                0.011271797120571136,
+                0.009599337354302406,
+                0.007137805223464966
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "わかる猫とか羨ましい"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "犬は最近はお風呂入れられるから猫がいいね\nハムスターもいいな"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "ツイッター見てるとﾈｺﾁｬﾝも風呂入れられてるけどね……でもまぁ入らんでも清潔感保てるのはデカイ……🐹も風呂入らんでも臭くならない？？"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3lbwnarnnxs2y",
+            "label": [
+                0.0013055774616077542,
+                0.00032543548149988055,
+                0.0014207931235432625,
+                0.996166467666626,
+                0.00011836617341032252,
+                0.00033739861100912094,
+                0.00016285068704746664,
+                0.00016299380513373762
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "これは黒"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "セーフじゃなかったか、、、、、"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "9色の雪だるまはアウトすぎ('ω'乂)"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3ler3dxryak2q",
+            "label": [
+                0.027653304859995842,
+                0.015147552825510502,
+                0.000815587758552283,
+                0.009426306001842022,
+                0.002106959233060479,
+                0.8065477609634399,
+                0.13664290308952332,
+                0.0016596438363194466
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "9色の雪だるまはアウトすぎ('ω'乂)"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "4色のクローバーとかだったら買ってたかも"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "赤と黄色と紫とピンクのクローバー？"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3letnhfd6ok2x",
+            "label": [
+                0.9889141917228699,
+                0.00020172653603367507,
+                0.008751356042921543,
+                0.0013455478474497795,
+                9.981873881770298e-05,
+                0.00012931493984069675,
+                0.00018920836737379432,
+                0.00036881110281683505
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "赤と黄色と紫とピンクのクローバー？"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "そう！嬉しくて買っちゃう気がする"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "光のオタク…………"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3letnyixlwk2d",
+            "label": [
+                0.9949408769607544,
+                0.000910530739929527,
+                0.0014739377656951547,
+                0.0006984738865867257,
+                0.00012175976735306904,
+                0.000824223505333066,
+                0.0005934262298978865,
+                0.00043676290079019964
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 1,
+                    "utter": "光のオタク…………"
+                },
+                {
+                    "author": "did:plc:ppqaayybnirwxa4lnhkh23j2",
+                    "type": 2,
+                    "utter": "ピカーーー(՞ ᵒ̴̶̷̤-ᵒ̴̶̷̤՞)ーーーン！"
+                },
+                {
+                    "author": "did:plc:xyawsk4xdjbix2nfus4btpvb",
+                    "type": 3,
+                    "utter": "まぶしい！！！！！( 'д'⊂ 彡☆))Д´) ﾊﾟｰﾝ"
+                }
+            ],
+            "uri": "at://did:plc:xyawsk4xdjbix2nfus4btpvb/app.bsky.feed.post/3letut3dp3s2d",
+            "label": [
+                0.009635667316615582,
+                0.0038518451619893312,
+                0.004175659269094467,
+                0.9755160808563232,
+                0.001930847647599876,
+                0.0025906385853886604,
+                0.0015974030829966068,
+                0.0007017819443717599
+            ]
+        }
+    ]
+}

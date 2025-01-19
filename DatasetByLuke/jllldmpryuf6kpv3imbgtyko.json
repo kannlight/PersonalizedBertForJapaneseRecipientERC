@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "同じく(11はブッキングする可能性があるのでそこ以外なら何とかなりそうです"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "では10日でどうでしょう"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "すいません10は含まないものだと思ってました(10はNG"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lbvnulc5yc2b",
+            "label": [
+                0.015135128051042557,
+                0.13373318314552307,
+                0.0008178329444490373,
+                0.8064277768135071,
+                0.0015581650659441948,
+                0.032043956220149994,
+                0.009382696822285652,
+                0.0009012689115479589
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "仕事の全てを忘れている"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "無職はいいぞ〜"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "次決まってるんじゃないの???"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lf2fciphp222",
+            "label": [
+                0.0837356299161911,
+                0.03522761911153793,
+                0.10193148255348206,
+                0.6095569133758545,
+                0.002949480200186372,
+                0.14991265535354614,
+                0.011856394819915295,
+                0.004829817451536655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "次決まってるんじゃないの???"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "We overtake NVIDIA???"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "どこ????"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lf2nfiovas2t",
+            "label": [
+                0.3953913152217865,
+                0.06788162887096405,
+                0.10922560840845108,
+                0.3801884949207306,
+                0.006372325122356415,
+                0.020877884700894356,
+                0.014401674270629883,
+                0.00566105917096138
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "どこ????"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "Wakuwaku Research Institute???"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "国立国語研究所 ????"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lf2rda7uxc2s",
+            "label": [
+                0.9689072370529175,
+                0.0020193171221762896,
+                0.021166672930121422,
+                0.004055560566484928,
+                0.00033640075707808137,
+                0.0007669015321880579,
+                0.001442558248527348,
+                0.0013054445153102279
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "国立国語研究所 ????"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "いまおもしろ人材が結集しているところ？！西だし？！"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "驚きだ"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lf2tcsgyvk2f",
+            "label": [
+                0.00043625818216241896,
+                0.00027569482335820794,
+                0.0005683230119757354,
+                0.9977962970733643,
+                0.00029073754558339715,
+                0.00029083876870572567,
+                0.00021186331287026405,
+                0.00013000467151869088
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "驚きだ"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "違います"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "いつ公開ですか"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lf2w27euhs2b",
+            "label": [
+                0.0014560383278876543,
+                0.00032589430338703096,
+                0.997794508934021,
+                0.00010122612002305686,
+                4.9897214921656996e-05,
+                0.00015760345559101552,
+                5.7856836065184325e-05,
+                5.699761095456779e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "年末年始休まず営業中です"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 2,
+                    "utter": "👀"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "行けなくはない"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3leqnnnhfe22l",
+            "label": [
+                0.002184754004701972,
+                0.0008250181563198566,
+                0.9960350394248962,
+                9.728142322273925e-05,
+                5.125950701767579e-05,
+                0.0005771401338279247,
+                0.0001448644616175443,
+                8.4634346421808e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "垂直統合してますか???"
+                },
+                {
+                    "author": "did:plc:4c3bonpi5nnoq5hfhbahdeyn",
+                    "type": 2,
+                    "utter": "え、分業したらよくない？？？"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "勝ち筋なのに…"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lbefv33cus27",
+            "label": [
+                0.00037592242006212473,
+                0.9984997510910034,
+                0.00029134625219739974,
+                8.568136399844661e-05,
+                6.94158734404482e-05,
+                0.00032952232868410647,
+                0.0003158464387524873,
+                3.253676914027892e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "キタニの武道館、曲数がそもそもエグかった?"
+                },
+                {
+                    "author": "did:plc:pj6xd3bgy53m4zfenyf66nqd",
+                    "type": 2,
+                    "utter": "武道館で22はそんな多い方でもない気がします\n確実に少なくないけど"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "なるほど、場所依存ですかね"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lcxdodumqc2d",
+            "label": [
+                0.19435030221939087,
+                0.0029000933282077312,
+                0.02488447166979313,
+                0.7680720686912537,
+                0.0007182342815212905,
+                0.003921772353351116,
+                0.0020172330550849438,
+                0.0031359281856566668
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "なるほど、場所依存ですかね"
+                },
+                {
+                    "author": "did:plc:pj6xd3bgy53m4zfenyf66nqd",
+                    "type": 2,
+                    "utter": "持ち曲数と準備期間でキャップされる印象です（川谷絵音は毎回25曲ぐらいやる）"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "やばすぎる(その人は上限な気がする"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lcxeztcsms2d",
+            "label": [
+                0.10248231887817383,
+                0.02626970410346985,
+                0.01099941972643137,
+                0.1444467157125473,
+                0.0010333028621971607,
+                0.7065577507019043,
+                0.0054305014200508595,
+                0.0027803252451121807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "やばすぎる(その人は上限な気がする"
+                },
+                {
+                    "author": "did:plc:pj6xd3bgy53m4zfenyf66nqd",
+                    "type": 2,
+                    "utter": "15曲MCなし繋ぎありでやられても驚かないファンたちもいます（あの人のせいで他のライブ行くとまーたしゃべるんかとか思ったりする）"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "サクラバシリスナーじゃないけど、鍛えられすぎている"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lcxleo6zpk27",
+            "label": [
+                0.36798641085624695,
+                0.045064304023981094,
+                0.011729714460670948,
+                0.2447843849658966,
+                0.001311401603743434,
+                0.32139360904693604,
+                0.0029751486144959927,
+                0.004755022935569286
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 1,
+                    "utter": "サクラバシリスナーじゃないけど、鍛えられすぎている"
+                },
+                {
+                    "author": "did:plc:pj6xd3bgy53m4zfenyf66nqd",
+                    "type": 2,
+                    "utter": "20曲連続披露とかアンコール5曲とかダブルアンコールでEP全部やるとか様々なエピソードがあります"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 3,
+                    "utter": "やばすぎる"
+                }
+            ],
+            "uri": "at://did:plc:jllldmpryuf6kpv3imbgtyko/app.bsky.feed.post/3lczsad7eys2h",
+            "label": [
+                0.006157854571938515,
+                0.004962754901498556,
+                0.0003400503774173558,
+                0.00997758936136961,
+                0.0005338031332939863,
+                0.9747583866119385,
+                0.0029157898388803005,
+                0.00035362879862077534
+            ]
+        }
+    ]
+}

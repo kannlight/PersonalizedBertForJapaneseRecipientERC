@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "新品ならここら辺が最低価格？\nwww.lenovo.com/jp/ja/p/lapt..."
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "まずまずお安いね。とはいえ、単なる実験用サーバに使いたいだけだから新品でなくていいんだよなぁ。つーか、むしろ最近のスマートなノートPCだと色々微妙かもしれないとも思ったり。"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "そも、ThinkPadはRJ45が省かれているので、地味に面倒という問題が・・・"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3klc6ygt3ok2e",
+            "label": [
+                0.0010251565836369991,
+                0.9936845898628235,
+                0.00013155359192751348,
+                0.00034783195587806404,
+                0.00026857052580453455,
+                0.0006909322110004723,
+                0.0037997125182300806,
+                5.154498649062589e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "そも、ThinkPadはRJ45が省かれているので、地味に面倒という問題が・・・"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "あー、RJ45直付けできないようになってるね今の＜ThinkPad。それはそれでちょっと困るなぁ。"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "コレが必要になる・・・(あとはUSB-LAN\n\nwww.lenovo.com/jp/ja/p/acce..."
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3klcb3v2zke2i",
+            "label": [
+                0.01559324748814106,
+                0.008045009337365627,
+                0.9705068469047546,
+                0.0007520225481130183,
+                0.00018360023386776447,
+                0.003994940780103207,
+                0.0005151010700501502,
+                0.00040926001383922994
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "コレが必要になる・・・(あとはUSB-LAN\n\nwww.lenovo.com/jp/ja/p/acce..."
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "これかー。これはめんどっちい…お金の問題はともかく、こういうのって接触不良起こしやすいんだよねぇ。うーん、まいった。"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "据え置きなら、セーフかなぁ\n会社で使ってるけど、とりあえず今のところはトラブルになったことはないかなー"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3klccv7wdae2t",
+            "label": [
+                0.9713716506958008,
+                0.00036576937418431044,
+                0.017692049965262413,
+                0.000832537654787302,
+                0.0005565494648180902,
+                0.004144162870943546,
+                0.0012468518689274788,
+                0.003790514310821891
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "据え置きなら、セーフかなぁ\n会社で使ってるけど、とりあえず今のところはトラブルになったことはないかなー"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "基本的に持ち運びはしないつもりだから大丈夫かな？それにしても実験用サーバ用途ってむしろ今時はミニPCの方がいいんだろうか？とはいえ、必須入出力デバイスがオールインワン＆そう簡単に瞬断しないバッテリー付きってのは抗えない便利さがあるしなぁ…"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "地味に悩ましいところですねぇ・・・\n(消費電力的にもノートの方が有利ですしね"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3klce2y2o4o2o",
+            "label": [
+                0.2322375774383545,
+                0.0019405942875891924,
+                0.7112582921981812,
+                0.00086016213754192,
+                0.0005633901455439627,
+                0.05060160532593727,
+                0.001015345798805356,
+                0.00152300123590976
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "あ、今週末かー\n(リフレッシュ休暇期間に入るので、時間はある。予定は未定ｗｗｗ"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "オーギュストロダン見に行くか？w"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "そういや、府中ってどこにあるんだ・・・(死"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3lbg7cnmdts2w",
+            "label": [
+                0.036519452929496765,
+                0.9176241755485535,
+                0.005024148151278496,
+                0.0019639856182038784,
+                0.00024058573762886226,
+                0.033997610211372375,
+                0.004223448224365711,
+                0.0004065940738655627
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "集合するとしたら、どうなるのー？\n(武蔵野線なら、大宮乗り換えかなー？\n\n時間が読めない系ｗｗｗ"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "あ、正門前駅集合だと地獄みたいに混むから府中駅集合で、そこから歩いて競馬場までっていう線もあるな(ヒゲちゃんはいつも府中駅から徒歩で行ってる気がした)"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "やっぱりそうなるよねぇｗ\n行くとすれば実家からなので、高崎線経由ですね。"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3lbgzfjymyk2w",
+            "label": [
+                0.4009321928024292,
+                0.001755444216541946,
+                0.5918263792991638,
+                0.0012936885468661785,
+                0.0004886809037998319,
+                0.0011922373669221997,
+                0.0009507692302577198,
+                0.0015606889501214027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "カッパ持参かねー。\n一応11時～クローズなんで、そのくらいに新都心集合にする?\n(今年は実家からなので、だいぶ楽w"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "りょー。\n改札でいい？"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "おk\nんじゃ、そんな感じでw"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3l7rrx72bv42w",
+            "label": [
+                0.9673969149589539,
+                0.0003121460904367268,
+                0.031074611470103264,
+                0.00020965654402971268,
+                0.00018243264639750123,
+                0.00020942214177921414,
+                0.0003390633501112461,
+                0.00027579235029406846
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "おk\nんじゃ、そんな感じでw"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "あっ、駅は北与野駅でおながいします。"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "えっw\n高崎線、通らないがなw"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3l7ru6vbm3v2a",
+            "label": [
+                0.0007191587355919182,
+                0.0005096650565974414,
+                0.0004456065653357655,
+                0.9975537657737732,
+                0.00018670680583454669,
+                0.0002223841001978144,
+                0.0002614359837025404,
+                0.00010135333286598325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "えっw\n高崎線、通らないがなw"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "あーそうかw\nんじゃいつものｻｲﾀﾏｰ新都心でw"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "コラっwww\n新都心でー"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3l7rui7f7kk2c",
+            "label": [
+                0.9982889294624329,
+                0.00012813357170671225,
+                0.0006159868207760155,
+                0.0005974597297608852,
+                5.466567745315842e-05,
+                8.37652842164971e-05,
+                0.00012058772699674591,
+                0.00011056269431719556
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "コラっwww\n新都心でー"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "バス一歩乗り遅れたw\nすまん遅れる"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "改札内のベックスにいるわー"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3l7wlqcbc2a2e",
+            "label": [
+                0.9857580661773682,
+                0.0002649165689945221,
+                0.012949089519679546,
+                0.00012175491428934038,
+                0.00012222166697029024,
+                0.0002550935896579176,
+                0.00023752790002617985,
+                0.0002912734926212579
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 1,
+                    "utter": "コラっwww\n新都心でー"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "バス一歩乗り遅れたw\nすまん遅れる"
+                },
+                {
+                    "author": "did:plc:vaqtvmrmzujdg6ucesnztxna",
+                    "type": 3,
+                    "utter": "こらっwww"
+                }
+            ],
+            "uri": "at://did:plc:vaqtvmrmzujdg6ucesnztxna/app.bsky.feed.post/3l7wljgxau525",
+            "label": [
+                0.38548389077186584,
+                0.0021857928950339556,
+                0.004721741192042828,
+                0.5996105670928955,
+                0.002084608655422926,
+                0.00282669672742486,
+                0.00176503777038306,
+                0.00132169749122113
+            ]
+        }
+    ]
+}

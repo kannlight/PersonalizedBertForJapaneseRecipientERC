@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "ぼくも割と昨日は素が出てしまいました"
+                },
+                {
+                    "author": "did:plc:qtfbhbspdbacb555ow77is5c",
+                    "type": 2,
+                    "utter": "確かにオバキキ後半いつもと声違ったかも…"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "おしゃべり下手でごめんね"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lbl54zxqlc2m",
+            "label": [
+                0.000327822141116485,
+                0.9988937973976135,
+                0.00015164476644713432,
+                0.00012261667870916426,
+                5.4316260502673686e-05,
+                0.0001946021366165951,
+                0.00022413632541429251,
+                3.1085604859981686e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "おしゃべり下手でごめんね"
+                },
+                {
+                    "author": "did:plc:qtfbhbspdbacb555ow77is5c",
+                    "type": 2,
+                    "utter": "キュア病厶はそもそも余り喋ってなかった気がする…"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "そんなことない！"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lbl5e7tmbk2m",
+            "label": [
+                0.26044532656669617,
+                0.0023494285997003317,
+                0.01814189739525318,
+                0.7065791487693787,
+                0.0037975830491632223,
+                0.0008877333020791411,
+                0.002381184371188283,
+                0.005417653825134039
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "そんなことない！"
+                },
+                {
+                    "author": "did:plc:qtfbhbspdbacb555ow77is5c",
+                    "type": 2,
+                    "utter": "オバキキおしゃべり上手だよ"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "ありがと、次はいっぱいおしゃぶりしてあげるね"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lbl5l2pkas2l",
+            "label": [
+                0.9962331652641296,
+                0.00017001824744511396,
+                0.0032037408091127872,
+                8.80320294527337e-05,
+                5.0866401579696685e-05,
+                7.236595411086455e-05,
+                8.840077498462051e-05,
+                9.344545105705038e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "NARUTOのOPが好き"
+                },
+                {
+                    "author": "did:plc:f5zq7zoq6fe4xwwzah2mroqt",
+                    "type": 2,
+                    "utter": "signすき"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "わかりすぎる。。。"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lfvdymfo4s25",
+            "label": [
+                0.9775537848472595,
+                0.0033474289812147617,
+                0.001195242628455162,
+                0.01167841162532568,
+                0.0002623269392643124,
+                0.0022552981972694397,
+                0.0022772273514419794,
+                0.00143027666490525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "わかりすぎる。。。"
+                },
+                {
+                    "author": "did:plc:f5zq7zoq6fe4xwwzah2mroqt",
+                    "type": 2,
+                    "utter": "王道でいいよね〜\nオーバーキキはどの曲が好きなん"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "moshimo"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lfvepm6es225",
+            "label": [
+                0.9977268576622009,
+                0.00030986417550593615,
+                0.0011527842143550515,
+                0.00018397280655335635,
+                6.297649815678596e-05,
+                0.00013282112195156515,
+                0.0001933566527441144,
+                0.00023742549819871783
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "moshimo"
+                },
+                {
+                    "author": "did:plc:f5zq7zoq6fe4xwwzah2mroqt",
+                    "type": 2,
+                    "utter": "ほお〜〜……\n意外と王道のGO!!!とかじゃないのね"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "GO!!!も良いよね…ニワカ雨ニモ負ケズとかシルエットとかNARUTOのオープニングは神"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lfvfbipl4c25",
+            "label": [
+                0.999637246131897,
+                4.684548548539169e-05,
+                7.993749022716656e-05,
+                5.976237298455089e-05,
+                3.3681251807138324e-05,
+                3.412351361475885e-05,
+                5.135533501743339e-05,
+                5.697798405890353e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "GO!!!も良いよね…ニワカ雨ニモ負ケズとかシルエットとかNARUTOのオープニングは神"
+                },
+                {
+                    "author": "did:plc:f5zq7zoq6fe4xwwzah2mroqt",
+                    "type": 2,
+                    "utter": "シルエットサビのナルトが成長していくところ問答無用で泣く"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "神作画すぎてやばい、色づかいもやばい、全部やばい"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lfvfhyf6c226",
+            "label": [
+                0.9992089867591858,
+                5.548423723666929e-05,
+                7.668429316254333e-05,
+                0.0004008787218481302,
+                3.882573582814075e-05,
+                6.573864811798558e-05,
+                6.508402293547988e-05,
+                8.83514221641235e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 1,
+                    "utter": "神作画すぎてやばい、色づかいもやばい、全部やばい"
+                },
+                {
+                    "author": "did:plc:f5zq7zoq6fe4xwwzah2mroqt",
+                    "type": 2,
+                    "utter": "ナルトの強化フォームマジで全部好きなんだよな"
+                },
+                {
+                    "author": "did:plc:iyvk7ciwayfm3daxsd2tywpb",
+                    "type": 3,
+                    "utter": "仙人モードすき"
+                }
+            ],
+            "uri": "at://did:plc:iyvk7ciwayfm3daxsd2tywpb/app.bsky.feed.post/3lfvfor7qhs2j",
+            "label": [
+                0.9996023774147034,
+                4.291997174732387e-05,
+                0.00012404899462126195,
+                5.4888412705622613e-05,
+                3.275346534792334e-05,
+                3.890115112881176e-05,
+                5.199694351176731e-05,
+                5.215547571424395e-05
+            ]
+        }
+    ]
+}

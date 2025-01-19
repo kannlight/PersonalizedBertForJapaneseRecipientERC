@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "ほんとにてんさい"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "相当美味しい栄養素が詰まってた"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "あむあむあむあ"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lelngzckz22p",
+            "label": [
+                0.002296710154041648,
+                0.9493670463562012,
+                0.0011079558171331882,
+                0.0011051339097321033,
+                0.0008092059870250523,
+                0.0007336856797337532,
+                0.04445328935980797,
+                0.0001269477652385831
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "あむあむあむあ"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "あ！たべちゃった！だめなのに👮"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "いいんだから〜"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lemaqxj64k2w",
+            "label": [
+                0.9933358430862427,
+                0.0020579423289746046,
+                0.0012595800217241049,
+                0.00015263537352439016,
+                0.00033773056929931045,
+                0.0001938058267114684,
+                0.0023739482276141644,
+                0.0002885124704334885
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "いいんだから〜"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "逮捕だよ"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "年末逮捕やだやだ"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lembtzsxdc2u",
+            "label": [
+                0.0020331775303930044,
+                0.816364586353302,
+                0.0010198368690907955,
+                0.003047608770430088,
+                0.004169786814600229,
+                0.09725052863359451,
+                0.07572397589683533,
+                0.00039049945189617574
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "年末逮捕やだやだ"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "🚨たいほ🚨"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "😭😭😭"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lemcciyld22v",
+            "label": [
+                0.9546816349029541,
+                0.01177215576171875,
+                0.016648154705762863,
+                0.0019300321582704782,
+                0.0008721549529582262,
+                0.0031943125650286674,
+                0.009581319987773895,
+                0.001320292940363288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "帰ってきてその日に荷物全部片付けたよ〜〜えら！！\n\nストレスが全部食欲に行ってる！！\nご飯たくさん買ってる！！うひょ！"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "えら！おかえり！"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "ただいまただいま！！！\nうれしうれしー！！！"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lbe3nw73522s",
+            "label": [
+                0.9996292591094971,
+                4.054465898661874e-05,
+                0.00011764589726226404,
+                5.792465162812732e-05,
+                2.8273869247641414e-05,
+                4.1588918975321576e-05,
+                4.4161661207908764e-05,
+                4.0625163819640875e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "ただいまただいま！！！\nうれしうれしー！！！"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "たいへんだった？"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "うん！大変だった！！！\nけど楽しいこともあったからうれしいよ〜〜〜！\nまよぴっぴ風邪ダメダメダメ病院いって薬！"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lbe4itqygs2s",
+            "label": [
+                0.9995966553688049,
+                6.571876292582601e-05,
+                0.00013537288759835064,
+                4.804741911357269e-05,
+                2.4434990336885676e-05,
+                4.2525207391008735e-05,
+                4.801516843144782e-05,
+                3.930816819774918e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "うん！大変だった！！！\nけど楽しいこともあったからうれしいよ〜〜〜！\nまよぴっぴ風邪ダメダメダメ病院いって薬！"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "午後休取ったから無敵！解熱鎮痛剤飲んでねるよ～～～"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "えら！！！自己管理偉すぎるよ〜〜〜〜"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lbemko4hzk2s",
+            "label": [
+                0.009514412842690945,
+                0.00063573062652722,
+                0.001413297955878079,
+                0.9869469404220581,
+                0.0004009808471892029,
+                0.00019563737441785634,
+                0.0004336952406447381,
+                0.00045933329965919256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "えら！！！自己管理偉すぎるよ〜〜〜〜"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "ショウガスープ飲んで爆睡かました！元気といえば元気になったよ～！\nお買い物もした！くそさむいねそと"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "え！あまりにも風邪への対応適切で偉すぎかも\nまじ寒い地球壊れた"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lbf6tawx222q",
+            "label": [
+                0.0006834867526777089,
+                0.0011320860357955098,
+                0.0003049718798138201,
+                0.9966734647750854,
+                0.0001895336899906397,
+                0.0006224244716577232,
+                0.0002809390425682068,
+                0.00011307432578178123
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 1,
+                    "utter": "え！あまりにも風邪への対応適切で偉すぎかも\nまじ寒い地球壊れた"
+                },
+                {
+                    "author": "did:plc:fj6wk24ghf2pymgk6td5swc2",
+                    "type": 2,
+                    "utter": "念のためっつって今日も有給使って最強になった\n暖房つけるよ〜"
+                },
+                {
+                    "author": "did:plc:lliryyb3magreotmbfxdvuof",
+                    "type": 3,
+                    "utter": "最強うれし！\n今季暖房つけたくない！！！負けた気する！！！！"
+                }
+            ],
+            "uri": "at://did:plc:lliryyb3magreotmbfxdvuof/app.bsky.feed.post/3lbgvuiggek2l",
+            "label": [
+                0.9996427297592163,
+                6.514470442198217e-05,
+                8.37605693959631e-05,
+                5.9092475567013025e-05,
+                2.1076381017337553e-05,
+                4.6876219130354e-05,
+                4.477326001506299e-05,
+                3.647156700026244e-05
+            ]
+        }
+    ]
+}

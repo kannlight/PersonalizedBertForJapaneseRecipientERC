@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "4　(餅巾着をもちもちと食べて)\n美味し！"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "お、見っけた…餅巾着とか無難なモン当たってンじゃねェか(よ、と手を挙げて)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "荼毘さん　こんばんは(もちもち)\n無難なものでよかったよ(ラストの投票だった)\n\n僕は水餃子を選んだよ(無難に)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3lcpupifnu22t",
+            "label": [
+                0.9995273351669312,
+                6.95114431437105e-05,
+                0.00017207168275490403,
+                4.185151556157507e-05,
+                2.176151429011952e-05,
+                5.431153840618208e-05,
+                6.0361438954714686e-05,
+                5.268057429930195e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "荼毘さん　こんばんは(もちもち)\n無難なものでよかったよ(ラストの投票だった)\n\n僕は水餃子を選んだよ(無難に)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "はいこんばんは、こっちで話すのは久しいか？(小首傾げ)\nバタバタしてっとラストなってもしゃあねェな\n……ネタバレ今すンのか？(ｹﾗｹﾗ)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "ちょこちょこ　出す人言ってたからね\n\n久しぶりに参加できてよかったです…餅巾着食べます？(一個渡し)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3lcpv23527c2t",
+            "label": [
+                0.9996048808097839,
+                4.441103374119848e-05,
+                0.00012794701615348458,
+                5.048109233030118e-05,
+                3.1457198929274455e-05,
+                4.453589644981548e-05,
+                5.242614133749157e-05,
+                4.383506529848091e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "ちょこちょこ　出す人言ってたからね\n\n久しぶりに参加できてよかったです…餅巾着食べます？(一個渡し)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "ン、俺も眺めてはいたンだがな、年末はどうもバタバタしちまってよ\nお、ンじゃ貰うかね…代わりに海老つみれやるよ(相手の皿につみれ乗せて)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "ありがとうございます！\n\n辛くないので大丈夫ですよ\n\n(つみれをもぐもぐ)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3lcpvca4vxs2t",
+            "label": [
+                0.9993283748626709,
+                5.193586548557505e-05,
+                0.0003730989992618561,
+                4.975630872650072e-05,
+                3.163478686474264e-05,
+                5.7704950449988246e-05,
+                4.7233246732503176e-05,
+                6.026263872627169e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "ありがとうございます！\n\n辛くないので大丈夫ですよ\n\n(つみれをもぐもぐ)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "ン、辛くはねェンだが…魚介類がな、(苦笑こぼしつつ餅巾着口に入れて)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "…毎回魚介に当たったいる気がしますが(もぐもぐ)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3lcpvock7gc2t",
+            "label": [
+                0.9986794590950012,
+                0.00021934948745183647,
+                0.0005008594016544521,
+                0.00016488617984578013,
+                2.474902976246085e-05,
+                0.00021669310808647424,
+                0.00010649009345797822,
+                8.738084579817951e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "ご、ごめん　背景黒い\n(白だとなんか病/院の印象が←)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": ".｡oO(見やすさだしな黒はよく寝れた)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "(なるほど！　黒はよく寝れ………寝れた？？？)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3l7srubho7g2v",
+            "label": [
+                0.3751397728919983,
+                0.00629782397300005,
+                0.05161002650856972,
+                0.5607485771179199,
+                0.0006266850978136063,
+                0.0023036710917949677,
+                0.0012577648740261793,
+                0.002015786711126566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "(なるほど！　黒はよく寝れ………寝れた？？？)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": ".｡oO(返信しとる最中に寝落ちたわ)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "(あー　なるほど)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3l7stvibgwo23",
+            "label": [
+                0.437742680311203,
+                0.00321313738822937,
+                0.010133188217878342,
+                0.5432705879211426,
+                0.00064138974994421,
+                0.001016896916553378,
+                0.0020797622855752707,
+                0.0019023461500182748
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "(あー　なるほど)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": ".｡oO(黒は目が安心しちまッて瞼落ちるな)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "(意外と落ち着くよね！　って寝るの？？！)"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3lae6gl2ylp2s",
+            "label": [
+                0.02116536535322666,
+                0.001055160304531455,
+                0.005335290916264057,
+                0.9709901213645935,
+                0.00025118785561062396,
+                0.0004142305697314441,
+                0.00038261976442299783,
+                0.0004061010549776256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 1,
+                    "utter": "(意外と落ち着くよね！　って寝るの？？！)"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": ".｡oO(返事遅くなった、はよクソ_ナードお休み← 暗くしたらなんか目が癒されて寝れたわ。)"
+                },
+                {
+                    "author": "did:plc:y2fwwmwt5zepcgt25vyu4rxq",
+                    "type": 3,
+                    "utter": "暗くなったりするとねむくなるんだ！？\n\nあっ、でも室内で軽く明かりつけると少し落ち着くかな"
+                }
+            ],
+            "uri": "at://did:plc:y2fwwmwt5zepcgt25vyu4rxq/app.bsky.feed.post/3lbrrm4elfk2q",
+            "label": [
+                0.0004944560350850224,
+                0.0005126214236952364,
+                0.000660361663904041,
+                0.9976067543029785,
+                0.00013012396811973304,
+                0.00031000273884274065,
+                0.00019600728410296142,
+                8.965527376858518e-05
+            ]
+        }
+    ]
+}

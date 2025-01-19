@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "(´・ω・)つブラック"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "最近見てねぇなって思ってたら生存してたか"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "普通に忙しかった"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3lb2kpvvpm626",
+            "label": [
+                0.8859433531761169,
+                0.028093451634049416,
+                0.0008368746493943036,
+                0.0529269240796566,
+                0.0004975059418939054,
+                0.025204209610819817,
+                0.005279576871544123,
+                0.0012180530466139317
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "普通に忙しかった"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "なるほど(・А・` )"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "まー忙し過ぎて疲れすぎて\n心身ともに死んでたかも(´･ω･｀)"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3lb2oovytkj2k",
+            "label": [
+                0.0022045637015253305,
+                0.20306068658828735,
+                0.001233662129379809,
+                0.0022915606386959553,
+                0.0010900951456278563,
+                0.7865102887153625,
+                0.003246324835345149,
+                0.0003628214180935174
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "まー忙し過ぎて疲れすぎて\n心身ともに死んでたかも(´･ω･｀)"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "俺は来週から忙しくなりそう"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "ウチはあれだ、段ボール作る会社で大手のお菓子メーカーから受注もあるし\n\n10月の中旬から、ハロウィン、クリスマス、年末年始、バレンタイン、ホワイトデーに向けて、忙しくなる\n(｡⊿°」∠)ﾓｯﾓｯ"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3lb2p3vyp442d",
+            "label": [
+                0.5074474215507507,
+                0.005622169468551874,
+                0.4516947865486145,
+                0.0034835077822208405,
+                0.0006689304136671126,
+                0.02796834520995617,
+                0.001692267251200974,
+                0.0014225533232092857
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "ウチはあれだ、段ボール作る会社で大手のお菓子メーカーから受注もあるし\n\n10月の中旬から、ハロウィン、クリスマス、年末年始、バレンタイン、ホワイトデーに向けて、忙しくなる\n(｡⊿°」∠)ﾓｯﾓｯ"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "段ボールサンキュー"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "(σﾟ∀ﾟ)σ貴様に段ボール作った覚えは無い！"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3lb2pbvjaf42d",
+            "label": [
+                0.003830692730844021,
+                0.009661526419222355,
+                0.002362233819440007,
+                0.027095427736639977,
+                0.9371698498725891,
+                0.006883588153868914,
+                0.011303519830107689,
+                0.0016931364079937339
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "(σ ^*◉∀◉^)σ ﾖｼ!"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "卍組(｀･ω･´)σ ﾖｼ!!"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "あくたん見ると、なんか目からゲリラ豪雨が....\n(´；ω；｀)ﾌﾞﾜｯ"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3l7hr6kfkie2b",
+            "label": [
+                0.000884902779944241,
+                0.997585654258728,
+                0.00015226182586047798,
+                0.00034544666414149106,
+                5.8453839301364496e-05,
+                0.0006429527420550585,
+                0.00028808804927393794,
+                4.223048017593101e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "あくたん見ると、なんか目からゲリラ豪雨が....\n(´；ω；｀)ﾌﾞﾜｯ"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "Xだと本人の転生先と思われる人物があまりにもあくあちゃんに似すぎてる肉体引き下げてきたからめちゃくちゃ荒れてるで"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "相変わらず治安の悪さで草"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3l7hufk463v24",
+            "label": [
+                0.07908668369054794,
+                0.08983128517866135,
+                0.0009740006644278765,
+                0.7032911777496338,
+                0.0009817475220188498,
+                0.07482769340276718,
+                0.04944532737135887,
+                0.0015620659105479717
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "相変わらず治安の悪さで草"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "ほんまそれなー 別に何か悪いことしたわけじゃねぇのにな〜"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "るーちゃんの件もそうやし\nやかましくってしょうがない(´･ω･｀)"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3l7hwxyvofu2y",
+            "label": [
+                0.0062451353296637535,
+                0.3068532943725586,
+                0.0009823266882449389,
+                0.004587984178215265,
+                0.015383942052721977,
+                0.006403784733265638,
+                0.6588557958602905,
+                0.0006877832929603755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 1,
+                    "utter": "るーちゃんの件もそうやし\nやかましくってしょうがない(´･ω･｀)"
+                },
+                {
+                    "author": "did:plc:45pmynthkxkf4opxntule7l2",
+                    "type": 2,
+                    "utter": "まぁどうせ一時的だろうから放っとけば静かになるんだろうけどな〜"
+                },
+                {
+                    "author": "did:plc:kdb3yitputtk3kio72a5zkww",
+                    "type": 3,
+                    "utter": "静かになった試しあるか？\n未だに、みけねこ(るしあ)って言う奴おるし\nなんかもー鬱陶しい( ˘ᵔ˘)"
+                }
+            ],
+            "uri": "at://did:plc:kdb3yitputtk3kio72a5zkww/app.bsky.feed.post/3l7hy4shf3e2t",
+            "label": [
+                0.003832288319244981,
+                0.00467295665293932,
+                0.003700422355905175,
+                0.001999019179493189,
+                0.031529832631349564,
+                0.002043849090114236,
+                0.9512177109718323,
+                0.001003995887003839
+            ]
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "サム色🩵お花柄もかわいい🩵"
+                },
+                {
+                    "author": "did:plc:fufpcp4fhd2grnltcz4oagat",
+                    "type": 2,
+                    "utter": "サムちゃんカラーです！\nぷっくりしてるお花がかわいいですよね"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "影響されてサム色のニットお花模様のカーディガン買っちった🩵\nあと真似してくじ運わる子なのにアクリルチャーム買ったら見事に２つともパムちゃんだったよ笑"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3lf5lzx6dac2r",
+            "label": [
+                0.9951564073562622,
+                0.00030036678072065115,
+                0.00027474836679175496,
+                0.0038686897605657578,
+                5.172165765543468e-05,
+                0.00015724252443760633,
+                9.260399383492768e-05,
+                9.825413872022182e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "影響されてサム色のニットお花模様のカーディガン買っちった🩵\nあと真似してくじ運わる子なのにアクリルチャーム買ったら見事に２つともパムちゃんだったよ笑"
+                },
+                {
+                    "author": "did:plc:fufpcp4fhd2grnltcz4oagat",
+                    "type": 2,
+                    "utter": "オソロっちですね！ᐠ( ᐛ )ᐟᐠ( ᐖ )ᐟﾊｲﾀｯﾁ\nパムちゃんもかわいいじゃないですか笑"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "オソロっち🩵うれしい\nそうなのパムちゃんかわいいのよ🤣まんまとみんな揃えたくなっちゃってるのよw"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3lf5nbtloyk2u",
+            "label": [
+                0.9996172189712524,
+                4.6437060518655926e-05,
+                0.00013278741971589625,
+                5.432347097666934e-05,
+                2.7222145945415832e-05,
+                3.965084397350438e-05,
+                4.180573523626663e-05,
+                4.0606624679639935e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "オソロっち🩵うれしい\nそうなのパムちゃんかわいいのよ🤣まんまとみんな揃えたくなっちゃってるのよw"
+                },
+                {
+                    "author": "did:plc:fufpcp4fhd2grnltcz4oagat",
+                    "type": 2,
+                    "utter": "私もサムパムタム揃えたいんですよねw\nみんなかわいいので"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "なんならダブっても保管用出来るしいいかの思考になってるw\nなんなら3つまとめてポーチとかにつけたいw"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3lf5p6zmnhc2s",
+            "label": [
+                0.004951667971909046,
+                0.00028113755979575217,
+                0.9941461086273193,
+                0.0001325340272160247,
+                8.390251605305821e-05,
+                0.00017937496886588633,
+                0.00013023859355598688,
+                9.508868970442563e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "ありがとー✨\nみんなで仲良く並んで寝たよー♪"
+                },
+                {
+                    "author": "did:plc:p6ssmp7ptnna5xwp6rwwpi5n",
+                    "type": 2,
+                    "utter": "良い夢見れたかな？w\n僕は抱き枕ジューとして朝までぐっすり(  ¯꒳​¯ )ᐝ"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "夢も見ず爆睡で寝坊しましたw\nぽたろーはマルちゃんだっこしてるからわたしはダッフィなでながら朝までだっこしたまま🧸（奇跡）\n抱き枕の効果音ジュー？なの？"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldcn2fnobk2e",
+            "label": [
+                0.9958806037902832,
+                0.000315366341965273,
+                0.00014646969793830067,
+                0.003223815467208624,
+                4.5674201828660443e-05,
+                0.00017159502021968365,
+                0.00010339522123103961,
+                0.00011306661326671019
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "夢も見ず爆睡で寝坊しましたw\nぽたろーはマルちゃんだっこしてるからわたしはダッフィなでながら朝までだっこしたまま🧸（奇跡）\n抱き枕の効果音ジュー？なの？"
+                },
+                {
+                    "author": "did:plc:p6ssmp7ptnna5xwp6rwwpi5n",
+                    "type": 2,
+                    "utter": "あれ？ジューになってるw\n焼けるくらい熱く抱っこしてますねんw"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "熱く抱っこしてる音だったかw\n抱き枕ちゃんたいへんw"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldcokeju2c2e",
+            "label": [
+                0.9975799322128296,
+                0.00013413499982561916,
+                0.00017782596114557236,
+                0.001811188762076199,
+                4.093290408491157e-05,
+                9.090112871490419e-05,
+                7.017009920673445e-05,
+                9.499421139480546e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "熱く抱っこしてる音だったかw\n抱き枕ちゃんたいへんw"
+                },
+                {
+                    "author": "did:plc:p6ssmp7ptnna5xwp6rwwpi5n",
+                    "type": 2,
+                    "utter": "朝には別々で寝てるからw\n僕の体温が高いから逃げちゃうのw"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "ダッフィももちくまも時々あたしの足のほうに逃げてることある（たぶんあたしが、蹴ってるごめんダッフィのもちくま）"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldcpys5im22e",
+            "label": [
+                0.22076129913330078,
+                0.34905490279197693,
+                0.010023955255746841,
+                0.08036230504512787,
+                0.002700322773307562,
+                0.318135142326355,
+                0.013934862799942493,
+                0.005027190316468477
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "ダッフィももちくまも時々あたしの足のほうに逃げてることある（たぶんあたしが、蹴ってるごめんダッフィのもちくま）"
+                },
+                {
+                    "author": "did:plc:p6ssmp7ptnna5xwp6rwwpi5n",
+                    "type": 2,
+                    "utter": "ああ、確かに蹴ってた。\nえ？w"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "え？w\n蹴ってた？w"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldcu4egpks23",
+            "label": [
+                0.0006976482691243291,
+                0.00034379345015622675,
+                0.0006686197593808174,
+                0.9975416660308838,
+                0.0001986057177418843,
+                0.00023242358292918652,
+                0.0002054075157502666,
+                0.000111781271698419
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "なけるほどかわいい💕💕"
+                },
+                {
+                    "author": "did:plc:dusdmlgqm22rni35qef2jfgm",
+                    "type": 2,
+                    "utter": "いまのところ販売してるのを見つけられたのは、金沢駅のセブンイレブンとメガドンキ（ラパークのところ）のお菓子売り場！じつぶつめちゃかわいいです🍨"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "あしたメガドンキ（ラパークっていうよねー地元感w）近く行くから絶対見に行く✨\n教えてくれてありがとうーー❤️❤️\nそうめちゃクオリティたかい❣️"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ld6xbvhqss23",
+            "label": [
+                0.7941462993621826,
+                0.000809497432783246,
+                0.2026720494031906,
+                0.0008157230913639069,
+                0.0003623166703619063,
+                0.00027329413569532335,
+                0.00030038724071346223,
+                0.0006204818491823971
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "あしたメガドンキ（ラパークっていうよねー地元感w）近く行くから絶対見に行く✨\n教えてくれてありがとうーー❤️❤️\nそうめちゃクオリティたかい❣️"
+                },
+                {
+                    "author": "did:plc:dusdmlgqm22rni35qef2jfgm",
+                    "type": 2,
+                    "utter": "お菓子売り場の棚の1番上に置いてあった！\nグミコーナーじゃなくて小さい子用のお菓子とか置いてある棚だった気がする！アンパンマングミとか知育菓子とかの棚！見つけにくい場所にあったけど見つけて欲しいー🥲🍨"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "あたしうっかりスマホ忘れてこのコメント見ずに探しに行ってウロウロウロウロしたあげく店員さんにお聞きして見つけた💡\n身長的に全く見つからん高さやったw\n無事にゲットできました✨\n買い占め過ぎないようにでもまたくるのもと思って運試しで4つ買ってしまった❣️\n近いうち乗っけるねぇ🩷\n教えてくれたおかげだぁありがとう☺️"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldbgkoim7c22",
+            "label": [
+                0.9996358156204224,
+                4.876920866081491e-05,
+                0.00010191689943894744,
+                6.186007522046566e-05,
+                2.605756526463665e-05,
+                4.219645052216947e-05,
+                4.179861571174115e-05,
+                4.1500083170831203e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "あたしうっかりスマホ忘れてこのコメント見ずに探しに行ってウロウロウロウロしたあげく店員さんにお聞きして見つけた💡\n身長的に全く見つからん高さやったw\n無事にゲットできました✨\n買い占め過ぎないようにでもまたくるのもと思って運試しで4つ買ってしまった❣️\n近いうち乗っけるねぇ🩷\n教えてくれたおかげだぁありがとう☺️"
+                },
+                {
+                    "author": "did:plc:dusdmlgqm22rni35qef2jfgm",
+                    "type": 2,
+                    "utter": "見つかってよかった〜！\nかわいいアイスがゲットできますように🍨"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "運なしなギャンブラーだけど奇跡的に被りなしだった✨\n1番好きなポッピングシャワーは出なかったけどクオリティ高すぎで大満足🩷"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldcmsxbfrs2e",
+            "label": [
+                0.9996403455734253,
+                4.423043719725683e-05,
+                9.010788198793307e-05,
+                6.400638812920079e-05,
+                2.8890575777040794e-05,
+                4.302890010876581e-05,
+                4.6988494432298467e-05,
+                4.254730811226182e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 1,
+                    "utter": "運なしなギャンブラーだけど奇跡的に被りなしだった✨\n1番好きなポッピングシャワーは出なかったけどクオリティ高すぎで大満足🩷"
+                },
+                {
+                    "author": "did:plc:dusdmlgqm22rni35qef2jfgm",
+                    "type": 2,
+                    "utter": "かぶりなし最高〜🍨🤍\nグミ食べた？ふどうとレモン味で結構おいしい〜😋"
+                },
+                {
+                    "author": "did:plc:mecio4ydxvqhuhoptmxjqjlt",
+                    "type": 3,
+                    "utter": "昨日甘い口じゃなくてまだたべてないだけどどっちも好きな味だ🩷\nクオリティ高そう✨\n朝ごはん食べたあとのおやつにいただこう🥣\nあっ不動とレモンwふふふw\n最初普通にぶどうって読めてた日本語すごい❣️"
+                }
+            ],
+            "uri": "at://did:plc:mecio4ydxvqhuhoptmxjqjlt/app.bsky.feed.post/3ldcn7vd3222e",
+            "label": [
+                0.9987285733222961,
+                7.741001172689721e-05,
+                0.0008499699179083109,
+                0.0001392652338836342,
+                3.5060405934927985e-05,
+                5.21142064826563e-05,
+                5.080411574454047e-05,
+                6.684593245154247e-05
+            ]
+        }
+    ]
+}

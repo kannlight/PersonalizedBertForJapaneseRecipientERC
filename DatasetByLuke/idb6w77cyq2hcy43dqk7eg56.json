@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "引きも強くて楽しかったし今夜家族で食って美味かったらまた釣りに行こうかな"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 2,
+                    "utter": "ほうほう、奥多摩の方とか？"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "群馬の山奥よ"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lbh5umsqys2l",
+            "label": [
+                0.4585021734237671,
+                0.15884575247764587,
+                0.2315264791250229,
+                0.03920920193195343,
+                0.0070606558583676815,
+                0.08472763746976852,
+                0.011091229505836964,
+                0.009036945179104805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "群馬の山奥よ"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 2,
+                    "utter": "群馬か〜\nよく日帰りで行ったね"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "片道2時間とか散歩レベル"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lbhi4ps43c2h",
+            "label": [
+                0.08000142872333527,
+                0.07563817501068115,
+                0.004894112702459097,
+                0.6091457605361938,
+                0.006203662138432264,
+                0.16746333241462708,
+                0.05192094296216965,
+                0.004732524510473013
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "片道2時間とか散歩レベル"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 2,
+                    "utter": "2時間でいけるの！？"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "圏央関越でいけばそんなもんよ"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lbjwv7u2ps2v",
+            "label": [
+                0.9234824776649475,
+                0.003994903061538935,
+                0.062215451151132584,
+                0.001636520610190928,
+                0.0006947661167941988,
+                0.0017017772188410163,
+                0.0027967747300863266,
+                0.003477375954389572
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "圏央関越でいけばそんなもんよ"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 2,
+                    "utter": "あ、高速か！\nてっきり下道で山越えしてるのかと思ったよ"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "ドライブならそうするけど釣りだったら絶対にやらんわ疲れるし"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lbl3aythek22",
+            "label": [
+                0.03147340565919876,
+                0.01093901228159666,
+                0.002881029387935996,
+                0.0038542982656508684,
+                0.01111056748777628,
+                0.43302464485168457,
+                0.5008219480514526,
+                0.005895170383155346
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "マジでカス"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "一生鼻水生成されてしんどい"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "俺は喉鼻熱筋肉痛でもうヤダ"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lexgq4a6lc2j",
+            "label": [
+                0.0011387669946998358,
+                0.9523720145225525,
+                0.0007552726310677826,
+                0.0008408192661590874,
+                0.000737703696358949,
+                0.007085896097123623,
+                0.03692036122083664,
+                0.00014922465197741985
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "俺は喉鼻熱筋肉痛でもうヤダ"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "満身創痍じゃん。病院いけたらいけよな"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "一応休日診療所が有るんだけどさ、電話繋がらないんだよ…"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lexgsyua6s2j",
+            "label": [
+                0.00021751908934675157,
+                0.9973996877670288,
+                0.00013468676479533315,
+                0.00030893299845047295,
+                0.00043238422949798405,
+                0.0003686774580273777,
+                0.0010950275463983417,
+                4.312362943892367e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "一応休日診療所が有るんだけどさ、電話繋がらないんだよ…"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "うちの近所の診療所昨日通ったときは大行列だったぜ"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "青梅市休日夜間診療所で調べりゃ分かるけど行列以前の問題なんだよなぁ…"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lexh5hpwjs23",
+            "label": [
+                0.0005088057368993759,
+                0.9915111660957336,
+                0.00011952358181588352,
+                0.0006082224426791072,
+                0.0005652218824252486,
+                0.0013752221129834652,
+                0.0052444953471422195,
+                6.728249718435109e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "青梅市休日夜間診療所で調べりゃ分かるけど行列以前の問題なんだよなぁ…"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "機能してないじゃん"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "48回かけてやっとつながって予約取れた"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lexhnrvljc26",
+            "label": [
+                0.9996377229690552,
+                5.367616904550232e-05,
+                8.563818846596405e-05,
+                5.789818533230573e-05,
+                2.326436879229732e-05,
+                5.054498979006894e-05,
+                4.9777405365603045e-05,
+                4.1513503674650565e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "奥多摩に来る八王子ナンバー以外の車だいたい下手くそな癖して譲らないから全員事故って死んで欲しい"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "ちょっと見通しのいいコーナーでラインカットする下手くそなんなん？"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "イン差しに行っていいよってことだよ"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lccotw4wik2o",
+            "label": [
+                0.9948771595954895,
+                0.00024669087724760175,
+                0.0030371304601430893,
+                0.00045226255315355957,
+                0.0002610330411698669,
+                0.0001376465952489525,
+                0.00038361173938028514,
+                0.0006044673500582576
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "イン差しに行っていいよってことだよ"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "昨日一瞬イン刺してあげたけど譲られんかったわ"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "いつもそれで最高にイラつくんよな"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lccpkgydps2o",
+            "label": [
+                0.0025900250766426325,
+                0.006724539212882519,
+                0.004050553310662508,
+                0.0042656585574150085,
+                0.9681411385536194,
+                0.00352192809805274,
+                0.009232135489583015,
+                0.001473975251428783
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "いつもそれで最高にイラつくんよな"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "まじで横浜川崎足立多摩相模湘南ナンバーカスばっか"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "品川も追加で"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lccpryp6ek27",
+            "label": [
+                0.8310956954956055,
+                0.0013945422833785415,
+                0.16373872756958008,
+                0.001692562596872449,
+                0.0003076850844081491,
+                0.0004552048339974135,
+                0.0006896141567267478,
+                0.0006259341607801616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "品川も追加で"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "品川はまじでプライド高いやつしかおらん。この前珍しくクラクション鳴らしたぐらいにはカス"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "アクセルがクラクション鳴らすって相当ヤベーやつじゃん"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lccpyhctmc27",
+            "label": [
+                0.0034136006142944098,
+                0.0029197975527495146,
+                0.0006943217013031244,
+                0.02273617498576641,
+                0.004388041328638792,
+                0.9384368062019348,
+                0.0265637394040823,
+                0.0008474351488985121
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 1,
+                    "utter": "アクセルがクラクション鳴らすって相当ヤベーやつじゃん"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 2,
+                    "utter": "角にセブンがある交差点のとこで周り見ないで出てきたアホにぶつかりかけたわ"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 3,
+                    "utter": "ヤバすぎるしそういうやつってクラクション無視してそのまま出てきそう"
+                }
+            ],
+            "uri": "at://did:plc:idb6w77cyq2hcy43dqk7eg56/app.bsky.feed.post/3lccq62qnvc27",
+            "label": [
+                0.005311891902238131,
+                0.005152990575879812,
+                0.005305697210133076,
+                0.0022489316761493683,
+                0.050786588340997696,
+                0.06675396859645844,
+                0.8621406555175781,
+                0.002299277111887932
+            ]
+        }
+    ]
+}

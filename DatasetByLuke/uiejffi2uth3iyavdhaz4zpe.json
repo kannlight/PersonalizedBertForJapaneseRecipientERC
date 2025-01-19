@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "ファクトリーの人に対して左verでそう言う理由\n何かあるかもしれませんね"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "ありそうですね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "今は何かを隠したそうだと思いますか？"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3lf5pgrylgs2u",
+            "label": [
+                0.16381597518920898,
+                0.03915778174996376,
+                0.31614065170288086,
+                0.023992691189050674,
+                0.0035137853119522333,
+                0.4358348846435547,
+                0.009306239895522594,
+                0.008238107897341251
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "今は何かを隠したそうだと思いますか？"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "思いますね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "美香さんは何を隠したいと思ってるでしょうか？"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3lf5rqniadc24",
+            "label": [
+                0.011663372628390789,
+                0.0006407774635590613,
+                0.9823249578475952,
+                0.00040738837560638785,
+                9.919478179654106e-05,
+                0.0044578672386705875,
+                0.0001551788009237498,
+                0.0002513046783860773
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "美香さんは何を隠したいと思ってるでしょうか？"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "実は、少し太ったとかですかね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "自分のハイヒールの靴底が少し汚れてたというパターンもあるかもしれません"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3lf5syvhups2i",
+            "label": [
+                0.025141248479485512,
+                0.1836373507976532,
+                0.014168653637170792,
+                0.014379261992871761,
+                0.0012643060181289911,
+                0.7575075626373291,
+                0.002675203839316964,
+                0.0012264561373740435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "自分のハイヒールの靴底が少し汚れてたというパターンもあるかもしれません"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "ありますね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ファクトリーの人がまだ仕事場に向かってないと分かってる美香さんなら何て言うでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3lf5ta7yyrs2i",
+            "label": [
+                0.01548049971461296,
+                0.001279094023630023,
+                0.9786314964294434,
+                0.00046694904449395835,
+                0.00021516722335945815,
+                0.002871007891371846,
+                0.00025909708347171545,
+                0.0007966986740939319
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "理奈さんのこういう顔を見たら周囲は幸せな気持ちになるかもしれませんね"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "なりますね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "今日は生徒の父親とどんな話をしたと思いますか？"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3lf3edqdchc26",
+            "label": [
+                0.9025172591209412,
+                0.001667663804255426,
+                0.0802619531750679,
+                0.008630756288766861,
+                0.0008760369382798672,
+                0.0015534649137407541,
+                0.0009238509810529649,
+                0.003569105640053749
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "今ならどんなタイミングで、こういう表情を出すでしょうか？\n例→子供相手のゲームで負けそうになった時"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "自分の勝ちが決まってる\n相手から、勝負を申し込まれた時とかですかね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ミサトさんらしい理由ですね\n台詞はどんなもんが多そうだと思いますか？\n相手は自分のポニーテールとかにも弱いですよ"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leypwbmexc2e",
+            "label": [
+                0.03246498480439186,
+                0.0007208632887341082,
+                0.9638796448707581,
+                0.0011639686999842525,
+                0.0002304227091372013,
+                0.0005966929602436721,
+                0.00030476253596134484,
+                0.0006386966560967267
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "ミサトさんらしい理由ですね\n台詞はどんなもんが多そうだと思いますか？\n相手は自分のポニーテールとかにも弱いですよ"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "「勝利は頂いたわよ。」って\n台詞が多そうですね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "そう言って相手の頭を撫でるのもセットかもしれません"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leyqjrz4qk2e",
+            "label": [
+                0.05451427400112152,
+                0.0005463585839606822,
+                0.9431645274162292,
+                0.0004214748914819211,
+                0.00023783485812600702,
+                0.0003591959539335221,
+                0.00023060364765115082,
+                0.0005257459124550223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "そう言って相手の頭を撫でるのもセットかもしれません"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "そうですね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ミサトさんのこのコンボに名前を付けるなら、どんなのが良さそうでしょうか？\n彼女は年下の頭なら20才位であっても撫でるかと。"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leyrxqa5ms2l",
+            "label": [
+                0.0018552296096459031,
+                0.00017985692829824984,
+                0.9974982142448425,
+                0.00012938410509377718,
+                6.70149820507504e-05,
+                0.00012440363934729248,
+                6.334518548101187e-05,
+                8.249448001151904e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "ミサトさんのこのコンボに名前を付けるなら、どんなのが良さそうでしょうか？\n彼女は年下の頭なら20才位であっても撫でるかと。"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "勝利の確信ナデナデとか\nですかね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ミサトさんの勝利の確信ナデナデ\n\nこれを体感した子供は新たな扉を開くかもしれませんね"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leytd3zee22y",
+            "label": [
+                0.42007285356521606,
+                0.0010699861450120807,
+                0.5761762261390686,
+                0.0008022150141187012,
+                0.00035084865521639585,
+                0.0005217519355937839,
+                0.0003592153952922672,
+                0.0006468977080658078
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "ミサトさんが回したコマは子供達のコマに当たったりするかもしれませんねw"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "確かに、当たりそうですね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ミサトさんなら髪留めチェンジとかするべきかもしれません\n本気ってのを示すのも良いかと"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leyg3x2su226",
+            "label": [
+                0.00038074966869316995,
+                0.00013396058056969196,
+                0.9990237951278687,
+                0.00012378969404380769,
+                8.430251182289794e-05,
+                0.00010514003952266648,
+                6.80263401591219e-05,
+                8.028306911000982e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "ミサトさんなら髪留めチェンジとかするべきかもしれません\n本気ってのを示すのも良いかと"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "確かに、良いですね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "子供達はミサトさんの美しさに惹かれるでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leyhbgo6ec2j",
+            "label": [
+                0.005446762312203646,
+                0.00032047618879005313,
+                0.9934718608856201,
+                0.00027504636091180146,
+                6.454682443290949e-05,
+                0.0002193793625338003,
+                6.035718251951039e-05,
+                0.00014149466005619615
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "子供達はミサトさんの美しさに惹かれるでしょうか"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "惹かれますね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ミサトさんに惹かれた子達はミスする確率上がるかもしれませんね\nもっと綺麗なお姉さんと遊びたくなるので"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leyiojdldc2n",
+            "label": [
+                0.009687996469438076,
+                0.0006787244346924126,
+                0.9880470037460327,
+                0.0005428855074569583,
+                7.620050018886104e-05,
+                0.0006542079499922693,
+                9.633416630094871e-05,
+                0.0002166477352147922
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "ミサトさんに惹かれた子達はミスする確率上がるかもしれませんね\nもっと綺麗なお姉さんと遊びたくなるので"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "そうですね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "ミサトさんならそれを察するでしょうかw"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3leyjqnsc222g",
+            "label": [
+                0.08279351890087128,
+                0.001567443716339767,
+                0.9109946489334106,
+                0.0013025895459577441,
+                0.0003643403179012239,
+                0.0012820743722841144,
+                0.0006304088165052235,
+                0.0010650326730683446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "佐伯さんはまた左下のショットを見せる\n生徒に何を言い忘れたでしょうか"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "今の、状態じゃ留年決定だって言うの忘れてたとかですかね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "今の状態じゃ留年決定以外ならば学校のエキシビションに代表(例:陸上部)の1人として出て貰うのが決まったとか、そんな感じかもしれませんね。\n撫子先生は運動部の顧問になってそうです。\n\n黒髪ロングポニテに変えて話をするパターンもあるかと"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3levojmz6dk2f",
+            "label": [
+                0.000638203346170485,
+                0.00016362336464226246,
+                0.9987866282463074,
+                0.00014420348452404141,
+                5.250496178632602e-05,
+                9.736335778143257e-05,
+                5.521828279597685e-05,
+                6.226781260920689e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 1,
+                    "utter": "今の状態じゃ留年決定以外ならば学校のエキシビションに代表(例:陸上部)の1人として出て貰うのが決まったとか、そんな感じかもしれませんね。\n撫子先生は運動部の顧問になってそうです。\n\n黒髪ロングポニテに変えて話をするパターンもあるかと"
+                },
+                {
+                    "author": "did:plc:33hryu7isteh2h7bvukppxdk",
+                    "type": 2,
+                    "utter": "ありますね。"
+                },
+                {
+                    "author": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+                    "type": 3,
+                    "utter": "黒髪ロングポニテに変えるなら、どっちだと思いますか？\n・ベテランな撫子先生\n・新人な佐伯さん"
+                }
+            ],
+            "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3lew54fu5ic2n",
+            "label": [
+                0.0020103342831134796,
+                0.0002063999854726717,
+                0.9972745776176453,
+                0.0001501874066889286,
+                7.35493449610658e-05,
+                0.00012158649769844487,
+                6.880822184029967e-05,
+                9.453483653487638e-05
+            ]
+        }
+    ]
+}

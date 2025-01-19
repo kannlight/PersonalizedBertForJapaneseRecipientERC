@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "ドンキ行こうぜ！"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "水道橋なかった😭"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "結構店舗が限られてるからねぇ\n渋谷のドンキならあるけどw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb256o5cmc2i",
+            "label": [
+                0.5834643244743347,
+                0.2365155965089798,
+                0.06214679405093193,
+                0.021158279851078987,
+                0.0019562793895602226,
+                0.07635734230279922,
+                0.01259779091924429,
+                0.005803598556667566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "結構店舗が限られてるからねぇ\n渋谷のドンキならあるけどw"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "夜行くわ飯食いがてら\nこの着てる可愛い子も渋谷ドンキなら売ってたりする?"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "こちら非売品となっております😌"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb2633rqdk2d",
+            "label": [
+                0.9791847467422485,
+                0.0018792985938489437,
+                0.013630555011332035,
+                0.0021665473468601704,
+                0.00016754181706346571,
+                0.0016286828322336078,
+                0.00041347643127664924,
+                0.000929193280171603
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "こちら非売品となっております😌"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "爪だけでもー🙄"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "こっっわw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb277msx2s2k",
+            "label": [
+                0.995418906211853,
+                0.00032162925344891846,
+                0.0007958889473229647,
+                0.0016873162239789963,
+                0.00023316137958317995,
+                0.000363766128430143,
+                0.0007913463632576168,
+                0.00038802550989203155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "こっっわw"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "べりべり💛"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "拷問かよw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb2a424uu22d",
+            "label": [
+                0.0008215761627070606,
+                0.0005685793003067374,
+                0.0003599944175221026,
+                0.9965207576751709,
+                0.00027178393793292344,
+                0.0008428909350186586,
+                0.0005210003582760692,
+                9.339249663753435e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "都会って感じだなw"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "我が田舎であればこんなことにはならず、何ならドンキ徒歩圏内なのに🥲"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "地元に帰るかw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb4zzz4igk2b",
+            "label": [
+                0.4804551899433136,
+                0.008941465057432652,
+                0.5040934085845947,
+                0.0004834678547922522,
+                0.00027268900885246694,
+                0.002199043519794941,
+                0.0028350495267659426,
+                0.0007196913938969374
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "地元に帰るかw"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "あと一年半は帰れない🥲\nやっぱあのネッシー貰うしかないな。一度着てるから中古料金で100円で買い取ってやろう😌"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "女の子が着たっていう付加価値やろがい！"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb52ja6dis2b",
+            "label": [
+                0.908261239528656,
+                0.002379139419645071,
+                0.08267989009618759,
+                0.0015217890031635761,
+                0.0022476590238511562,
+                0.0002594496472738683,
+                0.0015849656192585826,
+                0.0010658184764906764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "女の子が着たっていう付加価値やろがい！"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "中古は中古ですからねー仕方ないですねーこればかりはねー"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "高額で売りつけてやろうと思ったのに..."
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb55rksmak2o",
+            "label": [
+                0.0003631377767305821,
+                0.9983748197555542,
+                0.00019785341282840818,
+                0.00010427633969811723,
+                0.0002302692737430334,
+                0.00033480406273156404,
+                0.00035821637720800936,
+                3.669471698231064e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "高額で売りつけてやろうと思ったのに..."
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "よし、100円で仕入れて可愛い子が着たやつですと2万円くらいで横流しするか🙄"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "害悪すぎるw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lb5654wm2k2o",
+            "label": [
+                0.004115516785532236,
+                0.0033801374956965446,
+                0.0020921833347529173,
+                0.0016476333839818835,
+                0.0017803837545216084,
+                0.0027210882399231195,
+                0.9835566282272339,
+                0.0007064783712849021
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "学校辞めてもう楽になりたい..."
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "やめんでも目を背ければええんやで🙄"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "楽観的だなw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lakt5ltpdc2l",
+            "label": [
+                0.7508835792541504,
+                0.0006479780422523618,
+                0.24511770904064178,
+                0.0005830637528561056,
+                0.0004164543643128127,
+                0.0008061806438490748,
+                0.0006674297037534416,
+                0.0008776203030720353
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "楽観的だなw"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "やめていいかなってもんは目を背けても大抵の場合問題ないからな！"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "さすが人生の先輩や..."
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3laktpy7jks2l",
+            "label": [
+                0.7507179379463196,
+                0.011079384945333004,
+                0.008967667818069458,
+                0.19351910054683685,
+                0.002476590918377042,
+                0.00731414882466197,
+                0.004743653815239668,
+                0.021181505173444748
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "さすが人生の先輩や..."
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "敬い、奉り、お供え物を置きなさい😌"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "急に偉そうじゃんw\nむしろお供え物欲しいわ🥺"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lakv2ugjvs2f",
+            "label": [
+                0.003868893953040242,
+                0.001632537692785263,
+                0.05107378959655762,
+                0.9403434991836548,
+                0.0005569729837588966,
+                0.0006601879722438753,
+                0.0014364158269017935,
+                0.00042765247053466737
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "急に偉そうじゃんw\nむしろお供え物欲しいわ🥺"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "まぁ神なので\nずんだとくるみの団子をやるか。"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "普通にありがたいw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lakwa2dkqs2f",
+            "label": [
+                0.9996336698532104,
+                3.737381484825164e-05,
+                8.108607289614156e-05,
+                6.84828992234543e-05,
+                3.3044052543118596e-05,
+                4.5493368816096336e-05,
+                5.283345308271237e-05,
+                4.803719275514595e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 1,
+                    "utter": "普通にありがたいw"
+                },
+                {
+                    "author": "did:plc:kf5s4xqngrd6cz3h5birdjsm",
+                    "type": 2,
+                    "utter": "俺もお腹すいてるから半分こね\n俺が団子、串とパックはあげるね"
+                },
+                {
+                    "author": "did:plc:lpaigspgfgxzihh7irh366eu",
+                    "type": 3,
+                    "utter": "なんちゅう半分こやw"
+                }
+            ],
+            "uri": "at://did:plc:lpaigspgfgxzihh7irh366eu/app.bsky.feed.post/3lakxklimwc2f",
+            "label": [
+                0.41099995374679565,
+                0.009837516583502293,
+                0.0044653937220573425,
+                0.5580821633338928,
+                0.001873161643743515,
+                0.005831210408359766,
+                0.007501044310629368,
+                0.0014095421647652984
+            ]
+        }
+    ]
+}

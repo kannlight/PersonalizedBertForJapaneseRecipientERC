@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "買い物行くのめんどくさいなぁ"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "かいもの！かいものー"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "ｵﾌﾄｩﾝ気持ち良すぎで出られない"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lcr6vtr57a23",
+            "label": [
+                0.9996330738067627,
+                5.6263201258843765e-05,
+                6.607706745853648e-05,
+                7.238924445118755e-05,
+                2.259281427541282e-05,
+                6.279116496443748e-05,
+                5.0883889343822375e-05,
+                3.597831164370291e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "ｵﾌﾄｩﾝ気持ち良すぎで出られない"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "だめーーーーー"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "ぬくぬく"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lcr6ykbnru2v",
+            "label": [
+                0.9996114373207092,
+                5.2604227676056325e-05,
+                0.00012041674926877022,
+                5.622352546197362e-05,
+                2.3612152290297672e-05,
+                4.547487333184108e-05,
+                5.134499224368483e-05,
+                3.901765376213007e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "ぬくぬく"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "ぬくぬくしこしこ？"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "ぬくしこ"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lcrlmbzyasv7",
+            "label": [
+                0.9995973706245422,
+                6.340981781249866e-05,
+                0.00012348794552963227,
+                4.929303759126924e-05,
+                2.2576929040951654e-05,
+                4.179298412054777e-05,
+                5.490813055075705e-05,
+                4.724014797830023e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "ぬくしこ"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "ベッドでぬくしこするんだ！！！！！！"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "ベッドからは出ました"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lcrm3j6szk3b",
+            "label": [
+                0.7902598977088928,
+                0.002275096718221903,
+                0.1960286796092987,
+                0.0006439019343815744,
+                0.0004340085724834353,
+                0.006395463366061449,
+                0.0015745776472613215,
+                0.002388282446190715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "ベッドからは出ました"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "買い物は？"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "お昼寝しちゃおっかナ～～"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lcrmbfcd2clw",
+            "label": [
+                0.2560296952724457,
+                0.003241700353100896,
+                0.7379772663116455,
+                0.00036152731627225876,
+                0.00021998923330102116,
+                0.000734724395442754,
+                0.0010173673508688807,
+                0.0004178324597887695
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "今週はアプデあったから零式消化できなかったけど断章あと1で16貯まるから1周分消化したいんだよな"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "おれと"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "するか？地獄の消化"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lbbfeuscxb22",
+            "label": [
+                0.13980934023857117,
+                0.39056476950645447,
+                0.3193419873714447,
+                0.0015952008543536067,
+                0.0016491170972585678,
+                0.12494395673274994,
+                0.020050283521413803,
+                0.002045360393822193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "するか？地獄の消化"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "しゅる〜🫶"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "💋"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lbbhffehhkxu",
+            "label": [
+                0.9546816349029541,
+                0.01177215576171875,
+                0.016648154705762863,
+                0.0019300321582704782,
+                0.0008721549529582262,
+                0.0031943125650286674,
+                0.009581319987773895,
+                0.001320292940363288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "💋"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "何時からやる？"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "なんじでもいいよ"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lbbjs5suqc2u",
+            "label": [
+                0.8623576164245605,
+                0.008630618453025818,
+                0.008670895360410213,
+                0.001913264044560492,
+                0.0014229442458599806,
+                0.003095281310379505,
+                0.11239747703075409,
+                0.001511834911070764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "なんじでもいいよ"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 2,
+                    "utter": "17時"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "だそうです"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lbbndztid2ju",
+            "label": [
+                0.2971470355987549,
+                0.006017422303557396,
+                0.010766920633614063,
+                0.6764060854911804,
+                0.0007619810639880598,
+                0.0040058232843875885,
+                0.0023583797737956047,
+                0.002536321757361293
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 1,
+                    "utter": "だそうです"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 2,
+                    "utter": "そもそも私mana行けないので参加権ありませんでした。"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 3,
+                    "utter": "いまならマダガスカル"
+                }
+            ],
+            "uri": "at://did:plc:2cchlcyd75x5vyey6sogup5z/app.bsky.feed.post/3lbbngcc2nsqk",
+            "label": [
+                0.009095687419176102,
+                0.0006526922807097435,
+                0.9888721108436584,
+                0.0005996613763272762,
+                9.767894516699016e-05,
+                0.0003833117661997676,
+                0.00011007503781002015,
+                0.00018877552065532655
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "親方に整理券渡せばよかった"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "何があったのｗ"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "いや、親方に並んでもらえば時間短縮できたなとw"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3lesfgc5ozc2k",
+            "label": [
+                0.005014464724808931,
+                0.989679217338562,
+                0.002963450737297535,
+                0.0004900820204056799,
+                0.0001195154691231437,
+                0.0010990615701302886,
+                0.0005132040823809803,
+                0.00012103318294975907
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "いや、親方に並んでもらえば時間短縮できたなとw"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "ああ、そりゃそうだｗ 全然考えてなかったねｗ"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "探照灯はゲッツ"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3lesjcmd3kc2l",
+            "label": [
+                0.9756242036819458,
+                0.0008166152401827276,
+                0.020321425050497055,
+                0.000532633566763252,
+                0.00042255138396285474,
+                0.0004405119689181447,
+                0.0006129703833721578,
+                0.0012291120365262032
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "探照灯はゲッツ"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "あざす！さすがに他は厳しかったかぁ。それでもそれがゲットできれば十分よ。"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "とりあえず忍者と市役所で集まるのでそっちに行きます。\n探照灯とBのマフラーかぼくかわうそね"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3lesjm25b322l",
+            "label": [
+                0.06174763664603233,
+                0.0009610718116164207,
+                0.9360034465789795,
+                0.0002615036501083523,
+                0.0001831976551329717,
+                0.0003379817644599825,
+                0.00027642003260552883,
+                0.00022871530381962657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "とりあえず忍者と市役所で集まるのでそっちに行きます。\n探照灯とBのマフラーかぼくかわうそね"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 2,
+                    "utter": "お疲れ様ー。あれ？そっちも買えたのね。どちらかと言うとボクカワウソの方が希望だけどそこはお任せでっすー。"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "ぼくかわうそアピールするととあるかんむすが嫌な顔してくれるご褒美が"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3lesjsphki22l",
+            "label": [
+                0.9996265172958374,
+                5.418107321020216e-05,
+                9.541741019347683e-05,
+                8.78464852576144e-05,
+                1.9859242456732318e-05,
+                4.3842454033438116e-05,
+                3.746436777873896e-05,
+                3.4772248909575865e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "(´･ω･`)どーせ行けねーだろとオタクイベントに行く予定でしたわ\n\n金杯行こーぜ金杯"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "金杯で惨敗"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "お堂のおかげでキャンセルが出てるw"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3ldputr737s2c",
+            "label": [
+                0.9934400916099548,
+                0.00021978591394145042,
+                0.0004019888292532414,
+                0.0054971505887806416,
+                6.26013643341139e-05,
+                0.00010767164349090308,
+                0.00012027320190099999,
+                0.00015037937555462122
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "お堂のおかげでキャンセルが出てるw"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "まじか"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "ブイシートまでキャンセル出てたwwww"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3ldpvahlew22c",
+            "label": [
+                0.7812033891677856,
+                0.0012018929701298475,
+                0.0012323484988883138,
+                0.21419383585453033,
+                0.00042501548887230456,
+                0.0005903071723878384,
+                0.0006435592076741159,
+                0.0005096461391076446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "ブイシートまでキャンセル出てたwwww"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "ホントだwww\nだが買えないwww"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "なんか五分単位でアクセス集中してるね　\n有馬のシートは高すぎる"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3ldpvhksctk25",
+            "label": [
+                0.007973318919539452,
+                0.006776496767997742,
+                0.004339580424129963,
+                0.9498069882392883,
+                0.00039258095785044134,
+                0.02923729456961155,
+                0.000782468356192112,
+                0.0006913284887559712
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "なんか五分単位でアクセス集中してるね　\n有馬のシートは高すぎる"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "プレミアムwww"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "ジーシートがあきました"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3ldpvr2i7ik25",
+            "label": [
+                0.9993019104003906,
+                9.058832802111283e-05,
+                0.000143579367431812,
+                0.0002701057819649577,
+                2.6657693524612114e-05,
+                3.101886613876559e-05,
+                8.194101974368095e-05,
+                5.41737063031178e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "大阪城ホールってホテルどこあたりに取れば楽かわかる？"
+                },
+                {
+                    "author": "did:plc:evomzut4dgxit3ct7tmdsuzn",
+                    "type": 2,
+                    "utter": "うわごめん全然こっち見てなかった　ホテル事情あんまわかんないからアレだけど、心斎橋辺りで取っておけば電車一本でホール最寄り駅までいけるし観光もしやすくていいんじゃないかな　イベント？"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "ウマのライブ〜"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3kjwigs7u5l26",
+            "label": [
+                0.99944669008255,
+                7.557194476248696e-05,
+                0.00025676150107756257,
+                5.6362470786552876e-05,
+                2.8538386686705053e-05,
+                4.024933878099546e-05,
+                5.1400511438259855e-05,
+                4.436286326381378e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "ウマのライブ〜"
+                },
+                {
+                    "author": "did:plc:evomzut4dgxit3ct7tmdsuzn",
+                    "type": 2,
+                    "utter": "んまんまんまんま　いいね！！いつ頃？"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "3月"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3kkf2czdvrh25",
+            "label": [
+                0.9945604205131531,
+                0.0008224999764934182,
+                0.002864010166376829,
+                0.0006504617049358785,
+                8.253848500316963e-05,
+                0.00026564084691926837,
+                0.0005032129120081663,
+                0.00025122149963863194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "3月"
+                },
+                {
+                    "author": "did:plc:evomzut4dgxit3ct7tmdsuzn",
+                    "type": 2,
+                    "utter": "3月か〜時間があればご飯でも行きたいところだ"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "2日目のチケが取れたら日曜までいるつもりだが"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3kkuqrhhtxl2q",
+            "label": [
+                0.000755168788600713,
+                0.00019909191178157926,
+                0.9986579418182373,
+                9.898586722556502e-05,
+                6.566118827322498e-05,
+                9.985816723201424e-05,
+                6.106710497988388e-05,
+                6.22001534793526e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 1,
+                    "utter": "2日目のチケが取れたら日曜までいるつもりだが"
+                },
+                {
+                    "author": "did:plc:evomzut4dgxit3ct7tmdsuzn",
+                    "type": 2,
+                    "utter": "おっいいねぇ　日曜ってーといつだ"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 3,
+                    "utter": "とりあえず3/22,23のホテル取った\n23日ライブ終わったあとにどうすか？"
+                }
+            ],
+            "uri": "at://did:plc:nvpprjkpgogjhizpr7hcdeav/app.bsky.feed.post/3kmea6yb55b2z",
+            "label": [
+                0.027748944237828255,
+                0.000531716737896204,
+                0.9705151319503784,
+                0.00022018625168129802,
+                0.00012577448796946555,
+                0.000495870248414576,
+                0.00016656724619679153,
+                0.00019570403674151748
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "今日一日サプライズけんじゃく理論というワードが離れない サプライズけんじゃく理論って何？実は主人公の母親だったりすること？"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "黒幕が主人公の身内である方が面白くなる理論。ダースベイダー理論とも言えませんかこれ。"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "た、確かに…！？本当だ…？！構造としては完全に一致だ…？！"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lc3fdg2ta22g",
+            "label": [
+                0.0008655904093757272,
+                0.00030624098144471645,
+                0.0006532171391882002,
+                0.9974574446678162,
+                0.00018261298828292638,
+                0.0002551983925513923,
+                0.0001633073261473328,
+                0.00011638193245744333
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "た、確かに…！？本当だ…？！構造としては完全に一致だ…？！"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "掘ればもっと出てきそう、サプライズけんじゃく理論……！"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "掘れば出てきそうなんですけどいや〜1000年も生きてると大体が私の二番煎じだよねとか良いそうで理論を掘っていいものか迷います"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lc3g67o2t22c",
+            "label": [
+                0.007040831260383129,
+                0.0013060272904112935,
+                0.006771546322852373,
+                0.00100144708994776,
+                0.00021979474695399404,
+                0.9827533960342407,
+                0.0005574110546149313,
+                0.0003495358396321535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "掘れば出てきそうなんですけどいや〜1000年も生きてると大体が私の二番煎じだよねとか良いそうで理論を掘っていいものか迷います"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "完全に言いそうな語彙で草も枯れますわね　傲慢脳味噌男！！！！"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "そういう可愛くないこと言うなら相方取り上げますよ！！メッ！！！！！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lc3hmqcxok2c",
+            "label": [
+                0.0034343679435551167,
+                0.010697850957512856,
+                0.0063330004923045635,
+                0.0071731070056557655,
+                0.9577295184135437,
+                0.002955661853775382,
+                0.010218152776360512,
+                0.001458370708860457
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "そういう可愛くないこと言うなら相方取り上げますよ！！メッ！！！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "イヤーーーーーーーーッッッッッッ！！！！！！！！！；；；；；；"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "金城さんがけっくんみたいになっちゃった！"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lc3huaxrhk2c",
+            "label": [
+                0.0039571551606059074,
+                0.00045457141823135316,
+                0.0008967241737991571,
+                0.9938861727714539,
+                0.00020421826047822833,
+                0.00024534910335205495,
+                0.00019919915939681232,
+                0.0001566221471875906
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "金城さんがけっくんみたいになっちゃった！"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "俺らの中のけっくん像どうなってるんですか（愛方大好きげ～人）"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "私は「結婚とか興味ないw」て仲間内で言ってたし実際結婚に一番遠そうだったのに可愛い嫁さんと一抜けしたズル男だと思ってます(？)"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lc3inoqwts2c",
+            "label": [
+                0.9751220941543579,
+                0.006370141636580229,
+                0.004390632268041372,
+                0.0013800646411255002,
+                0.0003805220185313374,
+                0.005664581432938576,
+                0.0043290588073432446,
+                0.0023629178758710623
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "初夜はなんぼあってもいい　また、書きませんか？"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "新婚初夜、二日目――――（！？）"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "ポリネシアン初夜"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lbp4ghfkcy2q",
+            "label": [
+                0.9920349717140198,
+                0.00023027828137855977,
+                0.006966224871575832,
+                0.0003205312823411077,
+                6.0973292420385405e-05,
+                0.00014563526201527566,
+                0.00011828821880044416,
+                0.000123090751003474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "ポリネシアン初夜"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "この時短重点の世の中に随分贅沢なセックスを……"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "タイパコスパに否を叩きつけて初夜を延長しましょう"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lbp4jb6lm52j",
+            "label": [
+                0.0008144750609062612,
+                0.0008416959899477661,
+                0.9946762323379517,
+                0.0002723371726460755,
+                0.0022622807882726192,
+                0.0002183566684834659,
+                0.0006795633817091584,
+                0.00023506750585511327
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "タイパコスパに否を叩きつけて初夜を延長しましょう"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "ただ毎日ヤっとるだけでは？金城は訝しんだ"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "そういう意見もあるけど私の解釈では初夜だから…とあの縫い目が…"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lbp4owtljb2n",
+            "label": [
+                0.5860224366188049,
+                0.04650968313217163,
+                0.040526293218135834,
+                0.05015601962804794,
+                0.009098744951188564,
+                0.06118881329894066,
+                0.17209430038928986,
+                0.03440365567803383
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 1,
+                    "utter": "そういう意見もあるけど私の解釈では初夜だから…とあの縫い目が…"
+                },
+                {
+                    "author": "did:plc:dwd6db7c6dzsnolxeb44g73o",
+                    "type": 2,
+                    "utter": "セックスの解釈を拡げるんじゃあない"
+                },
+                {
+                    "author": "did:plc:fxwgnthuza26ej43cdpoktxb",
+                    "type": 3,
+                    "utter": "初夜ってたくさんしたら面白いと思わない？と言われて初夜は一回だから初夜のはずなのに意味わからんすぎておもろ…と思ってしまった🪶にも責任が…"
+                }
+            ],
+            "uri": "at://did:plc:fxwgnthuza26ej43cdpoktxb/app.bsky.feed.post/3lbp5bre2oc2o",
+            "label": [
+                0.0003949450037907809,
+                0.9979596138000488,
+                0.00010492603178136051,
+                0.00018485843611415476,
+                0.00010694062075344846,
+                0.0006746143917553127,
+                0.0005400400259532034,
+                3.408451084396802e-05
+            ]
+        }
+    ]
+}

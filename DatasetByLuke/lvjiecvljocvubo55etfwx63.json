@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "殻付きマカダミアナッツを割って食べるの美味しいのです…たべたぁい！"
+                },
+                {
+                    "author": "did:plc:pw4ce6au3flpzmbtsx2jsey3",
+                    "type": 2,
+                    "utter": "殻つきマカダミアナッツ割ってたら柄が折れました！！！(レバー式のやつ)"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "かったいですからねぇ…\nねじ式のがいいとおもいます！（数年使いづづけても元気元気！"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lbmfcgt4we2x",
+            "label": [
+                0.12863540649414062,
+                0.0031335693784058094,
+                0.8608700633049011,
+                0.0004131504101678729,
+                0.0008243746706284583,
+                0.0015811322955414653,
+                0.0018720170482993126,
+                0.002670201240107417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "かったいですからねぇ…\nねじ式のがいいとおもいます！（数年使いづづけても元気元気！"
+                },
+                {
+                    "author": "did:plc:pw4ce6au3flpzmbtsx2jsey3",
+                    "type": 2,
+                    "utter": "…わし、握力無さすぎて買ったのに一個も割れなかったんだが…"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "なんということでしょう…"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lbmfjtx2fm2x",
+            "label": [
+                0.0029005766846239567,
+                0.873691737651825,
+                0.0004874845326412469,
+                0.07725169509649277,
+                0.0014162109000608325,
+                0.04252462089061737,
+                0.0015265634283423424,
+                0.00020116334781050682
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "なんということでしょう…"
+                },
+                {
+                    "author": "did:plc:pw4ce6au3flpzmbtsx2jsey3",
+                    "type": 2,
+                    "utter": "殻は鳩さんに割ってもらうことにするわ！！！うつぎは中身だけいただく…"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "割った半分は報酬として頂きます！！！(ﾑｼｬｧ"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lbmfpwrmb42x",
+            "label": [
+                0.1010160893201828,
+                0.012466339394450188,
+                0.776103138923645,
+                0.006999448407441378,
+                0.07907170802354813,
+                0.005671067163348198,
+                0.012139656580984592,
+                0.006532595492899418
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "割った半分は報酬として頂きます！！！(ﾑｼｬｧ"
+                },
+                {
+                    "author": "did:plc:pw4ce6au3flpzmbtsx2jsey3",
+                    "type": 2,
+                    "utter": "むくむく育ったマカダミアナッツ鳩…それはそれでよき…じゅるり…"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "ﾋｴｯ…マカダミアナッツは油分多めらしいので太るかもですね…?"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lbmhzbhsmt2y",
+            "label": [
+                0.0020456197671592236,
+                0.005522593855857849,
+                0.001824060920625925,
+                0.0035736048594117165,
+                0.0001990557211684063,
+                0.9862849712371826,
+                0.000401270022848621,
+                0.00014877849025651813
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "ﾋｴｯ…マカダミアナッツは油分多めらしいので太るかもですね…?"
+                },
+                {
+                    "author": "did:plc:pw4ce6au3flpzmbtsx2jsey3",
+                    "type": 2,
+                    "utter": "おいしく育つのですよ…そしていずれうつぎの胃袋へ…"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "食べきれないほど大きく…٩( 'ω' )و"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lbmjpzq57y24",
+            "label": [
+                0.9930130839347839,
+                0.001018464914523065,
+                0.00047166223521344364,
+                0.004666531924158335,
+                6.783226126572117e-05,
+                0.0004222372081130743,
+                0.0001568266743561253,
+                0.0001833739661378786
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "やーねー（井戸端風味"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "まったくね〜！悩みのタネよ！！"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "かゆみ止めの目薬買いに行かなきゃ…"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lfrrlrr7i724",
+            "label": [
+                0.0025701397098600864,
+                0.9681572318077087,
+                0.002491915598511696,
+                0.0004260405548848212,
+                0.0001919424394145608,
+                0.024014268070459366,
+                0.0020312757696956396,
+                0.00011718579480657354
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "かゆみ止めの目薬買いに行かなきゃ…"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "杉の伐採も忘れずにね！！"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "またチェーンソーふりまわす橋本さんを止めなければ…"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lftd54jswk2i",
+            "label": [
+                0.0009055095724761486,
+                0.0024049868807196617,
+                0.0007393962005153298,
+                0.0017819585045799613,
+                0.0007549904985353351,
+                0.9922890067100525,
+                0.0008764004451222718,
+                0.00024778483202680945
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "またチェーンソーふりまわす橋本さんを止めなければ…"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "ｷﾞｭｲｲｲｲｲｲﾝ"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "こらー！切るのはサメにしておきなさいっ！！"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lftdj4cbr72s",
+            "label": [
+                0.01299677137285471,
+                0.10089551657438278,
+                0.02262369729578495,
+                0.11580944806337357,
+                0.7057295441627502,
+                0.01761479303240776,
+                0.017722928896546364,
+                0.006607323419302702
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "こらー！切るのはサメにしておきなさいっ！！"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "ｷｭｳｳｳﾝ……"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "マスクとゴーグルあげるので…"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lfteitxjsp2h",
+            "label": [
+                0.0091352304443717,
+                0.010561483912169933,
+                0.9769266247749329,
+                0.0002253006532555446,
+                0.00029169340268708766,
+                0.0015592159470543265,
+                0.0008742788922972977,
+                0.00042624599882401526
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "ｵｲｼｲ ﾔｰﾂ"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "ﾌﾞﾀﾉｶｯｸｰﾆ"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "ｼｮｳｶﾞﾔｯｷｰ"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lfrpcg73s42p",
+            "label": [
+                0.9639935493469238,
+                0.001296078902669251,
+                0.03236817568540573,
+                0.0005461623659357429,
+                0.0002399945806246251,
+                0.0003151427663397044,
+                0.000706775113940239,
+                0.0005342572112567723
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "ｼｮｳｶﾞﾔｯｷｰ"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "ｵﾅｶｶﾞ ｽｷﾏｼﾀ"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "ｵｲｼ ﾊｸﾏｰｲ"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lfrpg46xrh2u",
+            "label": [
+                0.9995819926261902,
+                4.4212247303221375e-05,
+                0.00011095481750089675,
+                6.582769856322557e-05,
+                3.386484240763821e-05,
+                4.377386358100921e-05,
+                7.223183638416231e-05,
+                4.71627245133277e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "ｵｲｼ ﾊｸﾏｰｲ"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "ﾊﾗﾍﾘｰ"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "ｺﾞﾊﾝ ﾀﾍﾞﾁｬｴｰ"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lfrqb3rz7e2p",
+            "label": [
+                0.9977994561195374,
+                0.0005701924092136323,
+                0.0007112788734957576,
+                0.0002176965936087072,
+                7.995117630343884e-05,
+                0.00010028019460150972,
+                0.0004026584210805595,
+                0.00011843466199934483
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 1,
+                    "utter": "ｺﾞﾊﾝ ﾀﾍﾞﾁｬｴｰ"
+                },
+                {
+                    "author": "did:plc:lk2nbodoz33p54xhophb4qdq",
+                    "type": 2,
+                    "utter": "5ｼﾞﾆﾀﾍﾞﾀﾖｰ"
+                },
+                {
+                    "author": "did:plc:lvjiecvljocvubo55etfwx63",
+                    "type": 3,
+                    "utter": "ｵﾔｼｮｸ ﾀﾍﾞﾏｼｮｰ"
+                }
+            ],
+            "uri": "at://did:plc:lvjiecvljocvubo55etfwx63/app.bsky.feed.post/3lfrqnyjbzf2p",
+            "label": [
+                0.9834169745445251,
+                0.004366765264421701,
+                0.0023349893745034933,
+                0.0033375544007867575,
+                0.0006364716100506485,
+                0.0011856368510052562,
+                0.003832500195130706,
+                0.0008890500175766647
+            ]
+        }
+    ]
+}

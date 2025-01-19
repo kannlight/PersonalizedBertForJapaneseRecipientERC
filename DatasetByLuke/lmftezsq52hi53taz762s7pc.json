@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "やり取りといいねで通知来るのはおかしいとは思います"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "モデレーターがどういう基準でBANするのか知りたいかも。"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "Blueskyのモデレーター部分は一番オープンじゃないとこだからしっかりしてほしいですね 少しでも運営問題がでれば壮大にXでネガキャンされますし 記事にまでなると更に良くない"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lbqi3oc5222b",
+            "label": [
+                0.002624120330438018,
+                0.09935980290174484,
+                0.028141837567090988,
+                0.002757857320830226,
+                0.11287780851125717,
+                0.5094568729400635,
+                0.24049663543701172,
+                0.0042850724421441555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "Blueskyのモデレーター部分は一番オープンじゃないとこだからしっかりしてほしいですね 少しでも運営問題がでれば壮大にXでネガキャンされますし 記事にまでなると更に良くない"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "それなすぎる。北米のマスクトランプ応援団から敵認定されていそうだし。"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "やはり人が増えすぎる前にBlueskyのMisskey io(別Bluesky)が必要だった..."
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lbqiec2unc2b",
+            "label": [
+                0.07104208320379257,
+                0.820467472076416,
+                0.032844312489032745,
+                0.00688920496031642,
+                0.000992538407444954,
+                0.06319134682416916,
+                0.00227612117305398,
+                0.0022968833800405264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "やはり人が増えすぎる前にBlueskyのMisskey io(別Bluesky)が必要だった..."
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "それはもはやmisskey.ioでいいんじゃないかみたいなのはあるw"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "フィードとかあるから！"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lbqihmiad22b",
+            "label": [
+                0.49020832777023315,
+                0.0029292802792042494,
+                0.49925944209098816,
+                0.0021851970814168453,
+                0.0008960819686762989,
+                0.0010592257604002953,
+                0.0014055229257792234,
+                0.0020569534972310066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "フィードとかあるから！"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "フィードは唯一無二。（なおThreadsが真似しだしたもよう）"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "タイムラインにいろいろ詰め込んでくるThreadsがマネしても活かせなさそう"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lbqikvtk5s2b",
+            "label": [
+                0.09544038772583008,
+                0.719637930393219,
+                0.013778174296021461,
+                0.0020170765928924084,
+                0.0003503039770293981,
+                0.16227662563323975,
+                0.005328099709004164,
+                0.0011713739950209856
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "Web自体そうだけど最終的には大きな企業がオープンなものを守るためにお金を出さないとダメだろうね"
+                },
+                {
+                    "author": "did:plc:z5qt6lgdw27cvnwcrgfujyeb",
+                    "type": 2,
+                    "utter": "Mozillaの人ではダメかな？"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "Mozillaの偉い人がメンバーにいるからなんとかなるのかもしれません"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lfpf732tls2a",
+            "label": [
+                0.0004889192641712725,
+                0.00024303965619765222,
+                0.9988502264022827,
+                0.0001045356402755715,
+                4.1524337575538084e-05,
+                0.00016694124497007579,
+                4.952033486915752e-05,
+                5.5210741265909746e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "Mozillaの偉い人がメンバーにいるからなんとかなるのかもしれません"
+                },
+                {
+                    "author": "did:plc:z5qt6lgdw27cvnwcrgfujyeb",
+                    "type": 2,
+                    "utter": "Googleには来てほしくない感じ。\nあそこも大概だよー"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "Googleはダメですね\n独占ばっかですし"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lfpfeujzes2a",
+            "label": [
+                0.012332980521023273,
+                0.01668406091630459,
+                0.0020634974353015423,
+                0.0010183886624872684,
+                0.0017256250139325857,
+                0.039861638098955154,
+                0.9248968362808228,
+                0.001417028484866023
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "Googleはダメですね\n独占ばっかですし"
+                },
+                {
+                    "author": "did:plc:z5qt6lgdw27cvnwcrgfujyeb",
+                    "type": 2,
+                    "utter": "Microsftもダメですねw"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "昔javascriptだかhtmlの仕様をコントロールしようとしてましたしね"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lfpfzk6ltk2a",
+            "label": [
+                0.630054235458374,
+                0.000868005387019366,
+                0.3595123887062073,
+                0.000733660941477865,
+                0.0008536761743016541,
+                0.0021864105947315693,
+                0.0017181821167469025,
+                0.004073417279869318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "昔javascriptだかhtmlの仕様をコントロールしようとしてましたしね"
+                },
+                {
+                    "author": "did:plc:z5qt6lgdw27cvnwcrgfujyeb",
+                    "type": 2,
+                    "utter": "古くはIE用のHTMLタグ拡張、C±±の独自拡張ですかね。\n最近はどちらも聞かなくなりましたが（HTMLタグなんていまは記述しませんし）。\nMSが拡張した言語やスクリプトはWindowsでしかダメな場合が多いです。"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "IEは最後の最後まで癌になってましたね"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lfpgmjci7s2a",
+            "label": [
+                0.0039795758202672005,
+                0.9230647087097168,
+                0.0003965533396694809,
+                0.018977586179971695,
+                0.0003378718683961779,
+                0.05049848556518555,
+                0.0025024537462741137,
+                0.00024273079179693013
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 1,
+                    "utter": "IEは最後の最後まで癌になってましたね"
+                },
+                {
+                    "author": "did:plc:z5qt6lgdw27cvnwcrgfujyeb",
+                    "type": 2,
+                    "utter": "いまだに某青い銀行はオンラインバンキングにEdgeのIEモードを使うという・・・・。"
+                },
+                {
+                    "author": "did:plc:lmftezsq52hi53taz762s7pc",
+                    "type": 3,
+                    "utter": "それはヤバイ"
+                }
+            ],
+            "uri": "at://did:plc:lmftezsq52hi53taz762s7pc/app.bsky.feed.post/3lfpguopoqk2a",
+            "label": [
+                0.0024605996441096067,
+                0.0013824080815538764,
+                0.0006536836735904217,
+                0.008945757523179054,
+                0.0006977225420996547,
+                0.9846417307853699,
+                0.0009160516201518476,
+                0.0003021889424417168
+            ]
+        }
+    ]
+}

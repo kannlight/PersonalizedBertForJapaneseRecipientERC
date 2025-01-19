@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "何日くらい持つんだろ？タトゥーシール🤔"
+                },
+                {
+                    "author": "did:plc:ldjdye4gw3ubshzm2zubrrwo",
+                    "type": 2,
+                    "utter": "タトゥーシールによって違いますが、落ちないように気をつけてお風呂に入って2〜3日持つものもありますよ🙌🏻"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "怪しいからやっぱり当日貼る方向に…😭"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3lbh6stl3vc24",
+            "label": [
+                0.013549400493502617,
+                0.008131691254675388,
+                0.953033983707428,
+                0.000639597827102989,
+                0.0001874693261925131,
+                0.02344631589949131,
+                0.0005979281268082559,
+                0.00041356825386174023
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "やったー！ありがとうありがとうありがとう😭😭😭"
+                },
+                {
+                    "author": "did:plc:ldjdye4gw3ubshzm2zubrrwo",
+                    "type": 2,
+                    "utter": "多分髪さえ解決すれば、服も家から着て行って、メイクも家でしちゃうか、会場でするとしても早い方だと思うので🙌🏻"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "ユキオ〜！！！着ていけちゃうの強い🥳頼もしいぜ！\nわたしもたぶん早めに会場向かうので、タトゥーシールを全身に貼るのが一番時間かかりそう笑\nたぶん水でつけるやつ！"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3lbhjgegozs24",
+            "label": [
+                0.9879144430160522,
+                0.00026113257627002895,
+                0.01099884882569313,
+                0.00028429325902834535,
+                7.587658910779282e-05,
+                0.0001652543287491426,
+                9.227151167578995e-05,
+                0.00020786687673535198
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "ユキオ〜！！！着ていけちゃうの強い🥳頼もしいぜ！\nわたしもたぶん早めに会場向かうので、タトゥーシールを全身に貼るのが一番時間かかりそう笑\nたぶん水でつけるやつ！"
+                },
+                {
+                    "author": "did:plc:ldjdye4gw3ubshzm2zubrrwo",
+                    "type": 2,
+                    "utter": "車なので🙌🏻でも電車だとしても上着羽織ればこれなら行けそうです笑\nタトゥーシール貼る瞬間が1番寒そうですね🤣🤣"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "車組いいなー！\nいやーほんと寒そうでどうしよ！笑"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3lbjp6wd4722a",
+            "label": [
+                0.14727020263671875,
+                0.009926783852279186,
+                0.14158084988594055,
+                0.1419786512851715,
+                0.0007241122657433152,
+                0.554339587688446,
+                0.001970631768926978,
+                0.0022091653663665056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "4月は楽しみなんだけど、なんかあの、某人のいる団体がすごく幅を利かせてる感じがあって、なんかその、何かなーという気持ちがうっすらある。集まりたいけど、あそこの仕切りには行きたくないな、という…他の人はいいけど、某人が怖くて近寄りたくない…あと誰が誰だか分からなくて怖いもやっぱりめっちゃある。"
+                },
+                {
+                    "author": "did:plc:5tdbdlp4prseynswunjthsol",
+                    "type": 2,
+                    "utter": "わかりすぎる、わかりすぎるすぎてもう目立たないようにストレンジャーコスで行きたくないまであります"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "あれ2日目のやつ行ってたよね笑\n対局にいるwwwwwwwwwて写真見てたwww大丈夫だった？"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3lczw76hno22d",
+            "label": [
+                0.5435948371887207,
+                0.0011277138255536556,
+                0.0194667037576437,
+                0.4299367368221283,
+                0.0004841321788262576,
+                0.0033161677420139313,
+                0.0006840122514404356,
+                0.0013896822929382324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "あれ2日目のやつ行ってたよね笑\n対局にいるwwwwwwwwwて写真見てたwww大丈夫だった？"
+                },
+                {
+                    "author": "did:plc:5tdbdlp4prseynswunjthsol",
+                    "type": 2,
+                    "utter": "キツーって思いながら集合撮ったらソッコー着替えてやりました！！！！！！！なんでプーさん被ってるんですか純粋に"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "wwwwwwwww\n顔出ししたくないのかな？でもあれはあれでわかりやすく避けられるからいいか…笑 脱いでたりアーマーだと分からないから怖いな…\n裏でひらーかしてたから一ミリも掠らなくてよかった…"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3lczy7eom7s2d",
+            "label": [
+                0.0037166704423725605,
+                0.0010807544458657503,
+                0.0013444061623886228,
+                0.004476794041693211,
+                0.00030774265178479254,
+                0.9883927702903748,
+                0.0003730224270839244,
+                0.0003078988229390234
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "wwwwwwwww\n顔出ししたくないのかな？でもあれはあれでわかりやすく避けられるからいいか…笑 脱いでたりアーマーだと分からないから怖いな…\n裏でひらーかしてたから一ミリも掠らなくてよかった…"
+                },
+                {
+                    "author": "did:plc:5tdbdlp4prseynswunjthsol",
+                    "type": 2,
+                    "utter": "よくわかんないですほんとに……………変に絡まれたりなんかする前に退散できてよかった………………\nセレブレーション日曜だけとったんで仲良い人とだけ絡んでたい！！！！！！！"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "いやほんとよく勇気出して行ったよ笑\n日曜日はチケットある！何やるかまだ決めてないけどあそぼー！"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3ld2wqga7322d",
+            "label": [
+                0.6607624292373657,
+                0.0007813722477294505,
+                0.3351733684539795,
+                0.0013499968918040395,
+                0.0003564833023119718,
+                0.0005228397203609347,
+                0.0004057287296745926,
+                0.0006476945127360523
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "いやほんとよく勇気出して行ったよ笑\n日曜日はチケットある！何やるかまだ決めてないけどあそぼー！"
+                },
+                {
+                    "author": "did:plc:5tdbdlp4prseynswunjthsol",
+                    "type": 2,
+                    "utter": "ジェキやってるダフニスさんが行きたいなら行こう！ってことで行きました✊\n是非遊びましょーーー！！！"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "あ、そっか！アーマーもされてるもんね！\nもうしばらく楽しみがないからあそぼー！"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3ld34kd6omc2d",
+            "label": [
+                0.13395093381404877,
+                0.005944750737398863,
+                0.8578952550888062,
+                0.0007430467521771789,
+                0.00023683335166424513,
+                0.00034837209386751056,
+                0.0005023217527195811,
+                0.00037843466270715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 1,
+                    "utter": "あ、そっか！アーマーもされてるもんね！\nもうしばらく楽しみがないからあそぼー！"
+                },
+                {
+                    "author": "did:plc:5tdbdlp4prseynswunjthsol",
+                    "type": 2,
+                    "utter": "マジご飯行きましょねーー！！！！！"
+                },
+                {
+                    "author": "did:plc:mwxal7dlshloxp5vjkxcvoc6",
+                    "type": 3,
+                    "utter": "いついついついつ！！！！笑"
+                }
+            ],
+            "uri": "at://did:plc:mwxal7dlshloxp5vjkxcvoc6/app.bsky.feed.post/3ld3dgmuvdc2d",
+            "label": [
+                0.0041328356601297855,
+                0.0008431628230027854,
+                0.0010458413744345307,
+                0.9922397136688232,
+                0.0006395429372787476,
+                0.0003470899537205696,
+                0.0005818178178742528,
+                0.00016992460587061942
+            ]
+        }
+    ]
+}

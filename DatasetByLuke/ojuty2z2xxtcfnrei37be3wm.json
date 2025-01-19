@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "ものすごい話をするんですけど、すでに書いてTwitterにあげてた場面を頑張って書いていたので昨日までの作業が無駄になりました😀\n\nナニヤッテンダヨォ"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "進捗どうですか！！！"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "昨日ゼロになったとこ…😀"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3lfbvdfcecc2v",
+            "label": [
+                0.4736104905605316,
+                0.3578176498413086,
+                0.050795506685972214,
+                0.04304708167910576,
+                0.0026196581311523914,
+                0.052941352128982544,
+                0.015049579553306103,
+                0.004118640907108784
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "昨日ゼロになったとこ…😀"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "ゼロはやばいｗ前日入稿？ｗ"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "うん、そう…なんだよね…"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3lfbwc7ryec2k",
+            "label": [
+                0.2816878855228424,
+                0.6362135410308838,
+                0.004090724978595972,
+                0.011389446444809437,
+                0.0008932038908824325,
+                0.05141680687665939,
+                0.011680305935442448,
+                0.0026281289756298065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "うん、そう…なんだよね…"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "なんか安心するわーいつも通りで"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "いつも最後尾の自信がある"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3lfc27iytvs2k",
+            "label": [
+                0.010353337973356247,
+                0.0009517823928035796,
+                0.9840356707572937,
+                0.000484876218251884,
+                0.00043091128463856876,
+                0.002459738403558731,
+                0.0003497005091048777,
+                0.0009339884854853153
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "いつも最後尾の自信がある"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "いつも最後尾札もってるやん"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "そうなんよ🙂"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3lfcbhbs5u22i",
+            "label": [
+                0.7626597881317139,
+                0.06247388944029808,
+                0.014503585174679756,
+                0.11659065634012222,
+                0.006398992147296667,
+                0.012061668559908867,
+                0.019343232735991478,
+                0.005968266166746616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "そうなんよ🙂"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "毎回ぎりぎりすぎるのに「さるさんだなあ」って安心してしまうｗ"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "一度くらい早割してみたい人生だった"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3lfcflr5cms2d",
+            "label": [
+                0.00048050362966023386,
+                0.0014051664620637894,
+                0.9976098537445068,
+                8.845094998832792e-05,
+                5.877248622709885e-05,
+                0.00014295837900135666,
+                0.00014335689775180072,
+                7.096694753272459e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "そうなの！？"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "そうなの。3人でお休みのめぐみのことすき勝手に喋ってたよｗ"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "見たかった〜😭"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3lee6vry7hc2p",
+            "label": [
+                0.0006321003311313689,
+                0.9979349374771118,
+                0.0008382219239138067,
+                0.00014417603961192071,
+                7.443223148584366e-05,
+                0.00011652640387183055,
+                0.0002206765639130026,
+                3.8956262869760394e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "見たかった〜😭"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "やはり会場にいくべき！"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "行きたかった\n呪は今年最後だったろうなぁ😭"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3legv6z7vr22g",
+            "label": [
+                0.00046623338130302727,
+                0.9987998008728027,
+                0.0002522733702789992,
+                0.00012057709682267159,
+                4.0089027606882155e-05,
+                0.00015372382767964154,
+                0.00013661154662258923,
+                3.0632731068180874e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "行きたかった\n呪は今年最後だったろうなぁ😭"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "来年はステージBLUEだろうなぁ"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "REDがメインなんだっけ？行ったことないからちゃんと調べたこともない🤔"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3legzt3nxuk2g",
+            "label": [
+                0.5885229110717773,
+                0.0027789855375885963,
+                0.38863566517829895,
+                0.006668589543551207,
+                0.00046123057836666703,
+                0.00900227390229702,
+                0.0009948941878974438,
+                0.0029354712460190058
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "REDがメインなんだっけ？行ったことないからちゃんと調べたこともない🤔"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "メインっていうかREDは現行の人気作品のステージ。席数が多いんだよね、6000席くらいある。そういう意味ではメインか。\nBLUEは立ち見席のみだし、REDにくらべてだいぶ狭いよ"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "そうなんや！？"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3leivfdqjvk2l",
+            "label": [
+                0.0006689202273264527,
+                0.0003417856351006776,
+                0.0006720800301991403,
+                0.997553288936615,
+                0.00024342810502275825,
+                0.00020702628535218537,
+                0.00019467579841148108,
+                0.00011879407247761264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "ありがと！\n当たってほしいね〜😭"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "申し込みしなー！！！これは俺達の制服！"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "おかげで申し込みできた😘ありがと❤️"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3ldkhyxawq22h",
+            "label": [
+                0.9996393918991089,
+                4.806047218153253e-05,
+                9.063464676728472e-05,
+                5.7989742344943807e-05,
+                2.791976476146374e-05,
+                4.1784023778745905e-05,
+                5.0655438826652244e-05,
+                4.360391903901473e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "おかげで申し込みできた😘ありがと❤️"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "日めくりカレンダーはちゃんと買った？"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "負けた…"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3ldkisihe7c2h",
+            "label": [
+                0.000242372349021025,
+                0.9990322589874268,
+                0.00016507093096151948,
+                0.00012573512503877282,
+                6.579105684068054e-05,
+                0.0001179846003651619,
+                0.00022120235371403396,
+                2.955891795863863e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "負けた…"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "今回全然スムーズに買えたのにー"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "仕事で入るの遅れちゃった😭😭"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3ldkjbl4r522h",
+            "label": [
+                0.0002751051215454936,
+                0.9990366697311401,
+                0.00015243064262904227,
+                0.0001322198804700747,
+                6.638156628469005e-05,
+                0.00013295149256009609,
+                0.0001742402237141505,
+                3.006843508046586e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 1,
+                    "utter": "仕事で入るの遅れちゃった😭😭"
+                },
+                {
+                    "author": "did:plc:e5jutxd4lgsdtvsfpqhccw4u",
+                    "type": 2,
+                    "utter": "さるさんちの方だと普通に23日買えるやろ"
+                },
+                {
+                    "author": "did:plc:ojuty2z2xxtcfnrei37be3wm",
+                    "type": 3,
+                    "utter": "うん、店舗で買う！"
+                }
+            ],
+            "uri": "at://did:plc:ojuty2z2xxtcfnrei37be3wm/app.bsky.feed.post/3ldkkff4l6k2h",
+            "label": [
+                0.11117454618215561,
+                0.0015978985466063023,
+                0.8839439749717712,
+                0.0005143384332768619,
+                0.0004841814225073904,
+                0.0007684493903070688,
+                0.0006218922208063304,
+                0.0008946761372499168
+            ]
+        }
+    ]
+}

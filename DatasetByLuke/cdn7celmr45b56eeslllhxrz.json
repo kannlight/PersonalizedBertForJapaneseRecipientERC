@@ -1,0 +1,904 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "姉ちゃん、激サム半袖短パン小僧ごっこしよう"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "私いつもスカートなんだけど？"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "それはそれで寒そうだから行けるな\n俺はあれか、あの島での格好をすれば激サム短パン小僧ごっこが可能となる"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3laiu5fcrmn2r",
+            "label": [
+                0.00405772402882576,
+                0.00033868406899273396,
+                0.995029866695404,
+                0.0001459539053030312,
+                6.561871123267338e-05,
+                0.00020764858345501125,
+                7.784691115375608e-05,
+                7.672388892387971e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "それはそれで寒そうだから行けるな\n俺はあれか、あの島での格好をすれば激サム短パン小僧ごっこが可能となる"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージがおかしくなっていくわ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "この季節といえば半袖半ズボンのやつがいる謎の季節だろう？\n季節を味わうためにふざけようと思ってな…"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3laiuumrwih2p",
+            "label": [
+                0.8373408317565918,
+                0.008146083913743496,
+                0.11368462443351746,
+                0.012831360101699829,
+                0.0017802503425627947,
+                0.01261648815125227,
+                0.009767302311956882,
+                0.003833034774288535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "この季節といえば半袖半ズボンのやつがいる謎の季節だろう？\n季節を味わうためにふざけようと思ってな…"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "確かにユージ。ネタユージになるけど。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "睡眠の重要性で発狂しているし、大丈夫じゃないか"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3laiviuzqd72z",
+            "label": [
+                0.006239650305360556,
+                0.00173437618650496,
+                0.03154551237821579,
+                0.0010014388244599104,
+                0.0007098400965332985,
+                0.9568299055099487,
+                0.0008283621864393353,
+                0.001110976212657988
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "睡眠の重要性で発狂しているし、大丈夫じゃないか"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "お姉ちゃんの膝で眠りなさい。ユージ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "社会的な絵面でマズイだろ、姉ちゃん"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3laivyjyuhx2v",
+            "label": [
+                0.002098493045195937,
+                0.017134619876742363,
+                0.00041696836706250906,
+                0.035677894949913025,
+                0.004686577245593071,
+                0.9334747195243835,
+                0.0060025779530406,
+                0.0005082429852336645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "社会的な絵面でマズイだろ、姉ちゃん"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "何気ない姉弟の風景よ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "しかしだな、姉ちゃん\n姉ちゃんはJCのままだ…つまり俺がロリコンだと思われる…"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3lajcvo2aqx2z",
+            "label": [
+                0.019502893090248108,
+                0.7702670097351074,
+                0.0025042034685611725,
+                0.02066342532634735,
+                0.000828577030915767,
+                0.1817895472049713,
+                0.0038911125157028437,
+                0.0005531823262572289
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "新手のスタンド使いかッ！"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージはヘブンズドアって言ってそうな声ね。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "こういちくんと言いながらハァハァしてそうな漫画家だな"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3lagqlribyh2p",
+            "label": [
+                0.01078567560762167,
+                0.00037834010436199605,
+                0.9880290627479553,
+                0.00023439327196683735,
+                8.765037637203932e-05,
+                0.00023997326206881553,
+                0.00011290480324532837,
+                0.00013191917969379574
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "こういちくんと言いながらハァハァしてそうな漫画家だな"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージはお姉ちゃんにハァハァしても構わないわよ？"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "気持ち悪い俺が好きなのか？姉ちゃん"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3lagqs6fh3p2v",
+            "label": [
+                0.4168737828731537,
+                0.06051386147737503,
+                0.014920772053301334,
+                0.46251776814460754,
+                0.0038419286720454693,
+                0.024648111313581467,
+                0.012365779839456081,
+                0.004317965824157
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "気持ち悪い俺が好きなのか？姉ちゃん"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ん…解釈違い。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "！？"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3lagqxj3j6d2r",
+            "label": [
+                0.0004807845689356327,
+                0.00026953357155434787,
+                0.000704021833371371,
+                0.9977091550827026,
+                0.000272996723651886,
+                0.00024795669014565647,
+                0.00018428756447974592,
+                0.00013132835738360882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "！？"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージはシスコン最強弟だもの。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "姉ちゃんはブラコン最強姉だな。"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3lagr2abmji2l",
+            "label": [
+                0.9916890263557434,
+                0.0004265811003278941,
+                0.0015619158511981368,
+                0.003863876685500145,
+                0.000266534392721951,
+                0.0003405478491913527,
+                0.0004579409142024815,
+                0.0013934957096353173
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "姉ちゃんもしかしてR18垢に反応されてる・・・？"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "されてる。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "とうとう変な垢が湧いたか\nまったく、股間で全年齢垢に反応するとは頭ｇ・・・・"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3la6s4kjz422r",
+            "label": [
+                0.007872172631323338,
+                0.07616949081420898,
+                0.000624501088168472,
+                0.026064032688736916,
+                0.008960716426372528,
+                0.19493354856967926,
+                0.6843040585517883,
+                0.001071411999873817
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "とうとう変な垢が湧いたか\nまったく、股間で全年齢垢に反応するとは頭ｇ・・・・"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージのあそこにしか興味無いわ！(きっぱり)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "姉ちゃんは重度のブラコンだしな、そういうと思っていた"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3la6sgqvjj323",
+            "label": [
+                0.3588063418865204,
+                0.010649600066244602,
+                0.08088808506727219,
+                0.521553635597229,
+                0.002239809138700366,
+                0.00752063887193799,
+                0.0062594907358288765,
+                0.01208241656422615
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "姉ちゃんは重度のブラコンだしな、そういうと思っていた"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "そういうあなたはシスコンよ！"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "フム…これは逃れられない"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3la73svr4g32o",
+            "label": [
+                0.8097156286239624,
+                0.07119975239038467,
+                0.02828313037753105,
+                0.004485705401748419,
+                0.0007487494731321931,
+                0.07872097194194794,
+                0.003680874826386571,
+                0.003165225498378277
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "フム…これは逃れられない"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "風見姉弟はぶれないもの。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "そうだな，姉ちゃん\nぶれない鋼の意志ってやつか"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3la743p7cqa2h",
+            "label": [
+                0.39507415890693665,
+                0.008432485163211823,
+                0.5626422166824341,
+                0.017086880281567574,
+                0.0008812997257336974,
+                0.0044030058197677135,
+                0.0015912523958832026,
+                0.009888725355267525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "そうだな，姉ちゃん\nぶれない鋼の意志ってやつか"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージもよ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "勿論、俺もだな\nスーパー風見ブラザーズBS"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3la7fzdhlwq2v",
+            "label": [
+                0.22365930676460266,
+                0.0019807296339422464,
+                0.7707366943359375,
+                0.0005606963532045484,
+                0.0007667410536669195,
+                0.0005427277064882219,
+                0.0009175622253678739,
+                0.0008354912861250341
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "ナイスだ姉ちゃん"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "後2人もでたわ。凄い松嶋みちるが来るわね。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "運いいな姉ちゃん\nみちるをゴリラにこきつかおう"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7wljwbvgs2g",
+            "label": [
+                0.8972822427749634,
+                0.0019486239179968834,
+                0.09858077019453049,
+                0.0008189450018107891,
+                0.00017863741959445179,
+                0.00040362024446949363,
+                0.0003202175139449537,
+                0.0004670065827667713
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "運いいな姉ちゃん\nみちるをゴリラにこきつかおう"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "やはりユージを実装されないとお姉ちゃんは悲しいわ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "姉ちゃんがいるんだし俺も出ていいよな"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7wozz65cb2f",
+            "label": [
+                0.0651976689696312,
+                0.001555596012622118,
+                0.9308314323425293,
+                0.00028504032525233924,
+                0.00043259552330709994,
+                0.0004146351420786232,
+                0.0005758330225944519,
+                0.0007072863518260419
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "姉ちゃんがいるんだし俺も出ていいよな"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージはメインヒロインよ。\n\n当たり前よね。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "それもそうだな(主人公)"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7wpp22gj52g",
+            "label": [
+                0.9697538018226624,
+                0.001506269327364862,
+                0.019894031807780266,
+                0.0013485446106642485,
+                0.0006303802947513759,
+                0.00160629500169307,
+                0.0020321724005043507,
+                0.0032285056076943874
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "それもそうだな(主人公)"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "基本的に主人公って顔出ないからユージはR18ゲームきってのイケメン主人公だと思うわ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "確かに汽車の世界では他のコラボをみてみたが…俺が初めて描かれた男主人公の様だな\n流石にそれは照れるぞ"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7wqev37br2f",
+            "label": [
+                0.1716066151857376,
+                0.0030139656737446785,
+                0.0035172849893569946,
+                0.8151280879974365,
+                0.00039220359758473933,
+                0.004855587147176266,
+                0.00056843226775527,
+                0.0009177399915643036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "なにやってんだ姉ちゃん？タンスって"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "……あ。(ユージのシャツ持って硬直)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "ね、姉ちゃん！？"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7pzwvpnuk2y",
+            "label": [
+                0.004615627229213715,
+                0.000858766958117485,
+                0.0014764226507395506,
+                0.9921420812606812,
+                0.0002505955926608294,
+                0.00018728978466242552,
+                0.0002736830210778862,
+                0.0001956478226929903
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "ね、姉ちゃん！？"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "……(匂い嗅ぎながら逃走)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "あっ、おい!一姫！どういうことだ…待て俺の着替えなんだが…"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7qfu32ru22l",
+            "label": [
+                0.00048668429371900856,
+                0.0005555721581913531,
+                0.0004297569103073329,
+                0.9972290396690369,
+                0.0003116169827990234,
+                0.000676243391353637,
+                0.0002228678931714967,
+                8.820057701086625e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "あっ、おい!一姫！どういうことだ…待て俺の着替えなんだが…"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージを摂取してるのよ。(すう)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "ね、姉ちゃん、変態だと思われるぞ\nそれは天音がやっていたヤツだ"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7sg3j2fnv2q",
+            "label": [
+                0.003718228079378605,
+                0.007366944570094347,
+                0.0009969010716304183,
+                0.007907256484031677,
+                0.0007258753757923841,
+                0.9777195453643799,
+                0.0012173039140179753,
+                0.00034782709553837776
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "ね、姉ちゃん、変態だと思われるぞ\nそれは天音がやっていたヤツだ"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ハロウィンにいたずらよ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "ハロウィンに？"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7sgmfjjs224",
+            "label": [
+                0.9847955703735352,
+                0.0006147466483525932,
+                0.013263561762869358,
+                0.0005965723539702594,
+                8.532461652066559e-05,
+                0.00015090242959558964,
+                0.00026007890119217336,
+                0.00023317409795708954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "大体オンボロ端末の都合上こっちにいるから汽車や孤児、青春やほかのネタ、暇だなと思った時にオヌヌメだ(ダイレクトマーケティング)"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "此方,マーケティングするユージ。\n今回だけお得なプライスレス！"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "9029円がいまならなんと1980円！"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7kravrhcd2g",
+            "label": [
+                0.9476407766342163,
+                0.00044919378706254065,
+                0.04051545262336731,
+                0.009684254415333271,
+                0.0004796886641997844,
+                0.000272265519015491,
+                0.0002391890884609893,
+                0.0007192740449681878
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "9029円がいまならなんと1980円！"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "まぁお姉ちゃんのだから売らないけど…(ぎゅっ)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "俺が販売されている！？"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7krsvxdvl2o",
+            "label": [
+                0.0006565484800375998,
+                0.00034368460183031857,
+                0.0010054041631519794,
+                0.9969096779823303,
+                0.00016936489555519074,
+                0.000670670357067138,
+                0.0001421216584276408,
+                0.0001025214369292371
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "俺が販売されている！？"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージ,マイショユーブツ。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "まあきょうだいだもんな、姉ちゃんと"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7ksguzzus2e",
+            "label": [
+                0.9683824181556702,
+                0.015175753273069859,
+                0.006498758215457201,
+                0.0021644479129463434,
+                0.0006355208461172879,
+                0.0012659275671467185,
+                0.003064354183152318,
+                0.0028129175771027803
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "まあきょうだいだもんな、姉ちゃんと"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "ユージはお姉ちゃんのメインヒロインだからね。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "姉ちゃんがひーろー？"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7kt3ilbze24",
+            "label": [
+                0.987758219242096,
+                0.0034793452359735966,
+                0.0032589926850050688,
+                0.00333798979409039,
+                0.0002437282382743433,
+                0.0004654091608244926,
+                0.0009060379816219211,
+                0.0005502362619154155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "姉ちゃんきたか!!\n俺は大体こっちで暇してるよ"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "お姉ちゃんは今日は取り敢えず空井サキの画像を検索してたわ。(特に理由はない)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "俺の好きな生徒の画像？\nまさか、姉ちゃん、青春\"始動\"するのか________？"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7fnym273b2p",
+            "label": [
+                0.00361045403406024,
+                0.0006590455886907876,
+                0.0047302162274718285,
+                0.9901570081710815,
+                0.00013776363630313426,
+                0.000372863607481122,
+                0.000149834668263793,
+                0.0001828545646276325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "俺の好きな生徒の画像？\nまさか、姉ちゃん、青春\"始動\"するのか________？"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "まあ…昔なりきりしてたけど(目逸らし)"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "なっ、知らなかった・・・\nてっきり、まだやっていないからやり始めるのかと思っていた"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7fo3hlmke2q",
+            "label": [
+                0.0007359102601185441,
+                0.002517579821869731,
+                0.00035469571594148874,
+                0.9954137206077576,
+                0.00024334443151019514,
+                0.00030817469814792275,
+                0.00032304407795891166,
+                0.00010362931061536074
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "なっ、知らなかった・・・\nてっきり、まだやっていないからやり始めるのかと思っていた"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "まあしてもいいけどね。"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "開幕したら支援するよ"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7foantf2w2f",
+            "label": [
+                0.000652289018034935,
+                0.00019229069584980607,
+                0.9987581968307495,
+                0.00010883495269808918,
+                7.464774535037577e-05,
+                8.120713027892634e-05,
+                6.617940380237997e-05,
+                6.633433804381639e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 1,
+                    "utter": "開幕したら支援するよ"
+                },
+                {
+                    "author": "did:plc:vfi522ihw7ybkkd7ccqf6nzu",
+                    "type": 2,
+                    "utter": "所で此処って複数垢作れるの？"
+                },
+                {
+                    "author": "did:plc:cdn7celmr45b56eeslllhxrz",
+                    "type": 3,
+                    "utter": "気兼ねなく好き勝手につくれるぞ"
+                }
+            ],
+            "uri": "at://did:plc:cdn7celmr45b56eeslllhxrz/app.bsky.feed.post/3l7fofvwzu32p",
+            "label": [
+                0.9835917949676514,
+                0.0001948829012690112,
+                0.015324540436267853,
+                0.0002289278054377064,
+                0.00016790632798802108,
+                0.0001638807589188218,
+                0.00014576636021956801,
+                0.0001823569182306528
+            ]
+        }
+    ]
+}

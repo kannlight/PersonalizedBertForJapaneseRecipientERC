@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "貴方が早口言葉とは お珍しい"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "いざと言う時に役に立つとか＿＿\n立たないとか  _ね？(真顔)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "貴方は ゆっくり話すのが良いのですよ  無理に早口にならずとも"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ld277w3vhc2f",
+            "label": [
+                0.023485586047172546,
+                0.0007363900076597929,
+                0.974265456199646,
+                0.00019794733088929206,
+                0.00016509932174813002,
+                0.0002947185421362519,
+                0.000455755420261994,
+                0.0003990202385466546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "貴方は ゆっくり話すのが良いのですよ  無理に早口にならずとも"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "無理_ですかい？\nはて  無理とは如何な行為で？\n(一歩詰め寄りつつ)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "普段ゆっくり話す方が早口言葉等 舌を噛みますよ (顎に手を添え上向かせれば にっこり微笑み)"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ld35nwan2c2x",
+            "label": [
+                0.9930638670921326,
+                0.0005969812627881765,
+                0.00167899951338768,
+                0.0015805987641215324,
+                0.0001878023613244295,
+                0.0013917256146669388,
+                0.0005232669063843787,
+                0.0009768476011231542
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "普段ゆっくり話す方が早口言葉等 舌を噛みますよ (顎に手を添え上向かせれば にっこり微笑み)"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "舌遣いには自信が有る方でしてね＿(視線合わせては双眼細めて)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "離の方、、其の言い方は語弊が発生しやすぜ？(一瞬目を丸くするも 直ぐに双月細め くすり、と笑い)"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ld47es655c22",
+            "label": [
+                0.9830119013786316,
+                0.001762051717378199,
+                0.002050743903964758,
+                0.004896007012575865,
+                0.0003371421480551362,
+                0.005756337195634842,
+                0.0011264478089287877,
+                0.0010592963080853224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "離の方、、其の言い方は語弊が発生しやすぜ？(一瞬目を丸くするも 直ぐに双月細め くすり、と笑い)"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "おや_おや…これは  うっかりでしたな＿(表情を変える事も無く＿今宵は冷える＿と呟き)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "うっかりなどと思っても無い事を \n\nえぇ 冷えますね 一人で過ごすには侘しい季節で"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ld4pgtxf4s2s",
+            "label": [
+                0.0005441709072329104,
+                0.9968584775924683,
+                0.00017493691120762378,
+                0.0007082344382070005,
+                6.689687143079937e-05,
+                0.0013857117155566812,
+                0.00022587105922866613,
+                3.562919664545916e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "貴方が乾く事は無い ですよ"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "＿＿(苦笑漏らし)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "確り為されよ\n\n貴方は 物怪を祓うのが務め"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldugnbenh22v",
+            "label": [
+                0.0003272841568104923,
+                0.0003903236356563866,
+                0.9983069896697998,
+                0.00013999806833453476,
+                0.0001731375086819753,
+                0.0003994709113612771,
+                0.0001310333755100146,
+                0.00013179310190025717
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "確り為されよ\n\n貴方は 物怪を祓うのが務め"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "はい＿はい。"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "貴方の憂いは\nあっしにぶつけるのが最善ですぜ？\n\n分かっておられる筈\n\n大丈夫 あっしは裏切りませんぜ"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldukonylik2v",
+            "label": [
+                0.0006807829486206174,
+                0.0005519582191482186,
+                0.9976379871368408,
+                0.0001282848243135959,
+                0.0002561147848609835,
+                0.00033187304507009685,
+                0.00016558438073843718,
+                0.00024740563821978867
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "貴方の憂いは\nあっしにぶつけるのが最善ですぜ？\n\n分かっておられる筈\n\n大丈夫 あっしは裏切りませんぜ"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "＿＿知っている"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "あっし程 貴方を理解している人は居ない と思ってるんで ね"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3lduncrbhns2h",
+            "label": [
+                0.932310163974762,
+                0.0023903639521449804,
+                0.03770018368959427,
+                0.0008762850193306804,
+                0.002824480179697275,
+                0.0028417829889804125,
+                0.005811507347971201,
+                0.015245286747813225
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "あっし程 貴方を理解している人は居ない と思ってるんで ね"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "おやおや、それは＿\n大変だ"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "其れは言い過ぎですが \n似た者同士なんで 概ね合っていると"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldvcrvvfbc2b",
+            "label": [
+                0.997538685798645,
+                8.384446118725464e-05,
+                0.001322415890172124,
+                9.170723205897957e-05,
+                0.00012720054655801505,
+                0.00018643388466443866,
+                0.0002188209764426574,
+                0.00043078235466964543
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "遊びすぎですよ (額を一弾き)"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "うっかり＿(無表情で額摩り)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "何かと使い勝手のいい言葉で\n\nあっしもやってみますかね"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldapu7etes2w",
+            "label": [
+                0.005502586252987385,
+                0.00026882236124947667,
+                0.9936047196388245,
+                0.00016078435874078423,
+                9.039352153195068e-05,
+                0.0001572855398990214,
+                0.0001019728442770429,
+                0.00011353901936672628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "何かと使い勝手のいい言葉で\n\nあっしもやってみますかね"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "＿＿＿＿。\n(口角を上げ)"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "今度 何処かで使わせてもらいますぜ"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldbeontp6k2u",
+            "label": [
+                0.002177966758608818,
+                0.0002096791722578928,
+                0.9971227049827576,
+                0.00012664358655456454,
+                9.444934403290972e-05,
+                9.773591591510922e-05,
+                8.64695684867911e-05,
+                8.446940046269447e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "今度 何処かで使わせてもらいますぜ"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "あんたが使ったら  そりゃ＿ね？\n嫌味以外の何者でも無くなるってモンだ＿＿"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "おや？ そりゃあどういう意味で？\n\nそんなに棘が有りますかねぇ(態とらしく首傾げ)"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldcogzoe7s2m",
+            "label": [
+                0.0008406320703215897,
+                0.00024653683067299426,
+                0.0008148804190568626,
+                0.9971559047698975,
+                0.00014521931007038802,
+                0.00046053482219576836,
+                0.00023573510407004505,
+                0.00010056678002001718
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 1,
+                    "utter": "おや？ そりゃあどういう意味で？\n\nそんなに棘が有りますかねぇ(態とらしく首傾げ)"
+                },
+                {
+                    "author": "did:plc:goazvsyg7pul7xlumundnyrj",
+                    "type": 2,
+                    "utter": "棘しかないだろうに_(ぺちり)\n毒も然りか_？"
+                },
+                {
+                    "author": "did:plc:idjrqajcz32vhqhtumpkgg4f",
+                    "type": 3,
+                    "utter": "これはこれは  大丈夫ですよ\n貴方には  棘は出しませんから"
+                }
+            ],
+            "uri": "at://did:plc:idjrqajcz32vhqhtumpkgg4f/app.bsky.feed.post/3ldd2mw5blk2z",
+            "label": [
+                0.4290536344051361,
+                0.004066783469170332,
+                0.2289811372756958,
+                0.001760807354003191,
+                0.002791740233078599,
+                0.3154907524585724,
+                0.005105060059577227,
+                0.0127501105889678
+            ]
+        }
+    ]
+}

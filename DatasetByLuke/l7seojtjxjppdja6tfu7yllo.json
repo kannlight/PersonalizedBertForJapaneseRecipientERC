@@ -1,0 +1,374 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "１回俺と戦おうぜ"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "いつかね！"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "わかってましたよどーせ俺とは戦ってくれないんでしょ…"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3leoq4cdn6k2t",
+            "label": [
+                0.00019413030531723052,
+                0.9989123344421387,
+                0.00013562085223384202,
+                0.00011183531751157716,
+                9.721026435727254e-05,
+                0.00015677015471737832,
+                0.00036269560223445296,
+                2.9342489142436534e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "わかってましたよどーせ俺とは戦ってくれないんでしょ…"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "知ってる人と対戦するのは俺の勇気がまだまだ足らん。あとお前さん強いだろ"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "はい！強いです！\n麦をボコボコにしたいです！"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3leoqdd7dus2t",
+            "label": [
+                0.0006280828965827823,
+                0.00019160634838044643,
+                0.99863201379776,
+                0.00014238784206099808,
+                0.00012881655129604042,
+                0.00012473485548980534,
+                8.350631833309308e-05,
+                6.893021782161668e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "はい！強いです！\n麦をボコボコにしたいです！"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "ボコボコにしないでぇ…♡♡"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "うわ興奮するな"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3leoqo3hgjk2t",
+            "label": [
+                0.9694469571113586,
+                0.0006034960388205945,
+                0.02089504897594452,
+                0.004197979345917702,
+                0.0002220692695118487,
+                0.003619495313614607,
+                0.0005972147337161005,
+                0.00041772937402129173
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "うわ興奮するな"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "そういう趣味があるんですね！"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "実は割と…"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3leospvnujk2t",
+            "label": [
+                0.7751317620277405,
+                0.03785468265414238,
+                0.03574569523334503,
+                0.04587424919009209,
+                0.0014447577996179461,
+                0.08095037192106247,
+                0.015527845360338688,
+                0.00747061287984252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "ためすぎぃ"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "全然そんなことないwww"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "いやそんなことなくない！！！\n俺すぐ使っちゃう派だからかもしれないけど！！"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3laj5qo5vzb2z",
+            "label": [
+                0.8413652181625366,
+                0.004256960935890675,
+                0.06734905391931534,
+                0.07062579691410065,
+                0.0027893558144569397,
+                0.0016079556662589312,
+                0.003680512076243758,
+                0.008325171656906605
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "いやそんなことなくない！！！\n俺すぐ使っちゃう派だからかもしれないけど！！"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "わからんけど今日ミッションクリアしたら120個貰ったんだよね、何故か"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "ああそれ上級ミッションクリアしたからやよ！"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3laj5ucagbj2z",
+            "label": [
+                0.9986636638641357,
+                0.0001746865309542045,
+                0.000300294894259423,
+                0.0004593155754264444,
+                6.440702418331057e-05,
+                6.259939254960045e-05,
+                0.00011696422734530643,
+                0.00015799968969076872
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "ああそれ上級ミッションクリアしたからやよ！"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "そうなんだ！？ミッションクリアした時ちゃんと見てなかったから教えてくれてありがとう！！\nこれ使うべきかなぁ？？"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "使った方がええんちゃうかなぁ…？\n個人的には、今やってるラプラスイベント特攻のピカチュウパックか、水タイプ強化用のカスミとかが当たるミュウツーパックがいいと思う！"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3laj64oqwwu2a",
+            "label": [
+                0.00100617203861475,
+                0.00019317791156936437,
+                0.998397171497345,
+                0.00010762495367089286,
+                6.690326699754223e-05,
+                0.00010049482807517052,
+                6.335953366942704e-05,
+                6.51551818009466e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "使った方がええんちゃうかなぁ…？\n個人的には、今やってるラプラスイベント特攻のピカチュウパックか、水タイプ強化用のカスミとかが当たるミュウツーパックがいいと思う！"
+                },
+                {
+                    "author": "did:plc:g2how2ikrhbtowcos5pxkvvz",
+                    "type": 2,
+                    "utter": "あの量使うのちょっと抵抗あるけど良い使い道できるように頑張ります"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "がんばれ！\n後で対戦しない？"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3lajait3x3525",
+            "label": [
+                0.0004033976001664996,
+                0.00018784069106914103,
+                0.9990216493606567,
+                0.00011954305227845907,
+                7.210011244751513e-05,
+                7.55362052586861e-05,
+                6.0313581343507394e-05,
+                5.965225136606023e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "インフルでした\nやばい"
+                },
+                {
+                    "author": "did:plc:2mbkkfkdtchpzyv4qdosm2ha",
+                    "type": 2,
+                    "utter": "お大事に"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "親がなんよね…\nそして来週俺テストなんよね\n再テストやと成績下がるんよね\n奨学金消えるかもしれんのよね\n死"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3lf2iuzrbbk2d",
+            "label": [
+                0.001062742667272687,
+                0.04613262042403221,
+                0.0011097475653514266,
+                0.0013869371032342315,
+                0.0011889123125001788,
+                0.9468907117843628,
+                0.0019372391980141401,
+                0.0002910956973209977
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "親がなんよね…\nそして来週俺テストなんよね\n再テストやと成績下がるんよね\n奨学金消えるかもしれんのよね\n死"
+                },
+                {
+                    "author": "did:plc:2mbkkfkdtchpzyv4qdosm2ha",
+                    "type": 2,
+                    "utter": "あれま…親御さんお大事に\n再テストになっても点数取れたらわんちゃんあるのでは"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "一応頑張ればいけるけど、リミットが設定されるもんで相対的に点数が低くなるんよね…"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "そっちはレポート大丈夫？"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3lf2vcarbq22i",
+            "label": [
+                0.0010092401644214988,
+                0.002353343181312084,
+                0.000842551642563194,
+                0.0011498378589749336,
+                0.0003234946052543819,
+                0.9937664270401001,
+                0.00038438636693172157,
+                0.000170701983734034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "一応頑張ればいけるけど、リミットが設定されるもんで相対的に点数が低くなるんよね…"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "そっちはレポート大丈夫？"
+                },
+                {
+                    "author": "did:plc:2mbkkfkdtchpzyv4qdosm2ha",
+                    "type": 2,
+                    "utter": "驚くほど白紙"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "何のレポートなん？"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3lf345kjq5s2s",
+            "label": [
+                0.000524467381183058,
+                0.0002788182464428246,
+                0.0005775229656137526,
+                0.9974811673164368,
+                0.00028210002346895635,
+                0.00039025951991789043,
+                0.00036312133306637406,
+                0.00010245253361063078
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 1,
+                    "utter": "何のレポートなん？"
+                },
+                {
+                    "author": "did:plc:2mbkkfkdtchpzyv4qdosm2ha",
+                    "type": 2,
+                    "utter": "説明すると長くなるけど保健のやつ\n班で食中毒のレポ書かないとなんだけど執筆能力皆無だから悩んでる"
+                },
+                {
+                    "author": "did:plc:l7seojtjxjppdja6tfu7yllo",
+                    "type": 3,
+                    "utter": "今の高校生ってそんなレポート書くんだ…\nそっちも頑張ってね"
+                }
+            ],
+            "uri": "at://did:plc:l7seojtjxjppdja6tfu7yllo/app.bsky.feed.post/3lf34k4t2h22s",
+            "label": [
+                0.0016188437584787607,
+                0.0007911037537269294,
+                0.020690856501460075,
+                0.9757640957832336,
+                0.00016923417570069432,
+                0.00044802477350458503,
+                0.00021119258599355817,
+                0.00030660044285468757
+            ]
+        }
+    ]
+}

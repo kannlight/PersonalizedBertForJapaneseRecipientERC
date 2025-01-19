@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "#私のイメージカラーは何色ですかリプで教えて下さい\nマーチラが「みたひちょは答える？それもいいけど、マチと遊んでもろて」ってる"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "赤寄りの朱色(赤さんの色)"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "今奴がドヤ顔でコロンブスポーズしてる\n\n▼マーチラ が レインコートを着て現れた！\n「答えてくれちゃ？じゃあマチと遊べー！」"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbt36cbsjc2p",
+            "label": [
+                0.020603211596608162,
+                0.0005908684688620269,
+                0.001475227647460997,
+                0.9759540557861328,
+                0.000309790950268507,
+                0.0004562065005302429,
+                0.0003906917991116643,
+                0.00022004538914188743
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "今奴がドヤ顔でコロンブスポーズしてる\n\n▼マーチラ が レインコートを着て現れた！\n「答えてくれちゃ？じゃあマチと遊べー！」"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "可愛いねぇ！\n\n▼テトロ が ちいちゃい 傘を持って 現れた！\n「遊ぶっスー！」"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "ｷｬｯｷｬ!\n\n「こーはい！おさんぽしよぉ！」\n▼マーチラはこーはいをパーティに引きずり込んだ！"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbtrutre5k2t",
+            "label": [
+                0.9994107484817505,
+                5.8283989346819e-05,
+                0.00022212535259313881,
+                0.00015725409321021289,
+                2.8775588361895643e-05,
+                3.5787281376542524e-05,
+                4.3746709707193077e-05,
+                4.315391561249271e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "ｷｬｯｷｬ!\n\n「こーはい！おさんぽしよぉ！」\n▼マーチラはこーはいをパーティに引きずり込んだ！"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "雨の日のお散歩にいくちいちゃいの2人可愛いすぎるな…✨"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "それなぁ。テトロくんは抱っこコースか、専用バックで優雅にお散歩やで"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbv7ke2omk2a",
+            "label": [
+                0.7074851393699646,
+                0.002488275058567524,
+                0.28689903020858765,
+                0.0009432558435946703,
+                0.0004530769947450608,
+                0.0003898087306879461,
+                0.000525619660038501,
+                0.0008158625569194555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "それなぁ。テトロくんは抱っこコースか、専用バックで優雅にお散歩やで"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "専用バッグから出て肩とかにへばりついてるかもしれないw"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "かわいいねぇ！そのうち抱っこして、ほっぺた吸うしかねえな"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbvmm2vm4s2n",
+            "label": [
+                0.9995211362838745,
+                4.907488255412318e-05,
+                0.0002172750682802871,
+                5.703822898794897e-05,
+                2.711415982048493e-05,
+                4.1833220166154206e-05,
+                4.1598064854042605e-05,
+                4.48339524155017e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "かわいいねぇ！そのうち抱っこして、ほっぺた吸うしかねえな"
+                },
+                {
+                    "author": "did:plc:mam2afnjif4vdi4tohz5obtw",
+                    "type": 2,
+                    "utter": "お返しにマチちゃんのほっぺもちもちするしかないな！"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "「んわ〜」って言いながらご機嫌で頬擦りしてるよ、雨上がりの虹を探しに行って欲しい"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbwd7m6ebk2x",
+            "label": [
+                0.9895544052124023,
+                0.000244240858592093,
+                0.009665664285421371,
+                0.00012530642561614513,
+                6.850292265880853e-05,
+                0.00010421370097901672,
+                0.00011488042946439236,
+                0.00012273075117263943
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "ｷｬｯｷｬ!あなたもネギの人！って大人しく帰るよ"
+                },
+                {
+                    "author": "did:plc:ig3wv3if6ub2exmo2hrugkqq",
+                    "type": 2,
+                    "utter": "なんか無邪気で可愛いかも…"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "思い出した頃にまたやってきて「ネギ美味しいですよね」って、なんか言い方のニュアンス変えてきます"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbp677ahtk2a",
+            "label": [
+                0.3166251480579376,
+                0.0036094142124056816,
+                0.006505632307380438,
+                0.4737502634525299,
+                0.004769216291606426,
+                0.05895126983523369,
+                0.13266931474208832,
+                0.0031197548378258944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "思い出した頃にまたやってきて「ネギ美味しいですよね」って、なんか言い方のニュアンス変えてきます"
+                },
+                {
+                    "author": "did:plc:ig3wv3if6ub2exmo2hrugkqq",
+                    "type": 2,
+                    "utter": "あ、何回も来るんだ…"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "怪異みたいな生き物なので、「旬の○○葱です」って言いながら来ます"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbp6ol3n5s2a",
+            "label": [
+                0.05033234506845474,
+                0.004771927837282419,
+                0.0035869874991476536,
+                0.4725950360298157,
+                0.0009249748545698822,
+                0.4583215117454529,
+                0.008197149261832237,
+                0.0012701218947768211
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "怪異みたいな生き物なので、「旬の○○葱です」って言いながら来ます"
+                },
+                {
+                    "author": "did:plc:ig3wv3if6ub2exmo2hrugkqq",
+                    "type": 2,
+                    "utter": "葱の怪異かぁ…新しいなぁ"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "葱を勧める海藻の怪異(なんでも設定を盛るオタク)"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbp72d2od22a",
+            "label": [
+                0.6303536891937256,
+                0.013109259307384491,
+                0.02765347994863987,
+                0.037682678550481796,
+                0.0008412199676968157,
+                0.2732197046279907,
+                0.013478965498507023,
+                0.003660938935354352
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 1,
+                    "utter": "葱を勧める海藻の怪異(なんでも設定を盛るオタク)"
+                },
+                {
+                    "author": "did:plc:ig3wv3if6ub2exmo2hrugkqq",
+                    "type": 2,
+                    "utter": "設定もりもり怪異ちゃん好きかも…"
+                },
+                {
+                    "author": "did:plc:y7pdlwixtjoc6ciaaslh77ar",
+                    "type": 3,
+                    "utter": "(ぱぁ)ってして懐きそう"
+                }
+            ],
+            "uri": "at://did:plc:y7pdlwixtjoc6ciaaslh77ar/app.bsky.feed.post/3lbp7eqvqps2a",
+            "label": [
+                0.00204225885681808,
+                0.0002946586755570024,
+                0.9971773624420166,
+                0.00012140686885686591,
+                6.004353053867817e-05,
+                0.00016282607975881547,
+                7.539316720794886e-05,
+                6.612067954847589e-05
+            ]
+        }
+    ]
+}

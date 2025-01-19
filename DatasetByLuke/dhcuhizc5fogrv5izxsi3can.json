@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "めいちょ、PS5に来るならやったぁ〜！って思っているんですが、容量が大丈夫かが...心配..."
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "まさかのPS5で来るの！？相当ファイルサイズデカそう()"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "1/2に来るらしいよ〜次バージョンのタイミング？？？\n空き容量はまだあるんだけど、めいちょデカそうだよな...って...( ˇωˇ )"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lbnq33fpqk2b",
+            "label": [
+                0.0011041592806577682,
+                0.000415297516155988,
+                0.9977574944496155,
+                0.00019095151219516993,
+                3.8248803321039304e-05,
+                0.000375183968571946,
+                6.318134546745569e-05,
+                5.545137173612602e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "1/2に来るらしいよ〜次バージョンのタイミング？？？\n空き容量はまだあるんだけど、めいちょデカそうだよな...って...( ˇωˇ )"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "まーじで？？多分原神よりでかいんじゃないかなあ？？60GBとか予想立てておかないとじゃん・・・"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "原神で今100ちょっと使ってて、スタレとゼンゼロ今60ずつぐらいだから、めいちょもどっこいって思うと、いずれカツカツ...\nぅ...やっぱりSSD内蔵検討が早まる...ぅ..."
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lbnqddqu4s2b",
+            "label": [
+                0.01700427755713463,
+                0.3825502097606659,
+                0.044427964836359024,
+                0.0025769623462110758,
+                0.000607119407504797,
+                0.5490462183952332,
+                0.0031216503120958805,
+                0.0006656526238657534
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "原神で今100ちょっと使ってて、スタレとゼンゼロ今60ずつぐらいだから、めいちょもどっこいって思うと、いずれカツカツ...\nぅ...やっぱりSSD内蔵検討が早まる...ぅ..."
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "外部SSDか内蔵SSDを4TBくらいにしないと足りない🤣\nグランツーリスモっていうカーレースのゲームなんて120GBとか使ってる恐怖()"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "PS5ほぼほよばゲーム機と化してるから...笑\nどれぐらいにしようかな...って要検討する今後色んなゲームするかもしれないし...ね\nえ...あれそんなに容量食ってるのぉ...こっわ..."
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lbnqlzgb522b",
+            "label": [
+                0.002326457528397441,
+                0.0018727774731814861,
+                0.0020862275268882513,
+                0.019836539402604103,
+                0.0005079686525277793,
+                0.972550630569458,
+                0.000520960078574717,
+                0.0002985331229865551
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "PS5ほぼほよばゲーム機と化してるから...笑\nどれぐらいにしようかな...って要検討する今後色んなゲームするかもしれないし...ね\nえ...あれそんなに容量食ってるのぉ...こっわ..."
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "うーんUSB3.0のHDDでも2TBくらいあればまあ足りるかな〜という憶測😂\n\n食ってる食ってる、常に何かしらまめに更新してるしそうすると容量足らない足らない🫠"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "まだ時間あるし、入れてからでも遅くないと思いながらマジで考える🫠\n\nえ...怖すぎるwそんなにまめに更新入るんや...どんだけあっても足らんやん"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lbnqryajjk2b",
+            "label": [
+                0.0016158842481672764,
+                0.0012599745532497764,
+                0.0013686824822798371,
+                0.008870386518537998,
+                0.0005001872195862234,
+                0.9856112003326416,
+                0.0005061474512331188,
+                0.0002674410061445087
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "まだ時間あるし、入れてからでも遅くないと思いながらマジで考える🫠\n\nえ...怖すぎるwそんなにまめに更新入るんや...どんだけあっても足らんやん"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "スマホでやってたけれども、やりにくくて消しちゃったからワンチャンどうしようかなって思ってたり🤔\n\n車種が増えたりコース増えたりすると途端に増えるよw"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "スマホは容量がギリギリすぎて...ツバキちゃん来たからあいぱよに入れ直したらやっぱり落ちるから...まあ、頻繁にやるかは置いといて、ツバキちゃん復刻までは頑張りたいなって()\n\nあ〜なるほど〜それが増えちゃうやつだw"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lbnrjnaqdc2b",
+            "label": [
+                0.0033023683354258537,
+                0.033257436007261276,
+                0.9597215056419373,
+                0.0009755421197041869,
+                0.0001437441969756037,
+                0.002029134426265955,
+                0.00037718398380093277,
+                0.0001930596336023882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "もしかして...おいら...今、頭痛い？？？🤔🤔🤔"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "休め〜！"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "デイリーだけお片付けしてくる(こら)"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lfa2qeagec27",
+            "label": [
+                0.24487736821174622,
+                0.03695521876215935,
+                0.6967592239379883,
+                0.0011732099810615182,
+                0.0007837703451514244,
+                0.013634280301630497,
+                0.004237220622599125,
+                0.001579677569679916
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "デイリーだけお片付けしてくる(こら)"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "それならいいよ♡"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "許されちゃったぁ〜♡"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lfa2vyyysk27",
+            "label": [
+                0.9996166229248047,
+                5.689345925929956e-05,
+                0.00011039029050152749,
+                7.719459244981408e-05,
+                2.301375388924498e-05,
+                4.087905108463019e-05,
+                4.01661018258892e-05,
+                3.4900276659755036e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "許されちゃったぁ〜♡"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "デイリーは必須だから😉"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "デイリーは大事だよね☺️"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lfa34tttms27",
+            "label": [
+                0.9967188239097595,
+                0.00012281745148357004,
+                0.002486189128831029,
+                0.00013592175673693419,
+                9.003779268823564e-05,
+                6.326370930764824e-05,
+                0.0001284294412471354,
+                0.0002544511517044157
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "デイリーは大事だよね☺️"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "もちろん♡(と言いながら12月できなかった人😭)"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "原石もろもろ大事だもんね♡(仕方ない時もある😣)"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lfa3gzxvq227",
+            "label": [
+                0.9970152378082275,
+                0.000199479196453467,
+                0.0021823435090482235,
+                7.0050242356956e-05,
+                7.972652383614331e-05,
+                0.00010295667016180232,
+                0.0001223386061610654,
+                0.0002278275933349505
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 1,
+                    "utter": "原石もろもろ大事だもんね♡(仕方ない時もある😣)"
+                },
+                {
+                    "author": "did:plc:2ruobi2pakjliosl2yzi3yux",
+                    "type": 2,
+                    "utter": "そうそう♡(タイミング悪くPS5ネットワーク側がエラー吐いてたせい😂)"
+                },
+                {
+                    "author": "did:plc:dhcuhizc5fogrv5izxsi3can",
+                    "type": 3,
+                    "utter": "ガチャのために(ネットワークエラーはどうしようもない...😭)"
+                }
+            ],
+            "uri": "at://did:plc:dhcuhizc5fogrv5izxsi3can/app.bsky.feed.post/3lfa3tywwgs27",
+            "label": [
+                0.002702542580664158,
+                0.9014272689819336,
+                0.09360436350107193,
+                0.0003278891963418573,
+                0.00023022218374535441,
+                0.0009485300979577005,
+                0.0005396509077399969,
+                0.00021947264031041414
+            ]
+        }
+    ]
+}

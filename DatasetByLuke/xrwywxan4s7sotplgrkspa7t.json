@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "おしゃれ空間！"
+                },
+                {
+                    "author": "did:plc:s3mifizniz2hostdgahdp6dh",
+                    "type": 2,
+                    "utter": "やったー！！レベルアップ！！"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "プレステがあるけどゲームここでやってるの？\nオシャンティプレイヤーじゃねえか"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3lfjs2zfcwc2p",
+            "label": [
+                0.0020141438581049442,
+                0.0010956935584545135,
+                0.0008074832148849964,
+                0.9944834113121033,
+                0.0002968463522847742,
+                0.0006180219352245331,
+                0.0005086729070171714,
+                0.0001758407597662881
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "プレステがあるけどゲームここでやってるの？\nオシャンティプレイヤーじゃねえか"
+                },
+                {
+                    "author": "did:plc:s3mifizniz2hostdgahdp6dh",
+                    "type": 2,
+                    "utter": "そだよ！最近はここのリビングでやってるわー"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "ソファーで？\n(今ちぃかわがいることに気がついた)"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3lfjsj7tscc2p",
+            "label": [
+                0.9993177652359009,
+                6.749506428604946e-05,
+                0.00016239842807408422,
+                0.00028124445816501975,
+                2.6121866540051997e-05,
+                3.983469650847837e-05,
+                4.6660261432407424e-05,
+                5.845925261382945e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "ソファーで？\n(今ちぃかわがいることに気がついた)"
+                },
+                {
+                    "author": "did:plc:s3mifizniz2hostdgahdp6dh",
+                    "type": 2,
+                    "utter": "そそ！いつもはテレビに対して平行にソファ置いてるから、この写真とは違うけどね。ちいかわ意外と馴染む子"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "なるほど、パン祭り用配置なのか"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3lfjso4j3422n",
+            "label": [
+                0.043081462383270264,
+                0.0012183284852653742,
+                0.011832591146230698,
+                0.9414491057395935,
+                0.00032463931711390615,
+                0.000559918989893049,
+                0.0006444234750233591,
+                0.0008895681821741164
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "なるほど、パン祭り用配置なのか"
+                },
+                {
+                    "author": "did:plc:s3mifizniz2hostdgahdp6dh",
+                    "type": 2,
+                    "utter": "そう。人が沢山動くから真ん中を空けるために窓際に寄せたん。"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "お疲れ様でした"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3lfjsqd2jf222",
+            "label": [
+                0.9994099140167236,
+                6.676432531094179e-05,
+                0.00010544884571572766,
+                0.0001158096783910878,
+                2.7988338842988014e-05,
+                6.772393680876121e-05,
+                9.92084460449405e-05,
+                0.00010710430797189474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "もう3日ログイン忘れてる‪( ･ᴗ･̥  )‬"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "＜●＞　＜●＞"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "出先で思い出すのに、家では忘れてしまう"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3lfepewdd6c2n",
+            "label": [
+                0.00038140479591675103,
+                0.9982196688652039,
+                0.00013615965144708753,
+                0.000385328836273402,
+                9.790009789867327e-05,
+                0.0004757364222314209,
+                0.0002678029122762382,
+                3.597838804125786e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "ローソンなんだ。ローソンすごいな。\nおいしそう。"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "義実家が付き合いで大量に予約する（）ので、私らは種類は選べず（）、ランダムでおこぼれを渡される感じなんだけど、コレ美味しかった！ローソンのシリーズは味が良くて品質安定してるイメージ(/ω＼)"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "面白いシステムだね( ;∀;)\nでも今年はあたりだったようでよかた。"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3le6c4yzwsk2i",
+            "label": [
+                0.9995796084403992,
+                4.519469439401291e-05,
+                0.00011559496488189325,
+                0.0001004842997645028,
+                2.1871805074624717e-05,
+                4.835425716009922e-05,
+                4.707471089204773e-05,
+                4.1779967432376e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "面白いシステムだね( ;∀;)\nでも今年はあたりだったようでよかた。"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "（個人的にはそろそろこのシステムを撤廃し、推しのケーキ屋さんに予約したいんだけど、義両親に断ると間接的に付き合いが悪いだのと嫌な顔されるので断るに断れず(/ω＼)）"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "ご両親としてはクリスマスプレゼントのつもりなんだろうけども。\nケーキみたいなものは微妙だよね"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3le6dxun6gc2c",
+            "label": [
+                0.026182791218161583,
+                0.036068499088287354,
+                0.0016606756253167987,
+                0.009902521967887878,
+                0.0010860462207347155,
+                0.035116806626319885,
+                0.8880500793457031,
+                0.001932596554979682
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "ご両親としてはクリスマスプレゼントのつもりなんだろうけども。\nケーキみたいなものは微妙だよね"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "しかもそぅさんの会社からも渡されて、むしろそちらの方が厄介ｗｗｗ色んなご家庭があると言うのに、勝手に配られてもとｗｗｗ(/ω＼)"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "お、おう。\nそれも考えようだねえ？"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3le6es2zjb22f",
+            "label": [
+                0.2059936672449112,
+                0.007917323149740696,
+                0.7586129307746887,
+                0.014056659303605556,
+                0.0010477001778781414,
+                0.0067355637438595295,
+                0.0026779116597026587,
+                0.002958264434710145
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "お、おう。\nそれも考えようだねえ？"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "コレが福利厚生なんだとしたら、現金か金券で欲しい(´_ゝ｀)（強欲）"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "現金金券になった途端ボーナス扱いになるから、税金取られるんですよね‪( ･ᴗ･̥  )‬"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3le6gqnkf5k2i",
+            "label": [
+                0.011061357334256172,
+                0.6570693850517273,
+                0.0013953984016552567,
+                0.0020240077283233404,
+                0.0010496078757569194,
+                0.3133797347545624,
+                0.013630851171910763,
+                0.0003896087873727083
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "どうして作ろうと思ったんだろう:(っ'ヮ'c):\n窓でいいだろww"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "雨も降って来るし、降ってなくても虫ヤバそうだし（なんなら鳥が来る）朝の霧とかモヤもヤバそう(/ω＼)"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "こんなとこの鳥って猛禽類っぽいww"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldxged3h5c2h",
+            "label": [
+                0.031149037182331085,
+                0.00041125333518721163,
+                0.00412365747615695,
+                0.9627301096916199,
+                0.00030131585663184524,
+                0.00048012298066169024,
+                0.0003960249887313694,
+                0.00040847735363058746
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "こんなとこの鳥って猛禽類っぽいww"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "こちらが餌になっちゃう(/ω＼)ｼｬｷﾞｬｰ！"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "こんなとこで寝てるうちに突かれたらいやすぎる"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldxh3jeayc2q",
+            "label": [
+                0.003469129092991352,
+                0.0014408589340746403,
+                0.002624568762257695,
+                0.002015687059611082,
+                0.0004928606795147061,
+                0.9889907836914062,
+                0.0006660885992459953,
+                0.00030009110923856497
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "こんなとこで寝てるうちに突かれたらいやすぎる"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "ちゃんと目を狙って来そう。狩り！！！(/ω＼)"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "どう考えても恐ろしいホテル(ホテルなのか？)"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldxhl5uhk22q",
+            "label": [
+                0.003155625658109784,
+                0.0015970473177731037,
+                0.0016201116377487779,
+                0.04142192751169205,
+                0.0007764881593175232,
+                0.9496143460273743,
+                0.0013996462803333998,
+                0.0004147895087953657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "今は困る！めちゃわかる！"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "似たような境遇の人が居たッッッ！可能な限り向こうに対策して欲しいのに、縁者だからとおいそれと家に上げないで欲しい・・・(/ω＼)この日は罹って大丈夫～ｗｗｗとは勿論ならんのだけど、とりあえずこの年末はヤメていただきてぇ・・・(/ω＼)"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "ほんとだよねー\nせめて事前に言って欲しいよね"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldpky5y4lk2a",
+            "label": [
+                0.004590589087456465,
+                0.2991834282875061,
+                0.014461646787822247,
+                0.006038161925971508,
+                0.15681225061416626,
+                0.0019413684494793415,
+                0.5148816704750061,
+                0.0020907686557620764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "ほんとだよねー\nせめて事前に言って欲しいよね"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "もう気の緩みが出てるんだろうなぁ・・・インフルだってちょっとは気遣うのに(/ω＼)"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "インフルでも嫌だよー"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldrrcetk3224",
+            "label": [
+                0.003046890487894416,
+                0.18171365559101105,
+                0.002341845538467169,
+                0.002194272819906473,
+                0.006348560564219952,
+                0.024435419589281082,
+                0.7791460156440735,
+                0.0007733565871603787
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "インフルでも嫌だよー"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "風邪でも若干嫌www（我儘）"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "今時期は胃腸風邪もあるからね"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldsaxtfonc27",
+            "label": [
+                0.0031585998367518187,
+                0.05059799924492836,
+                0.002250908873975277,
+                0.0009479501168243587,
+                0.0005007310537621379,
+                0.939826250076294,
+                0.002383348299190402,
+                0.0003341874689795077
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 1,
+                    "utter": "今時期は胃腸風邪もあるからね"
+                },
+                {
+                    "author": "did:plc:ecsiz4nebptooyc5l5oamq5w",
+                    "type": 2,
+                    "utter": "会社でも結構流行ってて、うちの部署でも熱出した喉が死んでる咳が止まらないって人続出(/ω＼)私がそんな中で無事なのが奇跡(/ω＼)（割と結構貰いやすい）"
+                },
+                {
+                    "author": "did:plc:xrwywxan4s7sotplgrkspa7t",
+                    "type": 3,
+                    "utter": "こわすぎる・・・\n私も今日は鼻水咳が出てるので、明日のよるごはんいこうって誘われたの断ったとこ・・・"
+                }
+            ],
+            "uri": "at://did:plc:xrwywxan4s7sotplgrkspa7t/app.bsky.feed.post/3ldse2mbi522k",
+            "label": [
+                0.000697947631124407,
+                0.0011132240761071444,
+                0.0008004740811884403,
+                0.0011789209675043821,
+                0.0005190307856537402,
+                0.995010256767273,
+                0.00047007473767735064,
+                0.00021003323490731418
+            ]
+        }
+    ]
+}

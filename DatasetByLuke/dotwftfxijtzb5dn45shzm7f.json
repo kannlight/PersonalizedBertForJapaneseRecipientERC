@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "転職するなら、学会参加の補助があるところがいいな。\n発表はするから。"
+                },
+                {
+                    "author": "did:plc:jjw3dpvjxxflwdx45hnlaits",
+                    "type": 2,
+                    "utter": "それがいいですよね…。"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "年一回でいいから、考慮して欲しい…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbo5rsybzc2u",
+            "label": [
+                0.0005450320895761251,
+                0.9713185429573059,
+                0.01623191311955452,
+                0.00044472384615801275,
+                0.0024723743554204702,
+                0.0005682682385668159,
+                0.00821489468216896,
+                0.00020429152937140316
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "年一回でいいから、考慮して欲しい…🥺"
+                },
+                {
+                    "author": "did:plc:jjw3dpvjxxflwdx45hnlaits",
+                    "type": 2,
+                    "utter": "考慮して欲しいですよね…\nそして、発表したいなー…。"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "医療薬行けるといいですね…\n来年は他に行く予定の学会はありますか？"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lboe2uxfpk2e",
+            "label": [
+                0.00036262423964217305,
+                0.00023561646230518818,
+                0.9990654587745667,
+                9.429589408682659e-05,
+                5.0392398406984285e-05,
+                8.408858411712572e-05,
+                5.551183130592108e-05,
+                5.205200068303384e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "医療薬行けるといいですね…\n来年は他に行く予定の学会はありますか？"
+                },
+                {
+                    "author": "did:plc:jjw3dpvjxxflwdx45hnlaits",
+                    "type": 2,
+                    "utter": "来年こそ日本循環器学会か、来年度のjspenには出たいですね…"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "出れるといいですね…"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbomzywnyk2g",
+            "label": [
+                0.0005189310177229345,
+                0.0004247291071806103,
+                0.9987010955810547,
+                8.570698264520615e-05,
+                4.843086935579777e-05,
+                0.00010005952935898677,
+                6.57420969218947e-05,
+                5.525490269064903e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "出れるといいですね…"
+                },
+                {
+                    "author": "did:plc:jjw3dpvjxxflwdx45hnlaits",
+                    "type": 2,
+                    "utter": "出たいですけどね…\n今の所では発表無理で、薬局に行ってもできるかどうか…\nとりあえず、資格取れたから別の県に逃げるのも考えておきながら、その分野も維持しつつ、やれるべきことをやらねばと思います！"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "薬局でも発表はできますが、薬局次第かな…？\n\n他の県というとお隣の県ですかね？\n２つくらいありますが…"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbtnkxefg22e",
+            "label": [
+                0.001143220579251647,
+                0.00023523707932326943,
+                0.9981942772865295,
+                0.00010024585208157077,
+                5.123207301949151e-05,
+                0.00015204685041680932,
+                5.9860954934265465e-05,
+                6.383344589266926e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "薬局でも発表はできますが、薬局次第かな…？\n\n他の県というとお隣の県ですかね？\n２つくらいありますが…"
+                },
+                {
+                    "author": "did:plc:jjw3dpvjxxflwdx45hnlaits",
+                    "type": 2,
+                    "utter": "お隣じゃなくて、北の果ての予定です…笑"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "北の果て…\n\n極寒の地に行くんですか？？"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbw7dnxtp22a",
+            "label": [
+                0.000725516234524548,
+                0.0003110865654889494,
+                0.002137159463018179,
+                0.9958525896072388,
+                0.00014951455523259938,
+                0.0005612153327092528,
+                0.00013301790750119835,
+                0.00012988712114747614
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "先生も論文デビューですね！"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "何も研究してません😇"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "在宅での介入症例とかでもかけるのでは？？"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lc7amt5z2k2s",
+            "label": [
+                0.0006931854295544326,
+                0.00017202828894369304,
+                0.998752236366272,
+                0.00011515844380483031,
+                5.5203588999575004e-05,
+                9.789899922907352e-05,
+                5.662037438014522e-05,
+                5.759495616075583e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "在宅での介入症例とかでもかけるのでは？？"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "事例からの考察みたいな感じですか？"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "そうですね\n医療薬学の論文にも結構あるような気がします。\n\nあとは業務や取り組み関係も。"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lc7asakdwk2s",
+            "label": [
+                0.19185814261436462,
+                0.00044767276267521083,
+                0.7955417037010193,
+                0.007256601937115192,
+                0.0006346295704133809,
+                0.000921957369428128,
+                0.0007910032290965319,
+                0.002548227785155177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "そうですね\n医療薬学の論文にも結構あるような気がします。\n\nあとは業務や取り組み関係も。"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "なるほど。\nありますね。\n薬局だと高度なものは無理なので、その手が在宅かですね！"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "そのあたりだと先生のお知り合いの診療報酬関係の方々が喜ぶと思います！"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lc7c3kz7zs2s",
+            "label": [
+                0.01979491300880909,
+                0.00038567351293750107,
+                0.9787163138389587,
+                0.0003403348964639008,
+                0.00019265404262114316,
+                0.00019940653874073178,
+                0.00014223366451915354,
+                0.00022850431560073048
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "そのあたりだと先生のお知り合いの診療報酬関係の方々が喜ぶと思います！"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "まずは、その活動を論文にしなさいと言われたやつからまとめてみましょうかね！\nまずは…というと、他にもネタがありそうな言い方ですね笑"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "多分そういう意味だと思います笑\nまずは…ということは複数あるってことの意味だと思います！\n\n先生が「〜加算」「〜指導料」の生みの親になるかもしれませんよ笑"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lc7ch4lkg22s",
+            "label": [
+                0.0020740956533700228,
+                0.00017117525567300618,
+                0.9971814155578613,
+                0.00020148592011537403,
+                7.756070408504456e-05,
+                0.000134940622956492,
+                6.548730016220361e-05,
+                9.388436592416838e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "最近Ｘの調子がおかしい気がする"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "やっぱり⁉︎\n変ですよね！\nでも、一部の人がって感じもあります…"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "通知欄がおかしいです。\n一部のアカウントだけみたいなのですが、通知欄にイイネが表示されているのに、ポストのイイネ欄に表示されないという現象が起きてます。\nそれ以外にもいつの間にか通知無しでフォローされたりしています。\nバグ？"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbk2h6viws2o",
+            "label": [
+                0.0005881817196495831,
+                0.0007231979398056865,
+                0.0003043004544451833,
+                0.9948776960372925,
+                0.00036844558781012893,
+                0.002304177964106202,
+                0.000718924158718437,
+                0.00011498661478981376
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "通知欄がおかしいです。\n一部のアカウントだけみたいなのですが、通知欄にイイネが表示されているのに、ポストのイイネ欄に表示されないという現象が起きてます。\nそれ以外にもいつの間にか通知無しでフォローされたりしています。\nバグ？"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "通知なしフォローは前から結構ありますね…\n👍押しすぎたら良くない感もありますしね…\n僕はポスト見られてないんじゃないかってくらいインプレッション少ないです。\n200超えたらいいかなってくらい。"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "業者っぽいアカウントからフォローされる場合は以前から通知が無いことが多かったのですが、普通のアカウントにフォローされたときも通知が出なくなっていますね…\n\nそうなんですか？？\nそういえば、それに関連したアカウントロック云々のポストを良く見かける気がします。\n\n先生のポストは自分のアカウントには表示されていますね🤔"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbkx4nfmec2h",
+            "label": [
+                0.0005675410502590239,
+                0.0003713271289598197,
+                0.0004944471875205636,
+                0.997765064239502,
+                0.00016906883683986962,
+                0.00032324562198482454,
+                0.0002118607226293534,
+                9.743106784299016e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "先生のアカウント、ロックされていたんですか？？\n何故？\n\nやはり不具合なんですかねぇ…"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "昨日の夜、リプしたらロックされました🥺\nなんか、放置したらいいらしいんですけど、解除のお知らせは来ないかもと…"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "何も悪いことしてないのにロックとは…\n\n早く治ってほしいです…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbllfhzzrc2h",
+            "label": [
+                0.00015449906641151756,
+                0.998101532459259,
+                0.00015707970305811614,
+                0.00021407194435596466,
+                0.00012714916374534369,
+                0.0006186897517181933,
+                0.0005994694074615836,
+                2.749607665464282e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "何も悪いことしてないのにロックとは…\n\n早く治ってほしいです…🥺"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "自分で解除された判断ができないあたりが…\nしばらくあちらには出れません…😭"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "そのくらいの判断ができるような通知が欲しいですよね…😭\n\n早く復活しますように…😭"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lbllnhnhxc2h",
+            "label": [
+                0.00044018460903316736,
+                0.03992055356502533,
+                0.956336498260498,
+                0.0003213404561392963,
+                0.000656431948300451,
+                0.000533130019903183,
+                0.001586166792549193,
+                0.00020576981478370726
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "来年の医療薬に出す演題を考えないとな…"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "来年は何か発表してみようかなーなんて思ったり…してみました。。。"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "是非是非！"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3laleh272dm2x",
+            "label": [
+                0.0016406112117692828,
+                0.00020856328774243593,
+                0.9976523518562317,
+                0.0001746854541124776,
+                7.902765355538577e-05,
+                9.83609861577861e-05,
+                6.536514410981908e-05,
+                8.107606845442206e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "是非是非！"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "でも、研究とか無理なので、こんなことしてるってなりそうなので、工夫しないとその辺の研修会みたいになっちゃうなーって思ってます！"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "症例報告や取り組みなどでも発表できますから、意外とハードルはそこまで高くないですよ！"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3laleqji4te2e",
+            "label": [
+                0.41346240043640137,
+                0.0006331816548481584,
+                0.5741426944732666,
+                0.007331371307373047,
+                0.0008052393677644432,
+                0.0006858595297671854,
+                0.0006146700470708311,
+                0.0023245438933372498
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "症例報告や取り組みなどでも発表できますから、意外とハードルはそこまで高くないですよ！"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "そうなんですか！\nでも、普段喋ってるからポスターへの不安が…\n口頭はハードル高いですか？"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "医療薬で口頭はやったことないからなんとも…\nどうなんでしょうかね？\n\nポスターは結構気楽ですよ"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lalf5rs6fo2b",
+            "label": [
+                0.9360643625259399,
+                0.0009778601815924048,
+                0.05480234697461128,
+                0.0021589896641671658,
+                0.00024646325618959963,
+                0.003393827937543392,
+                0.0006261537200771272,
+                0.0017299405299127102
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "医療薬で口頭はやったことないからなんとも…\nどうなんでしょうかね？\n\nポスターは結構気楽ですよ"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "普段、スライドはスカスカで話すので、まとまったスライド見てると凄いなーって。\n1回ダメもとで参加する学会で出してみましょうかねー"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "是非やってみてください！"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lalfdhiboq2c",
+            "label": [
+                0.0011196024715900421,
+                0.00020446605049073696,
+                0.998233437538147,
+                0.0001449187402613461,
+                6.821371061960235e-05,
+                9.685604891274124e-05,
+                6.40704674879089e-05,
+                6.837113323854282e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 1,
+                    "utter": "是非やってみてください！"
+                },
+                {
+                    "author": "did:plc:mdfgyl5xrfevrugdnqt5g2ou",
+                    "type": 2,
+                    "utter": "先生は医療薬以外行きますか？"
+                },
+                {
+                    "author": "did:plc:dotwftfxijtzb5dn45shzm7f",
+                    "type": 3,
+                    "utter": "旅費の兼ね合いもあるので、現地参加は今のところ医療薬くらいですかね？\nオンライン参加ならちょいちょいしてます。\njspenとか。"
+                }
+            ],
+            "uri": "at://did:plc:dotwftfxijtzb5dn45shzm7f/app.bsky.feed.post/3lalgqyiglh2y",
+            "label": [
+                0.8398789763450623,
+                0.0032563016284257174,
+                0.13900572061538696,
+                0.0009661532239988446,
+                0.0005060150288045406,
+                0.010919682681560516,
+                0.002194949658587575,
+                0.003272189060226083
+            ]
+        }
+    ]
+}

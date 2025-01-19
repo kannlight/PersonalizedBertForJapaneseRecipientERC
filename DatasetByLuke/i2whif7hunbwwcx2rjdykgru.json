@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "お母さん大好きなちびちゃんだもん、大丈夫よ〜🙆‍♀️"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "だといいなぁ♡\n昨日私がソファから立ち上がるだけで逃げちゃってｗ 心にダメージが大きかった🤣💦"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "あー、ちびちゃんにされるとダメージ大きいかも😢\nうちはふたりとも普通に逃げるから💦"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lc2iizzy3s2p",
+            "label": [
+                0.0006626658141613007,
+                0.9707714319229126,
+                0.0002769645652733743,
+                0.0025310502387583256,
+                0.0005276494775898755,
+                0.024235974997282028,
+                0.000856335973367095,
+                0.0001378735323669389
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "あー、ちびちゃんにされるとダメージ大きいかも😢\nうちはふたりとも普通に逃げるから💦"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "普通に逃げるｗｗｗ\nはっちゃん逃げ足早そうだもんねぇ。ななちゃんは、あ、、、なんでもないです😅\n\nいや〜、昨日はどんじろうさまに対するこまちん気分だったよ。\nひたすら平謝りしまくった🤣半年分くらいの謝罪をした気がするｗ"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "どんじろうに対する私www\nそう言われると、私ってTRちんのちびちゃんに対する謝罪1年分くらいを毎日してた気がする💦"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lc2lrrvwhc2p",
+            "label": [
+                0.7894967198371887,
+                0.06863829493522644,
+                0.003827070351690054,
+                0.07031048834323883,
+                0.0008594922255724669,
+                0.059217728674411774,
+                0.004607803653925657,
+                0.003042342606931925
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "ありがとニャーン😸\nななちゃん、6歳になりましたっ！\n\nはっちゃんとは今日もギャーギャー揉めていたけど、譲渡会の猫紹介で「年上のオス猫とは大丈夫。そっと寄り添います」って書いてあったのを思い出してめちゃくちゃ笑ってるwww"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "６歳かぁ🫶ほんとめでたい☺️\n\nはっちゃんはほら…精神年齢がね…ね…🤣\n本当に大人のオス猫だったら違ったかもしれないけどはっちゃんだから ｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "見かけオッサンで中身が子猫だから余計腹立たしいのよね🤣🤣🤣\n\nななちゃんも「話がちがーう！」って叫びそうw"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lbtqnjlvws2b",
+            "label": [
+                0.003004121594130993,
+                0.004710203967988491,
+                0.0035397489555180073,
+                0.007440733257681131,
+                0.9702034592628479,
+                0.0034746602177619934,
+                0.005982481874525547,
+                0.001644657808355987
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "見かけオッサンで中身が子猫だから余計腹立たしいのよね🤣🤣🤣\n\nななちゃんも「話がちがーう！」って叫びそうw"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "腹立たしいでめっちゃ笑ってる🤣🤣🤣\nほんと話が違うよねｗｗｗ"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "「イケメンのお兄ちゃんがいるお家」って、譲渡会ではっちゃんの写真を見たボランティアさんが言ったのよw\nJAROに訴えられちゃう😆"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lbtvupee5c2s",
+            "label": [
+                0.007516184356063604,
+                0.012820589356124401,
+                0.0017415648326277733,
+                0.8940675854682922,
+                0.001205793465487659,
+                0.08035387843847275,
+                0.0018204108346253633,
+                0.0004741078882943839
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "「イケメンのお兄ちゃんがいるお家」って、譲渡会ではっちゃんの写真を見たボランティアさんが言ったのよw\nJAROに訴えられちゃう😆"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "イケメンのお兄ちゃんｗｗｗ\nどこどこ？🤣\n\n大丈夫よ、こまちんが言ったわけじゃないからセーフ🩷でもじわるｗｗｗ\nイケメンのお兄ちゃんꉂ🤣w𐤔←笑いすぎ"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "イケメンのお兄ちゃんを期待してうちに来たらアレだもん、そりゃななちゃんも怒るよねwww\n\nトライアル期間中にななちゃんが物言いたげだったから平謝りしたわ🙇‍♀️🙇‍♀️🙇‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lbu43bzsr22x",
+            "label": [
+                0.1455749273300171,
+                0.21536627411842346,
+                0.0014910962199792266,
+                0.30142152309417725,
+                0.05806850641965866,
+                0.12950670719146729,
+                0.13450279831886292,
+                0.014068186283111572
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "イケメンのお兄ちゃんを期待してうちに来たらアレだもん、そりゃななちゃんも怒るよねwww\n\nトライアル期間中にななちゃんが物言いたげだったから平謝りしたわ🙇‍♀️🙇‍♀️🙇‍♀️"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "物言いたげ🤭\n私も一緒に謝りたくなるわｗ ごめんねななちゃんｗｗｗ"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "人間の言葉が喋れたらマシンガントークで文句言いそうよね😝www"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lbu7j5rrpk2x",
+            "label": [
+                0.26430824398994446,
+                0.0016568825813010335,
+                0.704820454120636,
+                0.007743304129689932,
+                0.0017161379801109433,
+                0.015116565860807896,
+                0.002680271863937378,
+                0.001958118285983801
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "まさに浮気バレの修羅場状態にwww\n\nはっちゃんのこの表情、感情出過ぎて笑ってしまった🤣🤣🤣"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "はっちゃん本当に感情豊かだよね🤭\n可愛すぎるよーｗｗｗ（ただし大爆笑🫶）"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "感情がダダ漏れ過ぎて笑ってしまう😆\nどんじろうともちょっとタイプ違うよね🤭www"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lboeameztk22",
+            "label": [
+                0.9964303374290466,
+                0.00015422845899593085,
+                0.00014622068556491286,
+                0.002746263286098838,
+                5.029649764765054e-05,
+                0.0002530505589675158,
+                0.00011520559928612784,
+                0.00010449771070852876
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 1,
+                    "utter": "言ってよかったのにwwwww\n\nどんじろうは本当にじっとりしてたから、気付くと脊髄反射で謝ってたわ💦"
+                },
+                {
+                    "author": "did:plc:qfo2np2awwpxqcsqxr7taedz",
+                    "type": 2,
+                    "utter": "そこはこまちんに言ってもらおうかと🤭\nこまちんの脊髄反射謝罪(、._. )、即想像できたｗ"
+                },
+                {
+                    "author": "did:plc:i2whif7hunbwwcx2rjdykgru",
+                    "type": 3,
+                    "utter": "そこから詫び腰パンの流れにwww"
+                }
+            ],
+            "uri": "at://did:plc:i2whif7hunbwwcx2rjdykgru/app.bsky.feed.post/3lboosk2xpc2e",
+            "label": [
+                0.9982384443283081,
+                9.414392116013914e-05,
+                0.000330992421368137,
+                0.0010316133266314864,
+                4.1075163608184084e-05,
+                8.349546260433272e-05,
+                9.052678069565445e-05,
+                8.968722977442667e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1264 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "私は何とか正式加入に漕ぎ着けました…(;´Д｀)ﾊｧﾊｧ\n(もちろんシナリオは読んでいないし魔王ノッブで爆死)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ウチはまだ仮加入ですぅ(泣)長い！(シナリオ)そしてまさかのバーサーカーフェス！！全く鍛えていないモルガン陛下は案の定即死しヘラクレスが輝いております✴"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "バーサーカー祭ですね。とにかくバーサーカーで殴ってました(安定の脳筋プレイ)(結局借りたつよつよモルガン陛下を酷使している)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lbq4zzrmqc2k",
+            "label": [
+                0.998910665512085,
+                7.19030067557469e-05,
+                0.0006153924623504281,
+                7.360293966485187e-05,
+                4.119452933082357e-05,
+                0.00011056646326323971,
+                7.847121742088348e-05,
+                9.821033017942682e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "バーサーカー祭ですね。とにかくバーサーカーで殴ってました(安定の脳筋プレイ)(結局借りたつよつよモルガン陛下を酷使している)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "バーサーカーを殴り殴られ(主に陛下＆道満)時々ギルガメッシュ(エヌマ)毎回闇コヤンしております。(何故他人の陛下は強いのだろう)(それはウチはスキルオール1だから)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "当カルデアでは陛下宝具によりOCした賢王宝具からの陛下宝具でW過労死パーティーを多用しました(とにかく賢王を使いたい雑種)(たまにテスカトリポカ添えるワケ)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lbq6srzcss2o",
+            "label": [
+                0.23896312713623047,
+                0.0013031384442001581,
+                0.7563430070877075,
+                0.0005273190326988697,
+                0.00037554034497588873,
+                0.0009226598194800317,
+                0.0007324116886593401,
+                0.0008328563999384642
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "当カルデアでは陛下宝具によりOCした賢王宝具からの陛下宝具でW過労死パーティーを多用しました(とにかく賢王を使いたい雑種)(たまにテスカトリポカ添えるワケ)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "賢王が過労死(泣)(でも他人の陛下は強いからNPチャージもきちんと機能する)(ウチは翁が首出せ言うワケ)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "結局は完全体陛下が強すぎて自前陛下はサポートになる。申し訳ありません陛下…(うちの翁は見てるだけ)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lbqwz65idc2m",
+            "label": [
+                0.13504266738891602,
+                0.7408451437950134,
+                0.004481074400246143,
+                0.005265830550342798,
+                0.0008389728609472513,
+                0.10657677799463272,
+                0.0049246009439229965,
+                0.0020248854998499155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "結局は完全体陛下が強すぎて自前陛下はサポートになる。申し訳ありません陛下…(うちの翁は見てるだけ)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "うちも申し訳ございません陛下…"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "槍ゴッホ正式加入はしたものの宝具レベル上げる為にまだ戦わないといけないことに気付いて絶望しています…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lbsjy7kj5s2p",
+            "label": [
+                0.00019301056454423815,
+                0.9988840222358704,
+                0.0001997747749555856,
+                0.000100723969808314,
+                5.524268271983601e-05,
+                0.00025691522751003504,
+                0.0002834418264683336,
+                2.6752264602691866e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "Oh……未来の私の姿のようです…AUOで…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "大丈夫！AUOは出たがり王だから！ちょっと焦らせてやるかぁ…と思っていたけど我慢できずに(騒がれたくて)速やかに出てくるのだ！だからイメトレを今から始めておくのです！！"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "アーチャーPUまでソワソワする…それまでに石を使わないよう我慢しながらイメトレします！"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lfmarza3q22n",
+            "label": [
+                0.07683565467596054,
+                0.0006820573471486568,
+                0.9201200008392334,
+                0.0004635723016690463,
+                0.00016388414951507002,
+                0.0013429500395432115,
+                0.00016307360783685,
+                0.00022885025828145444
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "アーチャーPUまでソワソワする…それまでに石を使わないよう我慢しながらイメトレします！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "PUはソワソワしますよね❤\n他にも魅力的なPUが出てくるとは思いますが我慢して愉悦部と一緒にイメトレしましょう！"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "まだセイバー2週目でこんなに動揺している場合ではないですね！耐えろ私！！"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lfmyyzq7kc2n",
+            "label": [
+                0.014153419993817806,
+                0.021351713687181473,
+                0.13430987298488617,
+                0.006200777366757393,
+                0.0014037465443834662,
+                0.8195458054542542,
+                0.001306787715293467,
+                0.001727864146232605
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "まだセイバー2週目でこんなに動揺している場合ではないですね！耐えろ私！！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうです！全てはつよつよAUOになるためなのだ！耐えろ！耐えてくれ！\nこっちはカーマちゃんとセイバー２週目で動揺しっぱなしです😭"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "カーマちゃん強化来ましたね！魅了特攻で更につよつよに❤️(宝具重ねたい〜)(我慢…)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lfmzqag2f22n",
+            "label": [
+                0.9991456270217896,
+                7.784515037201345e-05,
+                0.0005359173519536853,
+                7.284295134013519e-05,
+                3.5158500395482406e-05,
+                3.6654364521382377e-05,
+                4.7054993046913296e-05,
+                4.881079075857997e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "カーマちゃん強化来ましたね！魅了特攻で更につよつよに❤️(宝具重ねたい〜)(我慢…)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "魅了が高確率になって嬉しいですね！同じく宝具重ねたい！(だが石は無し)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "宝具前に魅了が入るから誰でも特攻になってしまうつよつよカーマちゃん…重ねたい…(我慢や！！)(我慢…)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lfntunmay22s",
+            "label": [
+                0.8701633810997009,
+                0.0205314252525568,
+                0.1003267839550972,
+                0.0012465184554457664,
+                0.00038245489122346044,
+                0.005178361665457487,
+                0.0010253811487928033,
+                0.0011457153595983982
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "おめでとうございます〜！！ついに宝具MAX✨✨✨"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ありがとうございます！！ついに愉悦度と慢心度もＭＡＸでございます✴"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "うちはまだ宝具4…慢心も愉悦もまだまたか…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3letr2zpvpk2i",
+            "label": [
+                0.0056898584589362144,
+                0.991037130355835,
+                0.000860951142385602,
+                0.0003752560878638178,
+                7.036711758701131e-05,
+                0.001285290694795549,
+                0.0006003578891977668,
+                8.090960909612477e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "うちはまだ宝具4…慢心も愉悦もまだまたか…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "今年は宝具マになるのでは？ピックアップがもうじきですよね。"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "全鯖PUってどうなるんでしょう？全鯖とは！？てなってます"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3leur3bxku227",
+            "label": [
+                0.0013271322241052985,
+                0.0002549102355260402,
+                0.0024385731667280197,
+                0.9951841235160828,
+                0.0001984994887607172,
+                0.0003113557177130133,
+                0.00013953882444184273,
+                0.00014587007171940058
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "全鯖PUってどうなるんでしょう？全鯖とは！？てなってます"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "予想出来ないですよね…毎日日替わりでPUなのかしら？石無いのに(泣)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "毎日30個でいいから石をくれ…そうしたら回すから…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3leuvu3nuns2o",
+            "label": [
+                0.00023291095567401499,
+                0.0008288768003694713,
+                0.9983834028244019,
+                9.365339792566374e-05,
+                0.0001180383624159731,
+                0.00014937437663320452,
+                0.00013521489745471627,
+                5.852207323187031e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "毎日30個でいいから石をくれ…そうしたら回すから…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "毎日ログインで石30個…ケチらずくれ"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "1日1度11連を回させて…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lev3zokyss2r",
+            "label": [
+                0.0006883541936986148,
+                0.0006887449417263269,
+                0.9981964230537415,
+                0.00011355705646565184,
+                5.8680543588707224e-05,
+                0.0001236361131304875,
+                8.1345257058274e-05,
+                4.918978811474517e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "セミ様！！でもカーマちゃんつよつよだから頼っちゃう…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そう！セミ様です！現場監督が我がカルデアにやって来ました！(カーマちゃんは過労死寸前です)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "美女はカルデアに何人いてもいいですからね！(うちにはセミ様いない)年末クリスマスレイド戦でもカーマちゃん活躍してましたね…強いん…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3letr23xtvc2i",
+            "label": [
+                0.9848088622093201,
+                0.0009189719567075372,
+                0.012490291148424149,
+                0.0005114612285979092,
+                0.0001462182408431545,
+                0.00022484376677311957,
+                0.0004363638872746378,
+                0.0004630981420632452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "美女はカルデアに何人いてもいいですからね！(うちにはセミ様いない)年末クリスマスレイド戦でもカーマちゃん活躍してましたね…強いん…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "やはりカーマちゃんはスーパーカーマちゃんでしたね…私はシエルとアルクエイドをレイド戦で修行させ、年末レイド戦ではプーリンが働いておりました アーサーの横で(笑)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "私もプーリンをこき使いましたwww絆が8あたりから全く動かないwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3leur4wwl3k27",
+            "label": [
+                0.9982956051826477,
+                0.00019799814617726952,
+                0.00020645646145567298,
+                0.0005491026095114648,
+                5.336952017387375e-05,
+                0.000404742342652753,
+                0.00014257220027502626,
+                0.0001502277737017721
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "私もプーリンをこき使いましたwww絆が8あたりから全く動かないwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうなんですよ！プーリン絆動き鈍い(笑)始皇帝今回確か相性悪かった(？)ので出せなかったけれどあと少しで絆ＭＡＸなのに動かない(笑)(カーマちゃんも動かない(笑))"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "絆5くらいまではすぐ上がるのに、最後の最後が全然上がらない！！絆礼装しても上がらない！！8止まりの鯖が結構いますwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3leuvx4hct22o",
+            "label": [
+                0.0004918370977975428,
+                0.9929492473602295,
+                0.00013695511734113097,
+                0.00470006512477994,
+                0.00032186129828915,
+                0.0008755269227549434,
+                0.0004732593661174178,
+                5.123728624312207e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "絆5くらいまではすぐ上がるのに、最後の最後が全然上がらない！！絆礼装しても上がらない！！8止まりの鯖が結構いますwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "あれなんですかね(笑)絆５までは出会ったばかりの高揚感で上がるのだ！な意味での早さなのか、サービスなのか。絆礼装も思っていたより上がらなくて…本当始皇帝…勿体ぶって！(笑)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "絆5以降はマンネリ化したカップル状態！？絆礼装持ってる鯖=過労死鯖なので、それは絆でも愛情でもない…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lev3yie3ys2r",
+            "label": [
+                0.032289981842041016,
+                0.8898836970329285,
+                0.0019572158344089985,
+                0.008124678395688534,
+                0.00044840798364020884,
+                0.05257352069020271,
+                0.014110713265836239,
+                0.0006118726450949907
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "とりあえずレイド戦でちょっとQPが増えたからスキル上げとかしたんですけど、したんですけどね…\n思った以上にスキル上げてない鯖だらけで白目剥いた。マーリンでさえ放置してた我がカルデア…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "私もデース！"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "何とか5億QPまで貯め直しましたが、絶対にまた足りなくなる！！素材も！！"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lemadmoa6k2z",
+            "label": [
+                0.0025956188328564167,
+                0.06867484003305435,
+                0.002454824047163129,
+                0.0021629619877785444,
+                0.0015123686753213406,
+                0.9200118184089661,
+                0.0021794855128973722,
+                0.000408050516853109
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "何とか5億QPまで貯め直しましたが、絶対にまた足りなくなる！！素材も！！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "レイド戦、頑張って…寝落ちしてしまいました(泣)\nしかし微妙にシエルとの絆が増えた(水着キアラさんと岸波白野とも)素材…もう足りない(泣)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "私もコヤンたちと微妙に絆を深められましたがMAXには届かず…\nそして福袋はどうなるんだとソワソワ…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lembcx6z5c2z",
+            "label": [
+                0.16698740422725677,
+                0.6893845796585083,
+                0.04162844270467758,
+                0.004530546721071005,
+                0.0002858112857211381,
+                0.09563402086496353,
+                0.000840413966216147,
+                0.0007088527781888843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "私もコヤンたちと微妙に絆を深められましたがMAXには届かず…\nそして福袋はどうなるんだとソワソワ…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうだ！福袋！そして新年一発目はどんな鯖が来るのか…"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "そうなんですよ…福袋もPUも…石ぃ…ないぃ……"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lembtazavc2z",
+            "label": [
+                0.0002258090826217085,
+                0.9991114735603333,
+                0.00015902357699815184,
+                0.00013657535600941628,
+                6.533681153086945e-05,
+                0.00011082677519880235,
+                0.00016074669838417321,
+                3.022326563950628e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "そうなんですよ…福袋もPUも…石ぃ…ないぃ……"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "石…あんなにあったはずの石…どこに消えたのでしょう…"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "お年玉で石を出せい！！"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lemc6ou6xk2f",
+            "label": [
+                0.00027838247478939593,
+                0.0002668872766662389,
+                0.9989860653877258,
+                0.00013742635201197118,
+                0.00010752844536909834,
+                9.500888700131327e-05,
+                7.591640314785764e-05,
+                5.277732998365536e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "お年玉で石を出せい！！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "お年玉は石2025億個寄越すが良い！！(愉悦部より)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "朝ログインしたら枕元にお年玉石があるとか…？"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lemct4fscs2f",
+            "label": [
+                0.0017125275917351246,
+                0.0001973681355593726,
+                0.9976181387901306,
+                0.00019970683206338435,
+                5.12482802150771e-05,
+                0.00011468876618891954,
+                4.6762634156038985e-05,
+                5.960254566161893e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "ひぃ〜！！それはお疲れ様ですね！せめて美味しいものを食べてお腹を満たしてきて下さい！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ありがたいお言葉！！(T^T)\nはい！食べ物を食べつくしたらさっさと帰ろうと思っております！！\n(*'▽'*)パーティー！\n(*'▽'*)パーティー！\n(*'▽'*)全種類制覇！！\n←今日はジグラットでもクリスマスパーティー✴"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "美味しいものでも食わなきゃやっとれん！スマートかつエレガントに撤収出来ますように！\nジグラットでは25日までパーティーが続く…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldpwo5e4f22u",
+            "label": [
+                0.0020488419104367495,
+                0.0011311100097373128,
+                0.9960944056510925,
+                0.0001623490679776296,
+                4.979670848115347e-05,
+                0.00035480427322909236,
+                8.401781087741256e-05,
+                7.462522626155987e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "美味しいものでも食わなきゃやっとれん！スマートかつエレガントに撤収出来ますように！\nジグラットでは25日までパーティーが続く…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "今の職場の上司がガンガン山盛りのローストビーフを持って来てくれ、自分たちもジャンジャン食べ物(デザート込み)を持って行き宴会しておりました(笑)部署全員でスマート＆エレガントな帰宅をしてきました！(＆上司のおじさんが風と木の詩が大好きだという話を聞きいい人やんけ！と思いました)\nジグラットのクリスマスパーティーは25日まで飛ばしまくる…\n(*'▽'*)(*'▽'*)(*'▽'*)←今日はモスチキンを食べた愉悦部"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "え…風と木を…？めちゃくちゃいい人じゃないですか！！ローストビーフで乾杯ですよ！\nジグラットはクリスマス期間中はあちこちのチキンを食べまくる🐔"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldqhdhcvck2p",
+            "label": [
+                0.9984908103942871,
+                8.233798143919557e-05,
+                0.0003134729922749102,
+                0.0008535951492376626,
+                5.2657629566965625e-05,
+                4.967673885403201e-05,
+                6.713965558446944e-05,
+                9.03424879652448e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "え…風と木を…？めちゃくちゃいい人じゃないですか！！ローストビーフで乾杯ですよ！\nジグラットはクリスマス期間中はあちこちのチキンを食べまくる🐔"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ファーストガンダムと共に風と木のことを熱くて語っていただきました！ホントいい人だ！！\nジグラット、明日は行きつけの大手スーパーマーケットの惣菜コーナーのスパイシーチキンとポテトなのだ😊"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "クリスマスパーティーに行った甲斐がありましたね！職場に話のわかる人がいるのはパワースポット発見みたいなもの…\n確実にクリスマス太りをする愉悦部員たちは今日もチキンを探すのだ…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldrqudx6vc2m",
+            "label": [
+                0.9987704157829285,
+                0.00010363712499383837,
+                0.0008578429115004838,
+                4.947167690261267e-05,
+                3.262769678258337e-05,
+                6.731568282702938e-05,
+                5.5335207434836775e-05,
+                6.32806695648469e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "クリスマスパーティーに行った甲斐がありましたね！職場に話のわかる人がいるのはパワースポット発見みたいなもの…\n確実にクリスマス太りをする愉悦部員たちは今日もチキンを探すのだ…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "まさにパワースポット発見の旅(旅？)でした！\n今日の愉悦部員はチキンと共にフライドポテトも探してギルバスで移動していたのだが好みの味のチキンとポテトを購入することが出来たのでご機嫌である"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "オタクの同士がいるだけで愛しさと切なさと心強さがありますね！(？)\n揚げ物三昧な上に、炭酸飲料をお供にするジャンクなクリスマスウィークリーinジグラット"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldsgg5zpdk2t",
+            "label": [
+                0.9995833039283752,
+                6.215592293301597e-05,
+                0.00016028471873141825,
+                4.161933975410648e-05,
+                2.287168535985984e-05,
+                4.2946008761646226e-05,
+                4.0055703721009195e-05,
+                4.6837638365104795e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "シエル(もちろん我がカルデアのシエルはよわよわ)のひたすら宝具と殴りでいけました！強化解除でカマソッソのガッツを解除するのがポイントです👍"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "シエルの殴りって相性が良いとよわよわでもバーサーカー並みな威力の時ありますよね(先日よわよわがやりました)なるほど！強化解除か！時間見つけてカマソッソをマケソッソにしてやります！✴"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "カマソッソがガッツもりもりにしてくるので解除してマケソッソにしてやりましょう！！(やっとシエルのスキル欄を読んだ)(スキルまだ上げてない)(よわシエル)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcf3d56qxc2t",
+            "label": [
+                0.0009191058343276381,
+                0.0003042393655050546,
+                0.9980596899986267,
+                0.00011726373486453667,
+                0.00023501388204749674,
+                0.00016804368351586163,
+                0.0001164797431556508,
+                8.022525435080752e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "カマソッソがガッツもりもりにしてくるので解除してマケソッソにしてやりましょう！！(やっとシエルのスキル欄を読んだ)(スキルまだ上げてない)(よわシエル)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ガッツを盛っていいのはシドゥリさんだけなのに…カマソッソをマケソッソにしたる！！(シエルそんな素晴らしいスキルを持っていたのか)(ウチのシエルもスキルオール1)(よわよわシエル)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "翁とシドゥリさんはガッツもりもりでいて欲しいです✨(シエルはスキル2使うとArtsで強化解除するらしい)(今日知った)(字が小さいから見えないんだよ！)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcfeukau3s2p",
+            "label": [
+                0.0006964191561564803,
+                0.00026490731397643685,
+                0.9986534118652344,
+                0.00011472220649011433,
+                6.789951294194907e-05,
+                8.225673082051799e-05,
+                5.8844234445132315e-05,
+                6.154907896416262e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "翁とシドゥリさんはガッツもりもりでいて欲しいです✨(シエルはスキル2使うとArtsで強化解除するらしい)(今日知った)(字が小さいから見えないんだよ！)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうですよね😊✴(翁とシドゥリさん贔屓)シエルったら！そんな素敵なスキルのことなんも言ってなかったじゃないの！(最近よく使うのに気づかなかった)(そういうことは自分から言っていかないと！)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "自分から積極的にスキルをアピールするくらいのことはして欲しいです！(でもスキル育てられてない)(ごめんな)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcfgvcuw7k2p",
+            "label": [
+                0.0019653169438242912,
+                0.716839611530304,
+                0.14992442727088928,
+                0.0025406572967767715,
+                0.06313633918762207,
+                0.0026420194189995527,
+                0.0613580048084259,
+                0.0015936410054564476
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "自分から積極的にスキルをアピールするくらいのことはして欲しいです！(でもスキル育てられてない)(ごめんな)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうだ！そうだ！アピールしてつよつよになるがいい！！(…言うてもなかなか育てられないが)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "シエル育てられてませんが、ククルカンは来ませんでした！！爆死爆死〜！！！！"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcgo2dsm4k2z",
+            "label": [
+                0.0003038960276171565,
+                0.9989138841629028,
+                0.00014202437887433916,
+                0.00019147791317664087,
+                7.522082887589931e-05,
+                0.00010743600432761014,
+                0.0002378095523454249,
+                2.8341044526314363e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "今日は実家の押入れの片付けを手伝った。帰宅してから犬散歩に出たら、ムキムキなポメラニアンに出会った。すごいムキムキしてた"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ムキムキポメラニアン…\nポメラニアンがムキムキ…\nフフ…ニヤニヤしちゃう…"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "普通のポメラニアンより明らかに大きくて鼻息が荒かったですwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldb5gymep22x",
+            "label": [
+                0.010553332045674324,
+                0.00033701403299346566,
+                0.001089122612029314,
+                0.9867586493492126,
+                0.0001960630324902013,
+                0.0005440617678686976,
+                0.00028216707869432867,
+                0.00023963203420862556
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "普通のポメラニアンより明らかに大きくて鼻息が荒かったですwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "鼻息が！(笑)もうポメラニアンのフリをしたブルドッグなのでは？(鍛えているのか)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "ﾌﾞﾌｰ！て言いながら歩いてましたwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldb6xcktf22g",
+            "label": [
+                0.9979368448257446,
+                9.551901166560128e-05,
+                0.00020957156084477901,
+                0.0014030890306457877,
+                4.565358904073946e-05,
+                0.00012888852506875992,
+                9.732645412441343e-05,
+                8.31285651656799e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "ﾌﾞﾌｰ！て言いながら歩いてましたwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ブフー！(笑)座敷ブタのようだ(笑)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "服を着せてもらってたから、ますます嵩高いムキムキしたポメラニアンでしたwwwまた会いたいwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldb7f5drn22g",
+            "label": [
+                0.9982288479804993,
+                8.471654291497543e-05,
+                0.0013508448610082269,
+                0.00012010991486022249,
+                4.116087802685797e-05,
+                4.7047338739503175e-05,
+                5.50619006389752e-05,
+                7.217314123408869e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "服を着せてもらってたから、ますます嵩高いムキムキしたポメラニアンでしたwwwまた会いたいwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "服を！！なにか筋肉で服をビリビリ破りそうですね(笑)私も会いたい(笑)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "ﾌﾞﾌｰ！(ﾊﾞﾘｨ！)てなりそうですwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldba7ej3cc2g",
+            "label": [
+                0.961886465549469,
+                0.0014212675159797072,
+                0.0029029049910604954,
+                0.03046935237944126,
+                0.0003376997774466872,
+                0.0014253028202801943,
+                0.0009223622619174421,
+                0.0006346855079755187
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "ﾌﾞﾌｰ！(ﾊﾞﾘｨ！)てなりそうですwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ブフー！(バリィ！)(笑)かわいくない(笑)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "顔も何だか勇ましいので、まさか地域のボスポメ…？"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldbhgfj3w22d",
+            "label": [
+                0.003413320751860738,
+                0.00035233289236202836,
+                0.010920356027781963,
+                0.9824581742286682,
+                0.00016140539082698524,
+                0.0021351317409425974,
+                0.0002731570857577026,
+                0.0002861283137463033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "2000円！？すごい高級ペンですね！？\nそしてフリーズは無事に解消したのでしょうか…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "後で写メを載せますが青のメタリックカラーのフリクションペンです。誰か専用ペンなのでしょうか…\nそしてフリーズですが、有識者1人＆部長に直してもらいました😊"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "青のメタリック！おっしゃれ～✨素敵文具は癒しですからね😌\n有識者と部長さんお疲れ様…そしてもうフリーズするなよPC…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldb7dus2c22g",
+            "label": [
+                0.9912898540496826,
+                0.003652961226180196,
+                0.0011483096750453115,
+                0.0003947749501094222,
+                0.0008020799141377211,
+                0.0004822495102416724,
+                0.0016852986300364137,
+                0.0005444533890113235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "青のメタリック！おっしゃれ～✨素敵文具は癒しですからね😌\n有識者と部長さんお疲れ様…そしてもうフリーズするなよPC…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "さすがのAfternoon Teaだな！と思いました✴(Afternoon Teaのペンです)このおしゃれペンでシドゥリさんは王宮日誌を書きます(←文具女子博で買った)\nホントお疲れさまでした…あのPC…本体が熱を持つ(あの熱で焼き芋できるかも？！)やつもいて侮れませんぞ！！"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "Afternoon Teaのペンなんてあるんですね！そりゃオシャレだわ…\nあつあつPC…まだまだ危険をはらんでますな…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldb7vbp4pc2g",
+            "label": [
+                0.00475374236702919,
+                0.0024117077700793743,
+                0.003862460143864155,
+                0.027636881917715073,
+                0.0004130191227886826,
+                0.9600703716278076,
+                0.0004596197104547173,
+                0.0003922486212104559
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "Afternoon Teaのペンなんてあるんですね！そりゃオシャレだわ…\nあつあつPC…まだまだ危険をはらんでますな…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうなんですよ！お茶だけではないのですね…侮れんなAfternoon Tea…\nあつあつPCはあつあつにならないものもあるが、それでも温いカイロ並みの暖かさ…"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "素敵なランチやスィーツだけではなかったのだな…\nあつあつではなく、ふんわりあたたかいくらいになれ…"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldbadkdt5k2g",
+            "label": [
+                0.006271896883845329,
+                0.9591615200042725,
+                0.031868018209934235,
+                0.0003516848082654178,
+                0.00016166974091902375,
+                0.0006189938867464662,
+                0.0013901719357818365,
+                0.00017599498096387833
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "素敵なランチやスィーツだけではなかったのだな…\nあつあつではなく、ふんわりあたたかいくらいになれ…"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "まだまだ奥深いですな、Afternoon Teaは…\nふんわりあたたかい…ケルヌンぬいのような存在…"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "久々にAfternoon Teaでティーを飲みたくなってきました…\n温かさで仕事の疲れを癒す、そんな存在になれPC。(PCの役割とは)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3ldbheynqbk2d",
+            "label": [
+                0.0011063161073252559,
+                0.000348952627973631,
+                0.9981679916381836,
+                9.650855645304546e-05,
+                5.3059844503877684e-05,
+                9.392081119585782e-05,
+                6.663407111773267e-05,
+                6.669140566373244e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "ありがとうございます！\nここぞとばかりに天才嫁アピールをしております！！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "このままアピールを続けていき、嫁の中の嫁「嫁王」になっていただきたいです！✴"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "慢心王にならないよう真面目に嫁王を目指します！！"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcfeyzuuec2p",
+            "label": [
+                0.0003673620230983943,
+                0.00017783450311981142,
+                0.9990389347076416,
+                0.0001207541863550432,
+                7.529771392000839e-05,
+                9.920832235366106e-05,
+                5.7722740166354924e-05,
+                6.288222357397899e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "慢心王にならないよう真面目に嫁王を目指します！！"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "そうですね！慢心するとたちまちギルガメッシュ王と呼ばれてしまうので(そのままではないか！)気をつけてください"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "ギルガメッシュになれるのなら慢心も悪くない…？(良くもない)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcfgz6eu4s2p",
+            "label": [
+                0.0101857278496027,
+                0.0017257770523428917,
+                0.9856654405593872,
+                0.000228074291953817,
+                0.00010140444646822289,
+                0.001450953190214932,
+                0.0002951072819996625,
+                0.00034747985773719847
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "ギルガメッシュになれるのなら慢心も悪くない…？(良くもない)"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "ギルガメッシュ王になるとライバルはオジマン(大声対決開催)"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "やかましいと義母さんに怒られてしまうwww"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lcgnuyadnc2z",
+            "label": [
+                0.07677304744720459,
+                0.027664583176374435,
+                0.004492592066526413,
+                0.8679186105728149,
+                0.0005713930004276335,
+                0.02046974189579487,
+                0.000996310729533434,
+                0.0011136921821162105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 1,
+                    "utter": "やかましいと義母さんに怒られてしまうwww"
+                },
+                {
+                    "author": "did:plc:ieyqwgrllsigvfgtmsnw4yym",
+                    "type": 2,
+                    "utter": "(￣∇￣)フハハハ！✴\n(￣∇￣)アハハハ！✴\n……本当だ！やかましい！"
+                },
+                {
+                    "author": "did:plc:vscelbpr2uqumok7vlpckhzv",
+                    "type": 3,
+                    "utter": "シドゥリさんにももちろん叱られる(シドゥリさんになら叱られるのもあり)"
+                }
+            ],
+            "uri": "at://did:plc:vscelbpr2uqumok7vlpckhzv/app.bsky.feed.post/3lchoudfwb22c",
+            "label": [
+                0.15323291718959808,
+                0.7965863347053528,
+                0.011834925971925259,
+                0.0017481640679761767,
+                0.0012237461050972342,
+                0.02951142191886902,
+                0.003890179330483079,
+                0.0019723158329725266
+            ]
+        }
+    ]
+}

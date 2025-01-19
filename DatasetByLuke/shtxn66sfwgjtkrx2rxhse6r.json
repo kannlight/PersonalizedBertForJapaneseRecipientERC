@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "何して遊ぶー？"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "だれ？"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "謎のフォロワーです"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3lbk3fq72ts2f",
+            "label": [
+                0.31934377551078796,
+                0.004685387481004,
+                0.03264571353793144,
+                0.5977277159690857,
+                0.0007137698703445494,
+                0.03165464103221893,
+                0.009449802339076996,
+                0.003779185703024268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "謎のフォロワーです"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "なるほどー"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "ボドゲからsteamまでダイジョブ笑"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3lbk3mo27p22f",
+            "label": [
+                0.999617338180542,
+                4.426942177815363e-05,
+                7.511374860769138e-05,
+                8.637924474896863e-05,
+                2.524942101445049e-05,
+                5.29796197952237e-05,
+                4.846351657761261e-05,
+                5.021006290917285e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "ボドゲからsteamまでダイジョブ笑"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "PSだよー"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "PS4以降だとむーりー、ゴメン。\n自分、PS2までの人なんで👾"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3lbk3u4stp22f",
+            "label": [
+                0.0004900472704321146,
+                0.9982878565788269,
+                0.00014230878150556237,
+                0.00020619435235857964,
+                5.174881880520843e-05,
+                0.0004117625067010522,
+                0.0003840303688775748,
+                2.5940364139387384e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "PS4以降だとむーりー、ゴメン。\n自分、PS2までの人なんで👾"
+                },
+                {
+                    "author": "did:plc:tpgn53sjrndiiuv5vgtwcdle",
+                    "type": 2,
+                    "utter": "PS４でも一緒にできるのあるけど、新しく買うのもったいないからねー"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "そーねぇ。\nその辺が難しい。\nsteamはまだスペック上げて快適にできるからなぁ。"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3lbk4by2fps2f",
+            "label": [
+                0.004378075711429119,
+                0.0006765112630091608,
+                0.9916201829910278,
+                0.00013749042409472167,
+                7.596006616950035e-05,
+                0.002845108974725008,
+                0.00012318733206484467,
+                0.000143487035529688
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "Yes!Yes!Yes!"
+                },
+                {
+                    "author": "did:plc:4s64xqxda4elsmzi5glvuxn7",
+                    "type": 2,
+                    "utter": "これで君もセックス教の信者だ"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "教祖様、わたくしは以前から信者でございます！\n\nうちのアレの太さに合う製品が国内品には無いんです😭"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3l63kja4equ2f",
+            "label": [
+                0.7269746661186218,
+                0.03659902885556221,
+                0.14422430098056793,
+                0.023576289415359497,
+                0.008222495205700397,
+                0.012244734913110733,
+                0.014361371286213398,
+                0.03379709646105766
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "教祖様、わたくしは以前から信者でございます！\n\nうちのアレの太さに合う製品が国内品には無いんです😭"
+                },
+                {
+                    "author": "did:plc:4s64xqxda4elsmzi5glvuxn7",
+                    "type": 2,
+                    "utter": "さっすが〜、うちのにいに😘\n\nなんやて❣️\nそれはハメないと❣️❣️❣️"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "はい、喜んで！笑\n長さはお察しですけどね😭"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3l63knzvc6e2i",
+            "label": [
+                0.999583899974823,
+                4.0373895899392664e-05,
+                0.00013944419333711267,
+                5.310805136105046e-05,
+                2.731798122113105e-05,
+                5.164510366739705e-05,
+                5.5000680731609464e-05,
+                4.9274844059254974e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "はい、喜んで！笑\n長さはお察しですけどね😭"
+                },
+                {
+                    "author": "did:plc:4s64xqxda4elsmzi5glvuxn7",
+                    "type": 2,
+                    "utter": "ちんちんに自信をもって😘"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "はい！\nこの一本しかないので笑"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3l63kqliqol2c",
+            "label": [
+                0.9362088441848755,
+                0.013502816669642925,
+                0.02300471067428589,
+                0.003930879756808281,
+                0.0007018452160991728,
+                0.017314834520220757,
+                0.0029103150591254234,
+                0.002425636164844036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 1,
+                    "utter": "はい！\nこの一本しかないので笑"
+                },
+                {
+                    "author": "did:plc:4s64xqxda4elsmzi5glvuxn7",
+                    "type": 2,
+                    "utter": "座布団5枚👏"
+                },
+                {
+                    "author": "did:plc:shtxn66sfwgjtkrx2rxhse6r",
+                    "type": 3,
+                    "utter": "10枚溜まったら先輩とオフパコの旅ですか？！\nがんばる！笑\n\nちな、うすうす0.01のLでも太さ足りないです😥"
+                }
+            ],
+            "uri": "at://did:plc:shtxn66sfwgjtkrx2rxhse6r/app.bsky.feed.post/3l63kvpkiqy2p",
+            "label": [
+                0.0013567910064011812,
+                0.00028427114011719823,
+                0.9979294538497925,
+                0.0001666787575231865,
+                5.667298682965338e-05,
+                9.036888513946906e-05,
+                5.505809895112179e-05,
+                6.06302528467495e-05
+            ]
+        }
+    ]
+}

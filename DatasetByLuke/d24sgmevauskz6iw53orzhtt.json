@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "生コラーゲン入りの方がオススメ。"
+                },
+                {
+                    "author": "did:plc:ujohmh3ycxzf5d5rwc75osal",
+                    "type": 2,
+                    "utter": "あり？まちごうた？（ふぁさ）"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "生コラーゲン入の発売前はそっちも使ってたから間違ってはいないよ。ちな、とてもいい香り。"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lbyyv3wtps22",
+            "label": [
+                0.9996021389961243,
+                3.849974018521607e-05,
+                0.00011430083395680413,
+                5.225224595051259e-05,
+                3.3496078685857356e-05,
+                4.006356903119013e-05,
+                5.538434925256297e-05,
+                6.389087502611801e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "生コラーゲン入の発売前はそっちも使ってたから間違ってはいないよ。ちな、とてもいい香り。"
+                },
+                {
+                    "author": "did:plc:ujohmh3ycxzf5d5rwc75osal",
+                    "type": 2,
+                    "utter": "にゃるにゃる\nこれ終わったらそっちも試してみよ"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "試してみるとよいぞ。なお、ブラックフライデーで今Amazonめっちゃ安い。"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lbyz3wz5sc22",
+            "label": [
+                0.0339481495320797,
+                0.0003444533213041723,
+                0.9639184474945068,
+                0.0005871195462532341,
+                0.00030496378894895315,
+                0.00027813779888674617,
+                0.0001980308152269572,
+                0.00042068585753440857
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "試してみるとよいぞ。なお、ブラックフライデーで今Amazonめっちゃ安い。"
+                },
+                {
+                    "author": "did:plc:ujohmh3ycxzf5d5rwc75osal",
+                    "type": 2,
+                    "utter": "昨日買ったの初日から朝の質感とか結構変わってびっくりしてる(⁠✯⁠ᴗ⁠✯⁠)"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "でそ。すごくね？？さすが高いだけある"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lc2n77ogpc24",
+            "label": [
+                0.0007731719524599612,
+                0.00028047800878994167,
+                0.0006833125953562558,
+                0.9974568486213684,
+                0.00021786353318020701,
+                0.0002245754876639694,
+                0.00023059853992890567,
+                0.0001331199164269492
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "でそ。すごくね？？さすが高いだけある"
+                },
+                {
+                    "author": "did:plc:ujohmh3ycxzf5d5rwc75osal",
+                    "type": 2,
+                    "utter": "今まで使ってたパ◯テーンの存在が想像以上に霞んだ（ふぁさ）"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "それはそう。そいつらの5倍の値段だぞ！でもめっちゃサラサラになる"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lc2ngi5rcc2y",
+            "label": [
+                0.01191420666873455,
+                0.004787326790392399,
+                0.0030905120074748993,
+                0.9762100577354431,
+                0.001722891116514802,
+                0.0008340201457031071,
+                0.0007786843925714493,
+                0.0006623871740885079
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "今日と同じくらいだよ"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "さむすぎん！？ダウンでいいよな！？"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "ダウンでいいよ！！！絶対に屋外待機でﾀﾋぬ！！！！"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lbbxt67i3k26",
+            "label": [
+                0.0028782908339053392,
+                0.15256191790103912,
+                0.20032045245170593,
+                0.022274913266301155,
+                0.2852786183357239,
+                0.3023185133934021,
+                0.027741309255361557,
+                0.006625973153859377
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "ダウンでいいよ！！！絶対に屋外待機でﾀﾋぬ！！！！"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "！！！！黒の組織コーデでいくわ…"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "黒の組織ｗｗｗｗｗｗ\n話は変わるけど、11月22日発売のポケモンの一番くじやべぇえと思うの私だけ？"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lbbxwg3vwc26",
+            "label": [
+                0.35084596276283264,
+                0.0019211596809327602,
+                0.08476771414279938,
+                0.5525639653205872,
+                0.0010001889895647764,
+                0.0038935476914048195,
+                0.0014535223599523306,
+                0.003554025199264288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "黒の組織ｗｗｗｗｗｗ\n話は変わるけど、11月22日発売のポケモンの一番くじやべぇえと思うの私だけ？"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "全身まっくろｗｗ\nやべえよねあれ、土鍋ほしい…\n1番くじ用の貯金箱をぶっぱする日が来たなとおもってる…"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "暗闇に紛れられるスタイルｗ\nやべぇ…メタモンクッション欲しいし、ブイズ皿も欲しい…ぶっぱするしかない。"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lbby7ozgqs26",
+            "label": [
+                0.005834635812789202,
+                0.0005010158638469875,
+                0.9928467869758606,
+                0.00035408648545853794,
+                6.577114254469052e-05,
+                0.0002109555498464033,
+                8.828313002595678e-05,
+                9.843699081102386e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "暗闇に紛れられるスタイルｗ\nやべぇ…メタモンクッション欲しいし、ブイズ皿も欲しい…ぶっぱするしかない。"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "ポケモンはほんとにハズレないんだよねぇ…わたしは年明けにホロが控えてるからほどほどにしないと…"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "たひかひ…"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3lbbygtsbe226",
+            "label": [
+                0.006424200255423784,
+                0.9880467653274536,
+                0.001080380636267364,
+                0.0005602568271569908,
+                0.00012383359717205167,
+                0.0009397428366355598,
+                0.002726179314777255,
+                9.863077866612002e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "私が大好きで大好きで大好きでたまらないゲームがSwitchとSteamに移植されるらしくて、気づいたら嬉しすぎて涙出てた。何本買うかわからないのでお金とっておかねばならない。はわわ"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "げきあつ"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "げきあつ。買いすぎたらあげるよ。"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3l7lbgynpgd2a",
+            "label": [
+                0.13834181427955627,
+                0.10469778627157211,
+                0.723898708820343,
+                0.0051125152967870235,
+                0.002756040310487151,
+                0.01194717176258564,
+                0.010748568922281265,
+                0.002497419249266386
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "げきあつ。買いすぎたらあげるよ。"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "！？"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "推しキャラの店舗特典が以下略"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3l7lclfvuhw2z",
+            "label": [
+                0.9516018033027649,
+                0.006427246145904064,
+                0.0015738301444798708,
+                0.03790278732776642,
+                0.0002390376612311229,
+                0.0009931768290698528,
+                0.000745535537134856,
+                0.0005165872862562537
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "推しキャラの店舗特典が以下略"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "はっ…！あの、わたしがやりそうなゲームなら普通に買い取るんで…！"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "かっこよくてとても可愛い主人公の乙女ゲーは好きかい？"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3l7ldh5t2xb2q",
+            "label": [
+                0.17442886531352997,
+                0.0008586093899793923,
+                0.8223242163658142,
+                0.0005426580901257694,
+                0.0004746645863633603,
+                0.0003545844811014831,
+                0.00044686373439617455,
+                0.0005696121952496469
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "かっこよくてとても可愛い主人公の乙女ゲーは好きかい？"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "自分が男ってこと？？\n可愛い女の子を攻略できるならやります"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "ざんねん。自分は女の子。男の子を攻略するやつ。\n主人公が可愛すぎて主人公に落ちるユーザーもいるにはいる。\nなお、パパは立木さんで、ママは井上喜久子さん。なお、アニメはごみ。"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3l7ldra6f6x2y",
+            "label": [
+                0.9325849413871765,
+                0.04297821223735809,
+                0.006154188886284828,
+                0.00938392709940672,
+                0.0003095377760473639,
+                0.004727356601506472,
+                0.0021528422366827726,
+                0.00170903152320534
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 1,
+                    "utter": "ざんねん。自分は女の子。男の子を攻略するやつ。\n主人公が可愛すぎて主人公に落ちるユーザーもいるにはいる。\nなお、パパは立木さんで、ママは井上喜久子さん。なお、アニメはごみ。"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 2,
+                    "utter": "女の子か〜！もしかしてわたしも主人公にハマるパターンか…？\nママ！！！ママ！！！！え、ママしゅき！！！"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 3,
+                    "utter": "ハマるかも。たしか、ベラドンナルート（主人公がボスになるエンド）もあったはず。\nママすごいよママ…なんなら惚れるよ。かっこいい美人さんだよ。すごいよ。なお、娘大好きちゅっちゅキャラソンもあるよ※時代"
+                }
+            ],
+            "uri": "at://did:plc:d24sgmevauskz6iw53orzhtt/app.bsky.feed.post/3l7lelrygll2a",
+            "label": [
+                0.921960711479187,
+                0.0006262519746087492,
+                0.07459886372089386,
+                0.00143485760781914,
+                0.00024252256844192743,
+                0.00026395689928904176,
+                0.00023131250054575503,
+                0.0006414719391614199
+            ]
+        }
+    ]
+}

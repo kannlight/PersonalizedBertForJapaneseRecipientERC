@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "初めまして☺\nメッセありがとうございます！\n是非②繋がりましょう✨\nフォロー失礼致します🙇‍♀"
+                },
+                {
+                    "author": "did:plc:r64sp7j2m6otlxxbmggj7dhq",
+                    "type": 2,
+                    "utter": "嬉しいお言葉とフォローありがとうございます！こちらからも失礼します！\nタメ呼び大歓迎なので仲良くしてくださると嬉しいです( *´꒳`*)"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "フォロバありがとうございます( ⌯'֊'⌯) ও⸒⸒\n私も呼びタメOKなので早速使わせて貰うね✨\nこちらこそ仲良くしてくれると嬉しい(๑´>᎑<)~♡"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3kp57viect223",
+            "label": [
+                0.9992305040359497,
+                6.139300239738077e-05,
+                0.00045939048868604004,
+                5.3034626034786925e-05,
+                3.839242344838567e-05,
+                4.547241405816749e-05,
+                5.192865137360059e-05,
+                5.981866706861183e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "フォロバありがとうございます( ⌯'֊'⌯) ও⸒⸒\n私も呼びタメOKなので早速使わせて貰うね✨\nこちらこそ仲良くしてくれると嬉しい(๑´>᎑<)~♡"
+                },
+                {
+                    "author": "did:plc:r64sp7j2m6otlxxbmggj7dhq",
+                    "type": 2,
+                    "utter": "では、お言葉に甘えて！\n仲良くしよー！！"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "うん(๓´˘`๓)\n統一試験捗ってる？？"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3kp5f67tjax2l",
+            "label": [
+                0.9980582594871521,
+                8.169159264070913e-05,
+                0.001470445073209703,
+                8.633569814264774e-05,
+                5.324713492882438e-05,
+                8.334985614055768e-05,
+                8.405790867982432e-05,
+                8.257559238700196e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "うん(๓´˘`๓)\n統一試験捗ってる？？"
+                },
+                {
+                    "author": "did:plc:r64sp7j2m6otlxxbmggj7dhq",
+                    "type": 2,
+                    "utter": "捗ってないねー…S3でとまってる…\nMieさんはどう？"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "私もS3止まりw\nスコアもあまり伸びなくてね(꒪ꇴ꒪ ; )"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3kp5iymi6tz2t",
+            "label": [
+                0.0002679007884580642,
+                0.9990541338920593,
+                0.0001685017195995897,
+                0.00012431519280653447,
+                5.836829950567335e-05,
+                0.00012038864952046424,
+                0.00017634998948778957,
+                3.009228385053575e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "私もS3止まりw\nスコアもあまり伸びなくてね(꒪ꇴ꒪ ; )"
+                },
+                {
+                    "author": "did:plc:r64sp7j2m6otlxxbmggj7dhq",
+                    "type": 2,
+                    "utter": "やっぱ伸びないよね！？\nどうやったらS4にいけるんだ？？"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "全然伸びない(> <)\nひたすら育成頑張ってるけどイマイチなんだよね(´･_･`)"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3kp5r4s6qdd23",
+            "label": [
+                0.0002344902604818344,
+                0.9989653825759888,
+                0.00022216806246433407,
+                0.00010646573355188593,
+                8.810483268462121e-05,
+                0.00010951854346785694,
+                0.00024053936067502946,
+                3.335498331580311e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "こんばんは！\n返信＆フォローありがとうございます☺\nフォロバしたので宜しくお願いします✨"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 2,
+                    "utter": "フォローありがとうございます😊♥\n改めましてセベクくん推しのくま子と申します💚\nボドゲ部推しなんですね！クラブウェア楽しみですね((o(´∀｀)o))ﾜｸﾜｸ"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "くま子さんはセベクくん推しですか💚☺\n馬術部のクラブウェア早く見たいですね✨\nボドゲ部推しなのでどちらもクラブウェア来て欲しいです💕"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3lbwmvzv6ds2a",
+            "label": [
+                0.0016137862112373114,
+                0.0002232412080047652,
+                0.99774169921875,
+                0.0001338129077339545,
+                6.803246651543304e-05,
+                8.570283534936607e-05,
+                6.410696369130164e-05,
+                6.959767051739618e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "くま子さんはセベクくん推しですか💚☺\n馬術部のクラブウェア早く見たいですね✨\nボドゲ部推しなのでどちらもクラブウェア来て欲しいです💕"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 2,
+                    "utter": "馬術部めちゃくちゃ楽しみです……！３月のセベクくんお誕生日も……！😭💚"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "来月辺り？に来ると良いですね🫶\nくつろぎマイルームのセベクくん見てみたいですね🤭\nとても興味あります💚"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3lbwopluhvc2o",
+            "label": [
+                0.0005801988882012665,
+                0.00015708956925664097,
+                0.9988917708396912,
+                0.00010786100756376982,
+                6.392991781467572e-05,
+                8.166675979737192e-05,
+                5.863322803634219e-05,
+                5.898650488234125e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "来月辺り？に来ると良いですね🫶\nくつろぎマイルームのセベクくん見てみたいですね🤭\nとても興味あります💚"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 2,
+                    "utter": "くつろぎマイルームのセベクくんめちゃくちゃ楽しみです〜！💚\n髪下ろしてますかね((o(´∀｀)o))ﾜｸﾜｸ"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "髪下ろしてそうですよね！😊\n朝起きた時にどうセットしているのか見られると良いですね💚"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3lbxmtgvaq22d",
+            "label": [
+                0.0033343408722430468,
+                0.00024972204118967056,
+                0.9958962202072144,
+                0.00015786370204295963,
+                8.405277912970632e-05,
+                0.00011568638728931546,
+                7.433976861648262e-05,
+                8.776841423241422e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 1,
+                    "utter": "髪下ろしてそうですよね！😊\n朝起きた時にどうセットしているのか見られると良いですね💚"
+                },
+                {
+                    "author": "did:plc:bnbhttwvzprbuwogudhzrcsv",
+                    "type": 2,
+                    "utter": "それ絶対みたいやつです！😭💚\n何時間かかってるのか気になる〜！"
+                },
+                {
+                    "author": "did:plc:lqmn7f7uhjdradg4lzaljit3",
+                    "type": 3,
+                    "utter": "やっぱり気になりますよね🥺\nセットきちんとしているの偉いなー☺"
+                }
+            ],
+            "uri": "at://did:plc:lqmn7f7uhjdradg4lzaljit3/app.bsky.feed.post/3lbycapqhck22",
+            "label": [
+                0.9839506149291992,
+                0.0003445107431616634,
+                0.010791638866066933,
+                0.003087620949372649,
+                0.00022324400197248906,
+                0.00015641241043340415,
+                0.00029063993133604527,
+                0.0011553572257980704
+            ]
+        }
+    ]
+}

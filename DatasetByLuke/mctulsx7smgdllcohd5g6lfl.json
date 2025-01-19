@@ -1,0 +1,994 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "25%？←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "スティックスキルに行動時10%暴走アップがあるんやで。\n合計25%になるの"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "…ほんまや←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lbwehqxcjs2m",
+            "label": [
+                0.6042187809944153,
+                0.0958351120352745,
+                0.01944347284734249,
+                0.07400930672883987,
+                0.0104359220713377,
+                0.04927152022719383,
+                0.1325087696313858,
+                0.014277092181146145
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "…ほんまや←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "左手有効かしらんけど←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "はよ試してきてーや←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lbwh34l26k2g",
+            "label": [
+                0.0004939785576425493,
+                0.0002307304530404508,
+                0.9988415837287903,
+                0.00010857407323783264,
+                0.00010531833686400205,
+                8.22111323941499e-05,
+                8.648597577121109e-05,
+                5.118561603012495e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "はよ試してきてーや←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "右短剣左手スティックで問題なし"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "うむ、ならばこそ御主の装備とスキル構成を晒すのじゃ←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lbwhaot3i22m",
+            "label": [
+                0.0071132793091237545,
+                0.0003717181389220059,
+                0.9917169213294983,
+                0.00016048041288740933,
+                0.00011629692016867921,
+                0.0002285424416186288,
+                0.00016175865312106907,
+                0.00013095169560983777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "ことよろなのじゃ←←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おいちゃあああああああああああ"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "ちっす✋←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leoa45nfqk2h",
+            "label": [
+                0.9984447360038757,
+                0.0002536574611440301,
+                0.000715588335879147,
+                9.317086369264871e-05,
+                5.872173642273992e-05,
+                7.76038141339086e-05,
+                0.00026714158593676984,
+                8.935126243159175e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "ちっす✋←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "えっ←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "なんでや…"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leocyu2uy22u",
+            "label": [
+                0.0006643173983320594,
+                0.9881950616836548,
+                0.00017736927838996053,
+                0.006351087242364883,
+                0.001071039354428649,
+                0.001844073529355228,
+                0.0016328910132870078,
+                6.419436977012083e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "なんでや…"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "こういうのの方がご期待にそえるかなって？←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "そんな期待しておらぬよ←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leodfjuvpk22",
+            "label": [
+                0.10336166620254517,
+                0.07195381075143814,
+                0.006973858457058668,
+                0.016346676275134087,
+                0.07711539417505264,
+                0.027588918805122375,
+                0.6903978586196899,
+                0.006261791102588177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "そんな期待しておらぬよ←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "恥ずかしがらなくてもいいのよ…？←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "うむ、まったく思っておらんよ←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leof4lvak223",
+            "label": [
+                0.7470811605453491,
+                0.010079566389322281,
+                0.007064818404614925,
+                0.014663027599453926,
+                0.028520924970507622,
+                0.03566621243953705,
+                0.13942351937294006,
+                0.017500733956694603
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "お土産はきび団子でええよ←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "残念だったなのび太。\nお土産は甘納豆だ"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "のび太に謝れ！\nあの子はやれば出来る子なんじゃ！\nおいちゃんはやらない子なんじゃ！\nのび太に謝れ！"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leirobvjms22",
+            "label": [
+                0.002143055433407426,
+                0.016014834865927696,
+                0.023674918338656425,
+                0.027687784284353256,
+                0.9148618578910828,
+                0.005284489598125219,
+                0.0074027408845722675,
+                0.0029303173068910837
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "のび太に謝れ！\nあの子はやれば出来る子なんじゃ！\nおいちゃんはやらない子なんじゃ！\nのび太に謝れ！"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "お、おぅ(´ω｀)\nすまんなのび太。\nお前のお土産は水戸ラーメンだ。\nそしておいちゃには、甘納豆だ。"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "おいちゃん羊羹がええんやが？←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leitdlblc22z",
+            "label": [
+                0.9836779832839966,
+                0.0006312823388725519,
+                0.014386435970664024,
+                0.00019180055824108422,
+                0.00020605651661753654,
+                0.00019213669293094426,
+                0.00041698184213601053,
+                0.00029736754368059337
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "おん？\nこっちはトマトジュースじゃ←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おん？？？やんのか？？？？おん？おんんんん？？？？？？？←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "お寿司様がトマトジュース殿に勝てますかぁー？？←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3leja5j242s2t",
+            "label": [
+                0.0029630630742758512,
+                0.0007744809263385832,
+                0.9941294193267822,
+                0.0009568726527504623,
+                9.381408017361537e-05,
+                0.0008725736988708377,
+                7.997878856258467e-05,
+                0.00012985861394554377
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "死にながら仕事してる←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "よし、ゾンビ化成功"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "犯人はおまいか←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lehp6gfpss2i",
+            "label": [
+                0.0038575059734284878,
+                0.006076060701161623,
+                0.056046463549137115,
+                0.0015684248646721244,
+                0.0032439313363283873,
+                0.9243163466453552,
+                0.003866349346935749,
+                0.0010249457554891706
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "犯人はおまいか←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "ﾉﾝﾉﾝﾉﾝﾉﾝﾉﾝ(*´∀｀*)\nおいちゃはそもそもがアンデッドなので←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "マジか\n自称88歳から800歳に変えるわ←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lei5rdlw222l",
+            "label": [
+                0.09820076078176498,
+                0.04977347329258919,
+                0.3778495788574219,
+                0.3377760946750641,
+                0.045557357370853424,
+                0.04083898663520813,
+                0.0380619540810585,
+                0.011941797100007534
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "マジか\n自称88歳から800歳に変えるわ←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "10万801歳でよくない？"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "アンデッド通り越して悪魔じゃん←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lei5vs3xw223",
+            "label": [
+                0.007796361576765776,
+                0.005514015909284353,
+                0.0007815589779056609,
+                0.9517425894737244,
+                0.00039678768371231854,
+                0.028145870193839073,
+                0.005290056113153696,
+                0.0003328194434288889
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "アンデッド通り越して悪魔じゃん←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "ヤオイの悪魔とか最強じゃん！いいじゃん！いいじゃんすげぇじゃん！！←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "そこかぁw"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lei6opb5uc2j",
+            "label": [
+                0.009019305929541588,
+                0.0014702124753966928,
+                0.0018741567619144917,
+                0.986050546169281,
+                0.00023688522924203426,
+                0.0003849192871712148,
+                0.0006763885612599552,
+                0.00028759471024386585
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "色々反省しようか←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "ほ、ほら！\n創生珠がそもそも今週の初回と昏冥の初回分で終わる予定だったから！\n無理な周回したわけじゃないから……ね？(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "むう、仕方ないか←\n\nホントに気をつけるんじゃぞい"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldv6mhvkns2v",
+            "label": [
+                0.01041065901517868,
+                0.23569120466709137,
+                0.30178967118263245,
+                0.004661090672016144,
+                0.019214196130633354,
+                0.4087035357952118,
+                0.014893372543156147,
+                0.004636217840015888
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "むう、仕方ないか←\n\nホントに気をつけるんじゃぞい"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おういえ(´ω｀)\n気づいたらﾏｵﾗｰちゃんのステが見れなくなってたぞい"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "いや、非表示が基本なのかなと思うて戻しただけじゃよ"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldvakvo3kc2l",
+            "label": [
+                0.942216694355011,
+                0.0032243127934634686,
+                0.015610593371093273,
+                0.0029414857272058725,
+                0.006261566188186407,
+                0.003866804763674736,
+                0.01821904443204403,
+                0.007659476716071367
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "いや、非表示が基本なのかなと思うて戻しただけじゃよ"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "えー(´ω｀)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "えーって言うがたいしたステでもないしのう←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldvapp6krc2m",
+            "label": [
+                0.3422927260398865,
+                0.500636100769043,
+                0.004358410835266113,
+                0.05848018452525139,
+                0.0017879940569400787,
+                0.04076487198472023,
+                0.048833005130290985,
+                0.0028466926887631416
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "えーって言うがたいしたステでもないしのう←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "ふぇー(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "悲しい事にサブのが強いまであるしの←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldvbtxmgx22f",
+            "label": [
+                0.0007278515840880573,
+                0.9983857870101929,
+                0.00014585087774321437,
+                0.00027889764169231057,
+                4.454275403986685e-05,
+                0.00017946914886124432,
+                0.0002084399457089603,
+                2.9058975997031666e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "もう風邪は大丈夫そうじゃのう←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "38〜37.5℃を行ったり来たりしてるよ。\nキラマラは今日2回したよ。\nあきちゃえらい？(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "治るまで大人しくしてないから偉く無いね←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldhv2iauws2w",
+            "label": [
+                0.2306891530752182,
+                0.48567894101142883,
+                0.018009591847658157,
+                0.006876213941723108,
+                0.0043271747417747974,
+                0.19090892374515533,
+                0.0554821752011776,
+                0.008027731440961361
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "治るまで大人しくしてないから偉く無いね←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "バトルしてないから大人しくしてるもん！\nウソじゃないもん！！"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "たいして若くないんじゃから大人しくするのが正解じゃよ←\n\n昨日よりは全然マシっぽいから良いんじゃけどな"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldhvahwidc2g",
+            "label": [
+                0.035237886011600494,
+                0.0713653415441513,
+                0.8582557439804077,
+                0.0003346177691128105,
+                0.0005161407752893865,
+                0.027988681569695473,
+                0.0046117487363517284,
+                0.001689838944002986
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "たいして若くないんじゃから大人しくするのが正解じゃよ←\n\n昨日よりは全然マシっぽいから良いんじゃけどな"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おういえ(´ω｀)\n昨日は久しぶりに39℃行ってムリポだったぉ。\n昨日はちゃんと寝てたよ？\nあきちゃえらい？(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "昨日は偉いんじゃがの？←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldhvgiowxc2a",
+            "label": [
+                0.9960277080535889,
+                0.0005340962088666856,
+                0.0008004062110558152,
+                0.0004107436689082533,
+                0.0004918469348922372,
+                0.00021214206935837865,
+                0.0008231624378822744,
+                0.0006999314064159989
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "昨日は偉いんじゃがの？←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "あと1時間半で3回目です(´ω｀)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "偉くないじゃん←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldhvjmzjac2w",
+            "label": [
+                0.31013765931129456,
+                0.06672268360853195,
+                0.005972833838313818,
+                0.42700207233428955,
+                0.009114019572734833,
+                0.0171064306050539,
+                0.155978262424469,
+                0.007966005243360996
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "安静にドラクエするんじゃよ←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "マジメに今39℃あるから今日は寝る"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "はよ治すんやでぇ"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldfh2hodhc2d",
+            "label": [
+                0.0007333616958931088,
+                0.12058249115943909,
+                0.8582375645637512,
+                0.001381700742058456,
+                0.006932722870260477,
+                0.0038212903309613466,
+                0.007749774493277073,
+                0.0005610593943856657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "はよ治すんやでぇ"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おういえ(´ω｀)\nおいちゃにクソリプ投げないとね"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "ど阿呆w\nはよ寝ろい"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldfhea7jk22y",
+            "label": [
+                0.043617211282253265,
+                0.012922347523272038,
+                0.0038061405066400766,
+                0.006296927575021982,
+                0.007296616677194834,
+                0.037491053342819214,
+                0.8868302702903748,
+                0.0017393530579283834
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "ど阿呆w\nはよ寝ろい"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "治ったらの話だよ、このすかたん！"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "むきー！\n誰がすかたんじゃとおっ？！←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldfisealkc2y",
+            "label": [
+                0.0033225244842469692,
+                0.0025373788084834814,
+                0.0023798036854714155,
+                0.9895897507667542,
+                0.0007248988840728998,
+                0.0007030333508737385,
+                0.0004954648902639747,
+                0.0002470700419507921
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "むきー！\n誰がすかたんじゃとおっ？！←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "いっつゆー(´ω｀)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "そかぁ\n仕方あるまい←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ldg2fpo2nk2f",
+            "label": [
+                0.7086547017097473,
+                0.21096953749656677,
+                0.03356656804680824,
+                0.009056015871465206,
+                0.0009513821569271386,
+                0.02295846678316593,
+                0.01066984236240387,
+                0.0031734583899378777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "と、唐突じゃの…\n魔法使いより火力見せてやんよ！がしたい？←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "Non\n正解は、ゾンビまほりこを作ろうとしています"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "まほりこってなんぞえ？"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ld5rgvamh22v",
+            "label": [
+                0.11603142321109772,
+                0.0012737457873299718,
+                0.01629512384533882,
+                0.8602812886238098,
+                0.001042182557284832,
+                0.00101925665512681,
+                0.0021859670523554087,
+                0.0018709677970036864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "まほりこってなんぞえ？"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "魔法型踊り子。\nメラゾーマ主体の攻撃で攻めるスタイル。\n扇持ちの賢者と相性が良く、賢者が風斬りを使えば踊り子が祈りのゴスペルを使うことで賢者のさとりを使うターンを省略することも可能。\nんで、この2つの武器を両手に持つことで踊り子が5%ではあるが聖女と女神を両方得ることができる。\nつまり即死ダメージを受けても、賢者のいやしの雨があればバラシュナの破滅のテンペストすらも耐えられる。\nその場でよみがえり節を使えば回復と逃げ遅れの救済も可能。\nさらに覚醒のアリアで魔力覚醒も付与できるので、即戦力での蘇生もできる。\nって感じ(´ω｀)"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "なるほど\n相変わらず刺さるところにブッ刺すスタイルはかっこいいやないかい"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ld5rwsqh4223",
+            "label": [
+                0.9995332956314087,
+                3.788051617448218e-05,
+                0.00017055997159332037,
+                6.0778038459829986e-05,
+                4.388253728393465e-05,
+                4.1562561818864197e-05,
+                5.1359980716370046e-05,
+                6.0805345128756016e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "なるほど\n相変わらず刺さるところにブッ刺すスタイルはかっこいいやないかい"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おいちゃの眉間にコツンと行くやで(´ω｀)\nさらに右手スティックなら、ディバインステッキで魔法耐性も下げれるから火力も出せる。\nさらにスティックの基礎効果と扇スキルのCT短縮があわさって-15秒。\nギラグレイドはもちろん、よみがえり節の連発や、魔力のバラードとスピリットゾーンによるMP回復回しもいける…かも？"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "流石おいちゃんの憧れ推し！\n\n使用感どんなもんかの報告待ってる←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3ld5t7h3rm224",
+            "label": [
+                0.0029966130387037992,
+                0.00024237832985818386,
+                0.9962396621704102,
+                0.00018175662262365222,
+                7.405026553897187e-05,
+                0.00010693810327211395,
+                7.122138777049258e-05,
+                8.736910967854783e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "いつもじゃん←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "おいちゃは1回市中引き回しになればいいと思うの←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "うむ、過激なやつきたのう←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lcypujonz22o",
+            "label": [
+                0.15311220288276672,
+                0.00822723750025034,
+                0.015801584348082542,
+                0.8000430464744568,
+                0.0007484083180315793,
+                0.017667172476649284,
+                0.0028267919551581144,
+                0.0015735087217763066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "うむ、過激なやつきたのう←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "好きでしょ？こういう刑罰"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "好きでしょ？こういう絡み←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lcyqeqpbls2b",
+            "label": [
+                0.9990407824516296,
+                6.187734106788412e-05,
+                0.000588840979617089,
+                6.561598274856806e-05,
+                4.950295988237485e-05,
+                5.074381624581292e-05,
+                7.337856368394569e-05,
+                6.930105155333877e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "好きでしょ？こういう絡み←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "いい加減慣れたよね←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "ち、可愛げがないのう←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lcyqkapba227",
+            "label": [
+                0.0003069574013352394,
+                0.9989684820175171,
+                0.0001786446664482355,
+                0.0001384993811370805,
+                5.706527372240089e-05,
+                0.00012611690908670425,
+                0.0001952094753505662,
+                2.9090941097820178e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 1,
+                    "utter": "ち、可愛げがないのう←"
+                },
+                {
+                    "author": "did:plc:22gswmgatb63znwbnwkmh22c",
+                    "type": 2,
+                    "utter": "でも、そこが好きなんでしょ？←"
+                },
+                {
+                    "author": "did:plc:mctulsx7smgdllcohd5g6lfl",
+                    "type": 3,
+                    "utter": "なんだ元気じゃんよ←"
+                }
+            ],
+            "uri": "at://did:plc:mctulsx7smgdllcohd5g6lfl/app.bsky.feed.post/3lcyqozrjek2w",
+            "label": [
+                0.9983882904052734,
+                0.00013807167124468833,
+                0.00028919088072143495,
+                0.0007902730721980333,
+                4.409409302752465e-05,
+                8.993488154374063e-05,
+                0.00015190854901447892,
+                0.00010838569141924381
+            ]
+        }
+    ]
+}

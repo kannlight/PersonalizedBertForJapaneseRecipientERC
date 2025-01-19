@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "仕事3時間だけなのにやることが詰まりすぎている、時間伸ばしてくれ慌てずやりたい"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "自分以外の時間経過をゆっくりにしたらええねん(鼻ホジ)"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "天才か？\nでもそれってよう！時給だとか的には損なんじゃねぇか！？"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3lbmlzca6ik2j",
+            "label": [
+                0.01901891455054283,
+                0.07421162724494934,
+                0.013629530556499958,
+                0.5098339319229126,
+                0.007853743620216846,
+                0.36239105463027954,
+                0.010350079275667667,
+                0.0027112229727208614
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "天才か？\nでもそれってよう！時給だとか的には損なんじゃねぇか！？"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "悲しきかな、体力や精神力においても損してます！ただ仕事の質が良くなるだけ！！"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "ただただミスなく完璧で優秀な人間の疑似体験ができる、\n素晴らしい、でも金は欲しいぜ…"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3lbmmgobjwc2j",
+            "label": [
+                0.9993278980255127,
+                0.00013768093776889145,
+                0.00028424113406799734,
+                4.4356951548252255e-05,
+                2.0816250980715267e-05,
+                8.3066952356603e-05,
+                5.071862324257381e-05,
+                5.115840758662671e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "ただただミスなく完璧で優秀な人間の疑似体験ができる、\n素晴らしい、でも金は欲しいぜ…"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "模擬体験が肝だね。涙出る。\n仕方ない理想を下げよう自分に優しく"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "悲しいね、1つ覚えると1つミスするんだよ。\n先輩が鬼だったらキレ散らかされてるぜまったく"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3lbmmsotrq22n",
+            "label": [
+                0.0012473284732550383,
+                0.9518763422966003,
+                0.0007274075760506094,
+                0.0007064797100611031,
+                0.019008442759513855,
+                0.004482586402446032,
+                0.021644312888383865,
+                0.00030701368814334273
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "悲しいね、1つ覚えると1つミスするんだよ。\n先輩が鬼だったらキレ散らかされてるぜまったく"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "シングルタスクかと思いきやポケモンだった。やっぱ職場の人間大事よな、優しい先輩で何よりだよ。"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "ポケモンやめてね！？\n普通に飲み物むせたんだがw\nあまりにも第一印象やれそうな子から始まったから、マズイって思ったけどこれだったからほんとに申し訳なくなった、\n人間関係ほんとに大事まじでぶっとばされてもおかしくないもん、"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3lbmn6a5hqk2a",
+            "label": [
+                0.0007653508218936622,
+                0.005694624502211809,
+                0.0003376539680175483,
+                0.002440327312797308,
+                0.000919622543733567,
+                0.9881049394607544,
+                0.0014974726364016533,
+                0.00024003084399737418
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "ポケモンやめてね！？\n普通に飲み物むせたんだがw\nあまりにも第一印象やれそうな子から始まったから、マズイって思ったけどこれだったからほんとに申し訳なくなった、\n人間関係ほんとに大事まじでぶっとばされてもおかしくないもん、"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "1   2の……ポカン！\nはーガチでわかる。私もしっかりしてそうから始まったから頑張ってたんだけど、クイックルワイパーに布つけないで何だこれって思いながら掃除しようとした辺りでボロが出た。\nお互い頑張ろうな🤝\nブラック企業だったらボコボコだね"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "なんか褒められる度に、私絶対やらかすから期待しないでくれ！頼む！って思ってた、\n\n頑張ろう、生き抜こうね🤝"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3lbnqahwmos2a",
+            "label": [
+                0.0019822106696665287,
+                0.014242724515497684,
+                0.9726449847221375,
+                0.00043351587373763323,
+                0.0003449207288213074,
+                0.009157566353678703,
+                0.000800281937699765,
+                0.0003938141744583845
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "ミニストップ増えて欲しいほんとに、"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "まじでわかる毎週仕事帰りにご褒美と称してフォンダンショコラ食べに行くのに"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "Xフライドポテトすき"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3l7ajjrcrmk2i",
+            "label": [
+                0.9995865225791931,
+                3.615752575569786e-05,
+                0.00012998034071642905,
+                5.513595533557236e-05,
+                3.8803089410066605e-05,
+                3.828545959549956e-05,
+                5.586355473496951e-05,
+                5.9189544117543846e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "Xフライドポテトすき"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "わかる美味しいよねあとあれも好きクランキーチキン"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "わかるホットスナックとか中で作ってるものうまい"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3l7b5uuge222e",
+            "label": [
+                0.999467670917511,
+                3.5504675906850025e-05,
+                0.00014823328820057213,
+                8.8056294771377e-05,
+                4.9813668738352135e-05,
+                4.2419393139425665e-05,
+                6.811162893427536e-05,
+                0.00010023865615949035
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "わかるホットスナックとか中で作ってるものうまい"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "でも私その2つ以外食べたことないや\n今度食べてみようかな"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "お惣菜のささみのしそ巻みたいなやつすき"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3l7czyzydl427",
+            "label": [
+                0.9995806813240051,
+                3.834794188151136e-05,
+                0.0001426103845005855,
+                4.933091622660868e-05,
+                3.6150242522126064e-05,
+                3.9658167224843055e-05,
+                5.310378037393093e-05,
+                6.0180947912158445e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 1,
+                    "utter": "お惣菜のささみのしそ巻みたいなやつすき"
+                },
+                {
+                    "author": "did:plc:nokz3hmfjonift5hdtcsptnv",
+                    "type": 2,
+                    "utter": "ささみええやんって調べたら梅って書いてあって号泣"
+                },
+                {
+                    "author": "did:plc:zv34romivbnrfg3cl2hiehbm",
+                    "type": 3,
+                    "utter": "梅嫌いだったっけ、すまん"
+                }
+            ],
+            "uri": "at://did:plc:zv34romivbnrfg3cl2hiehbm/app.bsky.feed.post/3l7fpri5kwz2t",
+            "label": [
+                0.008072715252637863,
+                0.9084512591362,
+                0.0005731690907850862,
+                0.011011703871190548,
+                0.0007554303738288581,
+                0.062153641134500504,
+                0.008577926084399223,
+                0.0004041125939693302
+            ]
+        }
+    ]
+}

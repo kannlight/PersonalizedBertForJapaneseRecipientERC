@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "オナホ隊長！"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "ｵﾎｵﾎｵﾎ!!"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "オホ声だいすこ"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3lbqeq4lclk2z",
+            "label": [
+                0.9996366500854492,
+                4.128207001485862e-05,
+                8.58276107464917e-05,
+                5.25180330441799e-05,
+                3.1842864700593054e-05,
+                4.138684380450286e-05,
+                5.783003143733367e-05,
+                5.266579319140874e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "オホ声だいすこ"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "この隊長えぐい声出しそう…"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "濁点ついてそう..."
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3lbqfybuggc2z",
+            "label": [
+                0.01300667505711317,
+                0.007663012016564608,
+                0.005379381589591503,
+                0.0036982756573706865,
+                0.0002339431521249935,
+                0.967944860458374,
+                0.0016629802994430065,
+                0.00041076281922869384
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "濁点ついてそう..."
+                },
+                {
+                    "author": "did:plc:wt3yjrjzrwnbjndmgcmdcnra",
+                    "type": 2,
+                    "utter": "は゛や゛く゛ASMRた゛し゛て゛よ゛ぉ゛(血涙)"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "うるせぇなぁ、イカすぞ"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3lbrctgjj6s2b",
+            "label": [
+                0.00964751560240984,
+                0.02228008583188057,
+                0.0879049301147461,
+                0.007022579200565815,
+                0.8382121920585632,
+                0.004513007588684559,
+                0.0275439340621233,
+                0.0028757720720022917
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "最近のベルは毎晩これ着て一緒に寝る"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "純心な19歳だからエロ下着とか着たことなさそうだし買ってあげたい"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "スケスケ下着とか買うか\nｳﾎﾎｲ"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3lepqomm7os2v",
+            "label": [
+                0.0027162826154381037,
+                0.0007078445050865412,
+                0.9955269694328308,
+                0.0001844125654315576,
+                0.00025742905563674867,
+                0.0002081773418467492,
+                0.00030549350776709616,
+                9.340708493255079e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "スケスケ下着とか買うか\nｳﾎﾎｲ"
+                },
+                {
+                    "author": "did:plc:wt3yjrjzrwnbjndmgcmdcnra",
+                    "type": 2,
+                    "utter": "今買い物して帰ってきました(意味深"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "は？"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3leqru6m42k2v",
+            "label": [
+                0.0007879844051785767,
+                0.0007696125539951026,
+                0.00041423510992899537,
+                0.9956948757171631,
+                0.000808451441116631,
+                0.0003339413378853351,
+                0.0010401344625279307,
+                0.00015078409342095256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "は？"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "ベルにエロ下着着せて本気交尾してえ〜〜〜"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "無限種付けしてぇなx～～～"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3leqsp4rzyc2v",
+            "label": [
+                0.0003363905707374215,
+                0.0002401041565462947,
+                0.999079704284668,
+                8.44714159029536e-05,
+                5.6753680837573484e-05,
+                8.60708678374067e-05,
+                6.927077629370615e-05,
+                4.715098111773841e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "無限種付けしてぇなx～～～"
+                },
+                {
+                    "author": "did:plc:wt3yjrjzrwnbjndmgcmdcnra",
+                    "type": 2,
+                    "utter": "新スキンで○。○○するし、時間の問題"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "1番セックスしそうなモディファイア"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3ler2otrsqs23",
+            "label": [
+                0.007204981055110693,
+                0.00026120978873223066,
+                0.9917820692062378,
+                0.00019084654923062772,
+                7.697225373703986e-05,
+                0.00027469327324070036,
+                0.00010406778892502189,
+                0.00010514700261410326
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "ヤスさんでシコるぺこりんこでシコるヤスさん"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "お疲れナキたんのちんこを手コキする俺👴"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "ゆんゆんに浮気って言われろ"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3legvyarfik25",
+            "label": [
+                0.04564562067389488,
+                0.2784520983695984,
+                0.18028561770915985,
+                0.05162234231829643,
+                0.30118489265441895,
+                0.07026855647563934,
+                0.062328990548849106,
+                0.010211905464529991
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "ゆんゆんに浮気って言われろ"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "最近冷たくてな。昔は俺にベッタリだったのに……"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "寒冷期じゃない？"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3legwnwq3qs25",
+            "label": [
+                0.0012995096622034907,
+                0.00046371002099476755,
+                0.0025487400125712156,
+                0.9946777820587158,
+                0.00011675743735395372,
+                0.0004984323750250041,
+                0.00024791370378807187,
+                0.00014711236872244626
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "寒冷期じゃない？"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "嫌々ながらも顔舐めさせてくれるから最高よ。"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "ニッチだなぁ"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3legxqyrifs25",
+            "label": [
+                0.8650500178337097,
+                0.04358186200261116,
+                0.03289484977722168,
+                0.022068478167057037,
+                0.000450967694632709,
+                0.027286672964692116,
+                0.005484386347234249,
+                0.0031827520579099655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "ニッチだなぁ"
+                },
+                {
+                    "author": "did:plc:wt3yjrjzrwnbjndmgcmdcnra",
+                    "type": 2,
+                    "utter": "コミケ帰りのオフパコ3p🥺"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "なるほど？"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3leh4kveres25",
+            "label": [
+                0.0018177456222474575,
+                0.0003450437216088176,
+                0.0013728518970310688,
+                0.9957177042961121,
+                0.00019692227942869067,
+                0.00016873268759809434,
+                0.0002222913026344031,
+                0.0001587033038958907
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 1,
+                    "utter": "なるほど？"
+                },
+                {
+                    "author": "did:plc:ogi6zvnenhehf5wwsdkih7yh",
+                    "type": 2,
+                    "utter": "俺は2本同時おしゃぶりでも構わんが……"
+                },
+                {
+                    "author": "did:plc:qhudcipei67b5at5ujwedpvp",
+                    "type": 3,
+                    "utter": "ぺこりんことゆんゆんの二本同時"
+                }
+            ],
+            "uri": "at://did:plc:qhudcipei67b5at5ujwedpvp/app.bsky.feed.post/3leh5kvwmtk25",
+            "label": [
+                0.9984160661697388,
+                0.00014391278091352433,
+                0.0005751671269536018,
+                0.0005488167516887188,
+                5.2076145948376507e-05,
+                6.177039176691324e-05,
+                9.040587610797957e-05,
+                0.00011167331103933975
+            ]
+        }
+    ]
+}

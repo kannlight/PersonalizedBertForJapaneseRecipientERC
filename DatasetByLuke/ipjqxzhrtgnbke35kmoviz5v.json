@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "黒域激闘に紅莉栖が強すぎる。どうなってんだお前"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "フレネルさんとかエリカ様出すと余計に際立つ紅莉栖とイオス様の2強感"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "イオスもせっかく引いたし育てなきゃなぁ"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lbqy3pypwk25",
+            "label": [
+                0.0014263070188462734,
+                0.0002164140169043094,
+                0.9979070425033569,
+                0.0001167895898106508,
+                6.272382597671822e-05,
+                0.0001371995167573914,
+                6.355507503030822e-05,
+                7.003463542787358e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "イオスもせっかく引いたし育てなきゃなぁ"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "つよいよ!\nスキンがどれもすけべだよ。"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "あー、そういやスキンて限定のやつ結構来てるんだよな…どうせだし気になったの買っちゃおうかな"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lbqyjpnpds25",
+            "label": [
+                0.0036496079992502928,
+                0.00023128768953029066,
+                0.9955931305885315,
+                0.0001338875008514151,
+                8.454880298813805e-05,
+                0.00014052771439310163,
+                8.03656512289308e-05,
+                8.6667321738787e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "あー、そういやスキンて限定のやつ結構来てるんだよな…どうせだし気になったの買っちゃおうかな"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "周年だからね。\n欲しいのかっちゃお。水着くるかいとか（?）"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "好きすぎか！"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lbqzfzjkoc2r",
+            "label": [
+                0.9996556043624878,
+                4.134667688049376e-05,
+                6.506693898700178e-05,
+                7.145612471504137e-05,
+                3.0017994504305534e-05,
+                4.064941094839014e-05,
+                4.783307304023765e-05,
+                4.806088327313773e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "好きすぎか！"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "じゃあ水着マックス（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "だぁい！"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lbr2jysfvk2r",
+            "label": [
+                0.7562452554702759,
+                0.04134419932961464,
+                0.11234775930643082,
+                0.0042612855322659016,
+                0.02990967407822609,
+                0.008109381422400475,
+                0.03788888826966286,
+                0.009893589653074741
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "だぁい！"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "マジレスすると新春クロ\n今回君恵さん\n花嫁君恵さん\n覚醒ハッブル\n今回ヴィー\nあたりを買いました（）"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "結構買ってるな…\n\nうちもいくつか買っとこ"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lbr3eukoi22r",
+            "label": [
+                0.9984381794929504,
+                9.430465433979407e-05,
+                0.000778969784732908,
+                0.00037546464591287076,
+                4.0108880057232454e-05,
+                7.504524546675384e-05,
+                7.625735452165827e-05,
+                0.00012171093840152025
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "最近旦那に哲学入門本とかそのたぐいのものを読まされて頭の中に宇宙が形成されつつある。\n\n\nえ？読んだらお小遣いくれるの？しょうがないなぁ…"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "シーラさんにお小遣い出せば好きな思想書を読ませられる?（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "ちなみに言うと相場200ページで10000円ほどです。"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lfc3y6f7522l",
+            "label": [
+                0.822311282157898,
+                0.0018763082334771752,
+                0.16391126811504364,
+                0.002344431821256876,
+                0.0008903518319129944,
+                0.002848590724170208,
+                0.001851588604040444,
+                0.00396618340164423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "ちなみに言うと相場200ページで10000円ほどです。"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "悪くないのでは?（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "もっというと200ページが限度です（）"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lfcajavit22l",
+            "label": [
+                0.15666328370571136,
+                0.6127579808235168,
+                0.012400936335325241,
+                0.0038637423422187567,
+                0.0006432468653656542,
+                0.19463315606117249,
+                0.01749911531805992,
+                0.0015386092709377408
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "もっというと200ページが限度です（）"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "笑顔になった（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "うふふ"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lfcblfar6k2l",
+            "label": [
+                0.9995365142822266,
+                7.108718273229897e-05,
+                0.00016822140605654567,
+                6.042603854439221e-05,
+                2.070531263598241e-05,
+                5.433162004919723e-05,
+                5.381429218687117e-05,
+                3.4986416721949354e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "うふふ"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "でも読めるのそもそもすげぇなって。"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "すごーーーーーくしかめっ面しながら読む羽目になるからお小遣いもらってるんすよね…"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lfcbpw3th22l",
+            "label": [
+                0.09563297033309937,
+                0.7777073383331299,
+                0.005397550296038389,
+                0.0096361692994833,
+                0.002155737252905965,
+                0.09276697039604187,
+                0.014784768223762512,
+                0.0019185587298125029
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 1,
+                    "utter": "すごーーーーーくしかめっ面しながら読む羽目になるからお小遣いもらってるんすよね…"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 2,
+                    "utter": "あたまのなかぐるぐるちゃんになるのも理解るのでなおさらに凄味"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 3,
+                    "utter": "言うて鬱なって10年くらい本読めなかったから読めるようになったの最近よ"
+                }
+            ],
+            "uri": "at://did:plc:ipjqxzhrtgnbke35kmoviz5v/app.bsky.feed.post/3lfcdtjozss27",
+            "label": [
+                0.11072620749473572,
+                0.8344902992248535,
+                0.0009792855707928538,
+                0.03591594472527504,
+                0.0014448023866862059,
+                0.009274250827729702,
+                0.006248171906918287,
+                0.0009209929849021137
+            ]
+        }
+    ]
+}

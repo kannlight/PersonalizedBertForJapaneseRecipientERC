@@ -1,0 +1,669 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "マットレスさえ良ければどうにかなる気がしてるけど、それは浅知恵…？？？🧐"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "それはそう。マットレスの方が大事。"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "ありがと〜😭\nマジでまさか一人暮らしなどする予定なかったから、家具とかまっっったく無頓着で、今何も分からず、調べれば調べるほど混乱しているwww"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lfka25fcjk2a",
+            "label": [
+                0.949540913105011,
+                0.009656388312578201,
+                0.0004235840169712901,
+                0.016836391761898994,
+                0.000229861747357063,
+                0.02231716364622116,
+                0.0005827541463077068,
+                0.00041295960545539856
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "ありがと〜😭\nマジでまさか一人暮らしなどする予定なかったから、家具とかまっっったく無頓着で、今何も分からず、調べれば調べるほど混乱しているwww"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "わかる範囲でなら何でも答えるんで、参考程度に聞いてくれ！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "😭神よ…\n最低限の電化製品と寝具でしばらく生きていこうと思う笑\nマットと布団だけちょいいいやつにする"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lfkaqviiqk24",
+            "label": [
+                0.02141556702554226,
+                0.06272943317890167,
+                0.8979114294052124,
+                0.0015419772826135159,
+                0.0003483376931399107,
+                0.013611381873488426,
+                0.0015601270133629441,
+                0.0008818270289339125
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "😭神よ…\n最低限の電化製品と寝具でしばらく生きていこうと思う笑\nマットと布団だけちょいいいやつにする"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "ん、それで良いと思う！すぐ必要なもの以外は焦らなくて良いと思うよ〜\n寒くないようにだけは気をつけてな！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "ありがと🥺\nあ、カーペットって必要？"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lfkbi4qsfk24",
+            "label": [
+                0.9994285702705383,
+                5.733868238166906e-05,
+                0.00026047753635793924,
+                8.724239887669683e-05,
+                2.2677269953419454e-05,
+                4.605724461725913e-05,
+                4.636816447600722e-05,
+                5.128383054398e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "ありがと🥺\nあ、カーペットって必要？"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "私は使ってないよ！掃除が楽だから！\nでも、インテリアこだわる場合はあっても良いのかも\n床にごろーんと転がりたいなら必須かなあ\n\nあ、でも私はカーペットはないんだけどヨガマット出しっぱなしになってるw"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "そうなんだよね、掃除考えるとカーペットいらんのよな〜\nそもそもソファとかもまーったく考えてないから、わたしはどこに座るんだろう…🤔"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lfkbs6la7c24",
+            "label": [
+                0.03397788479924202,
+                0.9107370972633362,
+                0.0041399127803742886,
+                0.0019013626733794808,
+                0.00013377291907090694,
+                0.04702604189515114,
+                0.0017589714843779802,
+                0.00032497692154720426
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "そうなんだよね、掃除考えるとカーペットいらんのよな〜\nそもそもソファとかもまーったく考えてないから、わたしはどこに座るんだろう…🤔"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "あー座る場所は意外と必要かも\nあとテーブル\nお部屋の広さにもよるけど、コンパクトなお部屋ならご飯食べれて作業机にもなるみたいなテーブルと一人がけのチェアあるといいかな\nあんまり使わないならローテーブルと一人用のソファとかクッション？\nローテーブルメイン使用ならカーペットがある方が便利かもしれない"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "とりあえずしばらくオフトゥンで生活して検討するわ…！大学のときどうしたっけかなぁ"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lfkf3e3x4s24",
+            "label": [
+                0.0007297227857634425,
+                0.00019157757924403995,
+                0.9986878037452698,
+                0.00011379991337889805,
+                4.48289247287903e-05,
+                0.00012936556595377624,
+                4.844158684136346e-05,
+                5.444740963866934e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "行かないとダメだよ😡😡😡😡😡"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "でも突き指とかだとどっちにしろ湿布貼るだけじゃん？って放置してしまってた\n痛いことは痛いけど折れてる感じはしないんだもんよ"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "それはでもわかるwww\nでもヒビってるかもじゃん"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lf366h2l6z2q",
+            "label": [
+                0.01710374280810356,
+                0.005457017105072737,
+                0.004796561319380999,
+                0.022129401564598083,
+                0.00061801791889593,
+                0.9480220079421997,
+                0.0012218772899359465,
+                0.0006513640400953591
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "それはでもわかるwww\nでもヒビってるかもじゃん"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "明日は出社しないとだから、明日様子見てみてダメそうだったら明後日病院行ってみる～！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "はよ治るといいな！"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lf37pmlk2t2e",
+            "label": [
+                0.00028966303216293454,
+                0.00042704498628154397,
+                0.9988610744476318,
+                9.09166265046224e-05,
+                6.155970186227933e-05,
+                0.0001130231175920926,
+                0.00010137424396816641,
+                5.5411310313502327e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "はよ治るといいな！"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "ありがとー！\nそっちは健康？年末年始で不調出てない？"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "腰死んでる"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lf4czf6x3k2l",
+            "label": [
+                0.0002217778965132311,
+                0.9984461665153503,
+                0.00015730608720332384,
+                0.00012413780495990068,
+                0.00010334423132007942,
+                0.0003441168228164315,
+                0.0005714985309168696,
+                3.169363844790496e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "腰死んでる"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "あかんやん\nキミこそ病院行けよ！！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "整骨院行ってる〜！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "整骨院で、「なんでこんななったんや！」と怒られながら治療されている…"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lf4eormbyn2q",
+            "label": [
+                0.0013070594286546111,
+                0.9947644472122192,
+                0.0002749761624727398,
+                0.0005839620134793222,
+                0.0001145204805652611,
+                0.002183682518079877,
+                0.0007115361513569951,
+                5.988944030832499e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "風邪が治りきってないけど、明日偉いおじたちの送迎を一手に引き受けているため気合いで治さなければならない\nおじたちには菓子を買わせる"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "まだ体調良くないのか\n今日のお仕事も心配だけど明日も大丈夫か？\nしんどかったら無理せんようにな！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "から咳が出るだけなんだけど、なんか咳出ると申し訳なくて…😷\nでも今日は寿司だから頑張って行きたいwww"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldp62kiwxd2e",
+            "label": [
+                0.0018153917044401169,
+                0.0007766667404212058,
+                0.9960195422172546,
+                7.29134408175014e-05,
+                6.19273487245664e-05,
+                0.0010474473237991333,
+                0.00011540129344211891,
+                9.072510874830186e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "から咳が出るだけなんだけど、なんか咳出ると申し訳なくて…😷\nでも今日は寿司だから頑張って行きたいwww"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "インフルもコロナも大絶賛流行ってるからなあ……\nなんか、喉にきてる人結構私の周りで見かけるよ"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "今年のは喉にくる〜😩"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldp762hgz224",
+            "label": [
+                0.00040803468436934054,
+                0.9947096109390259,
+                0.00015788146993145347,
+                0.0006752120098099113,
+                0.00016401332686655223,
+                0.0010544596007093787,
+                0.0027862582355737686,
+                4.452729262993671e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "今年のは喉にくる〜😩"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "地元の友人、最初は喉おかしいんかな？くらいだったのがついに声出んくなってたからな……\n早めに病院行ってくれ！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "病院は行ったし、ほぼ治ってるから、完全に治すために免疫力高めるわ💪"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldp7m5lgew2j",
+            "label": [
+                0.0003845460887532681,
+                0.0003449712530709803,
+                0.9988784193992615,
+                8.502136915922165e-05,
+                6.0560822021216154e-05,
+                0.00010738036507973447,
+                7.92469727457501e-05,
+                5.9778656577691436e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "病院は行ったし、ほぼ治ってるから、完全に治すために免疫力高めるわ💪"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "おお〜頑張れ免疫力……！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "喉にいいのって何なんだろ？？？はちみつ的な？？？"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldpayrv2aa2n",
+            "label": [
+                0.0007095162873156369,
+                0.00026063164114020765,
+                0.9985942244529724,
+                0.00012387862079776824,
+                3.201859726686962e-05,
+                0.00017820803623180836,
+                4.4705790060106665e-05,
+                5.675667853211053e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "喉にいいのって何なんだろ？？？はちみつ的な？？？"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "マヌカハニーの殺菌力高いやつおすすめだよ！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "なんか家にあった気がする…\nありがと〜😘"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldpdsjjrou2n",
+            "label": [
+                0.9996259212493896,
+                7.212907075881958e-05,
+                8.178214920917526e-05,
+                6.88741056364961e-05,
+                1.939730645972304e-05,
+                4.188159800833091e-05,
+                4.999528391635977e-05,
+                3.999801992904395e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "お疲れ〜🍺"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "ありがとー！\n新幹線のトイレ入ろうと思ったら床も便器もべしゃべしゃで入る気なくなったので東京着くまでトイレ我慢タイムアタックがはじまってる"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "そんな試練ある？！？！"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldingfb7232h",
+            "label": [
+                0.0004774075641762465,
+                0.00032429638667963445,
+                0.0007350841187871993,
+                0.9976909160614014,
+                0.0002151334483642131,
+                0.0002878636005334556,
+                0.00016379104636143893,
+                0.00010554560867603868
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "そんな試練ある？！？！"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "わたしの膀胱にエールをくれ！！がんばれって！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "膀胱がんばれ！あっためたら伸びるから！多分"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldinyjafhk2j",
+            "label": [
+                0.00020123054855503142,
+                0.00023990591580513865,
+                0.9991377592086792,
+                0.00011881936370627955,
+                7.843757339287549e-05,
+                8.920597610995173e-05,
+                7.464585360139608e-05,
+                5.988765769870952e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "膀胱がんばれ！あっためたら伸びるから！多分"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "膀胱あっためられるような持ち物がなにもない\n静岡がなげえ"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "静岡面積でかいからな…"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldio4xmcoy2o",
+            "label": [
+                0.42011862993240356,
+                0.07448273152112961,
+                0.019729003310203552,
+                0.3057143986225128,
+                0.006567863281816244,
+                0.13658542931079865,
+                0.02190987952053547,
+                0.01489204727113247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "静岡面積でかいからな…"
+                },
+                {
+                    "author": "did:plc:e43cdyvvu375dluppwjaltzl",
+                    "type": 2,
+                    "utter": "車で通っても「まだ静岡…まだ静岡…」が延々続くからね"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "膀胱は耐えたのか？？？"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3ldk7a5adyv2e",
+            "label": [
+                0.034025415778160095,
+                0.008132955059409142,
+                0.06497931480407715,
+                0.7664685845375061,
+                0.0012479430297389627,
+                0.12167421728372574,
+                0.0012754966737702489,
+                0.0021961075253784657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "謎の配色の衣装だけど、ぴあきの顔がべらぼうにかわいいな？？？"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "でっしょ！どんな服でもこの顔の可愛さなら許される！！！"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "他にもっと色とかあったやろwwwと思いつつ顔が可愛すぎてどうでもよくなるな😂"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lc5xrznwu62z",
+            "label": [
+                0.9996688365936279,
+                4.5829274313291535e-05,
+                6.936307181604207e-05,
+                6.624808884225786e-05,
+                2.167141246900428e-05,
+                4.431402703630738e-05,
+                4.3133783037774265e-05,
+                4.0643975808052346e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "他にもっと色とかあったやろwwwと思いつつ顔が可愛すぎてどうでもよくなるな😂"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "そう。それなのにストーリーでは可哀想な目にあってんの。こんな可愛い子が。ゆるせない"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "そんなことある？！\nこんなほくほく顔なのに？！？！うそやろ"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lc5ztuzfz42r",
+            "label": [
+                0.0005286125815473497,
+                0.000436946953414008,
+                0.00044930889271199703,
+                0.9978460073471069,
+                0.0001940273941727355,
+                0.00023335662262979895,
+                0.000212648359593004,
+                9.90882545011118e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "そんなことある？！\nこんなほくほく顔なのに？！？！うそやろ"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "なんか、カラオケに流星隊メンバー誘ったら全員から「行けたら行く」って言われて「わーいみんなでカラオケ！」って一人で待ってたら誰も来なくて、唯一忍くんだけが駆けつけてくれそうだったんだけどお部屋の延長できなくて一緒にカラオケできなかった……"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "そんなバカな…？！？！？！\nひどすぎない？！？！？！\nなんでなの"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lc64ygyciu2x",
+            "label": [
+                0.00031030422542244196,
+                0.0007029850967228413,
+                0.00036789142177440226,
+                0.9972532391548157,
+                0.00048450950998812914,
+                0.0004563428810797632,
+                0.0003289954620413482,
+                9.569110989104956e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 1,
+                    "utter": "そんなバカな…？！？！？！\nひどすぎない？！？！？！\nなんでなの"
+                },
+                {
+                    "author": "did:plc:cb7z3ykxqporfdjmsxbbzp7p",
+                    "type": 2,
+                    "utter": "ひどいのよ\nなんでこの可愛い子がそんな酷い扱いを受けるのよ……"
+                },
+                {
+                    "author": "did:plc:4maa2ittwqbw7nv4wl6gzvdk",
+                    "type": 3,
+                    "utter": "こんな楽しそうに歌ってるカードのに…？！かわいそかわいいねらい？？？ぴあきガチ勢はそんなん求めてなくない？"
+                }
+            ],
+            "uri": "at://did:plc:4maa2ittwqbw7nv4wl6gzvdk/app.bsky.feed.post/3lc65ai7r5i2k",
+            "label": [
+                0.9983616471290588,
+                0.000489073630888015,
+                0.0002217811270384118,
+                0.0006287859287112951,
+                3.386016032891348e-05,
+                7.293943781405687e-05,
+                0.00011036636715289205,
+                8.145599713316187e-05
+            ]
+        }
+    ]
+}

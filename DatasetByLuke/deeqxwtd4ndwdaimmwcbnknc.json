@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "Amazonじゃ売ってないな"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "というかそんなの調べてるんだ\n|ω・`)じー"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "モチくんに使う為に欲しいじゃん！"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3lbgo3ng3d22w",
+            "label": [
+                0.0019214027561247349,
+                0.00029827136313542724,
+                0.9973342418670654,
+                0.0001423148496542126,
+                7.439168257405981e-05,
+                8.833522588247433e-05,
+                7.115943299140781e-05,
+                6.985579966567457e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "モチくんに使う為に欲しいじゃん！"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "ほほぉ～たとえばどんなのだい"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "自動で止めるまでピストンし続けるやつとか〜"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3lbhhovodks2l",
+            "label": [
+                0.001233775052241981,
+                0.00026382794021628797,
+                0.9980525970458984,
+                0.00014683381596114486,
+                5.9756868722615764e-05,
+                9.563374624121934e-05,
+                9.072278044186532e-05,
+                5.682773917214945e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "自動で止めるまでピストンし続けるやつとか〜"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "お主が使いたいだけだろー！"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "え〜モチくんに使ってあえがせたい"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3lbhlb4h2uk2l",
+            "label": [
+                0.0007805032073520124,
+                0.0002860633539967239,
+                0.9985607266426086,
+                0.00012014801177429035,
+                5.701810368918814e-05,
+                8.163285383488983e-05,
+                6.151284469524398e-05,
+                5.237722143647261e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "え〜モチくんに使ってあえがせたい"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "お手柔らかにだよ〜💦"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "最初はもちろん慣らせてからしてあげる♪"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3lbhm7qvp5k2l",
+            "label": [
+                0.803007960319519,
+                0.0007916429312899709,
+                0.19369326531887054,
+                0.0005498285754583776,
+                0.0003175306774210185,
+                0.0006145403604023159,
+                0.0004509492719080299,
+                0.0005743254441767931
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "わかる"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "12月末から昼夜逆転しちゃったあ\n(´･ω･`)"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "同じだね💕"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3leuat2nl722y",
+            "label": [
+                0.999576985836029,
+                7.226116576930508e-05,
+                0.00013207898882683367,
+                6.576500163646415e-05,
+                2.1869807824259624e-05,
+                3.35045660904143e-05,
+                5.664854325004853e-05,
+                4.0797123801894486e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "同じだね💕"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "うはーこの狐発情期だあ"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "夜型なだけだもーん"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3leuaz33wlc2y",
+            "label": [
+                0.0008823925163596869,
+                0.9978970289230347,
+                0.00021786867000628263,
+                0.00018759004888124764,
+                6.435255636461079e-05,
+                0.0001491632719989866,
+                0.0005697127198800445,
+                3.187411493854597e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "夜型なだけだもーん"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "ふふ〜ん、なるほどね…🙄"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "でもモチくんが発情期なら仕方ない、収めるの付き合おう👋"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3leubbmrvhk2y",
+            "label": [
+                0.26225587725639343,
+                0.0700453668832779,
+                0.6512075662612915,
+                0.0015923705650493503,
+                0.0005253462586551905,
+                0.010176977142691612,
+                0.002534799976274371,
+                0.0016616691136732697
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "でもモチくんが発情期なら仕方ない、収めるの付き合おう👋"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "な、なんじゃとお～\nふ、あまいね。いつ私が発情期だと錯覚した\n-==≡ｶｻｶｻ ┌( ┐´◉ω◉`)┐"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "ほんとかな〜〜R18アカウントから呟いてるのに〜"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3leubqathos2y",
+            "label": [
+                0.0003389385237824172,
+                0.9938979744911194,
+                0.00018780170648824424,
+                0.0005981806898489594,
+                0.0012410253984853625,
+                0.0006784063880331814,
+                0.0030016908422112465,
+                5.601172961178236e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "年々作画が難しくなりそうー"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "そんな手のこってるキャラデザはややねー💦"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "画力も上がってくと思うけど"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3le2s3xufec2q",
+            "label": [
+                0.001049715094268322,
+                0.00023897236678749323,
+                0.9982507824897766,
+                0.00011352491128491238,
+                8.302785863634199e-05,
+                0.00010813816334120929,
+                8.04554729256779e-05,
+                7.532317249570042e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "画力も上がってくと思うけど"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "んあ！自分の場合だったら、そこまで複雑なえにしないかな～ってことだよぉ～！\n\nさかきばくんがそうするなら是非是非見てみたいものですな～✨✨"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "僕は晩年18歳と25歳のケモショタお兄さんが好みなの〜"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3le2stvc65c2q",
+            "label": [
+                0.2290966659784317,
+                0.0007510901778005064,
+                0.7671823501586914,
+                0.00046294397907331586,
+                0.0004667103639803827,
+                0.0006748471059836447,
+                0.0005814345786347985,
+                0.0007838550372980535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "僕は晩年18歳と25歳のケモショタお兄さんが好みなの〜"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "ケモショタなのかそれは…💦"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "可愛いければケモショタ！"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3le2u3qimrs2q",
+            "label": [
+                0.9798473119735718,
+                0.0003655478067230433,
+                0.017769208177924156,
+                0.00036591963726095855,
+                0.0003521959006320685,
+                0.00015157541201915592,
+                0.0007631112821400166,
+                0.0003851245855912566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 1,
+                    "utter": "可愛いければケモショタ！"
+                },
+                {
+                    "author": "did:plc:plcslnon2gpxmhm4g3we7cwz",
+                    "type": 2,
+                    "utter": "( ´-ω-)σさかきば先輩 ソレね"
+                },
+                {
+                    "author": "did:plc:deeqxwtd4ndwdaimmwcbnknc",
+                    "type": 3,
+                    "utter": "それか furry femboy"
+                }
+            ],
+            "uri": "at://did:plc:deeqxwtd4ndwdaimmwcbnknc/app.bsky.feed.post/3le2uvalaqs2q",
+            "label": [
+                0.9862572550773621,
+                0.002087322296574712,
+                0.006822007242590189,
+                0.002038700971752405,
+                0.00029831533902324736,
+                0.0005983449518680573,
+                0.000909377180505544,
+                0.0009887608466669917
+            ]
+        }
+    ]
+}

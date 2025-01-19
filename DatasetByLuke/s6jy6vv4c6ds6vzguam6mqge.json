@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "年始に4連勤９時間とかいうふざけたシフトのせいでなんもできんかったわ"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "オート回そう👍"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "忘れてたね"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lfebl5zrtk2e",
+            "label": [
+                0.8269332647323608,
+                0.03831154853105545,
+                0.03142701834440231,
+                0.03966003656387329,
+                0.0014480750542134047,
+                0.05102800577878952,
+                0.006957621313631535,
+                0.004234358202666044
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "忘れてたね"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "あれまぁ( ˙꒳​˙  )"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "帰ってマイセカイやりたい"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lfebqydeds2e",
+            "label": [
+                0.010237446054816246,
+                0.0054755364544689655,
+                0.9831970930099487,
+                0.0001386684743920341,
+                0.0001445301022613421,
+                0.00022098464251030236,
+                0.0004247854230925441,
+                0.00016094847524072975
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "帰ってマイセカイやりたい"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "本日何限まで？"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "次の三限で終わりだよ"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lfebttcvc22e",
+            "label": [
+                0.37261858582496643,
+                0.5822941064834595,
+                0.019671931862831116,
+                0.0037678037770092487,
+                0.0004489512648433447,
+                0.009970082901418209,
+                0.009215712547302246,
+                0.0020128265023231506
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "次の三限で終わりだよ"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "がんばー"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "でっかいダウンロードで開くことすらできねぇ\n授業中オートも回せんw"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lfebyqbykc2e",
+            "label": [
+                0.0006436994299292564,
+                0.9916189908981323,
+                0.00013080959615763277,
+                0.0010189361637458205,
+                0.0004632177297025919,
+                0.004963431507349014,
+                0.001100216992199421,
+                6.0626854974543676e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "おはよ！"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "おはよ！"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "学校はー？"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lf4ijnlbsc2o",
+            "label": [
+                0.7095147967338562,
+                0.007765098474919796,
+                0.26228317618370056,
+                0.011889651417732239,
+                0.0007174613419920206,
+                0.00422119302675128,
+                0.001589277759194374,
+                0.002019386040046811
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "学校はー？"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "学校なう"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "ちゃんと受けなさい()"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lf4inguxo22o",
+            "label": [
+                0.0023914349731057882,
+                0.0033858183305710554,
+                0.9869699478149414,
+                0.0005576132680289447,
+                0.0026845091488212347,
+                0.0011807589326053858,
+                0.0018349569290876389,
+                0.0009949550731107593
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "ちゃんと受けなさい()"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "休み時間でーす😏😏"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "うわぁぁ、"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lf4iqik6is2o",
+            "label": [
+                0.017477182671427727,
+                0.4250594973564148,
+                0.0009236800251528621,
+                0.514956533908844,
+                0.0016143523389473557,
+                0.02051275409758091,
+                0.01893407106399536,
+                0.0005219518207013607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "うわぁぁ、"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "なんですか、😸"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "なんでもないですよーだ"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lf4jts4l322o",
+            "label": [
+                0.9930423498153687,
+                0.001510906033217907,
+                0.0008377544581890106,
+                0.0002740517957136035,
+                0.00016576269990764558,
+                0.001180842868052423,
+                0.002458749106153846,
+                0.0005296113668009639
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "なんでもないですよーだ"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "なんで2回言った？w"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "大事なこと？なので"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lf4kio4t4c2o",
+            "label": [
+                0.04611099511384964,
+                0.003601894248276949,
+                0.8217928409576416,
+                0.004540398716926575,
+                0.0033740042708814144,
+                0.10410583019256592,
+                0.0029231628868728876,
+                0.013550798408687115
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "心当たりしかないだろ"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "はて(´･ω･`)？"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "あなたは\nありあ教って知ってるかい？\nかつて存在した伝説の宗教だよ…"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lewd6x6xle2m",
+            "label": [
+                0.14744976162910461,
+                0.021539373323321342,
+                0.3736638128757477,
+                0.3839077353477478,
+                0.0021855602972209454,
+                0.058550313115119934,
+                0.004379021469503641,
+                0.00832449272274971
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 1,
+                    "utter": "あなたは\nありあ教って知ってるかい？\nかつて存在した伝説の宗教だよ…"
+                },
+                {
+                    "author": "did:plc:onlkwsup6efyxgeedidbz4mq",
+                    "type": 2,
+                    "utter": "きいたことないなー()"
+                },
+                {
+                    "author": "did:plc:s6jy6vv4c6ds6vzguam6mqge",
+                    "type": 3,
+                    "utter": "なぜだろうね、私はなぜか同い年ということを知っている"
+                }
+            ],
+            "uri": "at://did:plc:s6jy6vv4c6ds6vzguam6mqge/app.bsky.feed.post/3lewdcelswe2m",
+            "label": [
+                0.002177303656935692,
+                0.006813838146626949,
+                0.0008172469679266214,
+                0.981920063495636,
+                0.0002678253222256899,
+                0.007376859430223703,
+                0.0004053041629958898,
+                0.00022159774380270392
+            ]
+        }
+    ]
+}

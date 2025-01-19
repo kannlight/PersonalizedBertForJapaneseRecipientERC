@@ -1,0 +1,519 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "零号ホロウですか…気になりますねぇ"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "ふん、知っての通り、零号ホロウ内部の調査は防衛軍主体で行うんだ。手がかりが向こうに行った以上、俺ら治安局の出番は終わり。あんたの出る幕はないぞ。(同僚の刑事)"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "なんだかんだ行くんだよなぁという厚い信頼"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lbyg32cwnk2b",
+            "label": [
+                0.8889987468719482,
+                0.0032224601600319147,
+                0.0887434110045433,
+                0.0009539782186038792,
+                0.0009337048977613449,
+                0.009797987528145313,
+                0.0018094583647325635,
+                0.0055403574369847775
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "なんだかんだ行くんだよなぁという厚い信頼"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "しかし、そもそもなぜ犯人は零号ホロウで行動できたのでしょうかねぇ。\n零号ホロウは文字通りの坩堝ですから、外部の人間がどんなに緻密な計画を立てようとしても、情報は防衛軍が発表しているもの、それも市民に向けて大まかにまとめられたものしか頼れないはずです。\nそんな拙い情報量では、零号ホロウを計画に組み込むようなリスクを取るより、もっと他の場所を選ぶはずではありませんか？\nしかし犯人は、我々治安官でも知り得ないような零号ホロウの千変万化な状況を理解しており、自身の計画に組み込むことができた…不思議ですねぇ。"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "（俺の解像度が荒すぎるのでそのまま続けて）"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lbygpfqahc2b",
+            "label": [
+                0.2760573923587799,
+                0.212810218334198,
+                0.35577452182769775,
+                0.006788854952901602,
+                0.0058708395808935165,
+                0.07853025197982788,
+                0.05574197322130203,
+                0.008426005952060223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "（俺の解像度が荒すぎるのでそのまま続けて）"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "なるほど。確かにホロウレイダーやプロキシなら、一般人よりは零号ホロウのことを知っているかもしれません。\nしかしながら、一般のホロウレイダーやプロキシが零号ホロウに挑んでも、その餌食にされてしまうのが関の山ではありませんか？\nつまり情報源は指折りのホロウレイダーやプロキシに限られるわけですが…この頃は“ヘクトル”も“パエトーン”も、すっかり息を潜めてしまっていますねぇ。加えて先月にはまさに零号ホロウで、“山獅子組“が検挙されたばかり。最近は零号ホロウ内でホロウレイダーの目撃が減ったと、防衛軍の公式情報に出ているくらいです。\nそんな状況でも、犯人には安定した情報が入ってきていた…何故でしょうねぇ。"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "「お前まさか…犯人は防衛軍の中にいるって言いたいのか！？」\nいえいえ、僕もまだそこまでは。しかし、零号ホロウは防衛軍含めたごく僅かな関係者しか、立ち入りが許可されていませんからねぇ。\n治安局が手を引かざるを得ない今、万が一関係者の中に犯人がいたとしたら…残った証拠を消し去る、絶好のチャンスになると思いますがねぇ。"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "すげぇよきやん…"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lbyixwd6lk25",
+            "label": [
+                0.0008067215094342828,
+                0.000518993241712451,
+                0.000561368593480438,
+                0.9973944425582886,
+                0.00015643642109353095,
+                0.00024247328110504895,
+                0.00022387824719771743,
+                9.574008436175063e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "すげぇよきやん…"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "特務捜査班に次ぐ治安局陣営、治安局特命係"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "「もう一つだけよろしいですか？」でサブ垢のパエトーンの正体見破ってきそう"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lbyjc6jsl225",
+            "label": [
+                0.08524324744939804,
+                0.012143345549702644,
+                0.02223508432507515,
+                0.01221546996384859,
+                0.0010933519806712866,
+                0.8610683679580688,
+                0.004117138218134642,
+                0.0018839853582903743
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "ヒルチャール語の成立過程が気になる"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "マスクの血統やん"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "イーロン・マスクかもしれない"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ldiq5gxo2c23",
+            "label": [
+                0.01602964848279953,
+                0.0005598507123067975,
+                0.9797331094741821,
+                0.001745953457430005,
+                0.00011598545825108886,
+                0.0013192263431847095,
+                0.00014772506256122142,
+                0.000348495552316308
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "イーロン・マスクかもしれない"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "イーロンはヒルチャール語学者だった…？"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "ツイッタの変質が表していたものは…"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ldiqkvn6tk23",
+            "label": [
+                0.006065018940716982,
+                0.07329609245061874,
+                0.0007303874008357525,
+                0.028655337169766426,
+                0.0010253501823171973,
+                0.8857868909835815,
+                0.0038474476896226406,
+                0.0005934656364843249
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "ツイッタの変質が表していたものは…"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "カーンルイアの復興…？"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "ワァー"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ldj5ejbgns2a",
+            "label": [
+                0.13990405201911926,
+                0.17658467590808868,
+                0.001037275418639183,
+                0.6437761783599854,
+                0.014501157216727734,
+                0.003209866816177964,
+                0.019797153770923615,
+                0.0011895931093022227
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "ワァー"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "それはwar"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "ｦｫｰ"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ldk7ruh6bs2g",
+            "label": [
+                0.34330764412879944,
+                0.23967565596103668,
+                0.011202228255569935,
+                0.15973760187625885,
+                0.03308441489934921,
+                0.05012980476021767,
+                0.15648774802684784,
+                0.006374886259436607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "ｦｫｰ"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "ヴォルガ博士！？"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "拠点の中に爆弾が！"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ldlhaag7w22c",
+            "label": [
+                0.0009692952735349536,
+                0.0011486912844702601,
+                0.0007234166841953993,
+                0.9831759929656982,
+                0.0004752088862005621,
+                0.012876608408987522,
+                0.0004544882685877383,
+                0.00017625816690269858
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "タッツー、クラブ、オクタン、プルリルのフリーナ"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "友達兼ライバル枠として素敵なやーつ。繰り出してくる順番が物語進捗で進化してって変わるとこまで見えた。初期はタッツーを最初に出すんだけど、終盤は進化したキングドラが最後に控えるみたいな。\n\nではフォンテーヌ繋がりで私も一つ\nユキカブリ、ユキワラシみたいなちび氷ポケモンだけ使ってくるフレミネいかがですか？\nんで未進化しかいないかと思いきやなぜか一匹ユキメノコがいる。"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "いいねそれ"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ld3ityniek2p",
+            "label": [
+                0.9995182752609253,
+                5.028318628319539e-05,
+                0.00018140961765311658,
+                7.543779793195426e-05,
+                3.3499145501991734e-05,
+                3.714586273417808e-05,
+                5.2983665227657184e-05,
+                5.095875167171471e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "いいねそれ"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "このユキメノコ、お父様と一緒に育てたやつだとなお良し。家族と同等の理解者。"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "いいね\nりねりねはニャオニクス持ってるだろうな"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ld3jwq5k422j",
+            "label": [
+                0.11975856125354767,
+                0.0010698010446503758,
+                0.8776544332504272,
+                0.0003213167074136436,
+                0.00021595557336695492,
+                0.0003969575045630336,
+                0.000300957472063601,
+                0.0002819023502524942
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "いいね\nりねりねはニャオニクス持ってるだろうな"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "ダブルバトル仕掛けてくるのが容易に想像できる"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "雄雌差分あるポケモンで統一しててもいいし、マスカーニャとかそういうのでもいい"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ld3kfjrmak2j",
+            "label": [
+                0.025766033679246902,
+                0.0006376258679665625,
+                0.9723353385925293,
+                0.00020670361118391156,
+                0.00021811918122693896,
+                0.0002463079581502825,
+                0.00031335800304077566,
+                0.0002764963428489864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "雄雌差分あるポケモンで統一しててもいいし、マスカーニャとかそういうのでもいい"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "安直に行くならリネはフーディンでリネットがサーナイト"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "あり"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3ld3nonnxf22i",
+            "label": [
+                0.9981181621551514,
+                0.00018587926751933992,
+                0.0008697973098605871,
+                0.0002979375422000885,
+                4.6778306568739936e-05,
+                0.0001262420555576682,
+                0.00020234099065419286,
+                0.00015286204870790243
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "わかるな"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "大学は実質教令院なので随所にスメール要素を見ることができる"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "大学にそのうちガンダムが出現する"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lcjrfcpaws2f",
+            "label": [
+                0.0030263883527368307,
+                0.0002976276446133852,
+                0.9957733750343323,
+                0.000424114492489025,
+                5.521869024960324e-05,
+                0.00028661248506978154,
+                6.221835064934567e-05,
+                7.452713907696307e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "大学にそのうちガンダムが出現する"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "待ってそういやうち情報科学部棟にロボティクス研究所的なとこあるわ"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "こわいやん"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lcjsbdkwlk2f",
+            "label": [
+                0.0006231269217096269,
+                0.0013008338864892721,
+                0.0007588398875668645,
+                0.002731566783040762,
+                0.0009592205169610679,
+                0.992621898651123,
+                0.0007469048723578453,
+                0.0002576846454758197
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "こわいやん"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "ついでに仏教関係の研究してる先生の講座ちょうど今日受けた。\nマジモンの七葉寂照秘密主造れる要素揃ってんなうちの大学。"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "お前がｱｻﾞｧﾙｩするしかない（）"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lcjswrzeek2f",
+            "label": [
+                0.0008144347812049091,
+                0.98146653175354,
+                0.0010176912182942033,
+                0.0008493928471580148,
+                0.00421882001683116,
+                0.0050034308806061745,
+                0.006420337129384279,
+                0.0002095107192872092
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 1,
+                    "utter": "お前がｱｻﾞｧﾙｩするしかない（）"
+                },
+                {
+                    "author": "did:plc:qq2jqjakgq6mh5tou22yfwft",
+                    "type": 2,
+                    "utter": "共通点が定時に早足で帰宅するところしかねぇよ()"
+                },
+                {
+                    "author": "did:plc:vb4qgc43cacdycuxy66vxbgs",
+                    "type": 3,
+                    "utter": "草"
+                }
+            ],
+            "uri": "at://did:plc:vb4qgc43cacdycuxy66vxbgs/app.bsky.feed.post/3lcjt4ouags2f",
+            "label": [
+                0.998555600643158,
+                0.0001537358039058745,
+                0.0004648819158319384,
+                0.0001348389923805371,
+                4.870977136306465e-05,
+                0.00013649481115862727,
+                0.00036374080809764564,
+                0.00014205685874912888
+            ]
+        }
+    ]
+}

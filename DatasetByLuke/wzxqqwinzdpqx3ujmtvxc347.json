@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "私も昨日ラベル貼られた🥲"
+                },
+                {
+                    "author": "did:plc:kk6bth3mqpxaj2vm7qjyzhbu",
+                    "type": 2,
+                    "utter": "そうだったの！？みつちゃんのは今大丈夫なのかな…？\n最近ロック多いって聞いてたから万が一に相互さんメモったりして構えてたけど結構ヒヤッてした😭"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "認証コードでロックは免れたんだけど、仮ラベル貼られちゃってるから慎重にいかないと🥹\n\nよくわかんなーい！！"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3lbswheyuus22",
+            "label": [
+                0.0009934777626767755,
+                0.0018387839663773775,
+                0.0007709025521762669,
+                0.00161212298553437,
+                0.0003752763441298157,
+                0.9939036965370178,
+                0.0003172663564328104,
+                0.00018842621648218483
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "認証コードでロックは免れたんだけど、仮ラベル貼られちゃってるから慎重にいかないと🥹\n\nよくわかんなーい！！"
+                },
+                {
+                    "author": "did:plc:kk6bth3mqpxaj2vm7qjyzhbu",
+                    "type": 2,
+                    "utter": "じゃあ今のとこ同じか…😢\n\nもうなんかプレミアムなら〜とか言われた直後？に加入40%オフとか出てきて「X！！！それがお前のやり方かｧｧｧ！！！」ってなった…"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "プレミアムになると、解除の通知が来るらしいよーーー\n\nほんっとに使いにくくしなさって〜🥹🥹🥹"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3lbsywzrdh227",
+            "label": [
+                0.0040880236774683,
+                0.2109283208847046,
+                0.0032922097016125917,
+                0.01322785671800375,
+                0.32204553484916687,
+                0.00487564317882061,
+                0.4401877224445343,
+                0.0013547457056120038
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "プレミアムになると、解除の通知が来るらしいよーーー\n\nほんっとに使いにくくしなさって〜🥹🥹🥹"
+                },
+                {
+                    "author": "did:plc:kk6bth3mqpxaj2vm7qjyzhbu",
+                    "type": 2,
+                    "utter": "くそ〜〜😭😭\nほんとだよ！私らの青い鳥返してくれよ😭"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "あの頃は楽しかったなぁ🥹"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3lbtqrpcwnk2f",
+            "label": [
+                0.9995266199111938,
+                0.00010419859609100968,
+                0.00011012159666279331,
+                6.0036105423932895e-05,
+                2.588652387203183e-05,
+                4.598999294103123e-05,
+                7.669484330108389e-05,
+                5.048744424129836e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "あの頃は楽しかったなぁ🥹"
+                },
+                {
+                    "author": "did:plc:kk6bth3mqpxaj2vm7qjyzhbu",
+                    "type": 2,
+                    "utter": "何も考えずゾンビもわかず気楽にやってたのにな〜😞"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "理不尽だ〜🥹🥹\nけどラベル仲間は結構いるみたいだから寂しくはない🥺"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3lbu4afyt2k2b",
+            "label": [
+                0.000623414758592844,
+                0.9936677813529968,
+                0.0008981419377960265,
+                0.0001455074525438249,
+                0.0003311900363769382,
+                0.00026252109091728926,
+                0.004004102665930986,
+                6.733713235007599e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "何だかんだでブルスカ見に来ちゃってる🤣"
+                },
+                {
+                    "author": "did:plc:prvvhpjcni5aj6ymkxu3mn7v",
+                    "type": 2,
+                    "utter": "こっちでも会えて嬉しいっすパイセン"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "こっちだとめっちゃんの自我見れて嬉しいよ🤭"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3l6ugwebetq2u",
+            "label": [
+                0.9996193647384644,
+                4.565717972582206e-05,
+                0.0001244065206265077,
+                5.7068267778959125e-05,
+                2.8654489142354578e-05,
+                3.9356698835035786e-05,
+                4.422612983034924e-05,
+                4.12819063058123e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "こっちだとめっちゃんの自我見れて嬉しいよ🤭"
+                },
+                {
+                    "author": "did:plc:prvvhpjcni5aj6ymkxu3mn7v",
+                    "type": 2,
+                    "utter": "激クソヤバ自我ですまん愛して😎😎😎"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "活き活きしてていいね🥳\nどっちのめっちゃんも愛すよ( ᎔˘꒳˘᎔)"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3l6uh76jora25",
+            "label": [
+                0.9995657801628113,
+                4.343412729213014e-05,
+                0.00015554239507764578,
+                5.5860371503513306e-05,
+                3.4474196581868455e-05,
+                3.921222742064856e-05,
+                4.86181270389352e-05,
+                5.709291872335598e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "活き活きしてていいね🥳\nどっちのめっちゃんも愛すよ( ᎔˘꒳˘᎔)"
+                },
+                {
+                    "author": "did:plc:prvvhpjcni5aj6ymkxu3mn7v",
+                    "type": 2,
+                    "utter": "Xのアカウントだと、ぬいに呟かせるっていうマジキチアカウントだから、どこかで誰かが軽めに見れる自我がないと一生、謎な生き物で終わる気がしてwwwゼクシィしような❤️"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "1回キャラ付け？とかしちゃうと維持しなきゃだもんね🥹\n\nﾘﾝｺﾞｰﾝ🔔ﾘﾝｺﾞｰﾝ🔔💐✨️"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3l6uhlbw46e2k",
+            "label": [
+                0.8173643350601196,
+                0.006726000923663378,
+                0.17036738991737366,
+                0.0007302123121917248,
+                0.00035839929478242993,
+                0.002029180061072111,
+                0.0013254460645839572,
+                0.0010990239679813385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "1回キャラ付け？とかしちゃうと維持しなきゃだもんね🥹\n\nﾘﾝｺﾞｰﾝ🔔ﾘﾝｺﾞｰﾝ🔔💐✨️"
+                },
+                {
+                    "author": "did:plc:prvvhpjcni5aj6ymkxu3mn7v",
+                    "type": 2,
+                    "utter": "それもある🥲けど、自我こんなだから自我を出さないように作ったアカウントでもある🤨自分に対して なにこのひとｺﾜｲ って思ってるから🤭\n\n君の瞳が～♪映すものは～♪\n\nﾓﾘｻﾜﾁｱｷだよ。"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "なるほど〜？？\n素をさらけ出せる場所があるならよかったよ〜🌸\n\nそこは私じゃないんか〜い🤣🤣\n当たり前だけど千秋さんに負けたわ〜〜〜！！！！笑"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3l6uiatlar52a",
+            "label": [
+                0.007408561650663614,
+                0.9826869368553162,
+                0.000642691389657557,
+                0.007811129093170166,
+                0.00021251130965538323,
+                0.00041004017111845315,
+                0.0006940448074601591,
+                0.0001341875467915088
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 1,
+                    "utter": "なるほど〜？？\n素をさらけ出せる場所があるならよかったよ〜🌸\n\nそこは私じゃないんか〜い🤣🤣\n当たり前だけど千秋さんに負けたわ〜〜〜！！！！笑"
+                },
+                {
+                    "author": "did:plc:prvvhpjcni5aj6ymkxu3mn7v",
+                    "type": 2,
+                    "utter": "素がヤク中だから困ってる😊\n\nみつりんごちゃんの瞳に映る奴もﾓﾘｻﾜﾁｱｷだよ……タウリン1000mg配合のﾓﾘｻﾜﾁｱｷだよ……"
+                },
+                {
+                    "author": "did:plc:wzxqqwinzdpqx3ujmtvxc347",
+                    "type": 3,
+                    "utter": "素を出して気楽に楽しんでこ〜🎶\n\nタウリンってなんだと思って調べてみたけど、なんか目にいいっぽい？？？👀✨️"
+                }
+            ],
+            "uri": "at://did:plc:wzxqqwinzdpqx3ujmtvxc347/app.bsky.feed.post/3l6waivbx5m2u",
+            "label": [
+                0.21984799206256866,
+                0.0006843419396318495,
+                0.776913046836853,
+                0.0008847845601849258,
+                0.00033893928048200905,
+                0.000482248782645911,
+                0.0003539048775564879,
+                0.0004947747220285237
+            ]
+        }
+    ]
+}

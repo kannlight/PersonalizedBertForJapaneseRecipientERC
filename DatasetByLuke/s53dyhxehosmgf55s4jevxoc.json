@@ -1,0 +1,724 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "無理は良くないよ？ゆっくり、ね？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "すまんな…腱鞘炎はいかん…"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "大丈夫、ちゃんと分かってるから(笑み"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kp4qnidrtt2d",
+            "label": [
+                0.9940614104270935,
+                0.0005556341493502259,
+                0.003107484895735979,
+                0.00012131686526117846,
+                0.00011340373748680577,
+                0.0011555901728570461,
+                0.0003849987406283617,
+                0.0005001732497476041
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "大丈夫、ちゃんと分かってるから(笑み"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "何故か人差し指がな…"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "うーん、休むのも大事だよ？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kp4y7t6aog26",
+            "label": [
+                0.008042028173804283,
+                0.018769456073641777,
+                0.966779887676239,
+                0.0002685548097360879,
+                0.00024295873299706727,
+                0.003122287569567561,
+                0.00198770291171968,
+                0.0007871086127124727
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "うーん、休むのも大事だよ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "分かっているんだが…"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "…まぁ、良いけど…心配だよ？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kp5dpp6s7a2p",
+            "label": [
+                0.0006492243846878409,
+                0.001127455267123878,
+                0.000757408794015646,
+                0.0013789106160402298,
+                0.0005799309583380818,
+                0.9947599768638611,
+                0.0005207163630984724,
+                0.00022641869145445526
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "…まぁ、良いけど…心配だよ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "大丈夫だ、本当に楽になって来たからな"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "良かった…"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kp5gxbe4be2p",
+            "label": [
+                0.9996150732040405,
+                6.485646008513868e-05,
+                0.0001029076665872708,
+                5.712508936994709e-05,
+                2.0646819393732585e-05,
+                5.26414078194648e-05,
+                4.906620233668946e-05,
+                3.774031574721448e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "無駄なものは無駄なんだよ…"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "レイシオか？！レイシオなのか？！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "うわ、びっくりしたぁ…。\nそうだよ…レイシオだよ"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kosyrlkemg2c",
+            "label": [
+                0.0007996541098691523,
+                0.00036256632301956415,
+                0.0006032511591911316,
+                0.9975079298019409,
+                0.0001851605629781261,
+                0.00023862288799136877,
+                0.00019409415835980326,
+                0.00010871406266232952
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "うわ、びっくりしたぁ…。\nそうだよ…レイシオだよ"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "好きなんだぁ♪"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "好き、だよ…"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot4onggcx2d",
+            "label": [
+                0.999640941619873,
+                5.212571340962313e-05,
+                7.263793668244034e-05,
+                5.530827183974907e-05,
+                2.670689718797803e-05,
+                4.670670023187995e-05,
+                5.4783060477348045e-05,
+                5.0860810006270185e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "好き、だよ…"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "いいじゃん！！もっと好きになれ！！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "え、あ…う、ん"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot7r63red2v",
+            "label": [
+                0.0030427074525505304,
+                0.4960898756980896,
+                0.0010405546054244041,
+                0.49399885535240173,
+                0.0011834842152893543,
+                0.0026487954892218113,
+                0.0017484365962445736,
+                0.0002472813066560775
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "え、あ…う、ん"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "沼れ！！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "分かったから静かにしてよ💦"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotb5atl4s2c",
+            "label": [
+                0.00597633421421051,
+                0.6774030923843384,
+                0.0015975638525560498,
+                0.043990608304739,
+                0.11196118593215942,
+                0.0071167717687785625,
+                0.1507885754108429,
+                0.0011658804723992944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "分かったから静かにしてよ💦"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "ごめんね😭"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "な、泣かないでくれ！"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3koteutmos22p",
+            "label": [
+                0.014065279625356197,
+                0.6054664254188538,
+                0.02261943183839321,
+                0.12112992256879807,
+                0.01713692583143711,
+                0.20274969935417175,
+                0.01376424077898264,
+                0.003068105550482869
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "無駄なものは無駄なんだよ…"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "おい、来てやったぞ"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "ぁ、えーっと…"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot7uqk5sq2r",
+            "label": [
+                0.20806017518043518,
+                0.7384161949157715,
+                0.008175790309906006,
+                0.003568607848137617,
+                0.00042524939635768533,
+                0.024939894676208496,
+                0.015285821631550789,
+                0.001128282630816102
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "ぁ、えーっと…"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "なんだ、迷惑だったか？"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "まさか！…嬉しいよ…//"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot7w3l7522t",
+            "label": [
+                0.9995978474617004,
+                4.703074228018522e-05,
+                9.329910244559869e-05,
+                0.00011544249719008803,
+                2.650545138749294e-05,
+                4.1923900425899774e-05,
+                3.991142875747755e-05,
+                3.8133068301249295e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "まさか！…嬉しいよ…//"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "はぁ…君はもう少し表情筋を鍛えるべきだな、まぁ赤面症なら表情筋は、関係無いが"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "失礼だなぁ…赤面症な訳ないだろ？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kota2mmxg22c",
+            "label": [
+                0.017564622685313225,
+                0.0364876314997673,
+                0.003613022156059742,
+                0.8172988295555115,
+                0.01905996911227703,
+                0.024691829457879066,
+                0.07797657698392868,
+                0.0033075169194489717
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "失礼だなぁ…赤面症な訳ないだろ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "そうだな。貴様が赤面症だったらギャンブラーにはなれないはずだ"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "僕は一つだけ勝てない事が有るのだけれどね"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotabd5f7l22",
+            "label": [
+                0.0037765647284686565,
+                0.9922387003898621,
+                0.0006982185877859592,
+                0.00019349835929460824,
+                5.5911070376168936e-05,
+                0.0025170589797198772,
+                0.00042906153248623013,
+                9.092008258448914e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "僕は一つだけ勝てない事が有るのだけれどね"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 2,
+                    "utter": "それは…僕が関係しているでいいかな？"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "そうだね…教授が関わる事さ"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotb6ggaih26",
+            "label": [
+                0.7499484419822693,
+                0.033201590180397034,
+                0.014579872600734234,
+                0.0679214596748352,
+                0.003139853710308671,
+                0.09476426243782043,
+                0.02057764306664467,
+                0.015866968780755997
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "無駄なものは無駄なんだよ…"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "どうしたの？アベンチュリンくん"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "愛しい人が居るんだけど…矛盾な言葉を押し付けた…から、かな？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3korz4r7ur72v",
+            "label": [
+                0.0012102604378014803,
+                0.9899600744247437,
+                0.0002403239777777344,
+                0.0003766251902561635,
+                0.00012536664144136012,
+                0.0072247725911438465,
+                0.0007859799079596996,
+                7.661792187718675e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "愛しい人が居るんだけど…矛盾な言葉を押し付けた…から、かな？"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "Dr.レイシオ？レイシオさんも口には出さないだけで好きかもよ？"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "そう、かな？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kosyqvkqs22v",
+            "label": [
+                0.34709376096725464,
+                0.00460000429302454,
+                0.6184191703796387,
+                0.02262675017118454,
+                0.0007282072328962386,
+                0.0019171558087691665,
+                0.0013280902057886124,
+                0.003286923049017787
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "そう、かな？"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "うん！自信持って😊"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "あり、がとう…"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot4o5mpl72d",
+            "label": [
+                0.10690540820360184,
+                0.8590143918991089,
+                0.0009801684645935893,
+                0.007993222214281559,
+                0.0010371344396844506,
+                0.013608532026410103,
+                0.009750938042998314,
+                0.0007102203671820462
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "あり、がとう…"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "大丈夫だよ！今日手繋げたじゃん！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "が、頑張ったよ"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot7qpghvg2a",
+            "label": [
+                0.9994966983795166,
+                6.503327313112095e-05,
+                0.0001928460696944967,
+                4.678759796661325e-05,
+                3.123924398096278e-05,
+                4.394068673718721e-05,
+                5.94524790358264e-05,
+                6.40643629594706e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "が、頑張ったよ"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "頑張ったね(にこ"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "買い物デート…だね(微笑み"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kot7vft5lg2m",
+            "label": [
+                0.9993725419044495,
+                8.988481567939743e-05,
+                0.0003000750148203224,
+                4.938126585329883e-05,
+                2.63022357103182e-05,
+                5.2451454394031316e-05,
+                6.292566104093567e-05,
+                4.6404715249082074e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "僕も動くか…"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "君！よかったな！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "え？…えっと…？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotacc2llo2i",
+            "label": [
+                0.00046081404434517026,
+                0.00039948421181179583,
+                0.0006173381116241217,
+                0.9977577328681946,
+                0.00019388648797757924,
+                0.00028861602186225355,
+                0.0001825622603064403,
+                9.964851778931916e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "え？…えっと…？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "分かってるクセに〜︎︎( ◜𖥦◝ )"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "あー、レイシオ？"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotb5tmakt2p",
+            "label": [
+                0.11982850730419159,
+                0.012061664834618568,
+                0.017373450100421906,
+                0.8393524885177612,
+                0.0009258009376935661,
+                0.002509350422769785,
+                0.005650980863720179,
+                0.0022977362386882305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "あー、レイシオ？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "当たり前じゃないか！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "…幸せ…かな…"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotbpm4jvg2i",
+            "label": [
+                0.9995399713516235,
+                8.156792318914086e-05,
+                0.00015200633788481355,
+                4.6364621084649116e-05,
+                1.9647766748676077e-05,
+                6.431365181924775e-05,
+                5.0479735364206135e-05,
+                4.570665623759851e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "…幸せ…かな…"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "よかったね？.*･ﾟ(*º∀º*).ﾟ･*."
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "うん、ありがとう…"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kotevuoemd2b",
+            "label": [
+                0.9996055960655212,
+                7.994936458999291e-05,
+                6.838282570242882e-05,
+                7.127682329155505e-05,
+                2.1706609913962893e-05,
+                4.96607790410053e-05,
+                5.7479202951071784e-05,
+                4.602592161973007e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 1,
+                    "utter": "うん、ありがとう…"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "僕は全力で応援するぞ！"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 3,
+                    "utter": "あぁ…ありがとう(笑み"
+                }
+            ],
+            "uri": "at://did:plc:s53dyhxehosmgf55s4jevxoc/app.bsky.feed.post/3kov2op4eld2r",
+            "label": [
+                0.9996150732040405,
+                7.140138768590987e-05,
+                5.886815779376775e-05,
+                7.024991646176204e-05,
+                2.417629184492398e-05,
+                5.4658019507769495e-05,
+                6.21844592387788e-05,
+                4.330234514782205e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "可愛いー！✨ᡣ੭"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "なかなかうまく撮れたと思ってる✌️"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "(´ー｀*)ｳﾝｳﾝ取れてる✨"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lbqtiocmy22d",
+            "label": [
+                0.999617338180542,
+                4.914724195259623e-05,
+                0.00010285962343914434,
+                7.466743409167975e-05,
+                2.5582014131941833e-05,
+                4.140479722991586e-05,
+                5.2250947192078456e-05,
+                3.6638881283579394e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "(´ー｀*)ｳﾝｳﾝ取れてる✨"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "えへへありがとう!(´▽｀)\nイカちゃんを愛でよ！"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "じー👁👁"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lbreundug22b",
+            "label": [
+                0.9583829641342163,
+                0.02262246422469616,
+                0.002042910782620311,
+                0.003956812899559736,
+                0.0008744665537960827,
+                0.0033286737743765116,
+                0.007569544017314911,
+                0.001222186372615397
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "ﾟ+｡:.ﾟおぉ(*ﾟOﾟ *)ぉぉﾟ.:｡+ﾟめっちゃリアル！！"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "きゃわいいっしょ！\n結構いい画質で撮れるよ！"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "ﾟ+｡:.ﾟおぉ(*ﾟOﾟ *)ぉぉﾟ.:｡+ﾟ\nてかネット繋がったの？？"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lbsgbpghhk2p",
+            "label": [
+                0.9987300038337708,
+                9.618441254133359e-05,
+                0.00019164032710250467,
+                0.0007472765282727778,
+                5.604493344435468e-05,
+                4.040906060254201e-05,
+                7.59799440857023e-05,
+                6.245698023121804e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "かわいいｗ"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "餌空っぽにされるけど可愛いから許しちゃう"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "あーなんかわかるw\n甘やかすねこれわꉂ🤣𐤔"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lb6fhulgec24",
+            "label": [
+                0.909700334072113,
+                0.007682769559323788,
+                0.02130959741771221,
+                0.012315148487687111,
+                0.001938812667503953,
+                0.02260120026767254,
+                0.014835593290627003,
+                0.009616609662771225
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "あーなんかわかるw\n甘やかすねこれわꉂ🤣𐤔"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "ゆえにこんなわがままボデーに…"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "でぃあがこーゆー猫に育てたのか👀"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lb6fpr46ds24",
+            "label": [
+                0.001871859421953559,
+                0.00037092360435053706,
+                0.0009425252792425454,
+                0.996052622795105,
+                0.00017246884817723185,
+                0.00024629131075926125,
+                0.0001931997830979526,
+                0.00015013490337878466
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "でぃあがこーゆー猫に育てたのか👀"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "容疑者は\nうちに来た時には既にこんな感じだった\nかわいいからついあげすぎた\n\nなどと供述しており"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "とりあえずカツ丼でも食うか？🐷"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lb6n6mvtbk25",
+            "label": [
+                0.0028558846097439528,
+                0.0002996589755639434,
+                0.9963721036911011,
+                0.00011081283446401358,
+                7.334311521844938e-05,
+                0.00013088171544950455,
+                8.463497215416282e-05,
+                7.265210297191516e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "とりあえずカツ丼でも食うか？🐷"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "今日はすごくマックが食べたい気分"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "あ、私もー！"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lb7hagimlk25",
+            "label": [
+                0.9934052228927612,
+                0.0003642176743596792,
+                0.0036975450348109007,
+                0.001394055550917983,
+                0.0001863126817625016,
+                0.00010046263196272776,
+                0.00031645948183722794,
+                0.0005358226480893791
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "赤帽ってあるかな。うちらは赤帽で依頼してた。軽トラ1台で8,000円|´-`)ﾁﾗｯ\n\nぼったくられないようにするなら、友達に手伝ってもらってトラックで運ぶ回数を少なくすると安くなる！\n\nたとえば洗濯機と冷蔵庫とベッドはお願いして、衣類とか他の乗用車に乗るやつは車持ってるひとにお願いして運ぶの手伝ってもらった方が断然やすいかも？"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "そんな友達いない(〃⧿⤚⧿))ﾑ-\n引越し業者は今の家に越すときに使った業者にしたんだけど\n彼に「言い値でやるのは勿体ない。」って言われてな\n他に見積もりお願いしてる業者居ないから比較対象も無いし詰んでるのよ🤷‍♂️\nどちらかというと私は退去の立ち会いの方が警戒してる…"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "退去の立ち会いは、夕方少し薄暗いときのがいい！\n見えにくいから、細かい傷見逃されるw\n\nあとはなるべくピカピカにしとくこと。"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lawfwitcok24",
+            "label": [
+                0.0007395468419417739,
+                0.0001582341647008434,
+                0.9985378980636597,
+                0.00018201371130999178,
+                7.754217949695885e-05,
+                0.00011822687520179898,
+                6.986224616412073e-05,
+                0.00011673833796521649
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 1,
+                    "utter": "退去の立ち会いは、夕方少し薄暗いときのがいい！\n見えにくいから、細かい傷見逃されるw\n\nあとはなるべくピカピカにしとくこと。"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "掃除はまぁ頑張らなきゃだよね…うむ\n引越しは夜になったから時間は大丈夫そう！\nどうやってもコンセントの火花で焦げた壁は隠せそうにないけどwww"
+                },
+                {
+                    "author": "did:plc:lbzwyyv37rkp25vhoprwfz73",
+                    "type": 3,
+                    "utter": "あー壁紙1部張り替えコースやん？（全部って言われたりして）"
+                }
+            ],
+            "uri": "at://did:plc:lbzwyyv37rkp25vhoprwfz73/app.bsky.feed.post/3lawvp6okwc24",
+            "label": [
+                0.013377613388001919,
+                0.8137848377227783,
+                0.001957769738510251,
+                0.11175765097141266,
+                0.001629816135391593,
+                0.042434848845005035,
+                0.014527461491525173,
+                0.000530057237483561
+            ]
+        }
+    ]
+}

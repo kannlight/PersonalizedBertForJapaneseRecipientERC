@@ -1,0 +1,399 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "多少は覚悟してたんだけど初日が死んだし今週は死んでる…😢\n今から帰る〜😭"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "きゅーぶさんお疲れ様☕🍪\n大変そう😰\nせめておうちではゆっくり過ごしてね😌"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ありがとーたいへーん！😭\nまだお家ついてないんだけど、あんまりゆっくりすると朝になっちゃう〜笑"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf35gkglu22f",
+            "label": [
+                0.9992569088935852,
+                0.00015900243306532502,
+                0.0001380730973323807,
+                0.00010115478653460741,
+                2.255488834634889e-05,
+                0.00019660561520140618,
+                6.223140371730551e-05,
+                6.33836243650876e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "ありがとーたいへーん！😭\nまだお家ついてないんだけど、あんまりゆっくりすると朝になっちゃう〜笑"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "はぇ!?😳\nそれは気をつけて!w"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ｱｯえっとお家に帰ってからゆっくりしてるとぼーっとして起きたまま明日になっちゃうって思って！笑"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf35lbli4s2f",
+            "label": [
+                0.006639258004724979,
+                0.01446165144443512,
+                0.0030830884352326393,
+                0.026780758053064346,
+                0.0004780614690389484,
+                0.9475458264350891,
+                0.0006371706258505583,
+                0.00037410741788335145
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "ｱｯえっとお家に帰ってからゆっくりしてるとぼーっとして起きたまま明日になっちゃうって思って！笑"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "そゆことか!( ˙꒳​˙  )ﾅﾙﾎﾄﾞ"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ﾆﾎﾝｺﾑﾂｶｼｲﾈ"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf365nuqdc2f",
+            "label": [
+                0.9986773133277893,
+                0.00017104957078117877,
+                0.00030883352155797184,
+                0.0002901061961892992,
+                4.8726909881224856e-05,
+                0.00010768698848551139,
+                0.00022983852250035852,
+                0.00016642660193610936
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "ﾆﾎﾝｺﾑﾂｶｼｲﾈ"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "ﾑﾂｶｼｲﾈ。\n僕の読解力不足だから気にしないで!"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "笑笑\n情報足りなかったから当然だよ〜笑"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf3atigxn22f",
+            "label": [
+                0.9974055886268616,
+                0.00031041738111525774,
+                0.0005448283045552671,
+                0.0008176096598617733,
+                6.808139005443081e-05,
+                0.0003008487692568451,
+                0.0002896931255236268,
+                0.0002628023794386536
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "笑笑\n情報足りなかったから当然だよ〜笑"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "優しい☺️\nありがと♪\n\nお互い仕事の疲れ取ろ〜😌"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "そうしよ～"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf3cacegls2y",
+            "label": [
+                0.6181409955024719,
+                0.008513104170560837,
+                0.36979857087135315,
+                0.0003768334863707423,
+                0.000181378229171969,
+                0.001526970649138093,
+                0.0009283378603868186,
+                0.0005338092450983822
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "みかさんと日付かぶるのだけは避けたいよね～～～"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "お気遣いありがとうだよ!\n僕もそれは避けたいって思ってる!\nきゅーぶさんの方にも参加したいしね!"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "んーこちらこそー笑\n新年会だし早めにやりたいなって思ってる〜今考えてるのは今週の土曜夜〜\nみかさんはどうだろ？"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lfaej2nyic2y",
+            "label": [
+                0.017908569425344467,
+                0.00041833045543171465,
+                0.9808259606361389,
+                0.00020250862871762365,
+                0.00014133403601590544,
+                0.00020128348842263222,
+                0.00015796571096871048,
+                0.0001440375199308619
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "んーこちらこそー笑\n新年会だし早めにやりたいなって思ってる〜今考えてるのは今週の土曜夜〜\nみかさんはどうだろ？"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "あ、それなら被らないかも!\n僕は日曜に夜を考えてた!😆"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "日曜にってなんだw😅\n日曜の夜だね😂"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "じゃあちゃうといいかもね〜！\n今日は疲れちゃったから明日の夜にでも告知打つ〜！"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lfafil3dms2y",
+            "label": [
+                0.001999974250793457,
+                0.0003044985933229327,
+                0.9972568154335022,
+                0.00011765042290790007,
+                6.105853390181437e-05,
+                0.00011472903133835644,
+                7.72063503973186e-05,
+                6.808759644627571e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "じゃあちゃうといいかもね〜！\n今日は疲れちゃったから明日の夜にでも告知打つ〜！"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "どうぞどうぞ!楽しみ〜♪\n\nあと今お風呂で考えてたけど(笑)、きゅーぶさんが今週やるなら僕は来週の日曜にしようかな!\n\n連日だとどっちも参加しようと思ってくれる人が大変かもって思って、１週間くらい余裕持たせようかと思って!\n僕は１週間くらい遅れてもやれるなら全然いいしね!\n\nだから今週はきゅーぶさんのイベントに参加者として思いっきり楽しませてもらおうかと思う!👍"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ありがと！\nお言葉に甘えて先に開催させてもらうよ〜！\nでもどうしよ集まることしか考えたなかったから特にすること決めてない！笑"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lfagybfyhs2y",
+            "label": [
+                0.9995774626731873,
+                5.35902327101212e-05,
+                0.00012967111251782626,
+                7.564890256617218e-05,
+                1.9272050849394873e-05,
+                5.37451560376212e-05,
+                4.68833495688159e-05,
+                4.369487942312844e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "ありがと！\nお言葉に甘えて先に開催させてもらうよ〜！\nでもどうしよ集まることしか考えたなかったから特にすること決めてない！笑"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "うんうん!遠慮なくどうぞ!\nホント楽しみ!遅れてでも絶対参加させてもらうね!😆\n\nノープランは僕もあるあるだよ、実際集まれるだけでも楽しいけど♪(笑)\nまあ例えばだけど新年会だから着物姿で集合してお参り風にするでもいいし、前にきゅーぶさんが言ってたドレスでダンスパーティー風とかも楽しそうって思ったよ!"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ん〜せっかくの新年会だしお着物着てSS撮ろ〜の会にしようかな〜笑\n\nゆるく集まってゆるくおしゃべりしながらSS撮って、みたいな☺️"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lfahckm3c22y",
+            "label": [
+                0.0014053848572075367,
+                0.00019746249017771333,
+                0.9979599714279175,
+                0.00012016658001812175,
+                7.62023773859255e-05,
+                9.853122173808515e-05,
+                7.43503769626841e-05,
+                6.791503255954012e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "そー！予告してたやつー！\nかっっっこ良いでしょ！ｾﾝｷｭｰﾍﾞﾘｰﾏｯﾁｮ!"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "うん!きゅーぶさんがまずかっこいいから可愛い服もすごくオシャレに見えて素敵!!(๑´ω`ﾉﾉﾞ✧"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "褒めすぎﾀﾞｾﾞ...!😊"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf5qut2v7s2d",
+            "label": [
+                0.9989604949951172,
+                9.267438144888729e-05,
+                6.795628723921254e-05,
+                0.0006153808790259063,
+                4.156906288699247e-05,
+                6.361810665111989e-05,
+                8.482950943289325e-05,
+                7.350125088123605e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "褒めすぎﾀﾞｾﾞ...!😊"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "えへへ、いつも思ったままよ!"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "嬉しすぎる...😭"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf5riiians2d",
+            "label": [
+                0.9996399879455566,
+                4.6135130105540156e-05,
+                9.995664731832221e-05,
+                6.123814091552049e-05,
+                2.5970990463974886e-05,
+                4.409783286973834e-05,
+                4.361039464129135e-05,
+                3.898930663126521e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "嬉しすぎる...😭"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "そう思ってもらえるのはこっちも言ってよかったってなるから嬉しいよ!😆"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ｱﾘｶﾞﾀﾔ...!\n（私も言いたいからメンテSSだけは待ってるね..！笑）"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf5sugpvw22d",
+            "label": [
+                0.0012250234140083194,
+                0.000372051727026701,
+                0.9979475140571594,
+                0.00013441534247249365,
+                8.944604633143172e-05,
+                8.870511373970658e-05,
+                8.127588807838038e-05,
+                6.159866461530328e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 1,
+                    "utter": "ｱﾘｶﾞﾀﾔ...!\n（私も言いたいからメンテSSだけは待ってるね..！笑）"
+                },
+                {
+                    "author": "did:plc:n6w2cj7zoezsuka4moidsczh",
+                    "type": 2,
+                    "utter": "\n嬉しい!(はよ貼ろう!)"
+                },
+                {
+                    "author": "did:plc:t5kxid5g4f46dwyohxxco4pa",
+                    "type": 3,
+                    "utter": "ｳﾝ!"
+                }
+            ],
+            "uri": "at://did:plc:t5kxid5g4f46dwyohxxco4pa/app.bsky.feed.post/3lf5u5b26rc2t",
+            "label": [
+                0.9973305463790894,
+                0.00021502435265574604,
+                0.0007669419865123928,
+                0.0005368147394619882,
+                0.00017942808335646987,
+                0.00013008384848944843,
+                0.0004529819416347891,
+                0.0003881807206198573
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "こんばんは〜"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "昨晩はありがとうございました、アーチェとかいめーじつきそうてすか？"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "うーんすみません、エグゼのキャラ以外さっぱり……💧"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbepjax4ba2o",
+            "label": [
+                0.0003768596507143229,
+                0.9988369345664978,
+                0.00011894965427927673,
+                0.00015540437016170472,
+                4.959448779118247e-05,
+                0.00018539221491664648,
+                0.00024999884772114456,
+                2.6853604140342213e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "はい"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "ちなみに川田妙子さんが声当ててます"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "川田妙子さん……（わからん…）"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbeppi7gj72e",
+            "label": [
+                0.6683372855186462,
+                0.08542715758085251,
+                0.05671511963009834,
+                0.1143568828701973,
+                0.001190739101730287,
+                0.061487115919589996,
+                0.006767472717911005,
+                0.005718180909752846
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "川田妙子さん……（わからん…）"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "シナモンロールの人"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "女のくせにサンリオに興味ない人間ですみません…（泣）"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbeprvtzhr2q",
+            "label": [
+                0.0002971782232634723,
+                0.9988848567008972,
+                0.00014160005957819521,
+                0.00011192035890417174,
+                5.4259497119346634e-05,
+                0.0002363197854720056,
+                0.0002441129181534052,
+                2.9606970201712102e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "こんばんは〜"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "お話したい気持ちがありまして大丈夫でしょうか？色々と話したい"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "はい〜そろそろ眠いので寝落ちするかもですが（笑）よろしければ"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbclwsf7cv23",
+            "label": [
+                0.002072133356705308,
+                0.0002642809122335166,
+                0.99718177318573,
+                0.00010254707012791187,
+                6.083714833948761e-05,
+                0.00015103317855391651,
+                8.73013268574141e-05,
+                8.017135405680165e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "はい〜そろそろ眠いので寝落ちするかもですが（笑）よろしければ"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "DMで申し訳ない、まあ...テイルズやfateについてはいかがですか？"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "テイルズとFateって、名前だけ知ってる、って程度の知識しかないんですよすみません💧"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbcm2ngxcb2o",
+            "label": [
+                0.000468346755951643,
+                0.9985211491584778,
+                0.00014806381659582257,
+                0.0001327681093243882,
+                5.4623720643576235e-05,
+                0.00031853120890446007,
+                0.0003255415358580649,
+                3.097300213994458e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "テイルズとFateって、名前だけ知ってる、って程度の知識しかないんですよすみません💧"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "いえいえ、以前尋ねたことはありましたでしょうか？"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "どうでしたっけ？？記憶があんまり…💦"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbcm5uxf2u2e",
+            "label": [
+                0.10262370109558105,
+                0.5958532691001892,
+                0.019554322585463524,
+                0.006702007260173559,
+                0.0004695069510489702,
+                0.27090489864349365,
+                0.0026528954040259123,
+                0.0012393452925607562
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "どうでしたっけ？？記憶があんまり…💦"
+                },
+                {
+                    "author": "did:plc:kravkk73ml3jfe7tadsqsbsw",
+                    "type": 2,
+                    "utter": "実を言うと去年からテイルズ、fate、ロックマンエグゼの二次創作考えてまして"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "書いてpixivに投稿したらいいですよ！"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lbcmei3inu2o",
+            "label": [
+                0.0023307334631681442,
+                0.0002073597424896434,
+                0.9969185590744019,
+                0.0001409373217029497,
+                9.814579971134663e-05,
+                0.00010986211418639868,
+                9.41197358770296e-05,
+                0.00010024947550846264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "ままー会いたいー😭"
+                },
+                {
+                    "author": "did:plc:pekuhhipzivqpwz2lny72zvh",
+                    "type": 2,
+                    "utter": "来月とうきょはいくよ"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "まじ！？いつ！？"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3law56vfaep25",
+            "label": [
+                0.0005816904013045132,
+                0.00028791974182240665,
+                0.0006473389803431928,
+                0.9976761937141418,
+                0.0002862259279936552,
+                0.00020877305360045284,
+                0.0001895749883260578,
+                0.00012236018665134907
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "まじ！？いつ！？"
+                },
+                {
+                    "author": "did:plc:pekuhhipzivqpwz2lny72zvh",
+                    "type": 2,
+                    "utter": "まだわかんない！！！！でも中旬くらいじゃないかな"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "日にち決まったら休み取るから教えて！"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3law5boan5s22",
+            "label": [
+                0.0005151205696165562,
+                0.00020462664542719722,
+                0.9988889098167419,
+                0.0001026570243993774,
+                8.070130570558831e-05,
+                7.601710967719555e-05,
+                7.748019561404362e-05,
+                5.447453077067621e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "日にち決まったら休み取るから教えて！"
+                },
+                {
+                    "author": "did:plc:pekuhhipzivqpwz2lny72zvh",
+                    "type": 2,
+                    "utter": "ｺﾞﾒﾝ、多分会えたとしても金ないよ…"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "ワイくんが奢るよ！？"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3law5jf7yve25",
+            "label": [
+                0.9959976673126221,
+                0.00012896666885353625,
+                0.003124839859083295,
+                0.0004247206961736083,
+                6.630017014686018e-05,
+                7.080686918925494e-05,
+                6.78078067721799e-05,
+                0.00011903580161742866
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "ワイくんが奢るよ！？"
+                },
+                {
+                    "author": "did:plc:pekuhhipzivqpwz2lny72zvh",
+                    "type": 2,
+                    "utter": "ｴｯ…だだだだめだよ？！！！！！\n罪悪感の塊しか残らねえよ…👉👈"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "ワイくんは大人だから気にしないで！！"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3law6honpcf25",
+            "label": [
+                0.7599717378616333,
+                0.03299397602677345,
+                0.11113302409648895,
+                0.00994429923593998,
+                0.008450147695839405,
+                0.02175416797399521,
+                0.03738615661859512,
+                0.01836647465825081
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 1,
+                    "utter": "ワイくんは大人だから気にしないで！！"
+                },
+                {
+                    "author": "did:plc:pekuhhipzivqpwz2lny72zvh",
+                    "type": 2,
+                    "utter": "そゆう問題？！！！！！！\nぇっあの、ほんとにウェルカムドリンクくらいで大丈夫です…"
+                },
+                {
+                    "author": "did:plc:4frhfoye5wxdfvwedejet7wl",
+                    "type": 3,
+                    "utter": "じゃあドリンク飲み放題に行こう（笑）"
+                }
+            ],
+            "uri": "at://did:plc:4frhfoye5wxdfvwedejet7wl/app.bsky.feed.post/3lawbmdoaja24",
+            "label": [
+                0.012220453470945358,
+                0.00036103249294683337,
+                0.9866005778312683,
+                0.00025178739451803267,
+                0.00012908416101709008,
+                0.00017673455295152962,
+                0.00014098596875555813,
+                0.00011935612565139309
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "เกรุกหล่อๆหายไปไหนหมด"
+                },
+                {
+                    "author": "did:plc:z26awnejpjtpkfn2psr4z6tm",
+                    "type": 2,
+                    "utter": "อยู่นี่"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "นึกว่าเป็นเกรับมาตลอด"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjppypn3c2m",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "นึกว่าเป็นเกรับมาตลอด"
+                },
+                {
+                    "author": "did:plc:z26awnejpjtpkfn2psr4z6tm",
+                    "type": 2,
+                    "utter": "ไอ่อศอะไรนั่นอย่าไปเชื่อมันมาก หลอนยาแก้ไอ"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "ไม่ได้หลอนม้าหรอ"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjpv5ytxk2m",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "ไม่ได้หลอนม้าหรอ"
+                },
+                {
+                    "author": "did:plc:z26awnejpjtpkfn2psr4z6tm",
+                    "type": 2,
+                    "utter": "ผสมๆกัน"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "ขอสูตร"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjqb7ar4s2m",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "เกรุกหล่อๆหายไปไหนหมด"
+                },
+                {
+                    "author": "did:plc:3zc5te54cddkzrjr4vx3fggc",
+                    "type": 2,
+                    "utter": "หวัดดีค้าบบ"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "มองตากันเธอก็ยังไม่กล้ามอง แล้วจะให้ฉันไปกับเธอ ฉันคงจะไม่กล้าลอง"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjpzs4eys2m",
+            "label": [
+                0.8946501016616821,
+                0.012201066128909588,
+                0.07562757283449173,
+                0.0019821522291749716,
+                0.0013435413129627705,
+                0.0038510083686560392,
+                0.008077165111899376,
+                0.002267385832965374
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "มองตากันเธอก็ยังไม่กล้ามอง แล้วจะให้ฉันไปกับเธอ ฉันคงจะไม่กล้าลอง"
+                },
+                {
+                    "author": "did:plc:3zc5te54cddkzrjr4vx3fggc",
+                    "type": 2,
+                    "utter": "ประโยคนี้เจอรอบสองแล้วอ่ะ ขอใหม่"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "ไม่ ขี้เกียจคิด"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjxglvoa22m",
+            "label": [
+                0.9229031205177307,
+                0.01430996973067522,
+                0.043411046266555786,
+                0.002418456831946969,
+                0.0012658454943448305,
+                0.00421052286401391,
+                0.009395202621817589,
+                0.0020857499912381172
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "ไม่ ขี้เกียจคิด"
+                },
+                {
+                    "author": "did:plc:3zc5te54cddkzrjr4vx3fggc",
+                    "type": 2,
+                    "utter": "ว้ายก ร าก"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "ไปไหนก็ไป อย่ามายุ่ง"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjy4hkhn22m",
+            "label": [
+                0.9229031205177307,
+                0.01430996973067522,
+                0.043411046266555786,
+                0.002418456831946969,
+                0.0012658454943448305,
+                0.00421052286401391,
+                0.009395202621817589,
+                0.0020857499912381172
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "ไปไหนก็ไป อย่ามายุ่ง"
+                },
+                {
+                    "author": "did:plc:3zc5te54cddkzrjr4vx3fggc",
+                    "type": 2,
+                    "utter": "ม่ายยยยนนยยนน"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "นี่หรอสภาพเกรุกหล่อๆ"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjygiye322m",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 1,
+                    "utter": "นี่หรอสภาพเกรุกหล่อๆ"
+                },
+                {
+                    "author": "did:plc:3zc5te54cddkzrjr4vx3fggc",
+                    "type": 2,
+                    "utter": "แค่ไม่ มอง ตา ยังมา หยาม เหยีด กันขนาดนี้ วัน ไหนมอง ตา ขึ้น มาอย่าตก หลุม รัก กันนะ"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 3,
+                    "utter": "มามองหน่อยอยากตกหลุมรัก"
+                }
+            ],
+            "uri": "at://did:plc:cpakcjlln7ktwk23mvcbs4lj/app.bsky.feed.post/3lbjz4n2rfs2m",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        }
+    ]
+}

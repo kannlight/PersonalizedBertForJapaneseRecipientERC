@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "うぉーたーまーくがつかえない！！ないた"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "どした"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "人🐺⛓️のやつをうぉーたーまーくつけてやろうと思ったらできなくて泣いてたところです"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3lbzmnmwcd22u",
+            "label": [
+                0.0005638448637910187,
+                0.9987529516220093,
+                0.0001437924220226705,
+                0.00014422200911212713,
+                5.621677701128647e-05,
+                0.00011892207839991897,
+                0.0001875877205748111,
+                3.243824539822526e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "人🐺⛓️のやつをうぉーたーまーくつけてやろうと思ったらできなくて泣いてたところです"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "スマフォでも出来るやつあった気がするが……"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "あったはずなんですけどね……🤔探してみよ"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3lc2fwokyek2j",
+            "label": [
+                0.0011552718933671713,
+                0.0035180565901100636,
+                0.9945471286773682,
+                8.852249447954819e-05,
+                6.17624245933257e-05,
+                0.0003994931757915765,
+                0.00014171320071909577,
+                8.812508167466149e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "あいぽんさんのやつあるかなぁ…？🤔\n\nって思ってたら新書ぺじめかさんが対応してた！！ありがとうございます！！"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "えがったえがった。おむすび奴はあいぽんだった（"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "です！約5年くらいずっと同じ機種使ってます("
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3lc2i7ttcks2v",
+            "label": [
+                0.9960581064224243,
+                0.0002779432397801429,
+                0.0009474036050960422,
+                0.0006958498852327466,
+                0.00015345399151556194,
+                0.00048057909589260817,
+                0.00047242321306839585,
+                0.0009141898481175303
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "です！約5年くらいずっと同じ機種使ってます("
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "あいぽんって長持ちするイメージはあるけど・・機種変したい年数やねｗ"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "前からずっと同じ通知が2回きたり、勝手にネットに繋がらなくなって読み込みされなくなったりしてるのでもうおばあちゃんあいぽんさんです…ww"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3lc2iikc33s2z",
+            "label": [
+                0.00935360323637724,
+                0.9744294881820679,
+                0.0002900836116168648,
+                0.0036247437819838524,
+                0.0001911438739625737,
+                0.008699667640030384,
+                0.003276565345004201,
+                0.00013465913070831448
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "全然関係ないんですけど、滅アラのルーミングから全くもって分からんずしてるんです　助けてください(命乞い)"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "なんとかなる(なんとかなる)"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "ほ、ほんまか！？外周の動き全く把握してないよ！！😭"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ledeha5iak24",
+            "label": [
+                0.00047966005513444543,
+                0.001267391024157405,
+                0.00024227691756095737,
+                0.9959595799446106,
+                0.0008442492107860744,
+                0.0004595760256052017,
+                0.0006265260744839907,
+                0.0001207950699608773
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "ほ、ほんまか！？外周の動き全く把握してないよ！！😭"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "外周の動きは決まってるから大丈夫や。じいちゃんが貼った画像見れば解決！ただ、ルーミング直前壊滅してるから無事に3人セットで飛べてない感すごいw"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "それはそうww 今日は茨安定〜ルーミング以降練習したいね！"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3lederzn5ik2k",
+            "label": [
+                0.85329669713974,
+                0.0008569525089114904,
+                0.1441880762577057,
+                0.00032486816053278744,
+                0.00023047314607538283,
+                0.0003284459817223251,
+                0.000396358547732234,
+                0.0003780825063586235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "それはそうww 今日は茨安定〜ルーミング以降練習したいね！"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "ルーミング超えたらクリアだからな~安定してたら未クリアで募集クリアしたほうがええんやろかな。。みんなどっちかな。我はどっちでもええな、どうせブタやしな🐷"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "今詐欺も横行してますから未クリアでクリ目募集したら人こなさそうだなぁという思いもありけり…マジで何で零式と同じように「未クリアが○人〜」みたいな感じにしなかったんだろうね…"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ledf6r7tpc26",
+            "label": [
+                0.0005746556562371552,
+                0.9880659580230713,
+                0.00035375007428228855,
+                0.00027131300885230303,
+                0.0005960874259471893,
+                0.0019524851813912392,
+                0.008101718500256538,
+                8.400045044254512e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "今詐欺も横行してますから未クリアでクリ目募集したら人こなさそうだなぁという思いもありけり…マジで何で零式と同じように「未クリアが○人〜」みたいな感じにしなかったんだろうね…"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "吉田が全て悪いぜぇ……\nかと言って詐欺奴にウマーさせたくない。クリアしたいだけの集まりに人は果たして来るのかも怪しいよねw"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "そうなんですよね…w ｴｯｸｽ君でよくお見かけする絵師さんもその詐欺に引っ掛かっちゃったみたいで、余計に集まらなさそう…\n詐欺をやり始めた人が一番悪いのは当然ですけど、そういう穴をつけるシステムにしちゃったのも悪い……"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ledfifleh226",
+            "label": [
+                0.0009588878019712865,
+                0.9416887760162354,
+                0.0004186646547168493,
+                0.0012603920185938478,
+                0.003019083524122834,
+                0.03822057321667671,
+                0.014166668057441711,
+                0.0002668844535946846
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "そうなんですよね…w ｴｯｸｽ君でよくお見かけする絵師さんもその詐欺に引っ掛かっちゃったみたいで、余計に集まらなさそう…\n詐欺をやり始めた人が一番悪いのは当然ですけど、そういう穴をつけるシステムにしちゃったのも悪い……"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "システムの穴を付くのは吉田が嫌いな行為だからペナあってほしい。。流石にその詐欺見ちゃったら、クリア済み入れたく無くなるの当然だよなー。"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "そもそもマジのフェーズ詐欺なのでペナ対象だってお話があった気がする…これ今後クリ目募集廃れるぞ〜やってくれたよな本当に"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ledfw4xn5s2p",
+            "label": [
+                0.020112743601202965,
+                0.14579243957996368,
+                0.1333928257226944,
+                0.10785040259361267,
+                0.1479433923959732,
+                0.31649526953697205,
+                0.11043461412191391,
+                0.017978288233280182
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "私「ちょっと前に重ための荷物に足ぶつけてごきゃって言ってさ〜HAHAHA！ 今日つんのめったらそこめちゃくちゃ痛くてやばかったよ」\nフレ「それヒビいってるじゃん」\nフレ2「ヒビ入ってる」\nフレ3「病院行け」\n私「マ？？？？？？？？」"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "内なる骨のヒビがお前の財布(治療費)を削り取る"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "wwwwww 便利すぎるその構文"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ldf53cauic2q",
+            "label": [
+                0.9964616894721985,
+                0.00010703856241889298,
+                0.00023162989236880094,
+                0.0027938024140894413,
+                7.611293403897434e-05,
+                8.363820234080777e-05,
+                0.000124079073430039,
+                0.00012201779463794082
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "wwwwww 便利すぎるその構文"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "内なるシリーズ好きすぎwww"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "内なる病がお前の金をかじり取る…"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ldfgfx36z22q",
+            "label": [
+                0.12117159366607666,
+                0.05278556048870087,
+                0.017618929967284203,
+                0.00939648225903511,
+                0.001997237093746662,
+                0.7895652651786804,
+                0.004863082896918058,
+                0.002601839369162917
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "内なる病がお前の金をかじり取る…"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "こわい"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "お金かじかじ……"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ldfgiuk7vk2q",
+            "label": [
+                0.0008789121056906879,
+                0.9932807087898254,
+                0.00021203974029049277,
+                0.0005489621544256806,
+                0.0001097531639970839,
+                0.0044881259091198444,
+                0.000433175329817459,
+                4.825284122489393e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "お金かじかじ……"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "病院へは行ったんでしょうか"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "お電話したら予約いっぱいって言われたので、午後の診察時間に予約外で行くことにしましま！"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ldfgrpvtxk2q",
+            "label": [
+                0.27500247955322266,
+                0.5676310062408447,
+                0.13687753677368164,
+                0.007617518771439791,
+                0.0007987759308889508,
+                0.00562327541410923,
+                0.004971648566424847,
+                0.0014778046170249581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 1,
+                    "utter": "お電話したら予約いっぱいって言われたので、午後の診察時間に予約外で行くことにしましま！"
+                },
+                {
+                    "author": "did:plc:nmni4qvwbmpmlkem63jkw7qq",
+                    "type": 2,
+                    "utter": "ちゃんと診てもらってくるんだぞ"
+                },
+                {
+                    "author": "did:plc:xtaw42mqrphof4psftakr25u",
+                    "type": 3,
+                    "utter": "ふぁい！"
+                }
+            ],
+            "uri": "at://did:plc:xtaw42mqrphof4psftakr25u/app.bsky.feed.post/3ldfgvbrinc2q",
+            "label": [
+                0.3114513158798218,
+                0.010753142647445202,
+                0.007682007271796465,
+                0.661948561668396,
+                0.0010659940307959914,
+                0.0008914858917705715,
+                0.004926258232444525,
+                0.0012812268687412143
+            ]
+        }
+    ]
+}

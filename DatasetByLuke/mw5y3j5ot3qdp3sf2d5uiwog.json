@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Pra vc também sua bagunceira 🤣💙🌿🙏"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "😂😂😂"
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Bota fogo no xxxxxxx 😂😄"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgakjpq22n",
+            "label": [
+                0.984413743019104,
+                0.003183928318321705,
+                0.007594068069010973,
+                0.0010002708295360208,
+                0.00038839798071421683,
+                0.0008458522497676313,
+                0.001620620139874518,
+                0.0009531169198453426
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Bota fogo no xxxxxxx 😂😄"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "Só lá, aqui é muito fraquinho."
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "A jacarouaaaakkkkkkkk"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgf4os5b2e",
+            "label": [
+                0.7698932886123657,
+                0.02946673333644867,
+                0.16713280975818634,
+                0.005620982497930527,
+                0.0036199067253619432,
+                0.0079959062859416,
+                0.01095955353230238,
+                0.005310738459229469
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "A jacarouaaaakkkkkkkk"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "Não vêm não"
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Da saudade essas tretas kkkkkk"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgpplazj2h",
+            "label": [
+                0.6746846437454224,
+                0.006470720749348402,
+                0.30690786242485046,
+                0.002416848437860608,
+                0.0011144214076921344,
+                0.004089135676622391,
+                0.001985525246709585,
+                0.0023307751398533583
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Da saudade essas tretas kkkkkk"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "Dá sim kkkkkk"
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Vamos espersr que uma hora o clima esquenta"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgzhedhi2z",
+            "label": [
+                0.8829993605613708,
+                0.027233995497226715,
+                0.054688066244125366,
+                0.011772516183555126,
+                0.0029662474989891052,
+                0.006471710745245218,
+                0.007964798249304295,
+                0.005903325043618679
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Bota fogo no xxxxxxx 😂😄"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "Só lá, aqui é muito fraquinho."
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Pois é, tá fraco o debate. Temos que contratar umas briguentas pra cá kkkkkkk"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgedfdj62j",
+            "label": [
+                0.8627182245254517,
+                0.018795814365148544,
+                0.09008043259382248,
+                0.006475846748799086,
+                0.002813565544784069,
+                0.008609973825514317,
+                0.005717689637094736,
+                0.004788465332239866
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Pois é, tá fraco o debate. Temos que contratar umas briguentas pra cá kkkkkkk"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "É urgente que venham kkkkkk"
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Sim,eu esculhambei com ela, mandei ela se fdddd de todo jeito kkkkkk"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cglozzmt25",
+            "label": [
+                0.7110620141029358,
+                0.02868238091468811,
+                0.22922226786613464,
+                0.0055095599964261055,
+                0.0040785176679492,
+                0.008817735128104687,
+                0.006600000895559788,
+                0.006027549039572477
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Sim,eu esculhambei com ela, mandei ela se fdddd de todo jeito kkkkkk"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "Eita !"
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Horas antes de fechar o teu tive uma treta ö coisa gostosa kkkkkkk"
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgundygm2a",
+            "label": [
+                0.9120720028877258,
+                0.005161356646567583,
+                0.07051515579223633,
+                0.002943342551589012,
+                0.0011759045301005244,
+                0.0038004196248948574,
+                0.0021177902817726135,
+                0.00221401103772223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 1,
+                    "utter": "Sim,eu esculhambei com ela, mandei ela se fdddd de todo jeito kkkkkk"
+                },
+                {
+                    "author": "did:plc:46ibfmo5oeywu5mozcaggjs6",
+                    "type": 2,
+                    "utter": "Eita !"
+                },
+                {
+                    "author": "did:plc:mw5y3j5ot3qdp3sf2d5uiwog",
+                    "type": 3,
+                    "utter": "Aqui ninguém está acima das críticas."
+                }
+            ],
+            "uri": "at://did:plc:mw5y3j5ot3qdp3sf2d5uiwog/app.bsky.feed.post/3l4cgr4zrlc2h",
+            "label": [
+                0.8675737380981445,
+                0.0111071253195405,
+                0.08920583873987198,
+                0.014134497381746769,
+                0.0025157269556075335,
+                0.0034902303013950586,
+                0.005354813300073147,
+                0.006618015002459288
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "鳴潮誰かたすけてえええて"
+                },
+                {
+                    "author": "did:plc:f6svwonj3o5m3lag6pwqzchh",
+                    "type": 2,
+                    "utter": "成田さん鳴潮もやられてたんですね…！？"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "そうなんですよまだ初心者でなんも分からなくて😭"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3letrxxuvis2b",
+            "label": [
+                0.0009251261362805963,
+                0.9963474869728088,
+                0.00032060721423476934,
+                0.00020009565923828632,
+                0.0001199692051159218,
+                0.0016514412127435207,
+                0.0003781076811719686,
+                5.719882756238803e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "そうなんですよまだ初心者でなんも分からなくて😭"
+                },
+                {
+                    "author": "did:plc:f6svwonj3o5m3lag6pwqzchh",
+                    "type": 2,
+                    "utter": "難しいことたくさんありますもんね߹~߹\n何か…教えられることがあれば…何でも教えるので……ぜひ……可愛い子たくさん見つけてください…"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "うお、、おねがいします😭フレンドになりませんか…？"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3letvpadl7k27",
+            "label": [
+                0.0003192601725459099,
+                0.0002577758568804711,
+                0.9990600943565369,
+                0.00012064785551046953,
+                4.537962740869261e-05,
+                8.98213402251713e-05,
+                6.019493957865052e-05,
+                4.685376552515663e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "うお、、おねがいします😭フレンドになりませんか…？"
+                },
+                {
+                    "author": "did:plc:f6svwonj3o5m3lag6pwqzchh",
+                    "type": 2,
+                    "utter": "わっ…ぜひ…߹~߹\n私も猛者達のように動くことは出来ないかもですが…良ければ…！！🥰\n原神も前に声掛けようと思ったのですが、私の勇気の問題で声掛けれなかったのでもしよろしければ…。"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "わー！！両方ともなりましょ！！\n後でID送ります！！！"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3lew34ry74c2h",
+            "label": [
+                0.0029609620105475187,
+                0.0002690096152946353,
+                0.9961979985237122,
+                0.00017824677343014628,
+                0.00010822663170984015,
+                9.841394057730213e-05,
+                9.766456059878692e-05,
+                8.953797805588692e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "わー！！両方ともなりましょ！！\n後でID送ります！！！"
+                },
+                {
+                    "author": "did:plc:f6svwonj3o5m3lag6pwqzchh",
+                    "type": 2,
+                    "utter": "やったー！嬉しいです🥰\nありがとうございます〜！！\n見えるとこじゃない方が良かったら、Twitterの方で送って頂いても大丈夫ですよ〜！通知送っときます(？)"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "704960702\nこちら鳴潮のIDです😭\n原神起動したら即送ります…！"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3lewgkcxebs22",
+            "label": [
+                0.002444145269691944,
+                0.00032014684984460473,
+                0.9967734217643738,
+                0.00011250757233938202,
+                7.281040598172694e-05,
+                0.00011547917529242113,
+                8.774909656494856e-05,
+                7.383945921901613e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "704960702\nこちら鳴潮のIDです😭\n原神起動したら即送ります…！"
+                },
+                {
+                    "author": "did:plc:f6svwonj3o5m3lag6pwqzchh",
+                    "type": 2,
+                    "utter": "ありがとうございます〜！🥰\n申請しました！茉白ってやつです！\n原神私の添えておきますね〜！\n839635875\nです！こっちもマシロです〜！"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "承認しました！！原神申請しました！"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3lewog6hhwc2w",
+            "label": [
+                0.999517560005188,
+                3.948358425986953e-05,
+                0.00020667766511905938,
+                6.050019510439597e-05,
+                3.347382880747318e-05,
+                3.5481058148434386e-05,
+                5.44672402611468e-05,
+                5.227363726589829e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "そういえば私鳴潮再開したんですけどフレンドなってくれませんか…"
+                },
+                {
+                    "author": "did:plc:w6gdb4odycgzumelwhlxjn6p",
+                    "type": 2,
+                    "utter": "しませんか!!?!?!"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "いいんですか！！！お願いします！"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3lds6y2r5hc2g",
+            "label": [
+                0.005456462036818266,
+                0.0006624318193644285,
+                0.9913718700408936,
+                0.001577683724462986,
+                0.00021555949933826923,
+                0.0002693877031560987,
+                0.00020699117158073932,
+                0.00023971081827767193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "いいんですか！！！お願いします！"
+                },
+                {
+                    "author": "did:plc:w6gdb4odycgzumelwhlxjn6p",
+                    "type": 2,
+                    "utter": "いまゲーム開いてるので申請送れるのですが、IDはわかりますでしょうか!!?"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "お待たせしました！\n704960702\nです！！時間ある時申請お願いします😭"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3ldtojjang22e",
+            "label": [
+                0.0009775205980986357,
+                0.0002250626712338999,
+                0.9983820915222168,
+                0.00010803960321936756,
+                7.487461698474362e-05,
+                9.091844549402595e-05,
+                8.000289381016046e-05,
+                6.158630276331678e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "お待たせしました！\n704960702\nです！！時間ある時申請お願いします😭"
+                },
+                {
+                    "author": "did:plc:w6gdb4odycgzumelwhlxjn6p",
+                    "type": 2,
+                    "utter": "ありがとうございます〜！！！！\n申請できたと思うので、都合のいい時にでも承認いただけると嬉しいです🙌\nお手伝い出来ることがありましたら馳せ参じます💪(  ˙꒳​˙💪  )"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "承認しました！！めちゃ強くないですか！？\nそれは助かる…初心者すぎて技とかさえもよく分かってなくて😭今度時間ある時お願いします！"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3lduxxwai7s27",
+            "label": [
+                0.3324435353279114,
+                0.0008504234137944877,
+                0.6635701656341553,
+                0.0013256034580990672,
+                0.00040953129064291716,
+                0.00037559226620942354,
+                0.00033280294155701995,
+                0.0006923071341589093
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "承認しました！！めちゃ強くないですか！？\nそれは助かる…初心者すぎて技とかさえもよく分かってなくて😭今度時間ある時お願いします！"
+                },
+                {
+                    "author": "did:plc:w6gdb4odycgzumelwhlxjn6p",
+                    "type": 2,
+                    "utter": "ありがとうございます～！！！\nなんやかんやマイペースにですが続いているのでなんとかですが！！育成状況は偏りがある(いつも)のでどこまでお手伝いできるかは謎ですがぜひぜひ！！！\nよくわかってないのは今だにそうですｗ最近始めた友人の見ながら「そうだったんだ！」って言いまくってたので😆\n今のところ夜は基本的にいつでも大丈夫です！！マルチ楽しいので気軽に声かけてもらえると喜びます🙌🏻✨"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "え、マジでありがたい！！もう素材ボス的なのも1人で倒せないから本当に沢山頼んじゃう…。\n行ける時波紋結晶消費手伝ってください😭"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3ldvhqtizac2q",
+            "label": [
+                0.9971285462379456,
+                0.00019216816872358322,
+                0.0022843440528959036,
+                8.505838923156261e-05,
+                5.171554585103877e-05,
+                6.499610026367009e-05,
+                8.243056799983606e-05,
+                0.00011076949158450589
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 1,
+                    "utter": "え、マジでありがたい！！もう素材ボス的なのも1人で倒せないから本当に沢山頼んじゃう…。\n行ける時波紋結晶消費手伝ってください😭"
+                },
+                {
+                    "author": "did:plc:w6gdb4odycgzumelwhlxjn6p",
+                    "type": 2,
+                    "utter": "最初の方ボスまじつらいですよね～～～～！！！！！！\nどんとお任せください！！！！！！！ぎったんぎったんのボコボコにしてやりますよ！！！ᕙ(  ˙꒳​˙  )ᕗ"
+                },
+                {
+                    "author": "did:plc:nbenfej6dbnzozxm34vul5km",
+                    "type": 3,
+                    "utter": "うぉぉぉ今日少し時間ありますか！"
+                }
+            ],
+            "uri": "at://did:plc:nbenfej6dbnzozxm34vul5km/app.bsky.feed.post/3ldvn5svmfk2k",
+            "label": [
+                0.019120752811431885,
+                0.6188485622406006,
+                0.3374442160129547,
+                0.006608782801777124,
+                0.0019282542634755373,
+                0.010739699006080627,
+                0.004292363300919533,
+                0.0010172749171033502
+            ]
+        }
+    ]
+}

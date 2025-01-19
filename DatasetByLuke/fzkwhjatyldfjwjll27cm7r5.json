@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "遅くまでおつむらよー"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "やぴー！おつあり！ごはんのことなんもかんがえてなかった（だいのじ"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "何かしら食べようねえ\n私が代わりに大の字になっておきますので"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lbyzbc7pbk2f",
+            "label": [
+                0.004525909665971994,
+                0.0010205594589933753,
+                0.9936726093292236,
+                9.724924166221172e-05,
+                9.922028402797878e-05,
+                0.00028823426691815257,
+                0.0001803914929041639,
+                0.00011591798829613253
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "何かしら食べようねえ\n私が代わりに大の字になっておきますので"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "うーんうーん（ぺんぎんを抱えに隣に転がる"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "誰よそのペンギン！"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lbyzli2sbc2f",
+            "label": [
+                0.0010708436602726579,
+                0.0001805786305340007,
+                0.0009113628184422851,
+                0.9968344569206238,
+                0.0003491512325126678,
+                0.0002542136062402278,
+                0.0002559961285442114,
+                0.00014338693290483207
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "誰よそのペンギン！"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "君だが"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "よーしよしよしよしよしよしよしよし"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lbyzom3tuc2f",
+            "label": [
+                0.9995573163032532,
+                4.966434426023625e-05,
+                0.00013286559260450304,
+                6.26104956609197e-05,
+                3.705281051225029e-05,
+                4.935865945299156e-05,
+                6.447781925089657e-05,
+                4.66951314592734e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "よーしよしよしよしよしよしよしよし"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "きゃっきゃっ"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "いや寝とる場合かーッ！\n飯を食え飯を！"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lbyzwb2tjc2f",
+            "label": [
+                0.0028320313431322575,
+                0.052568282932043076,
+                0.13571606576442719,
+                0.015298549085855484,
+                0.7651346921920776,
+                0.013012649491429329,
+                0.011611985974013805,
+                0.003825823077932
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "初詣\n無病息災\n願い事\n帰宅時転び\n膝をすりむく"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "消毒してあげよね（ナデナデ"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "ありがとねえ、やさしやさし\n空を飛べない弊害出たわね"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lesu52lngs2d",
+            "label": [
+                0.9985141158103943,
+                0.0009315117495134473,
+                9.704769763629884e-05,
+                0.0001254218368558213,
+                2.2714979422744364e-05,
+                0.0001255637762369588,
+                0.00010983015090459958,
+                7.373246626229957e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "ありがとねえ、やさしやさし\n空を飛べない弊害出たわね"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "それがまたよきとこよ\n地面踏んで歩けた方が見えるもの多いわよ"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "急に哲学むらだ、かしこんちゅ"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lesvrkbhlc2d",
+            "label": [
+                0.9946651458740234,
+                0.00042980184662155807,
+                0.0037038270384073257,
+                0.000635950593277812,
+                7.621671829838306e-05,
+                0.0001226070598931983,
+                0.0001798417797544971,
+                0.00018666873802430928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "急に哲学むらだ、かしこんちゅ"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "☺️\nこまつさんをよく揉んでふとんにくるむ"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "肉を寝かせるやつだ……ﾋｯ"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3leswl4ou4s2d",
+            "label": [
+                0.02249327301979065,
+                0.024731948971748352,
+                0.002366745611652732,
+                0.01180226169526577,
+                0.0005042269476689398,
+                0.9358822107315063,
+                0.0015439552953466773,
+                0.0006753276102244854
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "肉を寝かせるやつだ……ﾋｯ"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "小松さんで温まった布団に後で入るので"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "私はそれを布団の隣で正座して見てるってわけ"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lesxcmu2xs2d",
+            "label": [
+                0.9891473054885864,
+                0.002810857491567731,
+                0.0034899264574050903,
+                0.0007227323367260396,
+                0.000155330024426803,
+                0.002241376554593444,
+                0.0008370724390260875,
+                0.0005954365478828549
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "私はそれを布団の隣で正座して見てるってわけ"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "なんでなかにいないんですか！\nしまっちゃおうね"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "す、吸い込まれる！"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lesz4umm222d",
+            "label": [
+                0.0041410052217543125,
+                0.0006599855259992182,
+                0.0014673578552901745,
+                0.9929403066635132,
+                0.00012004693417111412,
+                0.0003264599363319576,
+                0.00019110622815787792,
+                0.00015358717064373195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "ようやくおせち作り終わった、休憩"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "こまつさんのおせちたべる（わくわく"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "取り分けるから縁起物もしっかり食べるんじゃよ"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lem5auwhz22a",
+            "label": [
+                0.0063226413913071156,
+                0.000346274086041376,
+                0.9924653768539429,
+                0.00014557565737050027,
+                0.0002269510441692546,
+                0.00017141507123596966,
+                0.00013282272266224027,
+                0.0001889744307845831
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "取り分けるから縁起物もしっかり食べるんじゃよ"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "すききらいはあんまりしないよ！！"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "えらちだねえ、色々祈願しとくからいっぱい育ちなされ"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lem5icyzxc2a",
+            "label": [
+                0.00852659996598959,
+                0.00041176925878971815,
+                0.9900924563407898,
+                0.0003656387561932206,
+                0.00016673420032020658,
+                0.0001006598467938602,
+                0.00014315356384031475,
+                0.00019289797637611628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "えらちだねえ、色々祈願しとくからいっぱい育ちなされ"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "やたー！おせちって酒が進む味付けしてるよね\nすこやかさんくみ"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "私より大きく育って布団になっておくれ"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lem5vgjjws2a",
+            "label": [
+                0.00024134659906849265,
+                0.0004991198075003922,
+                0.99886155128479,
+                8.69674258865416e-05,
+                6.0687751101795584e-05,
+                9.987775410991162e-05,
+                0.0001031891442835331,
+                4.719677599496208e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "私より大きく育って布団になっておくれ"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "ほかほかぬくぬくのいきもの\n酒によりさらにぬくい"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "温かいほどたすかるたすかる\n絶対離さないけんね"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lem6gk2zgs2a",
+            "label": [
+                0.9992870688438416,
+                0.00016039959155023098,
+                0.00023039680672809482,
+                6.418881821446121e-05,
+                2.5969795387936756e-05,
+                6.382189894793555e-05,
+                5.9140049415873364e-05,
+                0.00010902392386924475
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 1,
+                    "utter": "温かいほどたすかるたすかる\n絶対離さないけんね"
+                },
+                {
+                    "author": "did:plc:t2n2fln6y6fftdkiwcgjnv2d",
+                    "type": 2,
+                    "utter": "ﾎｶ………\nこまつさんだっこしてあみものするか"
+                },
+                {
+                    "author": "did:plc:fzkwhjatyldfjwjll27cm7r5",
+                    "type": 3,
+                    "utter": "住民票移します"
+                }
+            ],
+            "uri": "at://did:plc:fzkwhjatyldfjwjll27cm7r5/app.bsky.feed.post/3lem7icvmwc2a",
+            "label": [
+                0.036528702825307846,
+                0.00045179491280578077,
+                0.9614826440811157,
+                0.00041583069832995534,
+                0.00018514263501856476,
+                0.0003220386279281229,
+                0.0002878499508369714,
+                0.00032603490399196744
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "まだシーズン22に取り残されたおじさんがここにおるじゃろ？\n慌てるにはまだ早い"
+                },
+                {
+                    "author": "did:plc:3pitnh7dlzrcsop6iebhrl2z",
+                    "type": 2,
+                    "utter": "おじさんはギリギリにやってもすぐあがるタイプでしょうが！！！！！\n俺は一生沼ってんだ()"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "危ないでしょ！！\n沼に入るなって書いてあるでしょ！！"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3lbsrm2hzk22p",
+            "label": [
+                0.004343627952039242,
+                0.018957318738102913,
+                0.0031452432740479708,
+                0.6831405162811279,
+                0.1975124180316925,
+                0.0777711495757103,
+                0.012572281062602997,
+                0.0025574062019586563
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "危ないでしょ！！\n沼に入るなって書いてあるでしょ！！"
+                },
+                {
+                    "author": "did:plc:3pitnh7dlzrcsop6iebhrl2z",
+                    "type": 2,
+                    "utter": "でも沼があったら入りたいじゃん！！！！！！！？"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "その思考ヤバいことに気づこうね( ╹✖╹)"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3lbsrw5kkkc2p",
+            "label": [
+                0.001375625841319561,
+                0.031941480934619904,
+                0.0017465336713939905,
+                0.0019038390601053834,
+                0.005810136441141367,
+                0.9369139075279236,
+                0.019588099792599678,
+                0.0007203500135801733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "その思考ヤバいことに気づこうね( ╹✖╹)"
+                },
+                {
+                    "author": "did:plc:3pitnh7dlzrcsop6iebhrl2z",
+                    "type": 2,
+                    "utter": "ちょっと引っ張ってくれない？？？？"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "俺も飲まれんじゃね？"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3lbsry3gb522p",
+            "label": [
+                0.003247341141104698,
+                0.002971269888803363,
+                0.004505821503698826,
+                0.0008997178520075977,
+                0.0002562697045505047,
+                0.9873560070991516,
+                0.000531843164935708,
+                0.0002317085600225255
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "俺も飲まれんじゃね？"
+                },
+                {
+                    "author": "did:plc:3pitnh7dlzrcsop6iebhrl2z",
+                    "type": 2,
+                    "utter": "そんなことないよｱﾊﾊﾊﾊﾊﾊ"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "(そして沼に沈んでいくのであった)"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3lbsste6k7k2p",
+            "label": [
+                0.014542685821652412,
+                0.9440328478813171,
+                0.0022850038949400187,
+                0.0008476260700263083,
+                0.00017197975830640644,
+                0.03584463521838188,
+                0.0019961774814873934,
+                0.0002790064609143883
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "永眠はダメだよ！！"
+                },
+                {
+                    "author": "did:plc:v4fvyoylvsalrumgderfzqu7",
+                    "type": 2,
+                    "utter": "( ﾟ∀ﾟ)o彡゜えーみん！えーみん！"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": " うぉーʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔーぉお"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3l6ruvp6ziv2s",
+            "label": [
+                0.9920821189880371,
+                0.002487977733835578,
+                0.0019505061209201813,
+                0.001860711956396699,
+                0.00030091486405581236,
+                0.0002858609368558973,
+                0.0007419634493999183,
+                0.00029003212694078684
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": " うぉーʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔーぉお"
+                },
+                {
+                    "author": "did:plc:v4fvyoylvsalrumgderfzqu7",
+                    "type": 2,
+                    "utter": "ｼﾆﾏｼﾀ †┏┛ ᐛ ┗┓†  ﾅﾑﾅﾑ"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "お墓にモンエナ置いとくね〜(◜ᴗ◝ )"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3l6rvqdbtgo2n",
+            "label": [
+                0.9738369584083557,
+                0.0005021712859161198,
+                0.0244909655302763,
+                0.00019603555847425014,
+                0.00011462735710665584,
+                0.00026887498097494245,
+                0.0002740002819336951,
+                0.00031646518618799746
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "お墓にモンエナ置いとくね〜(◜ᴗ◝ )"
+                },
+                {
+                    "author": "did:plc:v4fvyoylvsalrumgderfzqu7",
+                    "type": 2,
+                    "utter": "1日1本墓石にかけてくれないと祟られるから気をつけてねᐡ៸៸>  ̫ <៸៸ᐡ❤︎‬"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "蟻が群がってそうだなw"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3l6rvug66at2q",
+            "label": [
+                0.019893983379006386,
+                0.0026739754248410463,
+                0.009825673885643482,
+                0.008669879287481308,
+                0.0003859338175971061,
+                0.9553567171096802,
+                0.0026235354598611593,
+                0.0005703626084141433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 1,
+                    "utter": "蟻が群がってそうだなw"
+                },
+                {
+                    "author": "did:plc:v4fvyoylvsalrumgderfzqu7",
+                    "type": 2,
+                    "utter": "それはやだなぁ…\nMonsterかけたあとに墓石掃除も追加で！"
+                },
+                {
+                    "author": "did:plc:gzjpvzb4uls3ujljxv63v437",
+                    "type": 3,
+                    "utter": "労働増えた"
+                }
+            ],
+            "uri": "at://did:plc:gzjpvzb4uls3ujljxv63v437/app.bsky.feed.post/3l6rw36qyrx2i",
+            "label": [
+                0.0006040946464054286,
+                0.9959101676940918,
+                0.0001876183523563668,
+                0.00028608544380404055,
+                0.00014898429799359292,
+                0.00026263543986715376,
+                0.0025602541863918304,
+                4.019533298560418e-05
+            ]
+        }
+    ]
+}

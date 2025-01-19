@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "西瓜は入っておりません\n瓜科は排除されました"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "おめー秋のグラタンっつったらかぼちゃ、きのこ、さつまいもだろ"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "かぼちゃはまだしもさつまいもとキノコは入れぬ"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3lbqx3is6sk2f",
+            "label": [
+                0.5271026492118835,
+                0.09979517757892609,
+                0.028430337086319923,
+                0.015267347916960716,
+                0.0052638608030974865,
+                0.24584823846817017,
+                0.06794921308755875,
+                0.010343220084905624
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "上位4種のシチューでした😤"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "季節感ないつまらないシチュー😂"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "王道には王道の理由がある😤"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3lbr5qc5k422f",
+            "label": [
+                0.9161302447319031,
+                0.002674475545063615,
+                0.03001139499247074,
+                0.0069092195481061935,
+                0.005106959957629442,
+                0.002816741354763508,
+                0.008012847043573856,
+                0.028338035568594933
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "589コメント目でした"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "投稿数すくなｗ"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "自慢することじゃ無いですよ😅"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3ld2vbqajek2t",
+            "label": [
+                0.5294526815414429,
+                0.016104821115732193,
+                0.01851509138941765,
+                0.04222836717963219,
+                0.009761256165802479,
+                0.08586281538009644,
+                0.2650860548019409,
+                0.03298886865377426
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "自慢することじゃ無いですよ😅"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "私はブルースカイの先輩ですよ😅\n先輩893も投稿しててすごぉい！と言うところです😅"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "自由な時間が多くて羨ましいどすなぁ"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3ld3gcimajs2a",
+            "label": [
+                0.3664872646331787,
+                0.4096728563308716,
+                0.12713505327701569,
+                0.05066663771867752,
+                0.0032260746229439974,
+                0.01917993277311325,
+                0.015389639884233475,
+                0.00824249442666769
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "明日何故か午後休取ってたわ、なぜ？"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "働け"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "私は半休よ"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3lax34ysm4c2a",
+            "label": [
+                0.9660923480987549,
+                0.001694223377853632,
+                0.030850373208522797,
+                0.0002145917824236676,
+                0.00012354904902167618,
+                0.0002383937971899286,
+                0.0005317304749041796,
+                0.00025476893642917275
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "私は半休よ"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "うるさい"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "🐮🤚🏿"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3laxcfvwdd22a",
+            "label": [
+                0.9546816349029541,
+                0.01177215576171875,
+                0.016648154705762863,
+                0.0019300321582704782,
+                0.0008721549529582262,
+                0.0031943125650286674,
+                0.009581319987773895,
+                0.001320292940363288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "🐮🤚🏿"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "て、くろくなぁい？"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "黒はダメって言いたいんですか"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3laxj2dxmok2a",
+            "label": [
+                0.017795555293560028,
+                0.04871198534965515,
+                0.003871802007779479,
+                0.17148344218730927,
+                0.10404206067323685,
+                0.03797721117734909,
+                0.6114048361778259,
+                0.004713000264018774
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "黒はダメって言いたいんですか"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "はい"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "😨"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3laxslqhays2h",
+            "label": [
+                0.9546816349029541,
+                0.01177215576171875,
+                0.016648154705762863,
+                0.0019300321582704782,
+                0.0008721549529582262,
+                0.0031943125650286674,
+                0.009581319987773895,
+                0.001320292940363288
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 1,
+                    "utter": "😨"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 2,
+                    "utter": "🐮の手が黒いのはおかしいだろ😡"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 3,
+                    "utter": "多様性を認めてください"
+                }
+            ],
+            "uri": "at://did:plc:6mryyw6i5mkvygnhfwenlpit/app.bsky.feed.post/3laxxa6ie5s2h",
+            "label": [
+                0.00045641843462362885,
+                0.005358344875276089,
+                0.9926968216896057,
+                0.00012775283539667726,
+                0.0001974721672013402,
+                0.0003512863186188042,
+                0.0006755038048140705,
+                0.0001362974289804697
+            ]
+        }
+    ]
+}

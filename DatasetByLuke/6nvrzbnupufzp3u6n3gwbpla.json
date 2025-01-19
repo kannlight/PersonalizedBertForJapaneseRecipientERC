@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "うおおおおお暗黒最強！暗黒最強！暗黒最強！暗黒最強！暗黒最強！暗黒最強！暗黒最強！暗黒最強！暗黒最強！"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "流石に強くなりすぎかもしれん"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "こいつなんで火力上がったんだ…？？"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3laqehqiwvz2u",
+            "label": [
+                0.000714093679562211,
+                0.00028014855342917144,
+                0.000670372974127531,
+                0.9974496960639954,
+                0.00020049400336574763,
+                0.00038493910687975585,
+                0.0001927672274177894,
+                0.000107488056528382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "こいつなんで火力上がったんだ…？？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "わからなすぎる\n火力最弱の戦士が何も無しなのに……"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "戦士君モーション早くなっただけなの可哀想すぎ"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3laqeykap7t24",
+            "label": [
+                0.0002886142465285957,
+                0.9990741014480591,
+                0.00014455981727223843,
+                0.00012080439773853868,
+                4.837983942707069e-05,
+                0.00012388544564601034,
+                0.00016869725368451327,
+                3.08735434373375e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "戦士君モーション早くなっただけなの可哀想すぎ"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "ほんとになんで？？？\nもともとホルムは発生クソ早かったし"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "運営は戦士アンチか…\n戦士だけ無いのは可哀想だから適当に追加した説"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3laqfybh4tj2u",
+            "label": [
+                0.04882755130529404,
+                0.48864519596099854,
+                0.003675864776596427,
+                0.09056844562292099,
+                0.004488060250878334,
+                0.07371257245540619,
+                0.2877945601940155,
+                0.0022877275478094816
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "運営は戦士アンチか…\n戦士だけ無いのは可哀想だから適当に追加した説"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "まあ暗黒かナイトに着替えればええか！！！"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "あれガンブレは？？？"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3laqgklkhqc2u",
+            "label": [
+                0.0007398324669338763,
+                0.0003997664025519043,
+                0.001042854506522417,
+                0.9971388578414917,
+                0.00016998837236315012,
+                0.00025062449276447296,
+                0.0001508081768406555,
+                0.00010727159678936005
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "ナンボドカのコピペでるのはっやww"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "鮮度が大事"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "テニスボール凍らせるやつ欲しい"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3ldktwmdj2s25",
+            "label": [
+                0.00031646506977267563,
+                0.0001991856552194804,
+                0.9991281628608704,
+                0.00011420436931075528,
+                4.6075900172581896e-05,
+                9.264989785151556e-05,
+                5.701014742953703e-05,
+                4.621743210009299e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "テニスボール凍らせるやつ欲しい"
+                },
+                {
+                    "author": "did:plc:axzdwvdkugzh4raqvpdywvju",
+                    "type": 2,
+                    "utter": "みなさんこんにちは。\nテニスボールはなるべく凍らせた方がいいと思われがちですが、\nその考え方は根本的に間違っているのかもしれません\n歴史的観点から見ると、日本人にもともとそのような風習はないことがわかります。ではなぜこうなったのでしょうか？\n元々は福岡県と青森県の境目に流れる川に由来"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "ｷｬｯｷｬｯ!!"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3ldkukatbac2y",
+            "label": [
+                0.9995622038841248,
+                5.876469731447287e-05,
+                0.00014805489627178758,
+                7.047555118333548e-05,
+                2.886953552660998e-05,
+                4.4648222683463246e-05,
+                5.165797847439535e-05,
+                3.529577952576801e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "10時に起きないとなの忘れてた"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "10時だよ！！！起きて！！！"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "おはよう！！優しい"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3lakmpjs6bf2s",
+            "label": [
+                0.999620795249939,
+                5.232967305346392e-05,
+                9.346145088784397e-05,
+                7.358527363976464e-05,
+                2.488767495378852e-05,
+                3.9214948628796265e-05,
+                5.0377435400150716e-05,
+                4.5310411223908886e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "おはよう！！優しい"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "寝てました"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "え？？？"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3lakweimrsi2c",
+            "label": [
+                0.0004940986982546747,
+                0.00037656063796021044,
+                0.0006267126882448792,
+                0.9976600408554077,
+                0.0002560611173976213,
+                0.00025334523525089025,
+                0.0002174130640923977,
+                0.00011579704005271196
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "つよい？？"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "つい最近まで制限カードでした\nこいつ一枚で召喚権使わずにランク3エクシーズ立てれます"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "え、ずるそう\nて事は今うっとるさんはランク3エクシーズ召喚権使わずに立てれるんだ"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3lal5vxvzjj27",
+            "label": [
+                0.0037360016722232103,
+                0.0008349735871888697,
+                0.003131530247628689,
+                0.9915547966957092,
+                0.00017889391165226698,
+                0.0002393351896898821,
+                0.00016815932758618146,
+                0.00015631869609933347
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 1,
+                    "utter": "え、ずるそう\nて事は今うっとるさんはランク3エクシーズ召喚権使わずに立てれるんだ"
+                },
+                {
+                    "author": "did:plc:i2wjvnpkif7d6gaojaibs6wk",
+                    "type": 2,
+                    "utter": "なんならケルビーニ立てて任意のレベル3モンスターを墓地に送れたり、サロスナンナになってそこからデモンスミス展開に移行できます\n最強です俺"
+                },
+                {
+                    "author": "did:plc:6nvrzbnupufzp3u6n3gwbpla",
+                    "type": 3,
+                    "utter": "呪文詠唱きた！"
+                }
+            ],
+            "uri": "at://did:plc:6nvrzbnupufzp3u6n3gwbpla/app.bsky.feed.post/3laljoaobwo2j",
+            "label": [
+                0.9994661211967468,
+                4.591183824231848e-05,
+                0.0002487940073478967,
+                7.204453140730038e-05,
+                3.193866723449901e-05,
+                3.843272861558944e-05,
+                5.103200601297431e-05,
+                4.576373248710297e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "待って今の俺だと自己紹介する時「ほもです◡̈  」って言わなきゃダメなのか"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "こんにちはほも〜"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "今日もさむいほもねえ〜"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3lbvm736c322b",
+            "label": [
+                0.000629887857940048,
+                0.9902589321136475,
+                0.0005881416727788746,
+                0.00038371901609934866,
+                0.00022932584397494793,
+                0.0005118491244502366,
+                0.007342074532061815,
+                5.6130691518774256e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "今日もさむいほもねえ〜"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "あったかいほもほしい〜"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "あったかいほも、どんなのかわからないほもねえ〜"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3lbvrww72uk22",
+            "label": [
+                0.71014803647995,
+                0.15165647864341736,
+                0.11763641238212585,
+                0.0013580730883404613,
+                0.00043976359302178025,
+                0.0119008868932724,
+                0.0056828041560947895,
+                0.0011775295715779066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "あったかいほも、どんなのかわからないほもねえ〜"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "あったかいほもはあったかいほもだろうが！！！！！！！おらあったかくなるんだよ！！！！！！！！！！！はやく！！！！！！！"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "ほも(鱧)だから分かんなぃ......海冷たくてきもちぃぃ"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3lbvz4dokkk2h",
+            "label": [
+                0.9996482133865356,
+                4.337862992542796e-05,
+                9.73473142948933e-05,
+                5.602268720394932e-05,
+                2.6061368771479465e-05,
+                4.19623356719967e-05,
+                4.753894609166309e-05,
+                3.9373826439259574e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "ほも(鱧)だから分かんなぃ......海冷たくてきもちぃぃ"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "ゲイ"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "ゲイじゃないんだよなあ"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3lbwnq2enac2z",
+            "label": [
+                0.45757046341896057,
+                0.36340993642807007,
+                0.002870067721232772,
+                0.007781431544572115,
+                0.0007242885185405612,
+                0.12847889959812164,
+                0.03693242743611336,
+                0.002232490573078394
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "ゲイじゃないんだよなあ"
+                },
+                {
+                    "author": "did:plc:wi6nm2ou2myoyr5dfuoaxra5",
+                    "type": 2,
+                    "utter": "そうなの？本当に？"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "そうかも！"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3lbwtkmti4k2u",
+            "label": [
+                0.8554062247276306,
+                0.0009142902563326061,
+                0.1251256763935089,
+                0.013648315332829952,
+                0.000517281994689256,
+                0.00060744903748855,
+                0.0007022572681307793,
+                0.0030785605777055025
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "EDが加速するってパワーワードすぎないか"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "かっこいいでしょ"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "限界突破目指して突き進め"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldzd24637k2y",
+            "label": [
+                0.00028851188835687935,
+                0.00018265467952005565,
+                0.9990885257720947,
+                0.00012052444071741775,
+                8.860444359015673e-05,
+                0.00010064135858556256,
+                6.54076284263283e-05,
+                6.514311826322228e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "限界突破目指して突き進め"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "突き進むことはできないよ、柔らかいからね"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "怖がらせるのには使えるから我が道は進めるよ\nみんな退けてくし"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldzdii76fs2k",
+            "label": [
+                0.0013803153997287154,
+                0.00043307128362357616,
+                0.9973330497741699,
+                0.00012360105756670237,
+                0.00014053707127459347,
+                0.0003166435635648668,
+                0.0001268524647457525,
+                0.00014598207781091332
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "怖がらせるのには使えるから我が道は進めるよ\nみんな退けてくし"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "本当にそうかなぁ〜〜〜"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "俺弱男だから見せつけながら近づいてこられたら怖くて死んじゃう"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldzfjnoves2k",
+            "label": [
+                0.0005554141825996339,
+                0.0010409830138087273,
+                0.0006330842152237892,
+                0.0009584814542904496,
+                0.0006607344257645309,
+                0.9954168796539307,
+                0.0005156322731636465,
+                0.0002187206846429035
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "俺弱男だから見せつけながら近づいてこられたら怖くて死んじゃう"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "でも勃ってないよ"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "萎えちん見せつけてくるやつほど怖いのいないよ"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldzhyakqw22y",
+            "label": [
+                0.0008015492931008339,
+                0.0010996704222634435,
+                0.0005048178136348724,
+                0.0008491352782584727,
+                0.0006574884755536914,
+                0.9946592450141907,
+                0.0012041685404255986,
+                0.00022393024119082838
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "ふとんがふっとんだw"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "めちゃくちゃおもろい、あったまったわありがとう"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "これはほっこりだね"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldhp6vzui22b",
+            "label": [
+                0.9996157884597778,
+                5.3966170526109636e-05,
+                0.00011048688611481339,
+                6.229330756468698e-05,
+                2.3562342903460376e-05,
+                4.5858581870561466e-05,
+                4.9683312681736425e-05,
+                3.827431646641344e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "これはほっこりだね"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "もっこり？"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "心温まるもっこりする話\nがちむちドラゴンが首無し騎士にスリット開発をされ惨めにも大量の汁を撒き散らし中から出てきた肉棒をトロトロの肉オ.......続きはこちらから！"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldhskljn2c24",
+            "label": [
+                0.9986523985862732,
+                0.0005234455456957221,
+                0.0003007439954672009,
+                0.00018769675807561725,
+                2.9068896765238605e-05,
+                0.0001342455216217786,
+                8.19193955976516e-05,
+                9.05622509890236e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "心温まるもっこりする話\nがちむちドラゴンが首無し騎士にスリット開発をされ惨めにも大量の汁を撒き散らし中から出てきた肉棒をトロトロの肉オ.......続きはこちらから！"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "心はあったマラないだろ！"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "ハピエンだったらあったまるかもしれないじゃん\n上手いこと言って許せないからローションガーゼの刑に処す"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldhtu2kizk2c",
+            "label": [
+                0.002170281019061804,
+                0.00700822239741683,
+                0.005944682750850916,
+                0.004045222420245409,
+                0.9624326229095459,
+                0.006177646107971668,
+                0.010552717372775078,
+                0.001668630982749164
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 1,
+                    "utter": "ハピエンだったらあったまるかもしれないじゃん\n上手いこと言って許せないからローションガーゼの刑に処す"
+                },
+                {
+                    "author": "did:plc:5hdryqjiqy32m4fzvqpxwygu",
+                    "type": 2,
+                    "utter": "それはそう　ローションガーゼ普通に拷問そ〜"
+                },
+                {
+                    "author": "did:plc:nuqkp7uk5xgbivknfqw7ujnm",
+                    "type": 3,
+                    "utter": "ハッピーエンドが好きなので性器改造モノにします\n雑巾でやってあげる"
+                }
+            ],
+            "uri": "at://did:plc:nuqkp7uk5xgbivknfqw7ujnm/app.bsky.feed.post/3ldhutkri2s2f",
+            "label": [
+                0.0015026240143924952,
+                0.00032058454235084355,
+                0.9977269768714905,
+                0.00011412885942263529,
+                7.527941488660872e-05,
+                0.00010155556083191186,
+                9.161394700640813e-05,
+                6.724490958731622e-05
+            ]
+        }
+    ]
+}

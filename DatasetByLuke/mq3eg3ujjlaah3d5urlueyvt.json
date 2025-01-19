@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "あと自分が休みまくってんのに給料引かれてんのなんでって聞いてくるのやばい　自分の胸に聞いて？"
+                },
+                {
+                    "author": "did:plc:xyy7mvmyz5u7oleqvilcgwet",
+                    "type": 2,
+                    "utter": "ヤバすぎワロタ　そりゃ引かれるじゃろ！ヤバ"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "そもそも入社してすぐだし、最近はなんか連日歯医者で遅刻してるから意味わからんｗ　私がいうのもなんだけど、働く気あるのか？って感じ"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3lbsu6grg742u",
+            "label": [
+                0.004445177037268877,
+                0.004794667009264231,
+                0.0029135423246771097,
+                0.013390358537435532,
+                0.2727917432785034,
+                0.015033244155347347,
+                0.6843864917755127,
+                0.002244766801595688
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "そもそも入社してすぐだし、最近はなんか連日歯医者で遅刻してるから意味わからんｗ　私がいうのもなんだけど、働く気あるのか？って感じ"
+                },
+                {
+                    "author": "did:plc:xyy7mvmyz5u7oleqvilcgwet",
+                    "type": 2,
+                    "utter": "歯医者って毎日いくものなのか…？もちろん治療の度合い(抜歯とか)にもよるかもだけど、そんな毎日レベルで行くもんじゃない気がするんだよな🤔入社してすぐなら有給もないだろうし半休使えないならそりゃ減るよ！という😇"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "私も被せ物取れた時とか早退して歯医者行ったりしたからわかるんだけど、さすがにだよね〜　違和感があるからとか言ってて、それもわかるけど…そんなに頻繁なら医者変えなよ…みたいなｗ\nだるすぎる〜"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3lbsz6uovhd2u",
+            "label": [
+                0.0026178467087447643,
+                0.006570005789399147,
+                0.0029267407953739166,
+                0.0055522676557302475,
+                0.05081242695450783,
+                0.0020456050988286734,
+                0.9284502863883972,
+                0.001024850644171238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "私も被せ物取れた時とか早退して歯医者行ったりしたからわかるんだけど、さすがにだよね〜　違和感があるからとか言ってて、それもわかるけど…そんなに頻繁なら医者変えなよ…みたいなｗ\nだるすぎる〜"
+                },
+                {
+                    "author": "did:plc:xyy7mvmyz5u7oleqvilcgwet",
+                    "type": 2,
+                    "utter": "緊急度高いときは仕方ないしわかるんだけど(私もたまにあるし)、違和感そんなに頻発するならマジで医者変えろだし、遅刻して給料減るのがイヤで文句言うなら土日に行けって感じよな🙄"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "ほんまにそれ　しかも今日まだ出社してないから笑う　そういうとこやぞ"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3lbtckyqpyz2j",
+            "label": [
+                0.04026828706264496,
+                0.010327514261007309,
+                0.0011562776053324342,
+                0.7391942143440247,
+                0.029822086915373802,
+                0.012279563583433628,
+                0.1644773930311203,
+                0.002474697772413492
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "ほんまにそれ　しかも今日まだ出社してないから笑う　そういうとこやぞ"
+                },
+                {
+                    "author": "did:plc:xyy7mvmyz5u7oleqvilcgwet",
+                    "type": 2,
+                    "utter": "まだ出社してないのマジ！？！？もう15時なるやん！！！もう全休にしたら？ってレベル🙄"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "なんかもうクビにしろって感じ…"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3lbtdb46nng2y",
+            "label": [
+                0.0033018102403730154,
+                0.05991940572857857,
+                0.006730321329087019,
+                0.004019040614366531,
+                0.48534074425697327,
+                0.010604956187307835,
+                0.4283411204814911,
+                0.0017426535487174988
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "なんかもうクビにしろって感じ…"
+                },
+                {
+                    "author": "did:plc:xyy7mvmyz5u7oleqvilcgwet",
+                    "type": 2,
+                    "utter": "入社してすぐってことは中途だよね…？中途でそれはもう前職でもそんなかんじで居づらくなって辞めたに１票"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "なんかそんな感じする〜\n業界歴長いらしいんだけど、それとこれとは別だしね…"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3lbtdr5xadh2i",
+            "label": [
+                0.014281726442277431,
+                0.006347875110805035,
+                0.0015064229955896735,
+                0.006818822119385004,
+                0.0015967295039445162,
+                0.023938721045851707,
+                0.9438825249671936,
+                0.001627175835892558
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "遊ぼうや(私もやる気がない民)"
+                },
+                {
+                    "author": "did:plc:rjxl6rdyg4ur5mqfhj4w7lot",
+                    "type": 2,
+                    "utter": "遊ぼ…完全にナギ節だしフレのアクティブ少なくて寂しい"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "わかり〜　あと人間関係疲れた(勝手に)\nドリームチェスト欲しいからさぁ、地図やろうよ"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3ldffyxbmie2g",
+            "label": [
+                0.0023578994441777468,
+                0.5840751528739929,
+                0.3767712414264679,
+                0.0010249053593724966,
+                0.0009981922339648008,
+                0.0024732903111726046,
+                0.03184047341346741,
+                0.00045880008838139474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "わかり〜　あと人間関係疲れた(勝手に)\nドリームチェスト欲しいからさぁ、地図やろうよ"
+                },
+                {
+                    "author": "did:plc:rjxl6rdyg4ur5mqfhj4w7lot",
+                    "type": 2,
+                    "utter": "いいよ〜〜地図8枚くらい溜まってるから消化しよ\n平日23時まではだいたいいると思うから会うとき行こ😘"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "やった！明日は予定あるので明後日とかどうすか！？"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3ldgqwpfuw32y",
+            "label": [
+                0.5107865929603577,
+                0.001022339565679431,
+                0.48595157265663147,
+                0.0005731519195251167,
+                0.00040962122147902846,
+                0.0004044760135002434,
+                0.00039998700958676636,
+                0.0004522692470345646
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "やった！明日は予定あるので明後日とかどうすか！？"
+                },
+                {
+                    "author": "did:plc:rjxl6rdyg4ur5mqfhj4w7lot",
+                    "type": 2,
+                    "utter": "おけ〜！明日21時くらいにはインしま！"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "今日体調悪くて、もしかしたら明日も引きずってるかもしれんから先にリスケさして…"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3ldipobgd7b2m",
+            "label": [
+                0.001304916455410421,
+                0.9153241515159607,
+                0.0021226718090474606,
+                0.0005292784771881998,
+                0.0007033823058009148,
+                0.0741330161690712,
+                0.005656318739056587,
+                0.00022621627431362867
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 1,
+                    "utter": "今日体調悪くて、もしかしたら明日も引きずってるかもしれんから先にリスケさして…"
+                },
+                {
+                    "author": "did:plc:rjxl6rdyg4ur5mqfhj4w7lot",
+                    "type": 2,
+                    "utter": "布団きて寝な！\n体調悪いのは仕方ない"
+                },
+                {
+                    "author": "did:plc:mq3eg3ujjlaah3d5urlueyvt",
+                    "type": 3,
+                    "utter": "すまん、やはり今日リスケで…寝て起きたら38度あった笑"
+                }
+            ],
+            "uri": "at://did:plc:mq3eg3ujjlaah3d5urlueyvt/app.bsky.feed.post/3ldjwzbunld2s",
+            "label": [
+                0.006496587302535772,
+                0.14183558523654938,
+                0.0008943459251895547,
+                0.6974705457687378,
+                0.0008509060717187822,
+                0.1490532010793686,
+                0.0029501754324883223,
+                0.00044873676961287856
+            ]
+        }
+    ]
+}

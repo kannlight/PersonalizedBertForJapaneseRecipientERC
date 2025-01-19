@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "ローゼンメイデンが好きなんだけどフォロワーの中でローゼンメイデンが好きな人はいますか？\n私は真紅ちゃんが好きです。"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "好きすぎて誰も選べない私が来ましたよ。どちらかといえば銀様寄りかもしれない"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "わーい！\n銀様は本当に頭一つ分抜けた美しさだと思うのです。\n後ドラマCDのギャップ萌えという点で人気が出たのかなと"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb42j2abtc2v",
+            "label": [
+                0.9995647072792053,
+                4.431701745488681e-05,
+                0.000145643440191634,
+                8.431559399468824e-05,
+                2.925663829955738e-05,
+                3.293241752544418e-05,
+                4.240090856910683e-05,
+                5.63762296224013e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "わーい！\n銀様は本当に頭一つ分抜けた美しさだと思うのです。\n後ドラマCDのギャップ萌えという点で人気が出たのかなと"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "皆かわいいけど、最初の子だから絶対気合い入れたよねと思う"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "わかる\n我々ドールオーナーのサガよねそこは"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb4mgabdzc2z",
+            "label": [
+                0.9741522073745728,
+                0.0006815777742303908,
+                0.022674560546875,
+                0.00025002280017361045,
+                0.00025553585146553814,
+                0.0006149191176518798,
+                0.0005456629442051053,
+                0.0008255041902884841
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "わかる\n我々ドールオーナーのサガよねそこは"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "そうなんだよね。思い入れがね"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "増やすのは簡単だけど手放すのはね"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb5c27v6gc2p",
+            "label": [
+                0.0205891914665699,
+                0.11864656209945679,
+                0.001626846962608397,
+                0.002879880601540208,
+                0.0006244429969228804,
+                0.8515229225158691,
+                0.0030973637476563454,
+                0.0010127086425200105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "増やすのは簡単だけど手放すのはね"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "だよね"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "まあ、幸いな事にいざとなったら業者とか道は色々あるからね"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb6eoe7kik2a",
+            "label": [
+                0.006808499339967966,
+                0.0006331523763947189,
+                0.9909091591835022,
+                9.92217828752473e-05,
+                0.00013937245239503682,
+                0.000904505664948374,
+                0.00017744761134963483,
+                0.00032861734507605433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "まあ、幸いな事にいざとなったら業者とか道は色々あるからね"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "海外ドールだとハードル上がるのよ。出生証明みたいなものが無いと無理という"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "おおうそうなの…\nこのご時世、物流関係も厳しくなりそうだからメンテナンスも一苦労だしねぇ…"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb6w4uvr622a",
+            "label": [
+                0.003925999626517296,
+                0.010592454113066196,
+                0.0010934543097391725,
+                0.013226988725364208,
+                0.0003413393860682845,
+                0.9698663949966431,
+                0.0007123349932953715,
+                0.00024106621276587248
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "セーラームーンやらプリキュアとかなんか女の子が強くてキラキラしてるアニメって昔はニチアサ以外でもたくさんあったけど今はニチアサ以外は無くなっちゃったね。\nこう、女の子のためだけの！みたいなアニメがないというか…寂しいなぁ…"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "昔は結構あったんだよ……そういう女子が強い特撮が……ポワトリンとか"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "わかる。わかります\nガールズ戦士シリーズという安っぽいサテン生地のアイドル衣装のようなコスプレで女の子が戦うというあれは本当に可愛かったなぁと…。"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb42fu6qr22v",
+            "label": [
+                0.9994353652000427,
+                0.00010080523497890681,
+                0.0002105285821016878,
+                5.298230462358333e-05,
+                3.106043004663661e-05,
+                3.874242611345835e-05,
+                5.58724241273012e-05,
+                7.456071034539491e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "わかる。わかります\nガールズ戦士シリーズという安っぽいサテン生地のアイドル衣装のようなコスプレで女の子が戦うというあれは本当に可愛かったなぁと…。"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "だよね……可愛かったんだよ……"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "きっと大きいお友達がアニメに行ってしまったせいもあるんだろうなと"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb4mik2drk2z",
+            "label": [
+                0.0008368375711143017,
+                0.9979552030563354,
+                0.00014301019837148488,
+                0.00028704741271212697,
+                3.7961133784847334e-05,
+                0.0004975677002221346,
+                0.00020485499408096075,
+                3.755413126782514e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "きっと大きいお友達がアニメに行ってしまったせいもあるんだろうなと"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "だろうねえ……"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "悪くなかったんだけどねぇ世知辛いね"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb5bzdelcc2p",
+            "label": [
+                0.000245638337219134,
+                0.9990047812461853,
+                0.0001911386352730915,
+                0.00010998927609762177,
+                4.697505210060626e-05,
+                0.00016677053645253181,
+                0.00020433134341146797,
+                3.0477161999442615e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "悪くなかったんだけどねぇ世知辛いね"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "売れないとねえ……どうにもならない"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "そうだねぇ…せめて子役が料理作るマインちゃんみたいな番組は残して欲しかった…"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb6ubqsdlk2a",
+            "label": [
+                0.00025925412774086,
+                0.9986249208450317,
+                0.0005774266901426017,
+                8.745869126869366e-05,
+                6.785588630009443e-05,
+                0.00012694111501332372,
+                0.00021769183513242751,
+                3.843877857434563e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 1,
+                    "utter": "そうだねぇ…せめて子役が料理作るマインちゃんみたいな番組は残して欲しかった…"
+                },
+                {
+                    "author": "did:plc:dnhjmkyt7buvg3z4a4nimz5j",
+                    "type": 2,
+                    "utter": "まあ、今のご時世お子様に料理させるのはハードル高いから"
+                },
+                {
+                    "author": "did:plc:ucrsnjfxuwa4ddh2uffww42k",
+                    "type": 3,
+                    "utter": "コンプラとかその他諸々がねぇ"
+                }
+            ],
+            "uri": "at://did:plc:ucrsnjfxuwa4ddh2uffww42k/app.bsky.feed.post/3lb6vzt3yt22a",
+            "label": [
+                0.006489756051450968,
+                0.9889625906944275,
+                0.000584582332521677,
+                0.00046719444799236953,
+                0.0001435681915609166,
+                0.0019483217038214207,
+                0.001329330145381391,
+                7.46298028388992e-05
+            ]
+        }
+    ]
+}

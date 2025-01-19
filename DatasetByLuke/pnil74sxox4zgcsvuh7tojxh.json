@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "จะตายแล้ว มาให้ตอกหน่อย"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 2,
+                    "utter": "อี๋ อุบาทว์\n\nที่ไหน"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "ปฏิเสธหน่อย"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbmxjamuw22w",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "ปฏิเสธหน่อย"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 2,
+                    "utter": "เกรุกมาหาถึงที่ ปฏิเสธทำไม"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "กูเป็นทอม"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbmy4p6vsc2w",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "กูเป็นทอม"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 2,
+                    "utter": "ไม่ติด"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "มึงชอบกูหรอหล้า"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbmyimwsy223",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "มึงชอบกูหรอหล้า"
+                },
+                {
+                    "author": "did:plc:cpakcjlln7ktwk23mvcbs4lj",
+                    "type": 2,
+                    "utter": "กุไม่มีสเปคเป็นคิงคองหัวโล้น"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "จำคำที่พิมพ์ไว้นะ"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbmyvcy35s23",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "ผมแกร่งวะชอจอ แค่นี้ทำไรไม่ได"
+                },
+                {
+                    "author": "did:plc:a5vkvhn2lw7ntqzsm6o7xdjp",
+                    "type": 2,
+                    "utter": "ไปหาของตอกเถอะ"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "ชอจอมาช้วยหน่อย"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbobmjgnmc2h",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "ชอจอมาช้วยหน่อย"
+                },
+                {
+                    "author": "did:plc:a5vkvhn2lw7ntqzsm6o7xdjp",
+                    "type": 2,
+                    "utter": "ช่วยยังง้ายบบ"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "มาหาผม"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbocvws7js2t",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "มาหาผม"
+                },
+                {
+                    "author": "did:plc:a5vkvhn2lw7ntqzsm6o7xdjp",
+                    "type": 2,
+                    "utter": "ไหนโลเคชั่น ส่งมา"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "/ ส่งโลเคชั่นเกาะอ่าวไทย /"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbodahifx22t",
+            "label": [
+                0.9133960008621216,
+                0.013675856404006481,
+                0.05055703967809677,
+                0.0026981118135154247,
+                0.0021755490452051163,
+                0.004528156016021967,
+                0.010090158320963383,
+                0.002879131818190217
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 1,
+                    "utter": "/ ส่งโลเคชั่นเกาะอ่าวไทย /"
+                },
+                {
+                    "author": "did:plc:a5vkvhn2lw7ntqzsm6o7xdjp",
+                    "type": 2,
+                    "utter": "โอเค โพไซดอนรอผมก่อน"
+                },
+                {
+                    "author": "did:plc:pnil74sxox4zgcsvuh7tojxh",
+                    "type": 3,
+                    "utter": "6262626252526262626ตลก\n\nนี่อยู่ชล"
+                }
+            ],
+            "uri": "at://did:plc:pnil74sxox4zgcsvuh7tojxh/app.bsky.feed.post/3lbodwgwp2c2s",
+            "label": [
+                0.8674274682998657,
+                0.03132195770740509,
+                0.07413016259670258,
+                0.0033612470142543316,
+                0.0018648832337930799,
+                0.007341491524130106,
+                0.01137822587043047,
+                0.0031745564192533493
+            ]
+        }
+    ]
+}

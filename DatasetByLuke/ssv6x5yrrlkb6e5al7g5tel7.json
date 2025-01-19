@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "寝かしつけに行くわね"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "お風呂かお布団にいるね"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "じゃ布団行くね…"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lbzj2sdnuc2g",
+            "label": [
+                0.7697461843490601,
+                0.03279223293066025,
+                0.18880657851696014,
+                0.0008986906614154577,
+                0.0002583183813840151,
+                0.00304624461568892,
+                0.0034023397602140903,
+                0.0010493750451132655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "じゃ布団行くね…"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "おいでー 暖房的ななにかをつけておくよ"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "雨降ってるからシャワー借りるね"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lbzjgosdpc2g",
+            "label": [
+                0.15602609515190125,
+                0.06448815017938614,
+                0.7661475539207458,
+                0.0012909101787954569,
+                0.0006554585415869951,
+                0.0058844080194830894,
+                0.003948448691517115,
+                0.0015589921968057752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "雨降ってるからシャワー借りるね"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "こっちはやんでたよ シャワーくらいなら自由に使ってね 見とくね！"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "ありゃ\n結構海沿いなのね\nこの鋼ボディ見せつけるぜ"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lbzjnzvfyc2g",
+            "label": [
+                0.0033797472715377808,
+                0.0004684719315264374,
+                0.9902179837226868,
+                0.004011357668787241,
+                0.0008079638355411589,
+                0.00043991892016492784,
+                0.0002255496074212715,
+                0.00044896401232108474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "ありゃ\n結構海沿いなのね\nこの鋼ボディ見せつけるぜ"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "山よりは南だよ！ムキムキぢゆさん かわいいね"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "私の概念ちゃんは鋼ボディだけど\n\n私は…"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lbzjyyesks2g",
+            "label": [
+                0.007962900213897228,
+                0.9846552610397339,
+                0.000634398718830198,
+                0.0009752307669259608,
+                7.768668729113415e-05,
+                0.00483721075579524,
+                0.0007534088217653334,
+                0.00010385906352894381
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "何これは…\n何も起こらんのかい"
+                },
+                {
+                    "author": "did:plc:dbzgwl7coexa7vobghxk6m6f",
+                    "type": 2,
+                    "utter": "雰囲気ホラーですね"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "びびらせやがって"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lfbtsi4syk2j",
+            "label": [
+                0.08011751621961594,
+                0.013989566825330257,
+                0.002335508819669485,
+                0.652643084526062,
+                0.19835203886032104,
+                0.009230908937752247,
+                0.04113965108990669,
+                0.0021916967816650867
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "きもちわるいーー"
+                },
+                {
+                    "author": "did:plc:dbzgwl7coexa7vobghxk6m6f",
+                    "type": 2,
+                    "utter": "わろてる"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "ジャンプスケアが苦手だからずっと同じなのは大丈夫"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lfcnwzlgt22t",
+            "label": [
+                0.15469954907894135,
+                0.005481036379933357,
+                0.07077784091234207,
+                0.0018248186679556966,
+                0.0013823441695421934,
+                0.7517883777618408,
+                0.007198724430054426,
+                0.006847265176475048
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "ジャンプスケアが苦手だからずっと同じなのは大丈夫"
+                },
+                {
+                    "author": "did:plc:dbzgwl7coexa7vobghxk6m6f",
+                    "type": 2,
+                    "utter": "チッ"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "単純に気持ち悪い"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lfco2234ic2t",
+            "label": [
+                0.004058301914483309,
+                0.0022528767585754395,
+                0.002782936906442046,
+                0.0013767002383247018,
+                0.0033958947751671076,
+                0.002797289751470089,
+                0.9824895858764648,
+                0.0008463888661935925
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "#今年も残りわずかなのでリプした人が一言"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "このすけべ！"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "今すけべを貰いました〜\nこんなんなんぼあってもええですからね"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lejrz5g4nc2i",
+            "label": [
+                0.9996011853218079,
+                6.586632662219927e-05,
+                0.00013003394997213036,
+                5.560376666835509e-05,
+                2.2209489543456584e-05,
+                3.724146154127084e-05,
+                4.7660494601586834e-05,
+                4.033126242575236e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "今すけべを貰いました〜\nこんなんなんぼあってもええですからね"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "来年のぢゆさん 500すけべポイント"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "ポイントが貯まると何が貰えますか"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lejs6zi7qk2i",
+            "label": [
+                0.0064310976304113865,
+                0.00035862784716300666,
+                0.9925300478935242,
+                0.00018379972607363015,
+                9.30746755329892e-05,
+                0.00019912344578187913,
+                8.416200580541044e-05,
+                0.00012002983567072079
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "ポイントが貯まると何が貰えますか"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "逮捕だよ？"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "中国の信用スコアみたいな…"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lejshz7z5s2i",
+            "label": [
+                0.001068910933099687,
+                0.0006199863273650408,
+                0.9975759387016296,
+                0.0003216212207917124,
+                3.7153811717871577e-05,
+                0.00021865077724214643,
+                9.317549120169133e-05,
+                6.446069164667279e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "中国の信用スコアみたいな…"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "すけべ度…"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "今誰が1番高い？"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lejslyofx22i",
+            "label": [
+                0.6258702874183655,
+                0.0069715483114123344,
+                0.3036762773990631,
+                0.03752153739333153,
+                0.0030235997401177883,
+                0.009272832423448563,
+                0.0045157987624406815,
+                0.009148139506578445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 1,
+                    "utter": "今誰が1番高い？"
+                },
+                {
+                    "author": "did:plc:ztlosdapkofmrqryx32wbjzz",
+                    "type": 2,
+                    "utter": "たんぐれーさんかな！"
+                },
+                {
+                    "author": "did:plc:ssv6x5yrrlkb6e5al7g5tel7",
+                    "type": 3,
+                    "utter": "名前よく見る方だ！\nこれを機に突撃させてもらおかな"
+                }
+            ],
+            "uri": "at://did:plc:ssv6x5yrrlkb6e5al7g5tel7/app.bsky.feed.post/3lejt2xj72c2i",
+            "label": [
+                0.00256757321767509,
+                0.00013915185991209,
+                0.9966315627098083,
+                0.000287809525616467,
+                8.99778024177067e-05,
+                0.00010069418203784153,
+                7.817705045454204e-05,
+                0.00010515850590309128
+            ]
+        }
+    ]
+}

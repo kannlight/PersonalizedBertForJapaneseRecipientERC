@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "わかる"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "ちなメルカリ使ったことない"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "ここんとこ良くない噂ばっかで放出するのが怖くはある…"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbw4o2oen22k",
+            "label": [
+                0.0006649880670011044,
+                0.0015273961471393704,
+                0.0008034049533307552,
+                0.0008011393947526813,
+                0.0004921407089568675,
+                0.9949829578399658,
+                0.000528463686350733,
+                0.0001994785270653665
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "ここんとこ良くない噂ばっかで放出するのが怖くはある…"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "詐欺られたのに運営がだんまりしてるみたいなやつ？"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "それそれ\n購入した側がいちゃもんつけて返品して、それが同じ重さの漫画だったりペットボトルだったりして、それを運営に言うと、返した人は本物を返したって言ってるとかで取引がキャンセルされて、購入した人がタダでゲットできちゃうみたいなやつ"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbw5ebdy3c2k",
+            "label": [
+                0.07112351059913635,
+                0.013156791217625141,
+                0.0013133130269125104,
+                0.8010749816894531,
+                0.002499517286196351,
+                0.049045104533433914,
+                0.05993442237377167,
+                0.001852373592555523
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "それそれ\n購入した側がいちゃもんつけて返品して、それが同じ重さの漫画だったりペットボトルだったりして、それを運営に言うと、返した人は本物を返したって言ってるとかで取引がキャンセルされて、購入した人がタダでゲットできちゃうみたいなやつ"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "ヤバすぎて草\nそんなもん横行してんのか…普通になんちゃらオフとかに売ったほうが良いかのぅ…"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "手間とかリスクを考えるとそうだけど、個人に売る方が高く売れるから結局そこだよな〜〜…\n\n10万くらいメルカリで物売ってはいるけど、そういう目にあったことはいまんとこない…"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbwkgxzxws26",
+            "label": [
+                0.9917500615119934,
+                0.0005839458899572492,
+                0.0013202994596213102,
+                0.00033156367135234177,
+                0.00022855725546833128,
+                0.003005289938300848,
+                0.0006460031727328897,
+                0.0021342975087463856
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "手間とかリスクを考えるとそうだけど、個人に売る方が高く売れるから結局そこだよな〜〜…\n\n10万くらいメルカリで物売ってはいるけど、そういう目にあったことはいまんとこない…"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "それはそう。思わぬものが高く買い取られてたりするでな…\nまそんな犯罪紛いのことする人間なんて稀だろうしメルカっちゃおかな"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "メルカリガチャしようぜ！！！！！\nヤバそうな人はプロフとか評価見れば大体わかるかな？\n高価なものの場合、取引実績ない人はやめておくとかである程度は回避できるんじゃないかなあって思う"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbxup5efy22z",
+            "label": [
+                0.0005237605655565858,
+                0.00013569007569458336,
+                0.99887615442276,
+                0.0001311614760197699,
+                8.245448407251388e-05,
+                0.00010756646224763244,
+                7.978876965353265e-05,
+                6.33672607364133e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "かなしみ…\nワイの残ってるストアポイントあげたい"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "え～まじぃ！？じゃあメアドとパスワード教えてね！"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "めっ"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbbgylhla22t",
+            "label": [
+                0.19668054580688477,
+                0.15747351944446564,
+                0.0037734585348516703,
+                0.6116231083869934,
+                0.003870835294947028,
+                0.01151624321937561,
+                0.013910447247326374,
+                0.0011518830433487892
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "めっ"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "めっ　じゃないが"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "もっ？"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbbjs4ajfs2c",
+            "label": [
+                0.02514571137726307,
+                0.7503179311752319,
+                0.0057039083912968636,
+                0.07697810232639313,
+                0.022727400064468384,
+                0.01452575996518135,
+                0.10316427052021027,
+                0.0014368686825037003
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "もっ？"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "みっ"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "かわいい"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbbjtojfrs2j",
+            "label": [
+                0.9996134638786316,
+                4.241498027113266e-05,
+                0.00011507454473758116,
+                6.314735219348222e-05,
+                2.8770829885615967e-05,
+                4.613927012542263e-05,
+                4.956757402396761e-05,
+                4.143587648286484e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 1,
+                    "utter": "かわいい"
+                },
+                {
+                    "author": "did:plc:bxixv6a7akfrzyvgcvhhowal",
+                    "type": 2,
+                    "utter": "かわいいからピクセル買ってくれる？アイホンでもいいよ"
+                },
+                {
+                    "author": "did:plc:2k2tbv3gon4ahxctqxzbm5q4",
+                    "type": 3,
+                    "utter": "アイボン？目を洗うやつかな、いいよ"
+                }
+            ],
+            "uri": "at://did:plc:2k2tbv3gon4ahxctqxzbm5q4/app.bsky.feed.post/3lbbkpwidvc2e",
+            "label": [
+                0.9995892643928528,
+                5.6987359130289406e-05,
+                0.00010393923002993688,
+                5.450845856103115e-05,
+                2.565774593676906e-05,
+                4.6585817472077906e-05,
+                7.24483688827604e-05,
+                5.062850323156454e-05
+            ]
+        }
+    ]
+}

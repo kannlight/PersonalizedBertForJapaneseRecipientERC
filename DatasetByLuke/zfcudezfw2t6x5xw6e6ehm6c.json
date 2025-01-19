@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "17時"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "だそうです"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "そもそも私mana行けないので参加権ありませんでした。"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3lbbnej2r3s2j",
+            "label": [
+                0.00038979059900157154,
+                0.998924195766449,
+                0.00014000595547258854,
+                0.00012669946590904146,
+                5.6040178606053814e-05,
+                0.00012816584785468876,
+                0.00020197498088236898,
+                3.314509376650676e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "カフェイン錠で無理やり起きてるから多分夜勤もう無理なんだな。かと言って早番の朝6時起きも無理なんだよね。"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "おはよ"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "なんか4時間で起きちゃったからだ壊れちゃったね"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldzouevxxc22",
+            "label": [
+                0.00023330208205152303,
+                0.9988046884536743,
+                0.00013386874343268573,
+                0.00016762982704676688,
+                6.656894402112812e-05,
+                0.000283657805994153,
+                0.00028365294565446675,
+                2.6677635105443187e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "なんか4時間で起きちゃったからだ壊れちゃったね"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "なおして"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "むりﾌﾞﾘ"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldzoztmv5222",
+            "label": [
+                0.0005380421644076705,
+                0.9927939176559448,
+                0.00027677329489961267,
+                0.0004623015702236444,
+                0.00024471161304973066,
+                0.0006165234372019768,
+                0.005013400223106146,
+                5.442214387585409e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "むりﾌﾞﾘ"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "おもらし"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "体壊れてるからおもらしもする。"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldzp7mxhhc22",
+            "label": [
+                0.0008525541634298861,
+                0.9830495119094849,
+                0.00038822295027785003,
+                0.0004998608492314816,
+                0.0004214098153170198,
+                0.009680643677711487,
+                0.005017727613449097,
+                9.022739686770365e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "体壊れてるからおもらしもする。"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "おむつはこうね"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "任せて"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldzpjiu6x22u",
+            "label": [
+                0.9535791277885437,
+                0.00041649866034276783,
+                0.04268490523099899,
+                0.00029500029631890357,
+                0.00033937025000341237,
+                0.0012814700603485107,
+                0.0003496131394058466,
+                0.0010541204828768969
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "任せて"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "たのしみだね"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "やだよ。イカ臭くなる"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldzpmta7ns22",
+            "label": [
+                0.005154454614967108,
+                0.03500968590378761,
+                0.00197900109924376,
+                0.0018952895188704133,
+                0.0017731430707499385,
+                0.8701453804969788,
+                0.08333487063646317,
+                0.0007080616196617484
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "風呂壊れた。\nウケるね。"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "バカ"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "冬場にこわれるのえぐいね"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "最悪すぎた。\nまぁ前兆無視したのが悪い"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldigrc6xw22m",
+            "label": [
+                0.00033679246553219855,
+                0.9952387809753418,
+                0.00024638898321427405,
+                0.00019922615319956094,
+                0.0003417961997911334,
+                0.0005366462864913046,
+                0.003041305812075734,
+                5.9063979279017076e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "最悪すぎた。\nまぁ前兆無視したのが悪い"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "無理矢理やっちゃったか\nもっとやさしくしてね"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "無理\n壊れるまで使い倒す"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldigwck47c2m",
+            "label": [
+                0.0008971958886831999,
+                0.0010132344905287027,
+                0.996494710445404,
+                0.0001931156439241022,
+                0.000233044134802185,
+                0.0006485997000709176,
+                0.00036089197965338826,
+                0.00015927643107715994
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "無理\n壊れるまで使い倒す"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "ヤバすぎる\n壊れるまでつかって壊れたらポイすて"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "ポイして新しいのに変えます"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldigzrb2a22m",
+            "label": [
+                0.007200924213975668,
+                0.0009213179000653327,
+                0.9907714128494263,
+                0.00010470361303305253,
+                0.00012544797209557146,
+                0.00017018849030137062,
+                0.0005190550000406802,
+                0.00018679503409657627
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 1,
+                    "utter": "ポイして新しいのに変えます"
+                },
+                {
+                    "author": "did:plc:2cchlcyd75x5vyey6sogup5z",
+                    "type": 2,
+                    "utter": "うわぁ"
+                },
+                {
+                    "author": "did:plc:zfcudezfw2t6x5xw6e6ehm6c",
+                    "type": 3,
+                    "utter": "(^^)"
+                }
+            ],
+            "uri": "at://did:plc:zfcudezfw2t6x5xw6e6ehm6c/app.bsky.feed.post/3ldih4e3mlk2m",
+            "label": [
+                0.9977201819419861,
+                0.00022598030045628548,
+                0.0012094983831048012,
+                7.925501267891377e-05,
+                7.887513493187726e-05,
+                0.00020995413069613278,
+                0.0003189624403603375,
+                0.00015733523468952626
+            ]
+        }
+    ]
+}

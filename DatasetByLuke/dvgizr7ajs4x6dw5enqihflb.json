@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "ﾜｧ…"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "コンプリートしました💸👋🥹"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "クリスマスは…どうする？🥺👉️🆕"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lcpj2tsmp22d",
+            "label": [
+                0.13874845206737518,
+                0.002421049866825342,
+                0.8541624546051025,
+                0.000945816864259541,
+                0.0002098044496960938,
+                0.0025669042952358723,
+                0.00043740743421949446,
+                0.0005081338458694518
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "うおおおお🤤"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "うおおおお💸👋🤪\n\n肝心の挽く豆がないからコーヒー作れない…買ってこなきゃ…🥺"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "いい豆ありますよ…🥺\nいつかあげたい…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lbjuocmbnc2a",
+            "label": [
+                0.00042392188333906233,
+                0.0003017465060111135,
+                0.9989365935325623,
+                8.569670171709731e-05,
+                4.865303708356805e-05,
+                9.419763227924705e-05,
+                5.7094861404038966e-05,
+                5.216141289565712e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "いい豆ありますよ…🥺\nいつかあげたい…🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "ちょうだいきたよ…🥺👐🫘"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "いつか渡せるといいねぇ…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lbjv6zynxs2a",
+            "label": [
+                0.0018812764901667833,
+                0.0004434463626239449,
+                0.9972516894340515,
+                0.00010467434913152829,
+                5.9310459619155154e-05,
+                0.00010632963676471263,
+                7.6958371209912e-05,
+                7.626791193615645e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "昔の写真スレ見直したらその時からずっと三脚欲しいってのたまってたんだよねぷゆ🥺ｶｯﾃﾅｲｹﾄﾞ\nそんでなんだか“JCTの夜景よく撮ってる人”に「カーボン製のもの買うと良いよ」ってゆわれてたけど🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "🤔…\n\n😯\n\nカーボン製のもの買うと良いよ😯👍"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "うん…🥹うん…🥹\n\n前教えてもらったレオフォトのやつ結構調べたりしてるよぉ🥺\n目線の高さ出せるやつってなると絞り込むの大変そう🥺\n縮めたときのサイズとか考えるとLS−324Cなんかが良さそうけど🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lff5hann3s2h",
+            "label": [
+                0.0011316797463223338,
+                0.00021115127310622483,
+                0.9982682466506958,
+                8.974056254373863e-05,
+                5.1761820941464975e-05,
+                0.00012745257117785513,
+                5.68687028135173e-05,
+                6.30114009254612e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "うん…🥹うん…🥹\n\n前教えてもらったレオフォトのやつ結構調べたりしてるよぉ🥺\n目線の高さ出せるやつってなると絞り込むの大変そう🥺\n縮めたときのサイズとか考えるとLS−324Cなんかが良さそうけど🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "おぉ、なんか嬉しよなんだ😳\nちなみに自分はLS-323CEXとサブでマンフロットのやつ（型番忘れちゃった）使ってます🥺"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "3と4で結構違うのかな？🥺\n関節(?)少ないほうが楽そうだけど畳んだ時に大きい大きいそうだけど…😖"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfg3ccwlj22e",
+            "label": [
+                0.130025714635849,
+                0.005151424556970596,
+                0.667378306388855,
+                0.03277520462870598,
+                0.00046456963173113763,
+                0.16163529455661774,
+                0.000930462614633143,
+                0.0016390946693718433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "3と4で結構違うのかな？🥺\n関節(?)少ないほうが楽そうだけど畳んだ時に大きい大きいそうだけど…😖"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "多分関節の違いだけじゃないかな？\n少ない方が設置と撤収楽だから自分は好みだねぇ、コンパクトさを取るか手軽さを取るか…って感じかな🥺"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "ありがとう🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfga3ow6sk2e",
+            "label": [
+                0.9996434450149536,
+                4.961077502230182e-05,
+                8.299585897475481e-05,
+                6.427646439988166e-05,
+                2.6357611204730347e-05,
+                4.131637615500949e-05,
+                4.718055424746126e-05,
+                4.493575761443935e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "ありがとう🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "たぶんね…たぶん…🥹\n\nあと自分のはCEXモデルだからボールシステムっていう自由雲台を半分に切ったみたいなやつが付いてます🥺👉👈"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "雲台もどのタイプが良いか難しそうだねぇ🥺\n全く同じモデルは生産終了になってたっちょ…😬"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfgcpn6efc2e",
+            "label": [
+                0.0003912725660484284,
+                0.9986528158187866,
+                0.00014146986359264702,
+                0.00042857491644099355,
+                6.0957758250879124e-05,
+                0.00013592105824500322,
+                0.00016136931662913412,
+                2.744177072599996e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "雲台もどのタイプが良いか難しそうだねぇ🥺\n全く同じモデルは生産終了になってたっちょ…😬"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "雲台のタイプは自由雲台を選んでおけば間違いないよぉ🥺\n自分は2Wayだけどかなり少数派だと思う…\n\n生産終了してたんだ、やっぱり4段が主流なのかな？🥹"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "3段のやつ自体はあったんだけど雲台側のセットが違うのになってるみたい🥺\n名前変わっただけでおんなじようなのなのかな？🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfgjuzw3dk2e",
+            "label": [
+                0.0007312683737836778,
+                0.0006927301292307675,
+                0.0003311634063720703,
+                0.9972826242446899,
+                0.00012352198245935142,
+                0.0004974984913133085,
+                0.00025871218531392515,
+                8.234728738898411e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "EOS R6 Mark III…？🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "たかそう…🥺"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "たかい(確信)\n今年の前半に発表されそうらしいね…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfc7c4bv222o",
+            "label": [
+                0.002618384314700961,
+                0.0003318313683848828,
+                0.9965067505836487,
+                0.00017657430726103485,
+                5.437774962047115e-05,
+                0.00015823672583792359,
+                6.843040318926796e-05,
+                8.541825809516013e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "たかい(確信)\n今年の前半に発表されそうらしいね…🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "はえ〜😳\nフルサイズデビューチャンスだね😳"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "欲しいけど🥺\n今のAPS-C機ですらロクに使えてないぴゅゆっちょが買っても宝の持ち腐れってはっきりわかんっちょね…🥺\n\n𝒮𝒫𝒪さん前R6 Mark Ⅱ欲しいってゆってたよね…🫵🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfcc2mcids2o",
+            "label": [
+                0.005774906370788813,
+                0.9735026359558105,
+                0.0014135460369288921,
+                0.00030497173429466784,
+                0.00014385060057975352,
+                0.015146794728934765,
+                0.0035653028171509504,
+                0.00014801153156440705
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "欲しいけど🥺\n今のAPS-C機ですらロクに使えてないぴゅゆっちょが買っても宝の持ち腐れってはっきりわかんっちょね…🥺\n\n𝒮𝒫𝒪さん前R6 Mark Ⅱ欲しいってゆってたよね…🫵🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "ぶっちゃけ自分もカメラの機能半分も使えてないから…🥹\n\nR6は今でもほしいっちょね…去年車屋さんにℒ𝑒𝓃𝓈ごと借りて動体撮影させてもらったけど性能𝒪ℬ𝒜𝒦ℰだった🥺"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "英語書いてあるのかと思ったら日本語なのやめてな😠\n\n𝓒𝓪𝓷𝓸𝓷の追従性凄いよね…🥺ぷゆもそのために𝓒𝓪𝓷𝓸𝓷機かったし…🥺\n\nおそろいって手もあるけどね…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfcdvhii522o",
+            "label": [
+                0.010475208051502705,
+                0.04905002936720848,
+                0.000652915972750634,
+                0.9257449507713318,
+                0.000556076061911881,
+                0.005861895624548197,
+                0.007309073582291603,
+                0.0003498579026199877
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "英語書いてあるのかと思ったら日本語なのやめてな😠\n\n𝓒𝓪𝓷𝓸𝓷の追従性凄いよね…🥺ぷゆもそのために𝓒𝓪𝓷𝓸𝓷機かったし…🥺\n\nおそろいって手もあるけどね…🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "自分流し撮り下手くそなんだけど𝓬𝓪𝓶𝓮𝓻𝓪がめっちゃ補正してくれてこれが𝓕𝓾𝓵𝓵 𝓼𝓲𝔃𝓮の𝓼𝓮𝓷𝓼𝓸𝓻性能かぁ…ってなったっちょね😳\n\n𝓟𝓪𝓲𝓻 𝓛𝓸𝓸𝓴…ってコト！？🫣\nでも𝓞𝓵𝓭𝓢𝓪𝓶さんは𝓒𝓪𝓷𝓸𝓷使ってるからそのまま移行できるのもいいよね🥺📷"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "𝓐𝓾𝓽𝓸𝓯𝓸𝓬𝓾𝓼の性能が強みなのかと思ってたけど𝓢𝓮𝓷𝓼𝓸𝓻𝓼𝓲𝔃𝓮も大事なんだねぇ😳\n\nぷゆ確かに今使ってるの𝓒𝓪𝓷𝓸𝓷だけどこの前買った𝓡𝓕𝟐𝟖以外は𝓐𝓟𝓢−𝓒用の𝓛𝓮𝓷𝓼だからほとんど𝓛𝓮𝓷𝓼資産無いに等しいっちょね…🥺"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfcgflhizc2o",
+            "label": [
+                0.0008342673536390066,
+                0.9970819354057312,
+                0.00013963837409392,
+                0.001157952006906271,
+                5.279552351566963e-05,
+                0.000511427060700953,
+                0.00018821547564584762,
+                3.379728877916932e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 1,
+                    "utter": "𝓐𝓾𝓽𝓸𝓯𝓸𝓬𝓾𝓼の性能が強みなのかと思ってたけど𝓢𝓮𝓷𝓼𝓸𝓻𝓼𝓲𝔃𝓮も大事なんだねぇ😳\n\nぷゆ確かに今使ってるの𝓒𝓪𝓷𝓸𝓷だけどこの前買った𝓡𝓕𝟐𝟖以外は𝓐𝓟𝓢−𝓒用の𝓛𝓮𝓷𝓼だからほとんど𝓛𝓮𝓷𝓼資産無いに等しいっちょね…🥺"
+                },
+                {
+                    "author": "did:plc:oazgclv3mrimaxlxciyzunfb",
+                    "type": 2,
+                    "utter": "…🤔\nもしかしたら別に関係ないかも🥹\n\nあっそっか…𝓕𝓾𝓵𝓵 𝓼𝓲𝔃𝓮は本体も𝓛𝓮𝓷𝓼も𝓔𝔁𝓹𝓮𝓷𝓼𝓲𝓿𝓮すぎるのがね…まともに機材揃えたら車買えちゃうよ😩"
+                },
+                {
+                    "author": "did:plc:dvgizr7ajs4x6dw5enqihflb",
+                    "type": 3,
+                    "utter": "高すぎるよね…🥺\n上位機種見てると𝓡𝟔 𝓜𝓪𝓻𝓴 Ⅱくらいの値段がこなれて見える罠…🥺\n\n何かの間違いで𝓜𝓪𝓻𝓴Ⅲも同じ価格設定にならないかな…😖"
+                }
+            ],
+            "uri": "at://did:plc:dvgizr7ajs4x6dw5enqihflb/app.bsky.feed.post/3lfchh3ezhc2o",
+            "label": [
+                0.0010322550078853965,
+                0.013822369277477264,
+                0.9838060140609741,
+                0.0002349208516534418,
+                8.603179594501853e-05,
+                0.000624421110842377,
+                0.00030171082471497357,
+                9.22711769817397e-05
+            ]
+        }
+    ]
+}

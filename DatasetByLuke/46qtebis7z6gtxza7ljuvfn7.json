@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "旬の味ですよね"
+                },
+                {
+                    "author": "did:plc:b2k627vbzfkfcwvyq6fk24xt",
+                    "type": 2,
+                    "utter": "冬が旬だったw"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "南半球の作物とかいう噂ですww"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lfa6ct6o2q2a",
+            "label": [
+                0.01717340387403965,
+                0.00041013903683051467,
+                0.0018381270347163081,
+                0.9793410897254944,
+                0.000203416493604891,
+                0.0005007217987440526,
+                0.00029808501130901277,
+                0.0002350101131014526
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "南半球の作物とかいう噂ですww"
+                },
+                {
+                    "author": "did:plc:b2k627vbzfkfcwvyq6fk24xt",
+                    "type": 2,
+                    "utter": "なるほど！！！www"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "イマダ画伯南国行ってたからww"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lfa6gdnc422q",
+            "label": [
+                0.9990563988685608,
+                6.132841372163966e-05,
+                0.00019154083565808833,
+                0.0004994553164578974,
+                3.1138708436628804e-05,
+                4.976601485395804e-05,
+                5.224543929216452e-05,
+                5.8196405007038265e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "obsidian...ちょっとググったけど使いだしたら便利なんだろうかしら…"
+                },
+                {
+                    "author": "did:plc:aajyn6qzw67cnmwf7zxzbjdy",
+                    "type": 2,
+                    "utter": "Yo."
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "Oh～魅力的…"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf5g5suchc2i",
+            "label": [
+                0.9995706677436829,
+                6.32014634902589e-05,
+                0.00011225565685890615,
+                8.773391891736537e-05,
+                2.7231160856899805e-05,
+                3.6567602364812046e-05,
+                5.287760723149404e-05,
+                4.9439309805165976e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "Oh～魅力的…"
+                },
+                {
+                    "author": "did:plc:aajyn6qzw67cnmwf7zxzbjdy",
+                    "type": 2,
+                    "utter": "わたしのサイトはオブシデアンでつくっちょります"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "なんと！サイトを作れたりもできるんですか！"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf5gbbc3j22i",
+            "label": [
+                0.001490691676735878,
+                0.0002778725465759635,
+                0.0017161527648568153,
+                0.9957118034362793,
+                0.000251166959060356,
+                0.0002045426663244143,
+                0.00016425061039626598,
+                0.0001835305301938206
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "なんと！サイトを作れたりもできるんですか！"
+                },
+                {
+                    "author": "did:plc:aajyn6qzw67cnmwf7zxzbjdy",
+                    "type": 2,
+                    "utter": "課金すると場所が提供されます"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "なるへそ\n個人利用でもそこらへんは課金なんですね"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf5gdhqtu22i",
+            "label": [
+                0.0026429237332195044,
+                0.0006727356230840087,
+                0.0007956767221912742,
+                0.9950329065322876,
+                0.00011971749336225912,
+                0.000308702903566882,
+                0.0002821654488798231,
+                0.00014515218208543956
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "なるへそ\n個人利用でもそこらへんは課金なんですね"
+                },
+                {
+                    "author": "did:plc:aajyn6qzw67cnmwf7zxzbjdy",
+                    "type": 2,
+                    "utter": "課金が2種類あります。サイト用のスペースと、データがバックアップ／同期用のクラウドスペースです。後者は他に使ってるのがあれば不要です。"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "今使ってるレンタルサーバ内でobsidianを動かすことは出来ないわけですか？"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf5gipnpik2i",
+            "label": [
+                0.0028172102756798267,
+                0.9909273386001587,
+                0.0009560053003951907,
+                0.0003091361722908914,
+                9.62893755058758e-05,
+                0.004181100986897945,
+                0.0006263492396101356,
+                8.658415026729926e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "今使ってるレンタルサーバ内でobsidianを動かすことは出来ないわけですか？"
+                },
+                {
+                    "author": "did:plc:aajyn6qzw67cnmwf7zxzbjdy",
+                    "type": 2,
+                    "utter": "無課金で構築する方法もあるみたいです\n\nnote.com/devlive/n/n3..."
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "うわぁこれは試したくなってきますね！ありがとうございます！"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf5gqkf3k22i",
+            "label": [
+                0.014726873487234116,
+                0.00033307389821857214,
+                0.9840488433837891,
+                0.0003402505535632372,
+                0.0001113786202040501,
+                0.00018033677770290524,
+                0.0001099461005651392,
+                0.00014935708895791322
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "ごぎょうがすずなに刺さってる！"
+                },
+                {
+                    "author": "did:plc:djobdzddoqpwmjbay7prlk6z",
+                    "type": 2,
+                    "utter": "ちょきしだったの(̨̡ ¨̮ )̧̢"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "ちょきし…？チョッキリってこと…？"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf4g77cfnk27",
+            "label": [
+                0.004686255473643541,
+                0.00039049272891134024,
+                0.013789750635623932,
+                0.9798650741577148,
+                0.00021799271053168923,
+                0.0005282519850879908,
+                0.00021616020239889622,
+                0.0003060082672163844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "ちょきし…？チョッキリってこと…？"
+                },
+                {
+                    "author": "did:plc:djobdzddoqpwmjbay7prlk6z",
+                    "type": 2,
+                    "utter": "ちょっきし(̨̡ ¨̮ )̧̢ ちょっきし(̨̡ ¨̮ )̧̢ \nチョッキリのこと（方言かな？）"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "りょうかい～（方言ですな）"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf4glurpmc27",
+            "label": [
+                0.9924734830856323,
+                0.0015468853525817394,
+                0.002244403352960944,
+                0.0008387266425415874,
+                0.00021951344388071448,
+                0.0006900910520926118,
+                0.0014786026440560818,
+                0.0005082727875560522
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "今朝は結構寒気が緩んでる（麻痺?"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "完全に麻痺してるやつ〜！\n福岡今日寒い言うて5度もあるよ！"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "常夏じゃん・・・"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf4cndzqo22g",
+            "label": [
+                0.0010405532084405422,
+                0.0006967799854464829,
+                0.0004613021155819297,
+                0.9970433115959167,
+                0.00011801435175584629,
+                0.0003304032434243709,
+                0.00022590713342651725,
+                8.377685298910365e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 1,
+                    "utter": "ミゾレですかねえ・・・ベチャベチャになりますね・・・"
+                },
+                {
+                    "author": "did:plc:bnjuqvhcsz6kylpm57gns7cw",
+                    "type": 2,
+                    "utter": "やだーーーー（泣）"
+                },
+                {
+                    "author": "did:plc:46qtebis7z6gtxza7ljuvfn7",
+                    "type": 3,
+                    "utter": "ワクワクしますね！（しない"
+                }
+            ],
+            "uri": "at://did:plc:46qtebis7z6gtxza7ljuvfn7/app.bsky.feed.post/3lf4dmdgkys2g",
+            "label": [
+                0.07305312156677246,
+                0.0005632413667626679,
+                0.9243987202644348,
+                0.00046539102913811803,
+                0.000181976894964464,
+                0.0009236825862899423,
+                0.00019010672986041754,
+                0.00022377201821655035
+            ]
+        }
+    ]
+}

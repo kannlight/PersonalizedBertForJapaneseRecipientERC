@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "не думаю, что имею право отдохнуть, когда стол завален."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": "Кажется и вам не помешает помощница, господин Ичиро. Не пора ли открыть вакансию?"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "вы правы, но, боюсь, даже на собеседования выделить время я не в силах."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbui37y2es2b",
+            "label": [
+                0.7820965647697449,
+                0.035392794758081436,
+                0.11748749017715454,
+                0.01641859859228134,
+                0.010455785319209099,
+                0.008330194279551506,
+                0.020168697461485863,
+                0.009649859741330147
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "вы правы, но, боюсь, даже на собеседования выделить время я не в силах."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": "Неужели нет никого на примете? Ну или в крайнем случае, хотите я займусь этим вопросом в свободное время? Подберу вам самую лучшую помощницу (после меня конечно)"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "не утруждайтесь, в ближайшее время займусь этим вопросом."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbujcid4gc2r",
+            "label": [
+                0.7708503603935242,
+                0.033352501690387726,
+                0.13058966398239136,
+                0.016917282715439796,
+                0.010213233530521393,
+                0.007997139357030392,
+                0.020602330565452576,
+                0.009477498941123486
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "не утруждайтесь, в ближайшее время займусь этим вопросом."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": "Ну наконец-то. Может и у вас появится свободное время больше, чем кружка кофе в день и свободный вечер в две недели"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "и внимание деловым партнерам уделять гораздо больше. одни плюсы."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbujjfkz2s2r",
+            "label": [
+                0.7238986492156982,
+                0.06208479404449463,
+                0.108912892639637,
+                0.023380523547530174,
+                0.01612202636897564,
+                0.018926212564110756,
+                0.03444215655326843,
+                0.012232688255608082
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "и внимание деловым партнерам уделять гораздо больше. одни плюсы."
+                },
+                {
+                    "author": "did:plc:5zgpeajwbfgcxkpoit6ktwja",
+                    "type": 2,
+                    "utter": "могу только согласиться."
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "снова жадничаете?"
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbujxyatus2r",
+            "label": [
+                0.6759432554244995,
+                0.027266522869467735,
+                0.21421656012535095,
+                0.03696324676275253,
+                0.009264555759727955,
+                0.006377970799803734,
+                0.021796489134430885,
+                0.008171416819095612
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "к сожалению."
+                },
+                {
+                    "author": "did:plc:5zgpeajwbfgcxkpoit6ktwja",
+                    "type": 2,
+                    "utter": "об отпуске можем только мечтать."
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "одно слово и отпуск вам обеспечен. работать без выходных моя участь, не ваша."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lc6e3xlrls2y",
+            "label": [
+                0.6695117950439453,
+                0.0504613034427166,
+                0.198884055018425,
+                0.019040243700146675,
+                0.015080586075782776,
+                0.01107620820403099,
+                0.023842662572860718,
+                0.012103197164833546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "одно слово и отпуск вам обеспечен. работать без выходных моя участь, не ваша."
+                },
+                {
+                    "author": "did:plc:5zgpeajwbfgcxkpoit6ktwja",
+                    "type": 2,
+                    "utter": "вынужден отказаться. отпуск без вашей компании станет мучением, а не удовольствием."
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "возможно однажды составлю вам компанию, когда буду уверен, что империя не рухнет в моё отсутствие."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lc6eewpamk2y",
+            "label": [
+                0.8101711273193359,
+                0.023881858214735985,
+                0.10926191508769989,
+                0.01170209888368845,
+                0.010473614558577538,
+                0.006916172802448273,
+                0.018078381195664406,
+                0.009514841251075268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "возможно однажды составлю вам компанию, когда буду уверен, что империя не рухнет в моё отсутствие."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": "Как ваши поиски помощника?"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "собеседования назначены на следующую неделю."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lc6gyjzosc2y",
+            "label": [
+                0.7925124764442444,
+                0.034611888229846954,
+                0.10974741727113724,
+                0.01811399683356285,
+                0.009093252010643482,
+                0.008601036854088306,
+                0.018361158668994904,
+                0.008958782069385052
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "собеседования назначены на следующую неделю."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": "Рада что вы не отложили это в долгий ящик"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "теперь есть мотивация для отпуска."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lc6im456pk2y",
+            "label": [
+                0.8432772755622864,
+                0.021390125155448914,
+                0.0938897430896759,
+                0.012543716467916965,
+                0.005017082206904888,
+                0.0047776661813259125,
+                0.01338982954621315,
+                0.005714522674679756
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "меня убило ультразвуком. теперь понимаю что за пост она увидела."
+                },
+                {
+                    "author": "did:plc:5zgpeajwbfgcxkpoit6ktwja",
+                    "type": 2,
+                    "utter": "понимаю. у мисс каталины была такая же реакция."
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "женщины."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmrpebth22q",
+            "label": [
+                0.8932006359100342,
+                0.0266441497951746,
+                0.0465383417904377,
+                0.006810847204178572,
+                0.003079370828345418,
+                0.005516087170690298,
+                0.014747856184840202,
+                0.003462795866653323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "даже грустно не видеть вживую вашего босса верхом."
+                },
+                {
+                    "author": "did:plc:5zgpeajwbfgcxkpoit6ktwja",
+                    "type": 2,
+                    "utter": "я бы пошутил, но боюсь тут слишком много лишних ушей."
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "не волнуйтесь, я додумал за вас."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmofkaqmk2v",
+            "label": [
+                0.7313171625137329,
+                0.045179903507232666,
+                0.14279937744140625,
+                0.01982857845723629,
+                0.011500204913318157,
+                0.010797729715704918,
+                0.027951078489422798,
+                0.010625912807881832
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "не волнуйтесь, я додумал за вас."
+                },
+                {
+                    "author": "did:plc:5zgpeajwbfgcxkpoit6ktwja",
+                    "type": 2,
+                    "utter": "замечательно)"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "скобки от вас напрягают. компания каталины на вас странно действует."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmonof7gk2v",
+            "label": [
+                0.768905758857727,
+                0.03169281408190727,
+                0.14204932749271393,
+                0.016193851828575134,
+                0.008276750333607197,
+                0.007213243283331394,
+                0.01652390882372856,
+                0.009144376032054424
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "скобки от вас напрягают. компания каталины на вас странно действует."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": "Странно в хорошем смысле"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "пока не особо понятно."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmpsfeozk2v",
+            "label": [
+                0.8936871886253357,
+                0.019873108714818954,
+                0.05564417317509651,
+                0.008166578598320484,
+                0.0033389918971806765,
+                0.003984823357313871,
+                0.010998296551406384,
+                0.0043068998493254185
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "пока не особо понятно."
+                },
+                {
+                    "author": "did:plc:x3unf4uf7x5fxdt2v2qjbqiq",
+                    "type": 2,
+                    "utter": ":))))"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "не в хорошую сторону. решил."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmpzbhyrc2v",
+            "label": [
+                0.7946467995643616,
+                0.049323320388793945,
+                0.07762423157691956,
+                0.015337786637246609,
+                0.009430811740458012,
+                0.012021389789879322,
+                0.032385099679231644,
+                0.0092306574806571
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "хотите составить компанию?"
+                },
+                {
+                    "author": "did:plc:olx4pxduxp6eyocabici2yib",
+                    "type": 2,
+                    "utter": "а вы приглашаете?"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "вполне. но уже не сегодня, гордон. обсудим ваши посты за чашкой кофе."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmjlmk2tk2i",
+            "label": [
+                0.7445213794708252,
+                0.0359078049659729,
+                0.14920374751091003,
+                0.016112470999360085,
+                0.011497133411467075,
+                0.00947264302521944,
+                0.02305428870022297,
+                0.010230537503957748
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 1,
+                    "utter": "вполне. но уже не сегодня, гордон. обсудим ваши посты за чашкой кофе."
+                },
+                {
+                    "author": "did:plc:olx4pxduxp6eyocabici2yib",
+                    "type": 2,
+                    "utter": "мне уже готовить могилу?"
+                },
+                {
+                    "author": "did:plc:vuoshwfptwlqsngdeafid6xg",
+                    "type": 3,
+                    "utter": "ни в коем случае."
+                }
+            ],
+            "uri": "at://did:plc:vuoshwfptwlqsngdeafid6xg/app.bsky.feed.post/3lbmjrh4bpk2i",
+            "label": [
+                0.8571146130561829,
+                0.03285843878984451,
+                0.05749545618891716,
+                0.00974555965512991,
+                0.006602260749787092,
+                0.008167283609509468,
+                0.02120901457965374,
+                0.006807348225265741
+            ]
+        }
+    ]
+}

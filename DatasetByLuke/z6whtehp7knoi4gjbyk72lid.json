@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "たまねぎめっちゃうんち出る"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "玉ねぎオススメしてたなそういえば\n食べよっかな"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "たまねぎ傷んでるかわからんけどまじうんち出るよ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbooqvx3n224",
+            "label": [
+                0.002370980102568865,
+                0.5799835324287415,
+                0.0011487019946798682,
+                0.011894985102117062,
+                0.012033015489578247,
+                0.025514759123325348,
+                0.3664422929286957,
+                0.0006117160082794726
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "たまねぎ傷んでるかわからんけどまじうんち出るよ"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "傷んで腹壊しただけはやばくて笑う"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "うふふ……うっ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lboosgirfs24",
+            "label": [
+                0.9994980096817017,
+                9.542752377456054e-05,
+                0.0001660265406826511,
+                6.86676285113208e-05,
+                1.795651769498363e-05,
+                5.939611583016813e-05,
+                6.143135396996513e-05,
+                3.3032822102541104e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "うふふ……うっ"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "うんこ？"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "うんちならばどれほどよかったでしょう"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lboouun27224",
+            "label": [
+                0.23693083226680756,
+                0.5667011737823486,
+                0.18455465137958527,
+                0.0007247557514347136,
+                0.0007067215628921986,
+                0.0021552585531026125,
+                0.006752796936780214,
+                0.0014738397439941764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "うんちならばどれほどよかったでしょう"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "うんちが好きなのね\n7時過ぎかな！"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "うんこ予約了解"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbop6477dc24",
+            "label": [
+                0.9995224475860596,
+                5.155021426617168e-05,
+                0.00019423665071371943,
+                5.6933797168312594e-05,
+                2.859962114598602e-05,
+                3.897858550772071e-05,
+                6.145125371403992e-05,
+                4.5796652557328343e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "俺も暇！"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "俺も暇か！明日起きたらなんか一緒にやる？喋れないけど！"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "いいよお～"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhuzetjvk2z",
+            "label": [
+                0.999565064907074,
+                5.5434240493923426e-05,
+                0.00012414045340847224,
+                5.83066648687236e-05,
+                3.24193861160893e-05,
+                4.7926823754096404e-05,
+                6.974228745093569e-05,
+                4.6928438678150997e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "いいよお～"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "やりたいものあるー？"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "特にないかも！\n遊び大全する？"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhvkjtnlk2z",
+            "label": [
+                0.0027817529626190662,
+                0.0003236241464037448,
+                0.9963598847389221,
+                0.00017136993119493127,
+                6.866648618597537e-05,
+                0.00012555722787510604,
+                8.616848208475858e-05,
+                8.307401731144637e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "特にないかも！\n遊び大全する？"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "特にないか！\n持ってねえww"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "なにしう！"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhw4fse4c2z",
+            "label": [
+                0.0006912489770911634,
+                0.0003386585449334234,
+                0.000601586711127311,
+                0.9970541000366211,
+                0.0006001323345117271,
+                0.00035184709122404456,
+                0.00024910582578741014,
+                0.00011336502939229831
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "なにしう！"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "んーえぺぺ？もんはん？"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "モンハン飽きたらエペしよ！"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhxka5tuk2z",
+            "label": [
+                0.0032501104287803173,
+                0.00031180711812339723,
+                0.9959390163421631,
+                0.00014065242430660874,
+                8.029020682442933e-05,
+                0.00011394259490771219,
+                8.68767747306265e-05,
+                7.73054052842781e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "おかゆあーんする必要がある！"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "まだ？早く持ってこい"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "思念で飛ばしてるから早く受け取ってよ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhkhw4xus2j",
+            "label": [
+                0.0016756936674937606,
+                0.00717011746019125,
+                0.9850148558616638,
+                0.00042904316796921194,
+                0.003169819014146924,
+                0.0004747013153973967,
+                0.001734773744828999,
+                0.0003310256579425186
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "思念で飛ばしてるから早く受け取ってよ"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "んなもん届くわけないやろ！！はよ来い！！"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "いえどこやねん！"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhora2gus24",
+            "label": [
+                0.002042687265202403,
+                0.008728004060685635,
+                0.000918844249099493,
+                0.9775763154029846,
+                0.0066601489670574665,
+                0.001460766652598977,
+                0.0022709015756845474,
+                0.00034223287366330624
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "いえどこやねん！"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "ここ！！！！"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "ここかぁ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhrlulkdk2k",
+            "label": [
+                0.9423844814300537,
+                0.008313135243952274,
+                0.03434768691658974,
+                0.0063818637281656265,
+                0.000546295486856252,
+                0.0023016168270260096,
+                0.0034878887236118317,
+                0.0022370745427906513
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "ここかぁ"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "まだかにゃ"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "ここじゃあちょっとウーバーも届きませんよ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbhs2faotk2z",
+            "label": [
+                0.0020721349865198135,
+                0.9922072291374207,
+                0.00021967357315588742,
+                0.0009851237991824746,
+                0.0001390163815813139,
+                0.0039027524180710316,
+                0.000406155944801867,
+                6.794911314500496e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "風邪かなぁ？"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "7.1だなー、まだ上がりそうだー(っ´ω`c)"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "ありゃゆっくり休むんやでえ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbfjk5kae22p",
+            "label": [
+                0.001068997080437839,
+                0.00402946537360549,
+                0.9932730197906494,
+                9.069972293218598e-05,
+                0.00021914289391133934,
+                0.0004251495120115578,
+                0.0007417904562316835,
+                0.00015170655387919396
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "ありゃゆっくり休むんやでえ"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "寝れなくてお菓子食べながらコードギアス見てるね"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "ギアス何週目よｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbfkpcmgsc2p",
+            "label": [
+                0.13151928782463074,
+                0.0011908813612535596,
+                0.0026135293301194906,
+                0.8617687821388245,
+                0.0005111247883178294,
+                0.0011055793147534132,
+                0.0007984721451066434,
+                0.0004924318054690957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "ギアス何週目よｗｗ"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "7周目ぐらいかな…\nなのに今更気づいたことあってショック受けてる…"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "なにー？"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbfmsq5gd22g",
+            "label": [
+                0.0005982621805742383,
+                0.00033180476748384535,
+                0.0005822133389301598,
+                0.9975289702415466,
+                0.00031348507036454976,
+                0.00030208000680431724,
+                0.00024311174638569355,
+                9.997020970331505e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 1,
+                    "utter": "なにー？"
+                },
+                {
+                    "author": "did:plc:z6ieqcmxtjyd6zgg5l4higlq",
+                    "type": 2,
+                    "utter": "ギアスって基本その場限りなのに、スザクに生きろってかけたギアスがその後途中で反応しかけた時にはもうこの時点でギアスの効力強くなった暗示やったんやなっていう……"
+                },
+                {
+                    "author": "did:plc:z6whtehp7knoi4gjbyk72lid",
+                    "type": 3,
+                    "utter": "ギアスは命令の内容によって続くんじゃないかな？例で言うとギルフォードの襟元に手を添えたらコーネリアに見えるとか壁に一生描き続けてる生徒とか\nギアスの強くなるは効力的な意味じゃなくて自分の意志に反して発動するとかそういう強くなってしまうなのかと思ってた！"
+                }
+            ],
+            "uri": "at://did:plc:z6whtehp7knoi4gjbyk72lid/app.bsky.feed.post/3lbfokzho3c2l",
+            "label": [
+                0.0118876863270998,
+                0.0005880219978280365,
+                0.05360441282391548,
+                0.9317418336868286,
+                0.0004331285017542541,
+                0.0005315705784596503,
+                0.0004249570774845779,
+                0.000788368284702301
+            ]
+        }
+    ]
+}

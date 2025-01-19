@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "なんでみんなアカウントロック祭り？？？"
+                },
+                {
+                    "author": "did:plc:5keceiv2riby5wg3jgu6hsro",
+                    "type": 2,
+                    "utter": "15日に規約が変わったらしく、それの影響でほぼ無差別的にロックくらってるっぽい…｡\nしかもロック解除出来ても仮ラベル付けられるし…｡"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "ええーー規約変わったのは知ってるけどそんな我々一般アカウントまで……？めんどくさすぎる……😩"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lbmnvtzyx22l",
+            "label": [
+                0.002223472809419036,
+                0.07408230751752853,
+                0.0010897163301706314,
+                0.03348061069846153,
+                0.03363882750272751,
+                0.00740451505407691,
+                0.8473841547966003,
+                0.0006963371997699142
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "ええーー規約変わったのは知ってるけどそんな我々一般アカウントまで……？めんどくさすぎる……😩"
+                },
+                {
+                    "author": "did:plc:5keceiv2riby5wg3jgu6hsro",
+                    "type": 2,
+                    "utter": "私、5アカウント中3アカウントロックくらったよ…｡"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "やばすぎるwwwwww"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lbonqybp5s2h",
+            "label": [
+                0.9613562226295471,
+                0.0003967275843024254,
+                0.00046338053653016686,
+                0.036133915185928345,
+                0.00016843034245539457,
+                0.0007431541453115642,
+                0.0004235301457811147,
+                0.0003145576920360327
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "やばすぎるwwwwww"
+                },
+                {
+                    "author": "did:plc:5keceiv2riby5wg3jgu6hsro",
+                    "type": 2,
+                    "utter": "しかも仮ラベルの解除申請出せるの課金勢だけらしい。\n無課金勢はいつか消えるのを待つしかないっぽいw"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "そしてついに私も1アカウントロックくらったわよ……"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lbp4isfqm22j",
+            "label": [
+                0.00018147217633668333,
+                0.9985736608505249,
+                0.00010209932952420786,
+                0.00025004305643960834,
+                0.00013323643361218274,
+                0.00044775629066862166,
+                0.0002806972770486027,
+                3.107514203293249e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "そしてついに私も1アカウントロックくらったわよ……"
+                },
+                {
+                    "author": "did:plc:5keceiv2riby5wg3jgu6hsro",
+                    "type": 2,
+                    "utter": "特に何もしてないのにロックくらうのマジでクソだよね…｡\nみんなこっちに引っ越そうぜ…｡"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "うう でもまだあっちには或世がいるんだ………(´；ω；｀)"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lbpaoqajuk2d",
+            "label": [
+                0.0010819084709510207,
+                0.9970231652259827,
+                0.0004612435004673898,
+                0.00022205375717021525,
+                5.0536214985186234e-05,
+                0.0008138758130371571,
+                0.0003004412865266204,
+                4.662461287807673e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "うう でもまだあっちには或世がいるんだ………(´；ω；｀)"
+                },
+                {
+                    "author": "did:plc:5keceiv2riby5wg3jgu6hsro",
+                    "type": 2,
+                    "utter": "そうなんだよ😭\n或世も引越してきて…!!"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "SNS苦手マンだから無理そう……w"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lbpcczfig22d",
+            "label": [
+                0.001266240025870502,
+                0.9879986047744751,
+                0.0003778075915761292,
+                0.0004699587298091501,
+                7.862960774218664e-05,
+                0.008789720945060253,
+                0.0009571937844157219,
+                6.192414002725855e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "おけおけ。まだいつでも調整できそうだけどグッズのこと考えたら早いほうがいいんかな〜。匿名希ノゾム先生のイラストはいいぞ。"
+                },
+                {
+                    "author": "did:plc:6xq5lsbwbnqfg5h2l5nqgopp",
+                    "type": 2,
+                    "utter": "そうなのよ！！！他の界隈だけどグッズすーぐ無くなっちまってな…早く行こうかなって。何卒…🙇‍♀️あれはｶﾜｲｲﾖ^〜"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "だよなぁスイパラコラボすぐなくなるイメージあるし 6日にしちまうか！？"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lew7o3chfs2c",
+            "label": [
+                0.0019535839091986418,
+                0.0004867670650128275,
+                0.9968690276145935,
+                0.00016988436982501298,
+                4.793733387487009e-05,
+                0.00034059034078381956,
+                6.635735917370766e-05,
+                6.58221251796931e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "おっ溝の口にいいところあるんだよ飯食いにいこうぜ（住むとはいってない）"
+                },
+                {
+                    "author": "did:plc:6xq5lsbwbnqfg5h2l5nqgopp",
+                    "type": 2,
+                    "utter": "え！！？！？！みさっち溝の口近いの！！？、？行こ！！？！？"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "我、ずっとスラム川崎市民ぞ？"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lc5q5p6b722c",
+            "label": [
+                0.8248448967933655,
+                0.017230618745088577,
+                0.017268331721425056,
+                0.1034356877207756,
+                0.005541859194636345,
+                0.014254867099225521,
+                0.009163221344351768,
+                0.008260492235422134
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "我、ずっとスラム川崎市民ぞ？"
+                },
+                {
+                    "author": "did:plc:6xq5lsbwbnqfg5h2l5nqgopp",
+                    "type": 2,
+                    "utter": "マ………？？？我2023年に川崎市民になったぞ✌️✌️✌️近所だったらおもろいぞこれ"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "まじでwwwwwwちなみに湘南新宿ラインと南武線両方使えるとこに住んでる笑\n市内でも都内でも横浜でも行けるからあそんでくれー！！"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lc5t223rzc2u",
+            "label": [
+                0.03367382660508156,
+                0.00046876538544893265,
+                0.9645388722419739,
+                0.00045629224041476846,
+                0.0002073235809803009,
+                0.00021944667969364673,
+                0.00023265644267667085,
+                0.0002028878516284749
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "まじでwwwwwwちなみに湘南新宿ラインと南武線両方使えるとこに住んでる笑\n市内でも都内でも横浜でも行けるからあそんでくれー！！"
+                },
+                {
+                    "author": "did:plc:6xq5lsbwbnqfg5h2l5nqgopp",
+                    "type": 2,
+                    "utter": "うおー！駅前にめちゃデカ三井住友銀行あるとこだな！？私は田都の方だけど溝の口まで電車3分なので！！！溝の口で遊ぼ！！！(遊ぶところあるか？)"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "実はそっちじゃないんだな笑\n最近遊ぶところあるか微妙なんだよな……パーツクラブとオカダヤで時間潰すぐらいしか思いつかない()それか飯食うまで二子玉川のクソデカ蔦屋家電で時間潰すか笑"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lc5zbmcglc2h",
+            "label": [
+                0.009748833253979683,
+                0.970267653465271,
+                0.005811942275613546,
+                0.0009739378001540899,
+                9.24979685805738e-05,
+                0.012150498107075691,
+                0.0007987077697180212,
+                0.00015597508172504604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 1,
+                    "utter": "実はそっちじゃないんだな笑\n最近遊ぶところあるか微妙なんだよな……パーツクラブとオカダヤで時間潰すぐらいしか思いつかない()それか飯食うまで二子玉川のクソデカ蔦屋家電で時間潰すか笑"
+                },
+                {
+                    "author": "did:plc:6xq5lsbwbnqfg5h2l5nqgopp",
+                    "type": 2,
+                    "utter": "ｱｯ……貨物ターミナルか…！？湘南新宿ライン一応止まったはず…夫がお世話になってます(?)私も文房具パトロールか貴和でパーツみたりかな…ラゾーナありか？！二子玉川は溝の口よりなんも無いからダメよwww"
+                },
+                {
+                    "author": "did:plc:oucsvvmmybuh6xnz3zdffoj7",
+                    "type": 3,
+                    "utter": "まだラゾーナというか川崎駅周辺のがあるな……www計画立てるか🤔"
+                }
+            ],
+            "uri": "at://did:plc:oucsvvmmybuh6xnz3zdffoj7/app.bsky.feed.post/3lc67rojccc27",
+            "label": [
+                0.007408189121633768,
+                0.00045948155457153916,
+                0.9914736747741699,
+                0.00016965049144346267,
+                7.507432746933773e-05,
+                0.0002294390433235094,
+                9.328967280453071e-05,
+                9.124027565121651e-05
+            ]
+        }
+    ]
+}

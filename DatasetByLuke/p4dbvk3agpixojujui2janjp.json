@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "では10日でどうでしょう"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "すいません10は含まないものだと思ってました(10はNG"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "では12…？！"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3lbvnypvcb22l",
+            "label": [
+                0.3111931383609772,
+                0.021801266819238663,
+                0.36417505145072937,
+                0.28048011660575867,
+                0.002552260644733906,
+                0.008592745289206505,
+                0.005055696237832308,
+                0.006149648688733578
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "無職はいいぞ〜"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "次決まってるんじゃないの???"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "We overtake NVIDIA???"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3lf2fmb4vo22a",
+            "label": [
+                0.7409878373146057,
+                0.0157416183501482,
+                0.2233550101518631,
+                0.006970937829464674,
+                0.0019443564815446734,
+                0.0035443094093352556,
+                0.0037708026356995106,
+                0.0036850315518677235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "We overtake NVIDIA???"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "どこ????"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "Wakuwaku Research Institute???"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3lf2nrmwyk22e",
+            "label": [
+                0.6570995450019836,
+                0.0038061293307691813,
+                0.3212037980556488,
+                0.010866628028452396,
+                0.000987301697023213,
+                0.0009521006140857935,
+                0.0022039932664483786,
+                0.002880519488826394
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "Wakuwaku Research Institute???"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "国立国語研究所 ????"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "いまおもしろ人材が結集しているところ？！西だし？！"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3lf2sufxnnk2t",
+            "label": [
+                0.021152332425117493,
+                0.00043901754543185234,
+                0.9735996127128601,
+                0.0036952400114387274,
+                0.00017588899936527014,
+                0.0002995115937665105,
+                0.00017607127665542066,
+                0.00046230893349274993
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "いまおもしろ人材が結集しているところ？！西だし？！"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "驚きだ"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "違います"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3lf2ud4p5322x",
+            "label": [
+                0.9157881140708923,
+                0.0032483702525496483,
+                0.004059994593262672,
+                0.007904930040240288,
+                0.0025085245724767447,
+                0.015105935744941235,
+                0.040570586919784546,
+                0.010813474655151367
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "ワクワクさんは2日夜から営業します！"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "年末年始休まず営業中です"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "👀"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3leqnftnqi22x",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "👀"
+                },
+                {
+                    "author": "did:plc:jllldmpryuf6kpv3imbgtyko",
+                    "type": 2,
+                    "utter": "行けなくはない"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "？！今晩ってこと？！"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3leqokmn4yk2c",
+            "label": [
+                0.0007723874296061695,
+                0.00026624093879945576,
+                0.0011975103989243507,
+                0.9970355033874512,
+                0.00022385679767467082,
+                0.00022470959811471403,
+                0.00015674502355977893,
+                0.00012301639071665704
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 1,
+                    "utter": "👀"
+                },
+                {
+                    "author": "did:plc:4c3bonpi5nnoq5hfhbahdeyn",
+                    "type": 2,
+                    "utter": "創薬しちゃう？？？"
+                },
+                {
+                    "author": "did:plc:p4dbvk3agpixojujui2janjp",
+                    "type": 3,
+                    "utter": "👀"
+                }
+            ],
+            "uri": "at://did:plc:p4dbvk3agpixojujui2janjp/app.bsky.feed.post/3lbe5lbptl22f",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        }
+    ]
+}

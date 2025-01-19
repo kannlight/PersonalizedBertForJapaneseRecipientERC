@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "待ってるんだけど…仕方ないか🤔"
+                },
+                {
+                    "author": "did:plc:avpxg463veyzaz4nhehyhrme",
+                    "type": 2,
+                    "utter": "来てやったぞ"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "わぁい！やったーー！！"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuu3wt2pb2h",
+            "label": [
+                0.999569833278656,
+                4.589698801282793e-05,
+                0.0001422010245732963,
+                8.349686686415225e-05,
+                3.2512645702809095e-05,
+                3.6757879570359364e-05,
+                5.0635346269700676e-05,
+                3.866620681947097e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "わぁい！やったーー！！"
+                },
+                {
+                    "author": "did:plc:avpxg463veyzaz4nhehyhrme",
+                    "type": 2,
+                    "utter": "遅せぇよ！(叩き"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "あいたっ！ごめんごめん💦"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuu7cxmzs2w",
+            "label": [
+                0.9992056488990784,
+                0.00033184877247549593,
+                8.684080239618197e-05,
+                0.00011213550169486552,
+                2.2767331756767817e-05,
+                7.862272468628362e-05,
+                0.00010754459071904421,
+                5.4589847422903404e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "あいたっ！ごめんごめん💦"
+                },
+                {
+                    "author": "did:plc:avpxg463veyzaz4nhehyhrme",
+                    "type": 2,
+                    "utter": "ったく…"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "でも、来てくれてるありがとう！"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuunbj7pn2g",
+            "label": [
+                0.9996448755264282,
+                5.4147352784639224e-05,
+                8.52097145980224e-05,
+                5.5770997278159484e-05,
+                2.5141314836218953e-05,
+                4.0801452996674925e-05,
+                4.6650478907395154e-05,
+                4.7374636778840795e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "でも、来てくれてるありがとう！"
+                },
+                {
+                    "author": "did:plc:avpxg463veyzaz4nhehyhrme",
+                    "type": 2,
+                    "utter": "まぁ…来るだろ…"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "言ってたもんね？ありがとう！"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuvawpml22t",
+            "label": [
+                0.9995301961898804,
+                7.11454704287462e-05,
+                0.00011851434828713536,
+                0.00010461497731739655,
+                2.3069154849508777e-05,
+                3.481329258647747e-05,
+                5.2495212003123015e-05,
+                6.517067231470719e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "言ってたもんね？ありがとう！"
+                },
+                {
+                    "author": "did:plc:avpxg463veyzaz4nhehyhrme",
+                    "type": 2,
+                    "utter": "つかいいねうるせぇ！"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "うるさいよね！迷惑すぎ！！"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuvmmgzjz2h",
+            "label": [
+                0.004541275557130575,
+                0.009435806423425674,
+                0.006139097735285759,
+                0.009579221718013287,
+                0.6553462147712708,
+                0.004717297852039337,
+                0.3081687092781067,
+                0.002072353381663561
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "よく頑張ったね！次は漢方頑張って( *˙ω˙*)و ｸﾞｯ!"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "頑張ってみる…"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "ジュースがいいよね、漢方って"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwutdm2jtu2a",
+            "label": [
+                0.0021871081553399563,
+                0.0005054252105765045,
+                0.9966224431991577,
+                0.00021154667774681002,
+                5.451662582345307e-05,
+                0.00013487385876942426,
+                0.00015585091023240238,
+                0.0001282355369767174
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "ジュースがいいよね、漢方って"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "そうなんだよね…"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "だよね！やっぱり！"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuu3kdrgz2q",
+            "label": [
+                0.9869469404220581,
+                0.0007383566698990762,
+                0.007881086319684982,
+                0.0023925199639052153,
+                0.0003451453521847725,
+                0.00016128444985952228,
+                0.0005076214438304305,
+                0.0010269683552905917
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "だよね！やっぱり！"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "ジュース欲しい…スポーツドリンクはヤバい…"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "そうなの？"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuungvz3r2z",
+            "label": [
+                0.0006494210101664066,
+                0.0003899338480550796,
+                0.0008452141773886979,
+                0.9973927736282349,
+                0.00020882922399323434,
+                0.00017796036263462156,
+                0.0002195644483435899,
+                0.00011622742022154853
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 1,
+                    "utter": "そうなの？"
+                },
+                {
+                    "author": "did:plc:6kp6j3i4lfvjdowzmaf75kvp",
+                    "type": 2,
+                    "utter": "うん、カルピスとかなら…"
+                },
+                {
+                    "author": "did:plc:pcpnu5cuvhdjbnz4gzjzn7hc",
+                    "type": 3,
+                    "utter": "あー！濃い系？"
+                }
+            ],
+            "uri": "at://did:plc:pcpnu5cuvhdjbnz4gzjzn7hc/app.bsky.feed.post/3kwuvbamm3n2g",
+            "label": [
+                0.36816200613975525,
+                0.005787855479866266,
+                0.029041919857263565,
+                0.587059736251831,
+                0.001121468492783606,
+                0.0011365101672708988,
+                0.004321850836277008,
+                0.0033686389215290546
+            ]
+        }
+    ]
+}

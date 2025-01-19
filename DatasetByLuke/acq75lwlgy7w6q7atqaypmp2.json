@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "またたびーととかいうアニメーター、絵が上手すぎる。ぜったいゆるさないぞ。(褒めてるのか憎んでるのかのラインを攻める"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "アニメーターとしては中の下だぞ"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "人気アニメの総作監やった人を中の下とは呼ばない。"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lbvzhtt34k2w",
+            "label": [
+                0.2868792414665222,
+                0.0049370331689715385,
+                0.014031830243766308,
+                0.2345495969057083,
+                0.05360610410571098,
+                0.017841653898358345,
+                0.3037290573120117,
+                0.08442547917366028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "人気アニメの総作監やった人を中の下とは呼ばない。"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "TVのメインキャラデザ未経験なので中の下です(鋼の意志"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "悪く言って上の中よ。上の下とかなら外から否定しづらいけど中はむりむりむりむりむりむり。"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lbvzm24ug22w",
+            "label": [
+                0.00616541039198637,
+                0.953718900680542,
+                0.000898885540664196,
+                0.0007260725251398981,
+                0.0004302701272536069,
+                0.01557814422994852,
+                0.02225945144891739,
+                0.000222896269406192
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "悪く言って上の中よ。上の下とかなら外から否定しづらいけど中はむりむりむりむりむりむり。"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "うそぉ"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "Vのキャラデしたアニメーターとアニメのキャラデしたアニメーターどっちが多いか考えるんだ。"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lbvzxxnwts2w",
+            "label": [
+                0.07827070355415344,
+                0.003026409074664116,
+                0.8974019885063171,
+                0.006760769989341497,
+                0.0036831339821219444,
+                0.002094344003126025,
+                0.003986960276961327,
+                0.004775600042194128
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "Vのキャラデしたアニメーターとアニメのキャラデしたアニメーターどっちが多いか考えるんだ。"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "でもVやってる人はアニメもやってるんだよなあ…("
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "これからくるってことさ"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lbw25n3gac26",
+            "label": [
+                0.011997967027127743,
+                0.0015389755135402083,
+                0.9835265278816223,
+                0.000390215398510918,
+                0.00016442012565676123,
+                0.001697396277450025,
+                0.00026894337497651577,
+                0.00041552752372808754
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "これからくるってことさ"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "くるかなぁ〜"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "くるね。"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lbw5rs5atk2u",
+            "label": [
+                0.0067128827795386314,
+                0.0005738058243878186,
+                0.9920761585235596,
+                0.00017975571972783655,
+                7.768313662381843e-05,
+                0.00016462293569929898,
+                0.0001125214112107642,
+                0.0001026653335429728
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "は？！透けてるのがいいんだが？！(快楽天コミック大好き派"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "それは下の方でしょ！！！！乳首は出して！！！！！"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "ばっかおめえ！不透明度100じゃない黒海苔をガン見するところに興奮するの！そうすれば全体的なバランス気にならなくて済むでしょ！絵の描き方マジ分からん...！！ﾎﾞｽｹﾃ...。"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lfd4xdjqyk2c",
+            "label": [
+                0.15314587950706482,
+                0.21055512130260468,
+                0.20830757915973663,
+                0.033826183527708054,
+                0.27422043681144714,
+                0.013971230015158653,
+                0.09620141983032227,
+                0.00977217685431242
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "ばっかおめえ！不透明度100じゃない黒海苔をガン見するところに興奮するの！そうすれば全体的なバランス気にならなくて済むでしょ！絵の描き方マジ分からん...！！ﾎﾞｽｹﾃ...。"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "つちやさん上手いのに何をおっしゃって…！\n早くノリ外して！！！(変わらぬ意志"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "そんなものウチにはナイヨ...。海苔ナシはみとんさんだけに送った...。"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lfd7jclnos2c",
+            "label": [
+                0.029353095218539238,
+                0.9585272669792175,
+                0.0009259803337045014,
+                0.0020426642149686813,
+                0.0002185599150834605,
+                0.00585367064923048,
+                0.002750287763774395,
+                0.00032850776915438473
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "そんなものウチにはナイヨ...。海苔ナシはみとんさんだけに送った...。"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "ｲｨｰﾝ"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "ちょっとだけ薄くするからまっちょれ。(リボンとかボタンとか塗忘れに気付いた"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lfdbu3aktk22",
+            "label": [
+                0.0060507976450026035,
+                0.03435581922531128,
+                0.9530859589576721,
+                0.0008794263121671975,
+                0.0005708497483283281,
+                0.003214507596567273,
+                0.0014352077851071954,
+                0.0004073369491379708
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "何が違うの！どれも144でしょ！！"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "それはそうだけどぉ…("
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "PGのRX78も揃えなさい！"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3lesxcwkubs2h",
+            "label": [
+                0.003457776503637433,
+                0.00048685213550925255,
+                0.9937719702720642,
+                0.000889140588697046,
+                0.00047155050560832024,
+                0.00038496963679790497,
+                0.00021234358428046107,
+                0.0003254632465541363
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 1,
+                    "utter": "うん。ファミマに。"
+                },
+                {
+                    "author": "did:plc:73t2t2mqwkrxd3lj2v3x67zl",
+                    "type": 2,
+                    "utter": "まじっすか…！"
+                },
+                {
+                    "author": "did:plc:acq75lwlgy7w6q7atqaypmp2",
+                    "type": 3,
+                    "utter": "あっちのDMで場所送った"
+                }
+            ],
+            "uri": "at://did:plc:acq75lwlgy7w6q7atqaypmp2/app.bsky.feed.post/3letn6xyoos2r",
+            "label": [
+                0.9570944309234619,
+                0.00042731815483421087,
+                0.03914124146103859,
+                0.00023445289116352797,
+                0.00040358034311793745,
+                0.0008683573105372488,
+                0.0009437903063371778,
+                0.0008868426084518433
+            ]
+        }
+    ]
+}

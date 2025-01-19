@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "毎晩遅いのにお弁当作るのあまりにも偉すぎるよ…ッ！！"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "これは自画自賛だがまじ偉いよねわたし……！！！"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "まじ偉い！！出来た人間すぎて…怠惰な自分張り手食らった方がいい気がしてきた✋️"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfrxfdnqcs2n",
+            "label": [
+                0.9950665235519409,
+                0.0010404281783849,
+                0.0001613912609172985,
+                0.0010396509896963835,
+                0.00016412101103924215,
+                0.0014132870128378272,
+                0.0005938264075666666,
+                0.0005206491332501173
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "まじ偉い！！出来た人間すぎて…怠惰な自分張り手食らった方がいい気がしてきた✋️"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "や、いうて私みたいにならん方が生活水準は高いwww貧乏だから自炊してるところあるwww"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "ウッ…毎日コンビニご飯で自ら体調壊しに行ってるとこあるからいつか……いつか弁当作るんだ……"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfth5wadks2t",
+            "label": [
+                0.0021974556148052216,
+                0.8506150841712952,
+                0.0325554758310318,
+                0.0007750631193630397,
+                0.000648629036732018,
+                0.11025119572877884,
+                0.0025953836739063263,
+                0.0003616460307966918
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "ウッ…毎日コンビニご飯で自ら体調壊しに行ってるとこあるからいつか……いつか弁当作るんだ……"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "毎日コンビニ弁当だと体調悪くなるデメリットあるのマジなんだ……。いつか自炊しような……おにぎり作るだけでも立派な自炊やで"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "通い詰めてた和食屋さんがなくなってかれこれ2年位毎日コンビニ飯だけど、明らかに体調不良の回数が増えたよね…😇😇\nおにぎり……にぎる……！！！！"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfubiducyc2b",
+            "label": [
+                0.00018147414084523916,
+                0.9961068034172058,
+                0.00024862244026735425,
+                0.0004078875936102122,
+                0.00013892877905163914,
+                0.002367387292906642,
+                0.0005117003456689417,
+                3.722270776052028e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "通い詰めてた和食屋さんがなくなってかれこれ2年位毎日コンビニ飯だけど、明らかに体調不良の回数が増えたよね…😇😇\nおにぎり……にぎる……！！！！"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "通いつめてたお店なくなったのは悲しい、が2年間の文字に全て飛んだ。2年間！？！？\n諸々めんどい時は使い捨てパックに米肉焼肉のタレでどんぶりにするんやで"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "これが自炊神か……\n手始めに使い捨てパック買うか…(スタート地点ミス)"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfuewceecc2f",
+            "label": [
+                0.9908440709114075,
+                0.002664086641743779,
+                0.0005165323382243514,
+                0.004310152493417263,
+                0.00011624123726505786,
+                0.000556725834030658,
+                0.00033710015122778714,
+                0.000655089330393821
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "ええええええええ？！？！\nそれは推し！！！！確定した！！！！"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "やばいよね！？！？！？！？だいぶ気になってるからﾒｲﾁｮやろうか迷う！！！！！"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "わかる…わかるぞぉ…\nビジュ気になる〜って言ってたところに声帯岸尾だいすけはサプライズすぎる…ッくやしい…ッ！\n絶対時間足りない……でもお迎えしたい……"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lduu66qe4s26",
+            "label": [
+                0.9984796643257141,
+                0.0004776749119628221,
+                0.00027474600938148797,
+                0.0005204708431847394,
+                3.401817593839951e-05,
+                7.80734553700313e-05,
+                5.664375203195959e-05,
+                7.865684165153652e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "わかる…わかるぞぉ…\nビジュ気になる〜って言ってたところに声帯岸尾だいすけはサプライズすぎる…ッくやしい…ッ！\n絶対時間足りない……でもお迎えしたい……"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "時間足りないし今からはじめてお迎えできる石が貯められる気がしないの、まーーーじで悔しすぎる…………"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "そんなに近いんだ……おわた……\n最悪復刻でお迎えする……😌"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lduxdsxqck2w",
+            "label": [
+                0.004340341314673424,
+                0.00834906566888094,
+                0.9848653078079224,
+                0.0013656798982992768,
+                0.0001435001177014783,
+                0.00046018767170608044,
+                0.00025964475935325027,
+                0.00021627984824590385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "そんなに近いんだ……おわた……\n最悪復刻でお迎えする……😌"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "バージョン2.0のキャラクターらしいんやが、更新日が1月2日らしくて私はむりwww課金しないときつい気がする"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "まって私その日からps5で始めようとしてるのにwwwむりwww\n期間中に走り回って無理なら次回までガチャ禁します…(フラグ)"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lduxn4givc2j",
+            "label": [
+                0.007727448828518391,
+                0.8504005670547485,
+                0.02565060555934906,
+                0.0014708078233525157,
+                0.0006538968882523477,
+                0.10559869557619095,
+                0.008042711764574051,
+                0.0004553500621113926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "もしかして音骸って私の激弱フィールドでもいつも通りのレベルで回収できたりする？！それならストーリー落ち着いたら心置きなくお手伝いしてもらうんだが！！！！！🥺"
+                },
+                {
+                    "author": "did:plc:36os3ubd2czlfojoekxgwnxg",
+                    "type": 2,
+                    "utter": "と、言うか、未収穫の音骸とレアリティ集めしてガンガンデータドック上げよう！\nそっちが先かな笑\n今度こそ探索無視して上げよう\n.........無理かもしれへん‪‪🙄‬"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "たしかにさ15lv超えただけでもレベル上げの効率上がった気がする…！頑張ってストーリー進めてマップ開けるねッ！！！✊✊✊"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfubfjfafs2b",
+            "label": [
+                0.9843422770500183,
+                0.00025369416107423604,
+                0.014653877355158329,
+                0.00017715099966153502,
+                0.00013844286149833351,
+                0.00010412064875708893,
+                0.00013865453365724534,
+                0.0001917378103826195
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "たしかにさ15lv超えただけでもレベル上げの効率上がった気がする…！頑張ってストーリー進めてマップ開けるねッ！！！✊✊✊"
+                },
+                {
+                    "author": "did:plc:36os3ubd2czlfojoekxgwnxg",
+                    "type": 2,
+                    "utter": "一緒に開けてもいいけどね🥰️\nそういやマップ広げる時って原神みたいに抜けなくてもいいのかな？ある意味それ次第だったわ"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "ナッ！！やさしお！！！？\nどうなんだろ…開けれた……よね？(記憶力ゴミカス)\nね、念の為大きいのは開けきっとくか……小さい奴らは絶対手伝ってもらうッ🥹いやまてデータドックッ！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfuf4ruvek2f",
+            "label": [
+                0.06816728413105011,
+                0.04503333941102028,
+                0.8238234519958496,
+                0.040060993283987045,
+                0.004282111767679453,
+                0.008921205997467041,
+                0.005474885459989309,
+                0.004236740060150623
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "ナッ！！やさしお！！！？\nどうなんだろ…開けれた……よね？(記憶力ゴミカス)\nね、念の為大きいのは開けきっとくか……小さい奴らは絶対手伝ってもらうッ🥹いやまてデータドックッ！！！！！"
+                },
+                {
+                    "author": "did:plc:36os3ubd2czlfojoekxgwnxg",
+                    "type": 2,
+                    "utter": "大体のよるは空いてるから気軽に遊ぼう( ´ ▽ ` )ﾉ♩\nデータドック目的なら真面目に早い方がいい笑"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "やったー！\n夜って1人だと急に探索虚無るときあるから、寝る前に1時間とかちょこっと付き合ってもらえると嬉しすぎるッ\nやだ先生スパルタ………"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfvxv4dtks2i",
+            "label": [
+                0.9974621534347534,
+                0.0001892231375677511,
+                0.0020141948480159044,
+                6.100649625295773e-05,
+                4.6104785724310204e-05,
+                6.935777491889894e-05,
+                7.65200165915303e-05,
+                8.13151928014122e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "やったー！\n夜って1人だと急に探索虚無るときあるから、寝る前に1時間とかちょこっと付き合ってもらえると嬉しすぎるッ\nやだ先生スパルタ………"
+                },
+                {
+                    "author": "did:plc:36os3ubd2czlfojoekxgwnxg",
+                    "type": 2,
+                    "utter": "VC無しでちょちょいとやって就寝もいいものです😊\n\n優しいのかスパルタなのかww"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "鳴潮ってチャットどうなんだろ！まだ使ったことないけど快適ならそれもまたヨシ！！！！\nやさスパルタ✌️"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfwom5tjuk2t",
+            "label": [
+                0.002621150342747569,
+                0.0002500416594557464,
+                0.9966338276863098,
+                0.00014777028991375118,
+                7.761605957057327e-05,
+                0.00010450878471601754,
+                8.269809768535197e-05,
+                8.2411352195777e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "まって私と全くおんなじことしてるwwwwww\n復刻来たら吟霖さん一緒に引こうね👍👍(スカーを押し退けるな)"
+                },
+                {
+                    "author": "did:plc:jgmvrizl2dn2gt62dz674yg4",
+                    "type": 2,
+                    "utter": "好み被りがちなのほんとウケる\nスカーが実装されるのが先か吟霖が復刻されるのが先か(ブラントを押し退けるな)"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "あんなに刺さるかも？！って興奮してたのにふたりともブラント押し退けてて草"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfk3yj35l22f",
+            "label": [
+                0.5342505574226379,
+                0.076210156083107,
+                0.0009330107714049518,
+                0.3776431083679199,
+                0.0003937915316782892,
+                0.00577305443584919,
+                0.0039517260156571865,
+                0.0008446382125839591
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "あんなに刺さるかも？！って興奮してたのにふたりともブラント押し退けてて草"
+                },
+                {
+                    "author": "did:plc:36os3ubd2czlfojoekxgwnxg",
+                    "type": 2,
+                    "utter": "これは3人でやった時に吟霖見せびらかすしかないと思いました🤗"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "うちわ作って取り囲むのでファンサ頼む🤟"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfk4or2b5c2f",
+            "label": [
+                0.0003098782035522163,
+                0.00022187810100149363,
+                0.9990717172622681,
+                0.00011074166104663163,
+                8.060361869866028e-05,
+                8.34667298477143e-05,
+                6.699241203023121e-05,
+                5.4758078476879746e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 1,
+                    "utter": "私息も絶え絶えになるわ……\n地に伏してカメコします……"
+                },
+                {
+                    "author": "did:plc:36os3ubd2czlfojoekxgwnxg",
+                    "type": 2,
+                    "utter": "あのぉ\nカメコってなんですか？\nこっそり教えてください←"
+                },
+                {
+                    "author": "did:plc:rebjqypefb6a6pqfjvjuuyvn",
+                    "type": 3,
+                    "utter": "カメラ小僧の略……たしか……\nアイドルとか激写します……\nあれ……説明しててなんだか恥ずかしくなってきた……///逃げます💨"
+                }
+            ],
+            "uri": "at://did:plc:rebjqypefb6a6pqfjvjuuyvn/app.bsky.feed.post/3lfk5ploisc23",
+            "label": [
+                0.009684457443654537,
+                0.017912939190864563,
+                0.001595879439264536,
+                0.006284696981310844,
+                0.00022664805874228477,
+                0.9628970623016357,
+                0.0010941446525976062,
+                0.0003042008320335299
+            ]
+        }
+    ]
+}

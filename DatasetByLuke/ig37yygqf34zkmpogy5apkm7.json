@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "おはー\n\nもう始まったの！？\n時が経つのは早いなあ"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "あとSteamでもスイッチでもブラックフライデーセール始まったねー。\nバケルが安くなってた(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "お！そうなんだ\n要チェックや！"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc27y45wtk27",
+            "label": [
+                0.006455158814787865,
+                0.00020624184980988503,
+                0.9920435547828674,
+                0.0007946423720568419,
+                0.00010918952466454357,
+                0.00017132426728494465,
+                7.38506787456572e-05,
+                0.0001461493520764634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "お！そうなんだ\n要チェックや！"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "何買うかレポート楽しみ(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "十三機兵は気になってる←\nでも積みゲ多いからたぶん\nたぶん買わない"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc2abq7n4s27",
+            "label": [
+                0.7518172860145569,
+                0.008343290537595749,
+                0.19408018887043,
+                0.0007934296154417098,
+                0.0008346333634108305,
+                0.0292127076536417,
+                0.008968953974545002,
+                0.005949482321739197
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "十三機兵は気になってる←\nでも積みゲ多いからたぶん\nたぶん買わない"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "積みゲー崩さないとねー(；・∀・)"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "それなー(´・ω・)"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc2akd3yjk27",
+            "label": [
+                0.18393474817276,
+                0.6928591728210449,
+                0.011418985202908516,
+                0.008954530581831932,
+                0.002918957732617855,
+                0.037428855895996094,
+                0.05975666642189026,
+                0.0027280610520392656
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "それなー(´・ω・)"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "FF7リバースクリアしなきゃ(´・ω・｀)←想定プレイ時間200時間(爆)"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "長い！！！\nそんなにボリューミーなのか"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc2ano3m6s27",
+            "label": [
+                0.0007040741620585322,
+                0.0002937117824330926,
+                0.0006580416229553521,
+                0.9975302815437317,
+                0.00022862628975417465,
+                0.00022771932708565146,
+                0.00023988864268176258,
+                0.00011771074787247926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "1週間前に買ったゲームがこれから1週間後にセールするなんて！\n2週間待てばよかった~><\nでも定価でも全然高くないわ、安いよこんだけ遊べて1400円は..."
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "そういえばスターデューバレーのスイッチ版って村人の顔表示オフにできましたっけ？\nできたら買う(`･ω･´)←"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "たぶんできなかったはず"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lcug63xkn22u",
+            "label": [
+                0.4325565993785858,
+                0.3318672776222229,
+                0.009558277204632759,
+                0.0022978733759373426,
+                0.004282418638467789,
+                0.1561390459537506,
+                0.052250936627388,
+                0.011047601699829102
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "いや、あった！"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "確認できました！ありがとう！(´；∀；｀)\n\n機会があればいっしょに遊びましょー！"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "ぜひー！"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lcul3emoxs2u",
+            "label": [
+                0.0021350006572902203,
+                0.0002651567046996206,
+                0.9970478415489197,
+                0.0002071800408884883,
+                8.804824756225571e-05,
+                9.636642062105238e-05,
+                7.284664025064558e-05,
+                8.748419350013137e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "ぜひー！"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "セールが待ち遠しい！\n\\( ˙▿˙ )/ｳﾋｮｰ"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "4日後だね!\nウヒョー"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lcul6b67jk2u",
+            "label": [
+                0.9592758417129517,
+                0.0020057973451912403,
+                0.034986719489097595,
+                0.00226329592987895,
+                0.00018405442824587226,
+                0.0004816076543647796,
+                0.00047054298920556903,
+                0.00033208829700015485
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "Switch！"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "PC版はキャラの顔を変えられるらしい。\n美青年美少女いっぱいにできるとか(´・ω・｀)←PS5勢なのでｸﾜｼｸﾅｲ"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "MODてやつだ！\nPC、持ち運べて気軽にできたら今セールしてるし買いたかった。\nサンヘイブンも。"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc5puxr22k2d",
+            "label": [
+                0.0016670915065333247,
+                0.002047134330496192,
+                0.9956153631210327,
+                0.00023406679974868894,
+                9.878956188913435e-05,
+                9.325444989372045e-05,
+                0.00012332065671216697,
+                0.00012091294047422707
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "MODてやつだ！\nPC、持ち運べて気軽にできたら今セールしてるし買いたかった。\nサンヘイブンも。"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "PCも高いからなー。\nスチームデックは試しに持って見たら重かったし、新型の小型PCが待たれる(*‘ω‘ *)←新たなる物欲"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "そんなにスペック高くないノートPCならあるんだけど...\nそのPCで動くかわからないし\n携帯ゲーム機でやりたい😏"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc5q33ygic2d",
+            "label": [
+                0.0006586732342839241,
+                0.0008696038275957108,
+                0.9980925917625427,
+                5.797643098048866e-05,
+                4.5964847231516615e-05,
+                0.0001399348839186132,
+                8.117948163999245e-05,
+                5.4079053370514885e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "そんなにスペック高くないノートPCならあるんだけど...\nそのPCで動くかわからないし\n携帯ゲーム機でやりたい😏"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "確かにですねー。携帯機のありがたみが最近よくわかります。\nスイッチもいいかも。ごろ寝プレイがはかどる！"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "わかっていただけて嬉しいです。\n子供の頃は大きい画面で遊びたいー!ってなってたんですけど乱視と手軽さがないのが歳を重ねるごとに響いてきてますw\nSwitchでごろごろ寝ながらやりたいです🙌"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc5qdhzhdc2d",
+            "label": [
+                0.7142210602760315,
+                0.0013137380592525005,
+                0.28252437710762024,
+                0.00035293149994686246,
+                0.00030385583522729576,
+                0.0004629286122508347,
+                0.0004014817823190242,
+                0.0004195152432657778
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 1,
+                    "utter": "わかっていただけて嬉しいです。\n子供の頃は大きい画面で遊びたいー!ってなってたんですけど乱視と手軽さがないのが歳を重ねるごとに響いてきてますw\nSwitchでごろごろ寝ながらやりたいです🙌"
+                },
+                {
+                    "author": "did:plc:pzsge5xkzszcoizhtkigdtpi",
+                    "type": 2,
+                    "utter": "乱視はキツいですね…。\n失礼しました。そう考えると私もスイッチライトのゲームも何か買っておきたくなってきた"
+                },
+                {
+                    "author": "did:plc:ig37yygqf34zkmpogy5apkm7",
+                    "type": 3,
+                    "utter": "いえいえ、大丈夫です。\nこちらこそ失礼しました💦\n携帯機は携帯機ならではの良さがありますよね！"
+                }
+            ],
+            "uri": "at://did:plc:ig37yygqf34zkmpogy5apkm7/app.bsky.feed.post/3lc5rnif2bs2d",
+            "label": [
+                0.8902463316917419,
+                0.001818374264985323,
+                0.06182226911187172,
+                0.0014091364573687315,
+                0.0010549412108957767,
+                0.03674808889627457,
+                0.002891998505219817,
+                0.004008911550045013
+            ]
+        }
+    ]
+}

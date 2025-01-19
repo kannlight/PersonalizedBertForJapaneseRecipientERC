@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "Hello everyone.. Hanukkah is concluded, New Years too...\n\nThe dreaded Shiva has concluded as well..\n\nI wish everyone had a great Holiday with family, friends, and loved ones."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Darby, so glad to see you back. I was worried about you!!  I hope you know that you have friends here as well as in the real world!"
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "I appreciate you.."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letsno7brs2l",
+            "label": [
+                0.8358879685401917,
+                0.03347035497426987,
+                0.11720056086778641,
+                0.002435317263007164,
+                0.0008286061929538846,
+                0.003747760085389018,
+                0.0031264517456293106,
+                0.0033028649631887674
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "I appreciate you.."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "I appreciate YOU!"
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "I do have some twisted thoughts..."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letsqyjxjk2l",
+            "label": [
+                0.8783147931098938,
+                0.042471736669540405,
+                0.03140302002429962,
+                0.01935669593513012,
+                0.0020691275130957365,
+                0.010204222053289413,
+                0.009386388584971428,
+                0.006794087588787079
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "I do have some twisted thoughts..."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Dont we all? That's why we converse..."
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "Remember, not all who wonder are lost..\n\nTrial prep was excellent in creating mind multitasking.. or as I've said, mental \"master baiting\"..\n\nSome psychologists say it's impossible to have competing thoughts at the same time..\n\nBecause of trial prep, court, and trial.."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letu2jxbs22l",
+            "label": [
+                0.7788843512535095,
+                0.04753001779317856,
+                0.1129692792892456,
+                0.016317937523126602,
+                0.00422905245795846,
+                0.013412103056907654,
+                0.01356109231710434,
+                0.01309613324701786
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "Remember, not all who wonder are lost..\n\nTrial prep was excellent in creating mind multitasking.. or as I've said, mental \"master baiting\"..\n\nSome psychologists say it's impossible to have competing thoughts at the same time..\n\nBecause of trial prep, court, and trial.."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Are you a lawyer?"
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "I retired the year after my son died.."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letuc7uagk2l",
+            "label": [
+                0.9395066499710083,
+                0.03240347281098366,
+                0.013667726889252663,
+                0.003459369530901313,
+                0.0008598882122896612,
+                0.003909117542207241,
+                0.003153672209009528,
+                0.003039990784600377
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "I retired the year after my son died.."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Oh my. I'm sorry, the loss of a child is the worst. I know. I also lost a child. Life is not fair."
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "I was in suicide mode.. but for my overworked guardian angel actions, I'd been successful..\n\nPM the next part.."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letuot33zs2l",
+            "label": [
+                0.9559798836708069,
+                0.007794128265231848,
+                0.028432704508304596,
+                0.001982839545235038,
+                0.0006027963827364147,
+                0.0012749340385198593,
+                0.002044690540060401,
+                0.0018881139112636447
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "Remember, not all who wonder are lost..\n\nTrial prep was excellent in creating mind multitasking.. or as I've said, mental \"master baiting\"..\n\nSome psychologists say it's impossible to have competing thoughts at the same time..\n\nBecause of trial prep, court, and trial.."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Are you a lawyer?"
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "Retired.. One secretary said I was evil.. I'm not paid to lose was my reply.."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letuac5ov22l",
+            "label": [
+                0.6373569369316101,
+                0.11272834986448288,
+                0.1977003663778305,
+                0.007792336400598288,
+                0.004493377171456814,
+                0.015613440424203873,
+                0.01308547705411911,
+                0.011229699477553368
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "Retired.. One secretary said I was evil.. I'm not paid to lose was my reply.."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Can you sleep at night?"
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "After my son died, I could only sleep 15 minutes a night for about a year."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letuhapyx22l",
+            "label": [
+                0.9679071307182312,
+                0.00994633138179779,
+                0.01031101867556572,
+                0.0035452970769256353,
+                0.0006732662441208959,
+                0.002232588827610016,
+                0.002689702669158578,
+                0.002694736234843731
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 1,
+                    "utter": "Retired.. One secretary said I was evil.. I'm not paid to lose was my reply.."
+                },
+                {
+                    "author": "did:plc:d6srqnzqovlnqznjalzfb7ni",
+                    "type": 2,
+                    "utter": "Can you sleep at night?"
+                },
+                {
+                    "author": "did:plc:ul5etilu6cjfmuy3uigz5dfp",
+                    "type": 3,
+                    "utter": "At what point in time..."
+                }
+            ],
+            "uri": "at://did:plc:ul5etilu6cjfmuy3uigz5dfp/app.bsky.feed.post/3letuf4tocc2l",
+            "label": [
+                0.7410550117492676,
+                0.11483196169137955,
+                0.04800630360841751,
+                0.04271572455763817,
+                0.005837254226207733,
+                0.019942468032240868,
+                0.018132565543055534,
+                0.009478616528213024
+            ]
+        }
+    ]
+}

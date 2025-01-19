@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "皆様おはようございます！\n朝一から警察のお世話になりました\nなんか玄関の方から音がするなぁと思ったら男の人がずっといて警察呼びました\n案の定酔っ払いでした\nうちの前にいた理由が「陽当たりが良くて暖かかったから」\nうん、実に酔っ払いらしい理由だ！\nちなみに100mくらい離れた一軒家の方で家族に引き渡されたそうです"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "女性の一人暮らしと分かっての犯行？かも。\n言い訳の可能性もあるから用心しといて。\n施錠とチェーンロックは忘れずにね。"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "私も酒呑みだからなんとなく気持ちはわかる！　\nけど！あと100m頑張ろう！\nお布団のほうが暖かいぞ！"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lbnxc5vves2q",
+            "label": [
+                0.000365697022061795,
+                0.0013550658477470279,
+                0.9972524046897888,
+                0.0002027135924436152,
+                0.00021396124793682247,
+                0.00023731644614599645,
+                0.0002338440390303731,
+                0.00013900395424570888
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "私も酒呑みだからなんとなく気持ちはわかる！　\nけど！あと100m頑張ろう！\nお布団のほうが暖かいぞ！"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "光合成かもなw"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "そ　れ　だ　！"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lbnz4j3hpc2q",
+            "label": [
+                0.43737390637397766,
+                0.004462590906769037,
+                0.5064082145690918,
+                0.021252186968922615,
+                0.01791195385158062,
+                0.0015190036501735449,
+                0.003389389254152775,
+                0.007682677824050188
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "そ　れ　だ　！"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "違うと思うがなw"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "多分、家族の方々に叱られてることでしょうw"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lbnzc6g2d22q",
+            "label": [
+                0.10152285546064377,
+                0.3166213929653168,
+                0.005657501053065062,
+                0.003296587383374572,
+                0.001429555006325245,
+                0.5614022612571716,
+                0.007882742211222649,
+                0.002187128411605954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "多分、家族の方々に叱られてることでしょうw"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "近所で恥を晒すなと..."
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "朝っぱらから家族が警察に連れられて帰っきた人の心情…"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lbnzjvdmvs2q",
+            "label": [
+                0.00241440930403769,
+                0.11452207714319229,
+                0.0006087688379921019,
+                0.002982734004035592,
+                0.0014571939827874303,
+                0.8745942115783691,
+                0.003013861132785678,
+                0.00040681386599317193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "朝っぱらから家族が警察に連れられて帰っきた人の心情…"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "俺なら引っ越すわw"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "まぁ、特に私に害意があったわけではないので\n「今後気を付けろよ〜」としか言えないですねw"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lbo254wtvs2q",
+            "label": [
+                0.12932559847831726,
+                0.4916514456272125,
+                0.009541710838675499,
+                0.0028588478453457355,
+                0.00552065996453166,
+                0.17834065854549408,
+                0.17836670577526093,
+                0.004394349176436663
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "今夜は飲むよー♪"
+                },
+                {
+                    "author": "did:plc:o5wiiho4ewfvxuha4go6g3ss",
+                    "type": 2,
+                    "utter": "毎日でしょうw"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "バレてる！"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lfmi2hxkgc2f",
+            "label": [
+                0.001743102096952498,
+                0.0014234879054129124,
+                0.0003589743282645941,
+                0.994911253452301,
+                0.0001760913000907749,
+                0.0009603230282664299,
+                0.0003210485738236457,
+                0.00010573617328191176
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "テンションおかしい！"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "ゆっくりしとき😊"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "抑えきれない、この衝動！"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lfircbbx322m",
+            "label": [
+                0.8261043429374695,
+                0.008706577122211456,
+                0.12175918370485306,
+                0.01871117763221264,
+                0.0024427352473139763,
+                0.018115991726517677,
+                0.0014498961390927434,
+                0.002710126806050539
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "抑えきれない、この衝動！"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "ご馳走様w"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "ﾌﾋﾋ"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lfiu4ud3es2m",
+            "label": [
+                0.9995330572128296,
+                6.763177952961996e-05,
+                0.00012550469546113163,
+                6.688490975648165e-05,
+                2.8723201467073523e-05,
+                6.203323573572561e-05,
+                7.65275108278729e-05,
+                3.962104528909549e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "ﾌﾋﾋ"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "あらためておめでとう‪👍🏻 ̖́-‬︎"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "なんかまだ実感が無いのですがw"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lfiwecwaw22m",
+            "label": [
+                0.16616329550743103,
+                0.005942706484347582,
+                0.01928490586578846,
+                0.7589374780654907,
+                0.0004141273384448141,
+                0.04605909436941147,
+                0.001467177295126021,
+                0.0017312230775132775
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 1,
+                    "utter": "なんかまだ実感が無いのですがw"
+                },
+                {
+                    "author": "did:plc:mpks4apvauymez5fvdndv37r",
+                    "type": 2,
+                    "utter": "それ、リア充の言葉やでwww"
+                },
+                {
+                    "author": "did:plc:hywrelxt7getszhjzlwno3dd",
+                    "type": 3,
+                    "utter": "だって昨日の今日ですよぉ"
+                }
+            ],
+            "uri": "at://did:plc:hywrelxt7getszhjzlwno3dd/app.bsky.feed.post/3lfiwzzl64c2m",
+            "label": [
+                0.03420979902148247,
+                0.8315154314041138,
+                0.002366947941482067,
+                0.0373559445142746,
+                0.011079060845077038,
+                0.04897097125649452,
+                0.03301063925027847,
+                0.0014912252081558108
+            ]
+        }
+    ]
+}

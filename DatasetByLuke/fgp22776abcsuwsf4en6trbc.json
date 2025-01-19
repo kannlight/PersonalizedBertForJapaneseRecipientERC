@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "いやほんとそれなですわ、これが一番良い…"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "これが兄さんの見本"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "さすがに過言すぎる()\n弟に腹パンはダメです()"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lbmm2vqy7k2e",
+            "label": [
+                0.031248759478330612,
+                0.02175024338066578,
+                0.0013573130127042532,
+                0.014158837497234344,
+                0.003468875540420413,
+                0.902123749256134,
+                0.022590355947613716,
+                0.0033018237445503473
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "さすがに過言すぎる()\n弟に腹パンはダメです()"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "いやいや愛ゆえですよ(ぇ)"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "さすがに変身後はいただけない(？)"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lbmmoeyni22c",
+            "label": [
+                0.034711819142103195,
+                0.31673869490623474,
+                0.0012634772574529052,
+                0.015610399655997753,
+                0.0010271738283336163,
+                0.5526005029678345,
+                0.07655876874923706,
+                0.0014891285682097077
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "さすがに変身後はいただけない(？)"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "そ、それも愛ゆえ……(震え声)"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "苦しすぎる((()))"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lbp5nkwzx22b",
+            "label": [
+                0.00032956202630884945,
+                0.99741131067276,
+                0.00016988829884212464,
+                0.0002105181774822995,
+                9.595614392310381e-05,
+                0.0011300996411591768,
+                0.000618003134150058,
+                3.463495886535384e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "苦しすぎる((()))"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "ですよね(震え声)\nやっぱり変身からの腹パンはちょっといただけないかもですね←"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "さすがにね…世間は許してくれませんよ…(盲信はしない)"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lbp66cqm5k2b",
+            "label": [
+                0.002056238939985633,
+                0.9618965983390808,
+                0.0006103088380768895,
+                0.0005777822807431221,
+                0.0010166562860831618,
+                0.03164932131767273,
+                0.0019551620353013277,
+                0.0002378288481850177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "ジェットスイーパーをなんだと思っているんだ……"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "すみません、イカ知らないのでてきとうぶっこきました申し訳ございません"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "タコなんだよなぁ(さらに混乱させる)"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lcashtfo522p",
+            "label": [
+                0.7382892370223999,
+                0.04663033410906792,
+                0.03194008022546768,
+                0.022505950182676315,
+                0.0021798929665237665,
+                0.1258554905653,
+                0.025477228686213493,
+                0.007121796254068613
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "タコなんだよなぁ(さらに混乱させる)"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "え！？イカじゃないだと！？(混乱)"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "2作目からはタコも使えるんですよ()"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lcau2q6dhk2p",
+            "label": [
+                0.9955078363418579,
+                0.00014005076081957668,
+                0.0036935200914740562,
+                0.0003445010515861213,
+                6.626138201681897e-05,
+                7.75541047914885e-05,
+                6.865522300358862e-05,
+                0.00010166673018829897
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "2作目からはタコも使えるんですよ()"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "豊富すぎる軟体生物……"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "基本水生生物メインですからね…"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lcauy3m3zk2f",
+            "label": [
+                0.7038784623146057,
+                0.015080560930073261,
+                0.2561633586883545,
+                0.0019068475812673569,
+                0.0009102918556891382,
+                0.010596862062811852,
+                0.005406128708273172,
+                0.006057459395378828
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "基本水生生物メインですからね…"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "これからはスプラトゥーンのことをイカタコちゃん』って呼びますね！"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "まぁイカでも問題ないんですどね((()))"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lccay2ckoc2k",
+            "label": [
+                0.2820602059364319,
+                0.023687126114964485,
+                0.19049902260303497,
+                0.00786027405411005,
+                0.0018922416493296623,
+                0.48064276576042175,
+                0.008590256795287132,
+                0.004768179263919592
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "ブルースカイ楽しくない訳では無いんだけどTwitterとかMisskeyに比べるとやっぱりまだTLが静かなんだよなぁ、フォロワーが増えればいいんかな？"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "前も聞いてたらごめんなさい\nMisskeyってどんなSNSですか？"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "言うてそんなにやってないですけど文字制限は3000文字動画は200MB画像は16枚まで投稿できます！\nTwitterはフォロワーやフォローにおおじてTLの動きは変わりますがMisskeyにはMisskeyやってる人全員？(全員かは不明)がいるフィードみたいなのがあってそこだとかなり活気づいててうるさいくらいに更新されていく感じですね。他にもフィードみたいなのがあるんですけどどういう区分かは僕もわかってないですw"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lb2o2pao6c2r",
+            "label": [
+                0.9565962553024292,
+                0.0009252234012819827,
+                0.02756391279399395,
+                0.008676157332956791,
+                0.00034158944617956877,
+                0.0029202692676335573,
+                0.0007856606389395893,
+                0.0021908849012106657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "言うてそんなにやってないですけど文字制限は3000文字動画は200MB画像は16枚まで投稿できます！\nTwitterはフォロワーやフォローにおおじてTLの動きは変わりますがMisskeyにはMisskeyやってる人全員？(全員かは不明)がいるフィードみたいなのがあってそこだとかなり活気づいててうるさいくらいに更新されていく感じですね。他にもフィードみたいなのがあるんですけどどういう区分かは僕もわかってないですw"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "なるほどです\nちょっとボクもやってみます！"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "未だコミュニケーションとかをとる相手はいませんがその分いいねに種類があるのでその点でもおすすめではありますね。(あまりやってない人)"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lb2og73ozk2r",
+            "label": [
+                0.15523160994052887,
+                0.0006883678142912686,
+                0.8405629992485046,
+                0.000476210901979357,
+                0.0005713979480788112,
+                0.0009019274730235338,
+                0.0004821561451535672,
+                0.0010852544801309705
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "未だコミュニケーションとかをとる相手はいませんがその分いいねに種類があるのでその点でもおすすめではありますね。(あまりやってない人)"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "いいねに種類？？？\nなんかすごそう\n検索します！"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "良いSNS生活になれるよう願っておきますね！"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lb2ujusqy225",
+            "label": [
+                0.0008101682178676128,
+                0.00019611605966929346,
+                0.9985993504524231,
+                0.00010607106378301978,
+                7.191803160822019e-05,
+                8.070731564657763e-05,
+                6.36188851785846e-05,
+                7.214444485725835e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "良いSNS生活になれるよう願っておきますね！"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "ありがとうございます！\nさっそくトラブってますｗ"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "早すぎませんかw"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lb2v363iqc25",
+            "label": [
+                0.0007755614933557808,
+                0.0014646511990576982,
+                0.0006652430747635663,
+                0.99543297290802,
+                0.00014172935334499925,
+                0.0011580368736758828,
+                0.0002770436112768948,
+                8.467373118037358e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 1,
+                    "utter": "早すぎませんかw"
+                },
+                {
+                    "author": "did:plc:hlv6vmymgukvh4mcc6loajtl",
+                    "type": 2,
+                    "utter": "なんか連携できませんｗ"
+                },
+                {
+                    "author": "did:plc:fgp22776abcsuwsf4en6trbc",
+                    "type": 3,
+                    "utter": "なんでなんでしょうね？？()"
+                }
+            ],
+            "uri": "at://did:plc:fgp22776abcsuwsf4en6trbc/app.bsky.feed.post/3lb2vcxk34k25",
+            "label": [
+                0.009925510734319687,
+                0.0014260901371017098,
+                0.002522536087781191,
+                0.9832747578620911,
+                0.00023306836374104023,
+                0.0019507486140355468,
+                0.00040831812657415867,
+                0.0002589148352853954
+            ]
+        }
+    ]
+}

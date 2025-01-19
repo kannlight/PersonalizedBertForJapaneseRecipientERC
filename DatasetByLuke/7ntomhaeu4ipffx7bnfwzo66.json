@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "俺達のこと見張ってんのかな？"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 2,
+                    "utter": "見張ってそうで怖いですよね…"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "それ…分かる…"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7unt3v562i",
+            "label": [
+                0.9964612126350403,
+                0.0003512550611048937,
+                0.0016698050312697887,
+                0.0004610248433891684,
+                5.863666228833608e-05,
+                0.0003546361404005438,
+                0.0003209742426406592,
+                0.0003224266110919416
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "それ…分かる…"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 2,
+                    "utter": "絶対来ますよね…"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "何がしたいんだろうね…"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7usmjkiy2e",
+            "label": [
+                0.035382386296987534,
+                0.012912288308143616,
+                0.0023892028257250786,
+                0.12771478295326233,
+                0.00209345412440598,
+                0.7552854418754578,
+                0.06268085539340973,
+                0.0015415617963299155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "何がしたいんだろうね…"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 2,
+                    "utter": "怖いです…"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "上様もいいねされたね〜"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7wpju5t522",
+            "label": [
+                0.998993456363678,
+                6.26851397100836e-05,
+                0.00032756137079559267,
+                0.0004083598032593727,
+                4.0032336983131245e-05,
+                4.378114681458101e-05,
+                5.4515730880666524e-05,
+                6.971204857109115e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "上様もいいねされたね〜"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 2,
+                    "utter": "本当に迷惑ですよね…"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "本当にね…何が目的か全く分かんないし…プロフ読まずに来てるって即バレだよね〜"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7xbzgagw2i",
+            "label": [
+                0.0024704912211745977,
+                0.0059951297007501125,
+                0.0008252608822658658,
+                0.002184683922678232,
+                0.014807871542870998,
+                0.015549849718809128,
+                0.9573107957839966,
+                0.0008559385314583778
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "本当にね…何が目的か全く分かんないし…プロフ読まずに来てるって即バレだよね〜"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 2,
+                    "utter": "なんか…皆…怖いですね…フォローされないだけマシなんでしょうか…"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "フォローは1番嫌！"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7xruvbwq2e",
+            "label": [
+                0.003426274051889777,
+                0.0024865497834980488,
+                0.0025880697648972273,
+                0.0014465019339695573,
+                0.005884420592337847,
+                0.0027172889094799757,
+                0.9805857539176941,
+                0.0008652317919768393
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "来たんだけど気付いてくれるかな？"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "よぉ！春！"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "秋！来ちゃった(にこ"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7udp3cbp2d",
+            "label": [
+                0.9995463490486145,
+                6.375389784807339e-05,
+                0.00016621279064565897,
+                8.424507541349158e-05,
+                2.0783209038199857e-05,
+                4.053677184856497e-05,
+                4.181086114840582e-05,
+                3.636407200247049e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "秋！来ちゃった(にこ"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "来てくれるって信じてたぜ！"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "そりゃ来ちゃうでしょ(にこ"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7ungh2522p",
+            "label": [
+                0.9981057643890381,
+                0.00023487328144256026,
+                0.0010215500369668007,
+                0.0001241230493178591,
+                4.235739470459521e-05,
+                0.000183445677976124,
+                0.00017487138393335044,
+                0.00011306125816190615
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "そりゃ来ちゃうでしょ(にこ"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "嬉しいぜ(微笑み"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "秋彦〜(抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7us5d73o2z",
+            "label": [
+                0.9994348883628845,
+                0.00015660104691050947,
+                0.0001761829771567136,
+                5.093511572340503e-05,
+                2.4555116397095844e-05,
+                4.428118700161576e-05,
+                6.0286187363089994e-05,
+                5.2230796427465975e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "秋彦〜(抱き締め"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "春〜(抱き締め返し"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "秋、愛してるよ？(強く抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7wqcgqoh2z",
+            "label": [
+                0.9995666146278381,
+                8.84921828401275e-05,
+                0.0001067148768925108,
+                4.3771979107987136e-05,
+                2.5816800189204514e-05,
+                4.612320844898932e-05,
+                5.970887650619261e-05,
+                6.261454109335318e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 1,
+                    "utter": "秋、愛してるよ？(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "俺だって春の事愛してるぜ？(強く抱き締めたまま微笑み"
+                },
+                {
+                    "author": "did:plc:7ntomhaeu4ipffx7bnfwzo66",
+                    "type": 3,
+                    "utter": "うん、ありがとう(強く抱き締めたまま微笑み"
+                }
+            ],
+            "uri": "at://did:plc:7ntomhaeu4ipffx7bnfwzo66/app.bsky.feed.post/3kw7xcirtxm2y",
+            "label": [
+                0.9996070265769958,
+                8.074800280155614e-05,
+                7.926643593236804e-05,
+                5.0889157137135044e-05,
+                2.295706326549407e-05,
+                5.232979674474336e-05,
+                5.462547778734006e-05,
+                5.2043724281247705e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "はい|๑'ω'๑)"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "( ˘꒳​˘)むにゃ"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "( ˘꒳˘)むにゃ"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lbvg2leafc2d",
+            "label": [
+                0.9989354014396667,
+                0.00018060267029795796,
+                0.000500097987242043,
+                7.034496229607612e-05,
+                3.50358423020225e-05,
+                7.648926839465275e-05,
+                0.00014865139382891357,
+                5.34123792022001e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "( ˘꒳˘)むにゃ"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "(   ᷄ᾥ ᷅ )いきたくねえ"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "( ๑´•ω•)۶ﾖｼﾖｼ"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lbvhlquqo22d",
+            "label": [
+                0.9993066787719727,
+                7.429566176142544e-05,
+                0.0003221509396098554,
+                4.22056982642971e-05,
+                4.373064439278096e-05,
+                4.960456499247812e-05,
+                9.206298273056746e-05,
+                6.922885222593322e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "( ๑´•ω•)۶ﾖｼﾖｼ"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "(   ᷄ᾥ ᷅ )ｼﾜｼﾜｼﾜｼﾜｼﾜ"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "しわてんちゃんだ(゜ωﾟ｀＞(ω･´　)ビョーン"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lbvifc35622d",
+            "label": [
+                0.9705932140350342,
+                0.0024744023103266954,
+                0.01836714707314968,
+                0.0043902890756726265,
+                0.0006250567967072129,
+                0.0007702148286625743,
+                0.0016191562172025442,
+                0.0011604930041357875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "しわてんちゃんだ(゜ωﾟ｀＞(ω･´　)ビョーン"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "( 　　　　　  ᷄ᾥ ᷅ )"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "伸びた(º ⌓º )"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lbvx5km7k22n",
+            "label": [
+                0.9995200634002686,
+                4.71503080916591e-05,
+                0.0001705744507489726,
+                0.00010455078154336661,
+                3.2232404919341207e-05,
+                3.451653537922539e-05,
+                4.619659739546478e-05,
+                4.475453170016408e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "| ε:) ﾆｮｷ"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "寝るよ"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "ﾊﾞﾀﾊﾞﾀヾ(>ω<ヾﾉ三ヽ^ｼ>ω<)ﾉｼ"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lcikiimjgc2f",
+            "label": [
+                0.5416295528411865,
+                0.35242733359336853,
+                0.0061668879352509975,
+                0.02008526772260666,
+                0.0015724399127066135,
+                0.05623892322182655,
+                0.020520290359854698,
+                0.0013592723989859223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "ﾊﾞﾀﾊﾞﾀヾ(>ω<ヾﾉ三ヽ^ｼ>ω<)ﾉｼ"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "なんであばれてるの……"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "なんとなく…？(  ᐕ)𓈒𓂂?‬"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lciklilltk2f",
+            "label": [
+                0.9053733348846436,
+                0.0019395706476643682,
+                0.08680318295955658,
+                0.0009611961431801319,
+                0.00035197989200241864,
+                0.0012532009277492762,
+                0.0017692341934889555,
+                0.0015482952585443854
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "なんとなく…？(  ᐕ)𓈒𓂂?‬"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "( ˘꒳​˘)布団で包むか"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "おふとん…(っ﹏-) .｡"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lcikqdzgwc2f",
+            "label": [
+                0.3897981345653534,
+                0.45657044649124146,
+                0.024063942953944206,
+                0.025437872856855392,
+                0.0019271918572485447,
+                0.0637059435248375,
+                0.034588273614645004,
+                0.003908198792487383
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 1,
+                    "utter": "おふとん…(っ﹏-) .｡"
+                },
+                {
+                    "author": "did:plc:zynesxhpxmw22xgg5yujkqmf",
+                    "type": 2,
+                    "utter": "もうふもあります"
+                },
+                {
+                    "author": "did:plc:xvrk63g6mo2t5i2k7i53rglu",
+                    "type": 3,
+                    "utter": "あったかいねぇ(  -    -   *)ｳﾄｳﾄ"
+                }
+            ],
+            "uri": "at://did:plc:xvrk63g6mo2t5i2k7i53rglu/app.bsky.feed.post/3lcikwwcvp22f",
+            "label": [
+                0.9996107220649719,
+                5.585861799772829e-05,
+                0.00010370007657911628,
+                5.981951471767388e-05,
+                2.3125201551010832e-05,
+                5.110665370011702e-05,
+                5.705987859982997e-05,
+                3.864334576064721e-05
+            ]
+        }
+    ]
+}

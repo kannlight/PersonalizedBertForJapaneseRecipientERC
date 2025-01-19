@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "お嬢〜来た"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "國神…(抱き着き"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "おっと、待たせて悪かったな(抱きとめ"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3knqevoc4ps2f",
+            "label": [
+                0.05099852755665779,
+                0.8641815185546875,
+                0.000765401404350996,
+                0.0032498971559107304,
+                0.0007507945410907269,
+                0.07683834433555603,
+                0.0024850110057741404,
+                0.0007304887985810637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "おっと、待たせて悪かったな(抱きとめ"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "大丈夫…会えたから…(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "いや！可愛いじゃないですかお嬢！(強く抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3knrschio222a",
+            "label": [
+                0.9996179342269897,
+                4.646629167837091e-05,
+                0.00010387047223048285,
+                7.540562364738435e-05,
+                2.921542909462005e-05,
+                3.7995996535755694e-05,
+                4.739568248623982e-05,
+                4.1805364162428305e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "いや！可愛いじゃないですかお嬢！(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "んぅ…///そうかぁ？///(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "そうなんだよ(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3knspdjsnue2w",
+            "label": [
+                0.9930450320243835,
+                0.0025088360998779535,
+                0.001905746292322874,
+                0.0003938985464628786,
+                0.0001404179638484493,
+                0.000955803319811821,
+                0.000429974083090201,
+                0.0006202111253514886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "そうなんだよ(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "國神に言われたら…言い返せねぇな///(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "そういう所ですよ…お嬢…(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3ko3lbgasbt24",
+            "label": [
+                0.8807122707366943,
+                0.055957842618227005,
+                0.02944486401975155,
+                0.0032778396271169186,
+                0.0017118783434852958,
+                0.018663128837943077,
+                0.005559844896197319,
+                0.004672402516007423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "凪〜、俺とも話さねぇか？"
+                },
+                {
+                    "author": "did:plc:es264sb2zbshbol6egf55x5f",
+                    "type": 2,
+                    "utter": "國神きんに君だ"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "なんできんに君なんだよ！"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3krfrjmu6gk2q",
+            "label": [
+                0.0014523862628266215,
+                0.0022293711081147194,
+                0.0004623661225195974,
+                0.9942017197608948,
+                0.000653523369692266,
+                0.00029837782494723797,
+                0.0005685283103957772,
+                0.0001337094436166808
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "なんできんに君なんだよ！"
+                },
+                {
+                    "author": "did:plc:es264sb2zbshbol6egf55x5f",
+                    "type": 2,
+                    "utter": "だって、言うんだもん。"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "まぁな？"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3ks6pcu3dcw2g",
+            "label": [
+                0.9879078269004822,
+                0.0005579451681114733,
+                0.008385024033486843,
+                0.000508829893078655,
+                0.0002018996310653165,
+                0.000372402835637331,
+                0.001469771028496325,
+                0.0005963763687759638
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "まぁな？"
+                },
+                {
+                    "author": "did:plc:es264sb2zbshbol6egf55x5f",
+                    "type": 2,
+                    "utter": "國神〜"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "ん？どした？"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3ksbfyq2zic2w",
+            "label": [
+                0.0005449948366731405,
+                0.00033179984893649817,
+                0.0005335148889571428,
+                0.9975368976593018,
+                0.00031767538166604936,
+                0.0003825085295829922,
+                0.00026073737535625696,
+                9.177321044262499e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "ん？どした？"
+                },
+                {
+                    "author": "did:plc:es264sb2zbshbol6egf55x5f",
+                    "type": 2,
+                    "utter": "彼氏会しようね！"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "おー、しような？"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kskklzduqu2g",
+            "label": [
+                0.3059306740760803,
+                0.003158372826874256,
+                0.6881725788116455,
+                0.00038968483568169177,
+                0.00030579467420466244,
+                0.0006733240443281829,
+                0.0009243000531569123,
+                0.0004451940767467022
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "お前はお嬢じゃねぇだろ"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "やばw"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "本当の事だろ..."
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzidhpqa522",
+            "label": [
+                0.0014522793935611844,
+                0.0012953100958839059,
+                0.0005950481863692403,
+                0.9870001673698425,
+                0.000314992357743904,
+                0.008197600953280926,
+                0.0009413207299076021,
+                0.00020336115267127752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "本当の事だろ..."
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "あのオッサンお嬢だったらキモイわw"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "オエッ＿|￣|○､;'.･､;'.･"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzk5rvm332m",
+            "label": [
+                0.007740005850791931,
+                0.7570143342018127,
+                0.002866266993805766,
+                0.0256669819355011,
+                0.08213155716657639,
+                0.021686019375920296,
+                0.10118060559034348,
+                0.001714205020107329
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "オエッ＿|￣|○､;'.･､;'.･"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "www"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "無理だ...そんなのお嬢な訳がねぇ..."
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3krf4mem46k2k",
+            "label": [
+                0.026883427053689957,
+                0.5653036236763,
+                0.002843819558620453,
+                0.022653575986623764,
+                0.014784079045057297,
+                0.20025569200515747,
+                0.16408082842826843,
+                0.0031950194388628006
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "無理だ...そんなのお嬢な訳がねぇ..."
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "お嬢よ！😎www"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "どうした！！(笑)"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3krfmtxdqgc2o",
+            "label": [
+                0.001908996026031673,
+                0.0003186565882060677,
+                0.0008622690220363438,
+                0.9961609840393066,
+                0.00017361908976454288,
+                0.00028027265216223896,
+                0.00017970390035770833,
+                0.00011537146929185838
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "どうした！！(笑)"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "え？あの人サングラスかけてなかった？"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "はっ！確かに！( ﾟдﾟ)"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3krfriyggid2c",
+            "label": [
+                0.0009510674281045794,
+                0.0002989879285451025,
+                0.0008416296914219856,
+                0.9972297549247742,
+                0.00018746586283668876,
+                0.00019169491133652627,
+                0.00017339560145046562,
+                0.00012585466902237386
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "お嬢来ねぇなぁ..."
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "錬介〜っ(抱き着き"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "おっ、お嬢(抱きとめ"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzafbklfn2u",
+            "label": [
+                0.99843829870224,
+                0.0001640795380808413,
+                0.0002381855738349259,
+                0.0009310133173130453,
+                3.700247543747537e-05,
+                5.2317183872219175e-05,
+                7.38879170967266e-05,
+                6.516918074339628e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "おっ、お嬢(抱きとめ"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "…待ってた？待ってたか？✨️(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "待ってましたよ？(強く抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzas4v2lt2w",
+            "label": [
+                0.9978100657463074,
+                0.0002873293706215918,
+                0.0015261184889823198,
+                6.220693467184901e-05,
+                6.315021892078221e-05,
+                6.247148849070072e-05,
+                9.081940515898168e-05,
+                9.780570690054446e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "待ってましたよ？(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "んー、國神〜(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "甘えてんのか？全然いいけど(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzb3ggm362g",
+            "label": [
+                0.8617352247238159,
+                0.01652795635163784,
+                0.009624193422496319,
+                0.031378015875816345,
+                0.019651642069220543,
+                0.013459053821861744,
+                0.03984940052032471,
+                0.007774566300213337
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "甘えてんのか？全然いいけど(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "待っててくれて、サンキュな♡(強く抱き締めたまま微笑み"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "お嬢の事はちゃんと待つぜ(強く抱き締めたまま頭撫で"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzid3asn52u",
+            "label": [
+                0.6763737797737122,
+                0.003633463056758046,
+                0.31513747572898865,
+                0.0003445825132075697,
+                0.0005824411637149751,
+                0.0015682083321735263,
+                0.00073225237429142,
+                0.0016277172835543752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 1,
+                    "utter": "お嬢の事はちゃんと待つぜ(強く抱き締めたまま頭撫で"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 2,
+                    "utter": "へへ、國神っ///(強く抱き締めたままにこっと笑み"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 3,
+                    "utter": "可愛いですね！(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:qkz4pcddly2263liuakoresd/app.bsky.feed.post/3kqzk5joadl2m",
+            "label": [
+                0.9996483325958252,
+                4.4563748815562576e-05,
+                9.359193791169673e-05,
+                6.0599584685405716e-05,
+                2.55054601439042e-05,
+                4.267138501745649e-05,
+                4.4656328100245446e-05,
+                4.0065573557512835e-05
+            ]
+        }
+    ]
+}

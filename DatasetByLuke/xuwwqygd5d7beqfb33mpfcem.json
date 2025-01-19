@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "いいなぁ、摩天楼オペラのインストアイベント、オイラも行きたい🥺"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "麻衣さんの遠征2週間後にまた遠征は辛いですよね😭"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "気持ちとしては行きたいんですけどね🥺感想聞かせてくださいませ！\nなお、余談ですが空リプしたつもりがリプしてました🤣"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3lbwrahfshs2r",
+            "label": [
+                0.0006244600517675281,
+                0.0001577434450155124,
+                0.9987940788269043,
+                0.00019453690038062632,
+                4.842438647756353e-05,
+                7.317569543374702e-05,
+                5.1577637350419536e-05,
+                5.599921860266477e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "気持ちとしては行きたいんですけどね🥺感想聞かせてくださいませ！\nなお、余談ですが空リプしたつもりがリプしてました🤣"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "了解しました😂\nインディーズ時代から行ってたので久々に会えるの楽しみです☺️"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "古参なんですね！久しぶりの生歌楽しんでください🎶"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3lbws3kuskk2r",
+            "label": [
+                0.6788867712020874,
+                0.0008741857600398362,
+                0.3177591562271118,
+                0.0006443567108362913,
+                0.0004298131098039448,
+                0.0005189183284528553,
+                0.0003502067120280117,
+                0.0005365641554817557
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "古参なんですね！久しぶりの生歌楽しんでください🎶"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "古参ではないですね😂あの当時はVersaillesのおまけで聞いてたようなもので😅"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "いやいや、私の感覚だとインディーズからと言うだけで古参って感じします！"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3lbwsa4rsr22r",
+            "label": [
+                0.10509258508682251,
+                0.0007829809910617769,
+                0.005100246053189039,
+                0.8842645883560181,
+                0.0007934157038107514,
+                0.0007126431446522474,
+                0.001284611178562045,
+                0.0019689358305186033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "いやいや、私の感覚だとインディーズからと言うだけで古参って感じします！"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "いやいや💦古参には程遠いですよ😂"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "じゃあそういうことにしておきます🤔"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3lbwspssyp22r",
+            "label": [
+                0.8467397689819336,
+                0.0038143303245306015,
+                0.1434730887413025,
+                0.0007142851245589554,
+                0.00027592270635068417,
+                0.0019531045109033585,
+                0.002094151685014367,
+                0.0009352727211080492
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "見れます👍"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "登録しました💪"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "久しぶり？の本編楽しんでください🤗"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3leenisyjv22g",
+            "label": [
+                0.5889603495597839,
+                0.0010935914469882846,
+                0.4074677526950836,
+                0.0005495308432728052,
+                0.0004211442719679326,
+                0.000623366970103234,
+                0.000402603589463979,
+                0.0004816510481759906
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "久しぶり？の本編楽しんでください🤗"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "メインは違うんですが、登録するならみたいなって😂"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "バディなんたら…？知らない作品ですが、登録したならあれこれ楽しんでください！見たいと思ったアニメ結構配信してるので👍"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3leenwe24bc2g",
+            "label": [
+                0.004030590411275625,
+                0.00028817198472097516,
+                0.9950737357139587,
+                0.00016917703032959253,
+                0.00011049305612687021,
+                0.00012206101382616907,
+                9.01323655853048e-05,
+                0.00011553937656572089
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "バディなんたら…？知らない作品ですが、登録したならあれこれ楽しんでください！見たいと思ったアニメ結構配信してるので👍"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "バディ･コンプレックス…おつるさんのデビュー曲のタイアップ作品なので、観てみたいと思ってまして☺️"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "なるほど、それは見たいに決まってますね！"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3leepaymx522g",
+            "label": [
+                0.0028564955573529005,
+                0.00018383952556177974,
+                0.9963262677192688,
+                0.00022180756786838174,
+                0.00011818053462775424,
+                9.570953989168629e-05,
+                8.967307803686708e-05,
+                0.00010810480307554826
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "なるほど、それは見たいに決まってますね！"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "1話だけでもめちゃくちゃ面白かったです🤤"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "早速！チラッと調べてみたらサンライズ制作のロボットアニメなんですね！ど、どうしてもガンダム想像しちゃう💦"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3leepjl3dbc2g",
+            "label": [
+                0.023688089102506638,
+                0.0009769025491550565,
+                0.013496647588908672,
+                0.9603475332260132,
+                0.00018632416322361678,
+                0.0005035182693973184,
+                0.00029881871887482703,
+                0.000502239738125354
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "ありがとうございます！\nまだ調べられてないんですが、同じジャズ型でもサイズが違ったりするんですか？"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "違います💦\n形もなんですけど、厚みも結構あったりで🙄"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "なるほど、では同じジャズ型でも全く同じというわけでないんですね。"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3ldvqecqe5s2o",
+            "label": [
+                0.0037437311839312315,
+                0.0004102239036001265,
+                0.0014256900176405907,
+                0.9934808015823364,
+                0.00019675966177601367,
+                0.00027906548348255455,
+                0.0002311264688614756,
+                0.00023264394258148968
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "なるほど、では同じジャズ型でも全く同じというわけでないんですね。"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "おにぎり、ティアドロップも同じで形結構さまざまです🙄"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "ふむ🤔ジャズ型のはめパチ探したらあるかなぁと思いましたが、サイズ形に差があるとなるとちょっとリスキーですね。"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3ldvqpqvmck2o",
+            "label": [
+                0.0032637740951031446,
+                0.001913460553623736,
+                0.006678095553070307,
+                0.0010662105632945895,
+                0.00023706267529632896,
+                0.9861889481544495,
+                0.000366191758075729,
+                0.0002862801484297961
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "ふむ🤔ジャズ型のはめパチ探したらあるかなぁと思いましたが、サイズ形に差があるとなるとちょっとリスキーですね。"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "今度行った時にでも聞いてみましょうか🤔\nこれに合うのある？って言う方が良さそうなので😅"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "現物ある状態で確認するのが安心ですね。何かのついでに覚えてましたらお願いいたします🙇‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3ldvrb3rkqc2o",
+            "label": [
+                0.00027763680554926395,
+                0.00018673065642360598,
+                0.9991637468338013,
+                8.969445480033755e-05,
+                6.28356501692906e-05,
+                9.892677917378023e-05,
+                6.651397416135296e-05,
+                5.403701652539894e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 1,
+                    "utter": "現物ある状態で確認するのが安心ですね。何かのついでに覚えてましたらお願いいたします🙇‍♀️"
+                },
+                {
+                    "author": "did:plc:hmbgswt5gmd5t6q2t3xmealu",
+                    "type": 2,
+                    "utter": "御意‼️"
+                },
+                {
+                    "author": "did:plc:xuwwqygd5d7beqfb33mpfcem",
+                    "type": 3,
+                    "utter": "感謝😊🙏"
+                }
+            ],
+            "uri": "at://did:plc:xuwwqygd5d7beqfb33mpfcem/app.bsky.feed.post/3ldvrrnaubs2o",
+            "label": [
+                0.9996293783187866,
+                5.691111437045038e-05,
+                8.483807323500514e-05,
+                5.772954682470299e-05,
+                2.7652695280266926e-05,
+                4.4333326513879e-05,
+                5.218235673964955e-05,
+                4.696602627518587e-05
+            ]
+        }
+    ]
+}

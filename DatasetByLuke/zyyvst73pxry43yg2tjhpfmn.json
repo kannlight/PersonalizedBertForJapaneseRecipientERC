@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Pernah jualan risol mayo"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "makan doang"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Kamu gak pernah danusan?"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqa7hjxw22o",
+            "label": [
+                0.8425036072731018,
+                0.018976852297782898,
+                0.1052849292755127,
+                0.016703324392437935,
+                0.002275509061291814,
+                0.0038283145986497402,
+                0.005466036964207888,
+                0.004961375147104263
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Kamu gak pernah danusan?"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "egk, gk ada risol"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Ternyata risol mayo gak mendunia"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqeyxjtpc2o",
+            "label": [
+                0.9780142307281494,
+                0.0045950100757181644,
+                0.012000401504337788,
+                0.0011170831276103854,
+                0.00042743392987176776,
+                0.0011222978355363011,
+                0.001403951202519238,
+                0.0013195713981986046
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Ternyata risol mayo gak mendunia"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "makanya nnti bikin yg varian matcha, pasti langsung viral"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Nanti perang matcha vs taro pt 2"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqjytou222r",
+            "label": [
+                0.988599419593811,
+                0.0015993376728147268,
+                0.0050034052692353725,
+                0.0019251168705523014,
+                0.00040931423427537084,
+                0.0005359680508263409,
+                0.0009722608374431729,
+                0.0009551465627737343
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Nanti perang matcha vs taro pt 2"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "aku suka taro juga, kenapa taro dan matcha egk bersatu"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Karena penyukanya enemy to lovers"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqoyfcel226",
+            "label": [
+                0.9971029162406921,
+                0.000630328431725502,
+                0.0014120296109467745,
+                0.0001900163188111037,
+                7.293096132343635e-05,
+                0.00012976970174349844,
+                0.00021493285021279007,
+                0.00024697789922356606
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Cita-cita jadi kapal lawud"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "EH MAUNYA KAPAL SELAM"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Mauan"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqaampdic2o",
+            "label": [
+                0.8969388604164124,
+                0.04171212762594223,
+                0.013934080488979816,
+                0.019227031618356705,
+                0.0020251357927918434,
+                0.010013068094849586,
+                0.012204784899950027,
+                0.003944944590330124
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Mauan"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "kapal selam bagus ko"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Tenggelam"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqey7xuqs2o",
+            "label": [
+                0.8530991077423096,
+                0.018504133448004723,
+                0.07247687876224518,
+                0.027652664110064507,
+                0.0022798904683440924,
+                0.0132839884608984,
+                0.008232466876506805,
+                0.004470936022698879
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Tenggelam"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "mau menenggelamkan diri"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Nanti jadi mermaid"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqjx2rfvs2r",
+            "label": [
+                0.9886397123336792,
+                0.0013644618447870016,
+                0.006477553863078356,
+                0.001120752189308405,
+                0.00024484656751155853,
+                0.000565259309951216,
+                0.0006886763731017709,
+                0.0008987447945401073
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Nanti jadi mermaid"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "jadi penghuni Atlantis"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Berteman dengan Ariel"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqkja35rc2r",
+            "label": [
+                0.9908209443092346,
+                0.0018003846053034067,
+                0.00413521146401763,
+                0.0009992916602641344,
+                0.0002355445467401296,
+                0.0005864414852112532,
+                0.0007067381520755589,
+                0.0007154400227591395
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Mantannya 3"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "gapernah pacaran🦙"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Htsan ya?"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqabn53ik2o",
+            "label": [
+                0.896900475025177,
+                0.015018794685602188,
+                0.062677301466465,
+                0.00870604533702135,
+                0.0019830139353871346,
+                0.003711232915520668,
+                0.007798509672284126,
+                0.0032046050764620304
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Htsan ya?"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "GAK. gatau ini disebutnya apa ya,,, ak sm dia suka saling flirting tapi juga kaya bercanda? DIANYA SIH YG BERCANDA AKU MAH FLIRT BENERAN tapi ywdh begitu dianya gasuka cwk"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Owalah kamu bukan target pasarnya"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqetyyi2c2o",
+            "label": [
+                0.9171308279037476,
+                0.021614976227283478,
+                0.036975059658288956,
+                0.007828007452189922,
+                0.0017107439925894141,
+                0.004681056831032038,
+                0.005770777817815542,
+                0.004288604483008385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Owalah kamu bukan target pasarnya"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "SEDIH"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Selamat dan semangat, semoga menemukan target pasar lainnya"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqjwk24ys2r",
+            "label": [
+                0.8757792711257935,
+                0.014485783874988556,
+                0.09493053704500198,
+                0.003410091158002615,
+                0.0014087783638387918,
+                0.0027303630486130714,
+                0.0036502773873507977,
+                0.0036048858892172575
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 1,
+                    "utter": "Selamat dan semangat, semoga menemukan target pasar lainnya"
+                },
+                {
+                    "author": "did:plc:6tng7wgd2mmidgmta7opuxmc",
+                    "type": 2,
+                    "utter": "udah nemu, tapi kayanya she's seeing another girl"
+                },
+                {
+                    "author": "did:plc:zyyvst73pxry43yg2tjhpfmn",
+                    "type": 3,
+                    "utter": "Damn, her loss then"
+                }
+            ],
+            "uri": "at://did:plc:zyyvst73pxry43yg2tjhpfmn/app.bsky.feed.post/3lbqksrhdq22r",
+            "label": [
+                0.980181872844696,
+                0.002014011377468705,
+                0.015191171318292618,
+                0.0005561431171372533,
+                0.0002565074246376753,
+                0.00038506672717630863,
+                0.0005537481047213078,
+                0.0008615434053353965
+            ]
+        }
+    ]
+}

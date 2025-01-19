@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "トロフィーとジュエルが！！"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "むり………😧"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "イベントボーナスないキャラでやってるから……"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lbudgkywq22b",
+            "label": [
+                0.000847384100779891,
+                0.998244047164917,
+                0.0001247138570761308,
+                0.00017297443991992623,
+                4.505767356022261e-05,
+                0.00026622426230460405,
+                0.0002723775105550885,
+                2.7250680432189256e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "イベントボーナスないキャラでやってるから……"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "育成しなさすぎて課題のキャラでやってる…🥺"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "なるほどね"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lbvbelxnc22b",
+            "label": [
+                0.1381995975971222,
+                0.0011066292645409703,
+                0.008754684589803219,
+                0.8480396270751953,
+                0.0006625145324505866,
+                0.0006460305885411799,
+                0.0012093438999727368,
+                0.0013815541751682758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "ヨドバシの福袋は全落ちしました"
+                },
+                {
+                    "author": "did:plc:m4gnzqdd52liktfb5sx7c7qg",
+                    "type": 2,
+                    "utter": "いいねし辛いよぅ"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "煽っていこう"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lcoduua3gs26",
+            "label": [
+                0.0014205959159880877,
+                0.00017680806922726333,
+                0.9978621602058411,
+                0.00012566849181894213,
+                0.00011208312935195863,
+                0.0001151963442680426,
+                0.00010645927250152454,
+                8.097958925645798e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "煽っていこう"
+                },
+                {
+                    "author": "did:plc:m4gnzqdd52liktfb5sx7c7qg",
+                    "type": 2,
+                    "utter": "( ✌︎'ω')✌︎✌︎('ω')✌︎✌︎('ω'✌︎ )ｲｴｰｲ\n年末ジャンボでも買おうぜ\n＼＼\\\\ꐕ ꐕ ꐕ//／／"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "それこそ当たらないやつ！"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lcoer7fa2k26",
+            "label": [
+                0.009072976186871529,
+                0.2029397040605545,
+                0.004742974415421486,
+                0.006044899579137564,
+                0.014124620705842972,
+                0.018268035724759102,
+                0.7429240345954895,
+                0.0018826635787263513
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "それこそ当たらないやつ！"
+                },
+                {
+                    "author": "did:plc:m4gnzqdd52liktfb5sx7c7qg",
+                    "type": 2,
+                    "utter": "ネット購入できるようになって胡散臭さが100倍になった年末ジャンボ\n◝('ω'ω'ω')◜ﾃﾞﾃﾞｰﾝ"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "結果を操作できないtotoにしよう"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lcogmetzdc26",
+            "label": [
+                0.0022693369537591934,
+                0.00024844135623425245,
+                0.9970505237579346,
+                0.0001246332103619352,
+                4.759735747938976e-05,
+                0.00012116277503082529,
+                6.317561201285571e-05,
+                7.504021050408483e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "結果を操作できないtotoにしよう"
+                },
+                {
+                    "author": "did:plc:m4gnzqdd52liktfb5sx7c7qg",
+                    "type": 2,
+                    "utter": "それならありかも！シンプルに運だけでお金増えるギャンブルがしたい"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "お金は減るよ……（マジレス）"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lcpy5zufa22y",
+            "label": [
+                0.0005605844198726118,
+                0.9938322305679321,
+                0.00016460620099678636,
+                0.0005173475365154445,
+                0.00016481640341226012,
+                0.003972529899328947,
+                0.0007400279864668846,
+                4.776573769049719e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "お金は減るよ……（マジレス）"
+                },
+                {
+                    "author": "did:plc:m4gnzqdd52liktfb5sx7c7qg",
+                    "type": 2,
+                    "utter": "ギャンブルはお金が減る。世界の真理だ..."
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "胴元をやれば確実に儲かる…！"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3lcqvc2mac22g",
+            "label": [
+                0.0011347549734637141,
+                0.00023131629859562963,
+                0.9981845021247864,
+                0.00013851850235369056,
+                4.8122514272108674e-05,
+                0.000153276021592319,
+                5.106099706608802e-05,
+                5.838755896547809e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "おつかれ！\n（そのイベントまだやってたんだ…）"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "センス育成5回がずっと残ってた…おかげで莉波の親愛度がやっと終わったという…😇"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "アイドルへの道できるね！やったね！！"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3l5baieiv662r",
+            "label": [
+                0.9993033409118652,
+                6.587905227206647e-05,
+                0.00038225750904530287,
+                8.444496779702604e-05,
+                3.232341987313703e-05,
+                3.856796320178546e-05,
+                4.4901280489284545e-05,
+                4.827597877010703e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "アイドルへの道できるね！やったね！！"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "道やってなさすぎて一生課題も進まない…"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "Plvいっぱい上がるし石ももらえるよ！"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3l5bap2hjkx2p",
+            "label": [
+                0.9988455772399902,
+                7.569017179775983e-05,
+                0.0007777433493174613,
+                8.105770393740386e-05,
+                5.1000373787246644e-05,
+                4.664212610805407e-05,
+                6.165691593196243e-05,
+                6.05822897341568e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "Plvいっぱい上がるし石ももらえるよ！"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "それでもやりたくないのが勝つ…でももうそろそろ美鈴ちゃん実装わんちゃんの時期だから石集めしなきゃ……ぐぇ…"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "シーズン手毬もいいぞ…！"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3l5bc2vopsc2m",
+            "label": [
+                0.8165775537490845,
+                0.0006507241050712764,
+                0.18052461743354797,
+                0.000773745879996568,
+                0.00031080658663995564,
+                0.0003734227502718568,
+                0.0003044577606488019,
+                0.0004846315714530647
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "シーズン手毬もいいぞ…！"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "無料10連でひくから……………🫠🫠🫠"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "残念だけど無料では手毬ガチャは引けないのよね……"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3l5dpa47o522o",
+            "label": [
+                0.000324674736475572,
+                0.9989967942237854,
+                0.00017209765792358667,
+                0.00015188968973234296,
+                5.4721451306249946e-05,
+                0.00011779490887420252,
+                0.00015051133232191205,
+                3.146679591736756e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "事前アプデ入れてない…"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "いれてみ…30超すから😇"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "入れなきゃいいんや！当日アプデすればおっけーおっけー"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3kklrw27n3k2b",
+            "label": [
+                0.9132514595985413,
+                0.0018195753218606114,
+                0.08130822330713272,
+                0.00034073955612257123,
+                0.0005554319941438735,
+                0.00030833418713882565,
+                0.0017683918122202158,
+                0.0006478840368799865
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 1,
+                    "utter": "入れなきゃいいんや！当日アプデすればおっけーおっけー"
+                },
+                {
+                    "author": "did:plc:ayjghauptowm23e25htawiod",
+                    "type": 2,
+                    "utter": "火曜までの命やん🥲"
+                },
+                {
+                    "author": "did:plc:m4onnjzmxwdpse5xunahsuxu",
+                    "type": 3,
+                    "utter": "事前アプデは余計な物が含まれてるから終われば圧縮されるはず"
+                }
+            ],
+            "uri": "at://did:plc:m4onnjzmxwdpse5xunahsuxu/app.bsky.feed.post/3kkls2dfrhl2z",
+            "label": [
+                0.0016150114824995399,
+                0.0002764951786957681,
+                0.9976359605789185,
+                8.272316335933283e-05,
+                6.94555783411488e-05,
+                0.00012704091204795986,
+                9.809267066884786e-05,
+                9.522739856038243e-05
+            ]
+        }
+    ]
+}

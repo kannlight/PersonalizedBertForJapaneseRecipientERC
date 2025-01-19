@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "あかんやん()\nカメックスドロップイベントの編集してたの？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 2,
+                    "utter": "discord鯖でしりとりしてました(?????)"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "？？？"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lfixtyur3k27",
+            "label": [
+                0.06885886937379837,
+                0.024803169071674347,
+                0.009108191356062889,
+                0.875092625617981,
+                0.001774919917806983,
+                0.0073543936014175415,
+                0.01129600964486599,
+                0.0017119107069447637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "？？？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 2,
+                    "utter": "なんか最近のブームで()"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "やるのはいいけどちゃんと寝なよ？"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lfj2ejspcs27",
+            "label": [
+                0.0022239480167627335,
+                0.021207425743341446,
+                0.004365559201687574,
+                0.008340366184711456,
+                0.8777203559875488,
+                0.00465069804340601,
+                0.07966949790716171,
+                0.0018221744103357196
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "やるのはいいけどちゃんと寝なよ？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 2,
+                    "utter": "うん()\n不規則な生活だと編集出来なくなるかも()"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "それはダメ動画楽しみにしてるもん！"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lfj2hxuqfc27",
+            "label": [
+                0.005295820999890566,
+                0.00046663882676512003,
+                0.9935992956161499,
+                0.00018195193842984736,
+                0.00012556652654893696,
+                0.00012418496771715581,
+                9.857551049208269e-05,
+                0.00010798672883538529
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "それはダメ動画楽しみにしてるもん！"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 2,
+                    "utter": "やりますやります()\nあと数日待って((("
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "(*^^*)"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lfj37b3kzk27",
+            "label": [
+                0.9995760321617126,
+                5.343939847080037e-05,
+                0.0001457050966564566,
+                4.7082314267754555e-05,
+                2.8349042622721754e-05,
+                4.957012060913257e-05,
+                5.6478569604223594e-05,
+                4.326110865804367e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "ご本人きてるのによく言えたなって思った･･･"
+                },
+                {
+                    "author": "did:plc:kwiduunpp4lopfy3kegz2qk2",
+                    "type": 2,
+                    "utter": "まぁ別にね、視聴者からしたら本当にどーでも良いだろうし...\n\nてか何で本人の動画にこの類のコメ来ないんだよ()"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "それに関してはホントによく分からない"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lf7h6rccu22v",
+            "label": [
+                0.06691364198923111,
+                0.5801230072975159,
+                0.0007381124305538833,
+                0.004489360377192497,
+                0.0035681910812854767,
+                0.05351913347840309,
+                0.2888006865978241,
+                0.0018478778656572104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "それに関してはホントによく分からない"
+                },
+                {
+                    "author": "did:plc:kwiduunpp4lopfy3kegz2qk2",
+                    "type": 2,
+                    "utter": "文句があるなら本人に直接言いやがれってんだ()"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "それもそれで私からしたらだいぶ心苦しいんだよなぁ()"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lf7hiia6ec2v",
+            "label": [
+                0.0005637878202833235,
+                0.9969310164451599,
+                0.00018297252245247364,
+                0.00011088048631791025,
+                0.0001079403082258068,
+                0.0013388785300776362,
+                0.0007091507432051003,
+                5.5422508012270555e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "それもそれで私からしたらだいぶ心苦しいんだよなぁ()"
+                },
+                {
+                    "author": "did:plc:kwiduunpp4lopfy3kegz2qk2",
+                    "type": 2,
+                    "utter": "寧ろそちらを矢面に立たせてしまったオレに非があるんだからまぁ..."
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "てかまずつまらないと思ったならコメントしないで？切実に"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lf7hwvxivs2v",
+            "label": [
+                0.0025273538194596767,
+                0.02227630279958248,
+                0.006921110674738884,
+                0.0041315737180411816,
+                0.18743403255939484,
+                0.0058968146331608295,
+                0.769315242767334,
+                0.0014975203666836023
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "てかまずつまらないと思ったならコメントしないで？切実に"
+                },
+                {
+                    "author": "did:plc:kwiduunpp4lopfy3kegz2qk2",
+                    "type": 2,
+                    "utter": "どう足掻いてもそういうのは来る時は来るんだから、そんなの忘れて良いコメントだけ見ときゃいいんだよ。"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "とりあえずこのコメントは高評価とお気に入りだけしてスルーでいいな"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lf7i6zquas2v",
+            "label": [
+                0.1876821219921112,
+                0.0022854129783809185,
+                0.7958134412765503,
+                0.0006237124907784164,
+                0.00045853492338210344,
+                0.003953707870095968,
+                0.00722492765635252,
+                0.001958227250725031
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 1,
+                    "utter": "やってますよ〜"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 2,
+                    "utter": "フレンドなります？"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 3,
+                    "utter": "なりましょか"
+                }
+            ],
+            "uri": "at://did:plc:ptb65wg6hwxpavqfll5h224z/app.bsky.feed.post/3lf32jio3gk2r",
+            "label": [
+                0.0006019119173288345,
+                0.000331380550051108,
+                0.9986315369606018,
+                0.0001243082369910553,
+                6.89544394845143e-05,
+                0.00010217264934908599,
+                8.833439642330632e-05,
+                5.146292824065313e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "おはようございます。手術なので絶飲食です。"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "メデュちゃんおはよう✨今日も大変だと思うけど、祈ってるね🙏"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "おはよう☺️うん。ありがとう🥹"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3lbxprzulok2w",
+            "label": [
+                0.9996287822723389,
+                4.7316709242295474e-05,
+                0.00010026868403656408,
+                6.029897485859692e-05,
+                2.682521881069988e-05,
+                3.604691301006824e-05,
+                5.5705673730699345e-05,
+                4.4680582504952326e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "おはよう☺️うん。ありがとう🥹"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "うんうん😊💪"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "ありがとう🙏終わったよ。前回よりの痛み半端ない😇"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3lbyf6qlto22s",
+            "label": [
+                0.9817649126052856,
+                0.013465175405144691,
+                0.0005708658136427402,
+                0.0002522841969039291,
+                8.235222776420414e-05,
+                0.002602610271424055,
+                0.0009355052607133985,
+                0.00032626924803480506
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "ありがとう🙏終わったよ。前回よりの痛み半端ない😇"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "わ～😭お疲れ様😢痛み止めみたいなのある？今日はゆっくり休んでね🙏"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "遅くなった🙏おつあり🥹痛み止めはないのよ🫢坐薬でやったの。休むね🥹"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3lbynt5nhp22s",
+            "label": [
+                0.0003359460679348558,
+                0.9982225298881531,
+                0.00019221797992940992,
+                0.00014116839156486094,
+                7.289735367521644e-05,
+                0.0004607316222973168,
+                0.0005481962580233812,
+                2.630646849866025e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "遅くなった🙏おつあり🥹痛み止めはないのよ🫢坐薬でやったの。休むね🥹"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "無理しないでね🙏座薬が効くと良いね🙏休んでね🥺🙏"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "うん。坐薬は手術前にやったのよ。1時間がかかったので最後の終わる間近は痛みがきれてすごく痛みがあったの。ギリギリ我慢したよ🥹🙏腹ペコダブルはヤバかったので定食を食べた🤤"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3lbyslkchyc2s",
+            "label": [
+                0.03628955036401749,
+                0.05012451857328415,
+                0.011013596318662167,
+                0.0029694868717342615,
+                0.0007628076709806919,
+                0.8945929408073425,
+                0.0029170631896704435,
+                0.0013300272403284907
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "うん。坐薬は手術前にやったのよ。1時間がかかったので最後の終わる間近は痛みがきれてすごく痛みがあったの。ギリギリ我慢したよ🥹🙏腹ペコダブルはヤバかったので定食を食べた🤤"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "坐薬手術前にやったんだね💦大変だったね🥺ご飯も食べなきゃだから、定食食べれて良かったね✨"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "うん🫢大変だった;暫く何回も治療しなくちゃいけない。根気よくとね🥹来月いっぱいある😇来年もまた引き続き治療中になるって🥹絶飲食だったので腹ペコだったよ;うん。よかった😭🙏✨"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3lbyyvya4hs2s",
+            "label": [
+                0.8924673795700073,
+                0.08312445878982544,
+                0.005068320780992508,
+                0.0010996123310178518,
+                0.00025226801517419517,
+                0.014632617123425007,
+                0.0019608307629823685,
+                0.0013945694081485271
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "出来るまでドキドキしたよ〜😳💦そちらの垢みたいに一緒で驚き🥹✨うん！よろしくね。"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "無事に出来て良かった😊"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "ちゃんと日本語表記になって無事に出来てよかった🥹✨"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3l7sorjkog623",
+            "label": [
+                0.9996277093887329,
+                4.515904583968222e-05,
+                9.942027099896222e-05,
+                5.6393007980659604e-05,
+                2.867843068088405e-05,
+                4.792873005499132e-05,
+                5.209023947827518e-05,
+                4.260426794644445e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "ちゃんと日本語表記になって無事に出来てよかった🥹✨"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "うんうん😊良かった😊こちらでもまたお話しようね✨"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "うん👍本当に安心した🥹✨また話そう。来月に入ったら病院の方と相談してどうなるか分からないの🫢\n大丈夫なときにお話しょうね☺️\nそういやあっちの垢のDMは出来なくなったのでこちらは大丈夫かな？🫢"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3l7spxzzsw72c",
+            "label": [
+                0.9372068047523499,
+                0.0006443855236284435,
+                0.060306668281555176,
+                0.00015706261910963804,
+                0.00015507401258219033,
+                0.0007911782013252378,
+                0.0003192575240973383,
+                0.0004196567751932889
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "うん👍本当に安心した🥹✨また話そう。来月に入ったら病院の方と相談してどうなるか分からないの🫢\n大丈夫なときにお話しょうね☺️\nそういやあっちの垢のDMは出来なくなったのでこちらは大丈夫かな？🫢"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "うんうん🥺病院と相談して良くなるための治療ができると良いね🙏やはりDM調子悪いから、こちらは大丈夫だと思うけど😅火曜日に手紙出したから、明日には着くと思うよ😊"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "うん🫢いろいろと覚悟してる。そっか;うん。ありがとう🥹🙏うん、分かった😄"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3l7sqehmdxw2l",
+            "label": [
+                0.9364957213401794,
+                0.011184008792042732,
+                0.03575565293431282,
+                0.0025629433803260326,
+                0.0004021509375888854,
+                0.008380734361708164,
+                0.0022382508032023907,
+                0.002980598248541355
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 1,
+                    "utter": "うん🫢いろいろと覚悟してる。そっか;うん。ありがとう🥹🙏うん、分かった😄"
+                },
+                {
+                    "author": "did:plc:iymutevpd6pku5bomzwjnxo5",
+                    "type": 2,
+                    "utter": "うんうん🥺きっと大丈夫🙏またお話しようね✨🍀🍀"
+                },
+                {
+                    "author": "did:plc:ohvkglj3ug3vkyvzd5s72nsh",
+                    "type": 3,
+                    "utter": "うん🥹🫢👍私の腎臓の関係で気になって調べて飲み物までうっかり飲んでしまったのもダメなのあった🫣💦うん。またお話しょうね😄"
+                }
+            ],
+            "uri": "at://did:plc:ohvkglj3ug3vkyvzd5s72nsh/app.bsky.feed.post/3l7sqp3gqgw2l",
+            "label": [
+                0.0008468568557873368,
+                0.9953582882881165,
+                0.0002810500736813992,
+                0.00034862340544350445,
+                8.527303725713864e-05,
+                0.0025988658890128136,
+                0.00042546834447421134,
+                5.551330832531676e-05
+            ]
+        }
+    ]
+}

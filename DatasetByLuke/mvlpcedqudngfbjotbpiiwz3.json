@@ -1,0 +1,524 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "こういう和服、なんかジェットさん似合いそうだなぁ"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "袴似合いそうではあるよね、今度着せよう←←"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "袴着て本読んでるとこまでは想像余裕w\nこれはリシアちゃんにも着せて和服併せやる？←"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3lecboofxic2y",
+            "label": [
+                0.9822717905044556,
+                0.0002640211896505207,
+                0.016697240993380547,
+                0.0002067379537038505,
+                0.00011342639481881633,
+                0.00015181950584519655,
+                0.00013808434596285224,
+                0.00015675622853450477
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "袴着て本読んでるとこまでは想像余裕w\nこれはリシアちゃんにも着せて和服併せやる？←"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "やりたいねーー和服着れるシナリオ探すか……\n灯路帰譚なら好きに和服着せられるんだけど多分行くの難しいからな……(  '-' )"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "どうしてもなかったら着せたかったから着せたでもいいんだよ←\n動かせたらそりゃ最高だけど…w\nちょっと仕事の合間とかにでも探してみるかねぇ(​ *´꒳`*​)"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3lecbyab3xk2y",
+            "label": [
+                0.006746664177626371,
+                0.0004203447315376252,
+                0.9922186136245728,
+                0.00014141957217361778,
+                0.00010098458005813882,
+                0.00014485804422292858,
+                0.00011953941429965198,
+                0.00010750674846349284
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "どうしてもなかったら着せたかったから着せたでもいいんだよ←\n動かせたらそりゃ最高だけど…w\nちょっと仕事の合間とかにでも探してみるかねぇ(​ *´꒳`*​)"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "それもそうねw\n私もなんかないか探してみるー"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "灯路帰譚大筋変えなければ改変可だからいじればまあ行けなくもない気はするんだけど今度いく？\nめるさんも回ろうかーって話してるから部屋だけならあるけど"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "行けそうなら行く…？\nそれなら和服差分描く( ˶'ᵕ'˶)و"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ledqk72hx226",
+            "label": [
+                0.004169520456343889,
+                0.000294933415716514,
+                0.9949795603752136,
+                0.00015627493849024177,
+                8.83760440046899e-05,
+                0.00012516860442701727,
+                9.716694330563769e-05,
+                8.900449029169977e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "行けそうなら行く…？\nそれなら和服差分描く( ˶'ᵕ'˶)و"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "背景はそのままで前後を改変すればまあ行けなくはないと思うんだよね\n和服差分作るなら立ち絵あわせやってみたい！！"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "そんなら行ってみよか！\nやろうやろう！"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3leeh2blgq22w",
+            "label": [
+                0.0008956801611930132,
+                0.0001911368453875184,
+                0.9985029697418213,
+                0.00012966101348865777,
+                6.869078060844913e-05,
+                8.082776184892282e-05,
+                6.537814624607563e-05,
+                6.571482663275674e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "ロトあだまだ開始すらしてませんが、それはそれとして\n2人で協力してお料理完成させないと出られない部屋で、片方がめっちゃ調味料雑に入れたりして「バッカお前それ入れすぎだろ！」「こんなんテキトーでいいんだよテキトーで」とか言い合いながら作って欲しい\n\n完全にニセコイ読んでそれに影響されてるけど←←"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "適当に材料とか調味料入れてんの見て片方が「ふっざけんなお前ンなもん食えるか貸してみろ！！」ってなるやつじゃん(("
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "ねwww\n貸してみろ！って言った方は普段から料理してて、明らかにやばい料理できそうで見てられなくなるやつ←"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld6hqnt3gc2c",
+            "label": [
+                0.43613961338996887,
+                0.007588271051645279,
+                0.005384406540542841,
+                0.11349606513977051,
+                0.0014122240245342255,
+                0.40386566519737244,
+                0.028423769399523735,
+                0.0036899542901664972
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "ねwww\n貸してみろ！って言った方は普段から料理してて、明らかにやばい料理できそうで見てられなくなるやつ←"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "この2人だとどっちがどっちなんだろうか……w"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "どっちだろね……w\n怜桜くんは料理できるかはまだ特に決めてないけど、朔夜くんはどだろ？できそう？←"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld6icrrbq22c",
+            "label": [
+                0.0016970038414001465,
+                0.00020346678502392024,
+                0.9976451992988586,
+                0.000143662269692868,
+                4.971653106622398e-05,
+                0.00014555794768966734,
+                5.3497147746384144e-05,
+                6.18622507317923e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "どっちだろね……w\n怜桜くんは料理できるかはまだ特に決めてないけど、朔夜くんはどだろ？できそう？←"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "んー朔夜は一人暮らししてそうだから自炊程度はできるんじゃないかなーとは思ってる"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "なるほど( ˙꒳​˙  )\nそうなると経験的に朔夜くんがツッコミ入れる側になりそうねw\n怜桜くんもできなくはないけど、自分が食べたいもの作るくらいな気がしてるし"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld6ikjqmfc2c",
+            "label": [
+                0.014698260463774204,
+                0.0003400157729629427,
+                0.9839434623718262,
+                0.00033076448016799986,
+                0.00010729874338721856,
+                0.000279496714938432,
+                0.00012088959920220077,
+                0.00017976081289816648
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "なるほど( ˙꒳​˙  )\nそうなると経験的に朔夜くんがツッコミ入れる側になりそうねw\n怜桜くんもできなくはないけど、自分が食べたいもの作るくらいな気がしてるし"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "食べたいの作るくらいならそれなりに料理できそうな気もするけどそういうとこ可愛い←\n「お前適当って言葉の意味知ってるか？(真顔)馬鹿なの？雑すぎんだよ」とか言うやつじゃん……w"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "多分ね、自分に作るだけだから毎回味変わるし濃かったら後で何か足して薄めればいいやくらいに思ってるから、作る段階ではそこそこ雑にやってる可能性あるw\n「最後味が整ってたらいいだろ、多少多くて死ぬわけじゃねーし」とか言って変える気は更々なさそう"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld6j66qvuc2c",
+            "label": [
+                0.008428061380982399,
+                0.004770800471305847,
+                0.0038877211045473814,
+                0.001762395491823554,
+                0.00837125163525343,
+                0.06293590366840363,
+                0.907757043838501,
+                0.002086771884933114
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "多分ね、自分に作るだけだから毎回味変わるし濃かったら後で何か足して薄めればいいやくらいに思ってるから、作る段階ではそこそこ雑にやってる可能性あるw\n「最後味が整ってたらいいだろ、多少多くて死ぬわけじゃねーし」とか言って変える気は更々なさそう"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "なるほどw\n「死にはしねぇけどどうせ食うなら美味い方がいいに決まってんだろ」"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "もし2人ともそこそこ作れるなら、2人が作ったことないものをレシピなしで作れって言われて、お互いの適量の違いにぎゃんぎゃん言いながら作るでもよし←\n「最終的に美味くなればいいだろ、食えねぇもんは作んねーよ」"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld6jx6hzus2c",
+            "label": [
+                0.012016527354717255,
+                0.0004085688851773739,
+                0.9864810705184937,
+                0.00027375869103707373,
+                0.0001865402009570971,
+                0.0002622625033836812,
+                0.00021085748448967934,
+                0.00016031097038649023
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "じじまごなら嘘つきに咲く花の方でも行けそじゃない？"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "わかるいけそう"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "サンプル読んでみたけどじじまご普通に行けそうだぞこれ(舞台設定（？）的な意味でも)\nただ、サンプルで冒頭読んだ感じだとKPCの想定がツンデレとか天邪鬼みたいな属性にガン振りしてる前提っぽい気がした"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "舞台設定的には行けそうなのね〜\nけどKPCの設定がちょっと違う感じか……wジェットさんそういう属性ではないもんね"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld3645vkvc2a",
+            "label": [
+                0.42256444692611694,
+                0.06405879557132721,
+                0.04347135126590729,
+                0.43268653750419617,
+                0.0007336117560043931,
+                0.027719849720597267,
+                0.004847879055887461,
+                0.003917451947927475
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "舞台設定的には行けそうなのね〜\nけどKPCの設定がちょっと違う感じか……wジェットさんそういう属性ではないもんね"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "例のごとく目覚めたら知らない部屋で目覚めるやつなので行ける多分←\nあれ行くならロトあだの方が近いんじゃないかなって思った\nというか目覚めて「大丈夫？」って自分の口から出たことに驚いてたからその感じだとワンチャンしばらくジェットが異変に気づかんまでありそう……w"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "それは行けるw\nあーそういう感じだと、たしかにジェットさんだと普通だし気づかないのありそうだね(^p^)\nロトあだで行った方が色々面白そう？"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld36id35k22a",
+            "label": [
+                0.0038344443310052156,
+                0.00023462735407520086,
+                0.9953317046165466,
+                0.00019296295067761093,
+                8.538614929420874e-05,
+                0.00015192633145488799,
+                7.985237607499585e-05,
+                8.90803275979124e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "それは行けるw\nあーそういう感じだと、たしかにジェットさんだと普通だし気づかないのありそうだね(^p^)\nロトあだで行った方が色々面白そう？"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "完全クローズドなら多分行けるもんねw\n\nそうなんだよな〜リシアちゃんの事心配するのについては取り繕いとか一切関係なくほんとに心配してるやつなのでな……\nもう1個私が探したやつはじじまご行けそうだし面白そうよ？(今読んでた←)"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "ねー、その心配は素での心配だしねぇ\nおよ、なら今のシナリオ終わったらそれ行ってみる？"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld3aqg6wsc2a",
+            "label": [
+                0.0004898812621831894,
+                0.0003146715753246099,
+                0.9987409710884094,
+                8.924013673095033e-05,
+                6.237378693185747e-05,
+                0.00014389083662535995,
+                0.00010373125405749306,
+                5.53282443434e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "ねー、その心配は素での心配だしねぇ\nおよ、なら今のシナリオ終わったらそれ行ってみる？"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "行ってみたい気持ちもあるけど部屋今からなのと宝石を食むも行きたい(("
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "じゃあその辺諸々終わってから行く？\nそしていつもお部屋作りありがと(⁎ᴗ͈ˬᴗ͈⁎)"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3ld3coid6m22a",
+            "label": [
+                0.9986035227775574,
+                0.00010180621757172048,
+                0.0008938375394791365,
+                5.352729567675851e-05,
+                5.94462726439815e-05,
+                5.256351869320497e-05,
+                0.0001269421336473897,
+                0.00010844369535334408
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "ありがとーー！！！\nなお口はくっそ悪い←"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "それに関してはうちの子も口悪いと思うのでおあいこ……w"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "犬猿だもんね……w\nあと足癖も悪いしわりとすぐキレる←"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3lcw2shpoc22i",
+            "label": [
+                0.030405128374695778,
+                0.06447771191596985,
+                0.002125487197190523,
+                0.12372014671564102,
+                0.4191330373287201,
+                0.06142020225524902,
+                0.2897374927997589,
+                0.008980815298855305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "犬猿だもんね……w\nあと足癖も悪いしわりとすぐキレる←"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "朔夜も足癖は悪そうなんだよなー着物のまま蹴り入れそう((\nすぐキレるとか怒らせて遊ぶ未来しか見えないんだけどw"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "犬猿の割に仲良いフラグが順調ww(なお本人らは否定するまでセット)\n遊ばれそうなのは既に僕も見えてるw"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3lcw5rrjagk2i",
+            "label": [
+                0.9972147345542908,
+                0.00013776030391454697,
+                0.0018800131510943174,
+                0.00022297522809822112,
+                4.5803044486092404e-05,
+                0.00026543435524217784,
+                0.00010794250556500629,
+                0.00012542202603071928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "犬猿の割に仲良いフラグが順調ww(なお本人らは否定するまでセット)\n遊ばれそうなのは既に僕も見えてるw"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "髪型おそろだしなんだかんだ似た者同士そうだもんなwww\n「わーwれおちゃん短気〜w」くらいは言いそうw"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "ねーww腐れ縁なだけはあるww\n「は？そっちが怒らせてきたんだろ？つかその呼び方やめろ気持ち悪ぃ」ってガンつけるくらいしてくるよきっとw"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3lcw6rv26uc2i",
+            "label": [
+                0.06775743514299393,
+                0.010375112295150757,
+                0.005838037934154272,
+                0.2247249186038971,
+                0.13058333098888397,
+                0.14315645396709442,
+                0.4065512716770172,
+                0.011013468727469444
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 1,
+                    "utter": "ねーww腐れ縁なだけはあるww\n「は？そっちが怒らせてきたんだろ？つかその呼び方やめろ気持ち悪ぃ」ってガンつけるくらいしてくるよきっとw"
+                },
+                {
+                    "author": "did:plc:j3w5f2jgfh2qirztr5cjwtdv",
+                    "type": 2,
+                    "utter": "「この程度で怒るとかお猿さんかよ、若頭がそんなんでいいのかなァ？」とか返しそうなんよなそれだとw"
+                },
+                {
+                    "author": "did:plc:mvlpcedqudngfbjotbpiiwz3",
+                    "type": 3,
+                    "utter": "煽ってくるぅww\n「そもそもそっちがやめろって呼び方してくるのが悪い」って言いつつ、言い返せなくなってくると足蹴り飛んできそうw\nすぐ手(という名の足)が出る←"
+                }
+            ],
+            "uri": "at://did:plc:mvlpcedqudngfbjotbpiiwz3/app.bsky.feed.post/3lcw7eydzes2i",
+            "label": [
+                0.27740558981895447,
+                0.01072558294981718,
+                0.005076053086668253,
+                0.06822480261325836,
+                0.006217807065695524,
+                0.5913178324699402,
+                0.036924928426742554,
+                0.004107421264052391
+            ]
+        }
+    ]
+}

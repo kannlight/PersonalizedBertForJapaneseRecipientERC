@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "少しでも延命させたろうと思って（ある意味で残酷）、サンサンモノクロ買ってみたり17買ってみたりはしました！笑"
+                },
+                {
+                    "author": "did:plc:ldpzkuu4bmopqrvjsnw6vlpc",
+                    "type": 2,
+                    "utter": "このイチナナどうしよう。。。"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "つかうしか！（お持ちでしたか）"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrspikpkk2y",
+            "label": [
+                0.0013476080494001508,
+                0.0005795712932012975,
+                0.9975348711013794,
+                0.0001638160611037165,
+                6.963808846194297e-05,
+                0.00015822635032236576,
+                7.002755592111498e-05,
+                7.626404840266332e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "つかうしか！（お持ちでしたか）"
+                },
+                {
+                    "author": "did:plc:ldpzkuu4bmopqrvjsnw6vlpc",
+                    "type": 2,
+                    "utter": "街中に暮らしていたらもっと使ったんだろうなぁと思うこのカメラ。3本目フイルムをこれから入れるところです"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "3本目はつよい(私は自分では1枚しか撮ってなくて無期限で貸し出し中です(笑))"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrsxygi522c",
+            "label": [
+                0.9071816205978394,
+                0.008198590949177742,
+                0.050763875246047974,
+                0.010728438384830952,
+                0.0007833135314285755,
+                0.01595046930015087,
+                0.003351617371663451,
+                0.00304207019507885
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "3本目はつよい(私は自分では1枚しか撮ってなくて無期限で貸し出し中です(笑))"
+                },
+                {
+                    "author": "did:plc:ldpzkuu4bmopqrvjsnw6vlpc",
+                    "type": 2,
+                    "utter": "すっごい冷やかし感www\n\nせっかくの初フイルムカメラなので大事にしますよ"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "まあお金が渡ればいいやって(笑)\nマジで大事にされてください、ペの遺作になりかねん(こら"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrt5gclvc2c",
+            "label": [
+                0.00031900755129754543,
+                0.0007079888018779457,
+                0.9980954527854919,
+                0.0001658313412917778,
+                0.0001058988127624616,
+                0.0003841186116915196,
+                0.00011346980318194255,
+                0.00010823390039149672
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "まあお金が渡ればいいやって(笑)\nマジで大事にされてください、ペの遺作になりかねん(こら"
+                },
+                {
+                    "author": "did:plc:ldpzkuu4bmopqrvjsnw6vlpc",
+                    "type": 2,
+                    "utter": "デジタルの遺作はさんさんですからこれも大事にしたいです"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "モノクロームが真の()"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrtbk72lc2c",
+            "label": [
+                0.9770762324333191,
+                0.002442161785438657,
+                0.00935343187302351,
+                0.004542246926575899,
+                0.00036911567440256476,
+                0.0019081499194726348,
+                0.0017418640200048685,
+                0.0025667257141321898
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "（そこはほら読み取ってもろてw）"
+                },
+                {
+                    "author": "did:plc:6uyvlyxkjt7jcpiyizoyj6po",
+                    "type": 2,
+                    "utter": "いーや、オリンパスファンとしては見逃せん！許すまじ！"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "さいしょOMDSって書いてわざわざ書き直した(のは秘密)"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrt3asvos2c",
+            "label": [
+                0.3587932586669922,
+                0.04339154064655304,
+                0.019922828301787376,
+                0.3144051432609558,
+                0.0034829035867005587,
+                0.24141912162303925,
+                0.009703832678496838,
+                0.008881422691047192
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "さいしょOMDSって書いてわざわざ書き直した(のは秘密)"
+                },
+                {
+                    "author": "did:plc:6uyvlyxkjt7jcpiyizoyj6po",
+                    "type": 2,
+                    "utter": "OMDSなんて文字は、我が辞書にはない"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "どっちなんだwww"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrtislmck2c",
+            "label": [
+                0.9597780704498291,
+                0.0004535322077572346,
+                0.00544435391202569,
+                0.03233085200190544,
+                0.0003364311996847391,
+                0.0005791313014924526,
+                0.00047367613296955824,
+                0.0006040476146154106
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "どっちなんだwww"
+                },
+                {
+                    "author": "did:plc:6uyvlyxkjt7jcpiyizoyj6po",
+                    "type": 2,
+                    "utter": "オリンパスは無くなったのだよ。それ以上でもそれ以下でも無いのだ。\nどこがなにを名乗ろうと、オリンパスではない。\nオリンパスは、皆の心の中で永遠に生き続けるのみ（ここで感涙）"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "原理者だった…"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrtmu7hqs2c",
+            "label": [
+                0.021467776969075203,
+                0.31333744525909424,
+                0.001356056542135775,
+                0.611602246761322,
+                0.0007571873720735312,
+                0.047382187098264694,
+                0.0034797301050275564,
+                0.0006172999856062233
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 1,
+                    "utter": "原理者だった…"
+                },
+                {
+                    "author": "did:plc:6uyvlyxkjt7jcpiyizoyj6po",
+                    "type": 2,
+                    "utter": "オリンパスこそ我が命\nオリンパス利用こそ我が栄誉。\nオリンパス万歳‼️"
+                },
+                {
+                    "author": "did:plc:fwji47dzq7rnhjcetmgwlghi",
+                    "type": 3,
+                    "utter": "瑞光！"
+                }
+            ],
+            "uri": "at://did:plc:fwji47dzq7rnhjcetmgwlghi/app.bsky.feed.post/3lfrtzquxwc2j",
+            "label": [
+                0.9974828362464905,
+                0.0002076558448607102,
+                0.0009333768393844366,
+                0.0008911688346415758,
+                9.304434934165329e-05,
+                6.224871322046965e-05,
+                0.0001475717144785449,
+                0.0001821164187276736
+            ]
+        }
+    ]
+}

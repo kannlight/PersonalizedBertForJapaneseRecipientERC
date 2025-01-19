@@ -1,0 +1,489 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "ライラさんとお話する時、ちょいちょいたまこ登場します（懺悔🙏"
+                },
+                {
+                    "author": "did:plc:43dry6ceirrrl47lghpzmhjy",
+                    "type": 2,
+                    "utter": "おれのたまこ！！！"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "わたしの！わたしの！"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lblltbpxvk23",
+            "label": [
+                0.9933145642280579,
+                0.0008405830012634397,
+                0.0048448736779391766,
+                0.0002493389474693686,
+                0.00013947048864793032,
+                0.00014661096793133765,
+                0.00026867748238146305,
+                0.00019595508638303727
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "わたしの！わたしの！"
+                },
+                {
+                    "author": "did:plc:43dry6ceirrrl47lghpzmhjy",
+                    "type": 2,
+                    "utter": "(´_ゝ｀)ということなんだが、たまこどうする？？"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "お気づきだろうか…わたしのわたしのと叫びつつ、名前呼びするのはドキドキするから名前呼べないのはいわたしへたれちぐ！"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lbloopvs2k23",
+            "label": [
+                0.00034735503140836954,
+                0.9983277916908264,
+                0.00011797417391790077,
+                0.000243118338403292,
+                9.204097295878455e-05,
+                0.0005081344861537218,
+                0.00033405126305297017,
+                2.9592520149890333e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "これ、ほんと美味しいですよね…！一時スーパーで見つけられなくなって、最近発見したのです！\n\n食べない選択肢は…なかった…なかったのよう、ライラさん｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "これ、美味しいのね…買ってみよ…"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "美味しいよお🤤"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfpau25k5c2x",
+            "label": [
+                0.9996157884597778,
+                3.9155293052317575e-05,
+                0.00011112620268249884,
+                5.866229912498966e-05,
+                3.294135967735201e-05,
+                4.4265809265198186e-05,
+                5.0465474487282336e-05,
+                4.756892303703353e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "美味しいよお🤤"
+                },
+                {
+                    "author": "did:plc:omq25oxpmbeo5vmgsvzr3grk",
+                    "type": 2,
+                    "utter": "うちの近所だとセブンイレブンに売ってる🍨\n買ったこと無かったけど今度買ってみます"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "アイスはしっかり甘めです🍨お試しあれ〜！"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfpd2j7gsk2x",
+            "label": [
+                0.06547810882329941,
+                0.0006071858224458992,
+                0.9320991635322571,
+                0.0007283739978447556,
+                0.00025389468646608293,
+                0.00026834633899852633,
+                0.00022653775522485375,
+                0.00033840746618807316
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "🤭拾い損ねてるところとか隠してあるｸﾞﾌﾌ\nとっても編みやすくてザクザク進んだよ！毛糸も使い切って大満足🧶"
+                },
+                {
+                    "author": "did:plc:twbmcxaba6umgczgg3crxarl",
+                    "type": 2,
+                    "utter": "ワカル😌\nザクザク進むその達成感がいいよね〜\nあったかそう🧶"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "外のアルミ椅子は冷たくて…(´･_･`)\nこれがあればあったかいよ！背もたれは冷たいけど😂"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfrq6xhmc22x",
+            "label": [
+                0.18577110767364502,
+                0.4204180836677551,
+                0.38289785385131836,
+                0.001081767724826932,
+                0.00041359802708029747,
+                0.0032975194044411182,
+                0.004526181146502495,
+                0.0015938881551846862
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "外のアルミ椅子は冷たくて…(´･_･`)\nこれがあればあったかいよ！背もたれは冷たいけど😂"
+                },
+                {
+                    "author": "did:plc:twbmcxaba6umgczgg3crxarl",
+                    "type": 2,
+                    "utter": "え！なに？庭でご飯食べたりする用？\nあ、でもいま真冬だった❄\nアルミ椅子は…凍えるね🧊"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "ウッドデッキらしきものがあってね！\n冬でもお日様出てて風が当たらなければあったかいよ（お尻以外は）\n花粉が飛ぶまでの楽しみ…"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfrrqapc222x",
+            "label": [
+                0.9989631175994873,
+                8.645271009299904e-05,
+                0.0006895069964230061,
+                5.414088082034141e-05,
+                3.056711648241617e-05,
+                6.1011483921902254e-05,
+                6.00966413912829e-05,
+                5.50139338884037e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "ウッドデッキらしきものがあってね！\n冬でもお日様出てて風が当たらなければあったかいよ（お尻以外は）\n花粉が飛ぶまでの楽しみ…"
+                },
+                {
+                    "author": "did:plc:twbmcxaba6umgczgg3crxarl",
+                    "type": 2,
+                    "utter": "ウッドデッキ！いいな〜憧れ✨️\n昼間ぽかぽかしてる日あるもんね☀\n花粉…すでに飛び始めてるとか？\nえ？気のせいだよね🫥"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "遊びに来て〜☺️\n花粉は気のせい！！\n.*.｡ଘ( ᐛ ) ଓ\nって思えてる間は発症しないって信じてる…"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfryl7cdx22x",
+            "label": [
+                0.0005432964535430074,
+                0.0003506594803184271,
+                0.9987393021583557,
+                8.849308505887166e-05,
+                5.254981078905985e-05,
+                0.00010083748202305287,
+                6.819804548285902e-05,
+                5.659950329572894e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "遊びに来て〜☺️\n花粉は気のせい！！\n.*.｡ଘ( ᐛ ) ଓ\nって思えてる間は発症しないって信じてる…"
+                },
+                {
+                    "author": "did:plc:twbmcxaba6umgczgg3crxarl",
+                    "type": 2,
+                    "utter": "わー行く行く！\n信じよう…少なくとも今月いっぱいは大丈夫なはずだから"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "わーい！デッキでお茶しよーう\n\nそうそう…気のせいずっと気のせい…"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfssyc3dks2x",
+            "label": [
+                0.988949179649353,
+                0.0002964730083476752,
+                0.010155096650123596,
+                0.0001261079014511779,
+                7.863211067160591e-05,
+                0.0001218221805174835,
+                0.00015365437138825655,
+                0.00011914392234757543
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "えっ！！！！\n慌てて立ったら椅子倒れました！えっ！？🫣"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "書きません大丈夫座って下さい！笑っちゃった…"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "子供達が何事かと駆けつけて誤魔化しました😂\nえー、比較…"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmpaqt3cs2v",
+            "label": [
+                0.0017501383554190397,
+                0.010023259557783604,
+                0.0003842223668470979,
+                0.9837551712989807,
+                0.00020494789350777864,
+                0.003192320466041565,
+                0.0005756188766099513,
+                0.00011433359031798318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "子供達が何事かと駆けつけて誤魔化しました😂\nえー、比較…"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "おもろすぎますwww\n\n落ち着いてください、書けません、もし書けても春です…"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "春…！🍀👀"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmpfzgue22v",
+            "label": [
+                0.9994180202484131,
+                5.553449591388926e-05,
+                0.000235113431699574,
+                0.0001391288242302835,
+                2.8107464459026232e-05,
+                3.257715798099525e-05,
+                4.7143832489382476e-05,
+                4.43898570665624e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "春…！🍀👀"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "時間ができる的な意味で春ですが、㌃書けるようになるかどうかはわからず…！\n永遠に来ない春かもしれず…！"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "永遠に春を待ちます\n具体的㌃なくても匂わせでも私十分爆発すると思…"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmpqq4jps2v",
+            "label": [
+                0.00032747467048466206,
+                0.0007835335563868284,
+                0.9981967806816101,
+                9.175950253847986e-05,
+                7.941607327666134e-05,
+                0.00035059350193478167,
+                0.00010546054545557126,
+                6.512390973512083e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "永遠に春を待ちます\n具体的㌃なくても匂わせでも私十分爆発すると思…"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "匂わせでもいい！？ありがとうございます…！"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "背後に月世界からの強い視線を感じますが！\n私は！朝チュンでもドッキドキできちゃう！\nむしろあだちさんが本気で書いたらコアさに振り落とされると予測…\n\nしつこくすみませんでした\n合言葉は春🍀！"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmqidgec22j",
+            "label": [
+                0.7321397066116333,
+                0.012185066007077694,
+                0.15055151283740997,
+                0.003077996429055929,
+                0.0009890948422253132,
+                0.09383276849985123,
+                0.0032278511207550764,
+                0.003995957784354687
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "えっ！！！！\n慌てて立ったら椅子倒れました！えっ！？🫣"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "比較！？！？"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "別世界線！別世界線！\n\nアウレリオが跡継ぎはディーナに産んでもらおう、父親役はルカにしよう（しんでもいいので）っていう地獄の設定から始まる誰得イフがずーっと頭にあるんです！"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "アウレリオお前かーーー！👍！！！地獄ひー"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmped3sws2v",
+            "label": [
+                0.0018736637430265546,
+                0.003891225205734372,
+                0.0005655301501974463,
+                0.9902601838111877,
+                0.0009453558013774455,
+                0.0007150675519369543,
+                0.0015355239156633615,
+                0.00021348411974031478
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "アウレリオお前かーーー！👍！！！地獄ひー"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "元凶すべてこいつーーーー！😇\n被害者側なのにルカごめんねごめんねって泣いてるディちゃんが…アウレリオに逆らえないという建前で、暗い目で本懐遂げるルカが…"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "ぎゃあああああ❣️❣️❣️"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmpmzou6s2v",
+            "label": [
+                0.016559230163693428,
+                0.0797492116689682,
+                0.002002737717702985,
+                0.8872944116592407,
+                0.0018867433536797762,
+                0.008383654989302158,
+                0.0036287154071033,
+                0.0004953260067850351
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "ぎゃあああああ❣️❣️❣️"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "ハァ…ハァ…ありがとうございますお付き合いくださって…\n\n生まれてきた青い目の子どもをディちゃんごとフェルレッティから救出し、ディちゃんにルカを死なせないでと縋りつかれるテオの愕然とした顔が頭から離れない…（ない記憶）"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "ぎぃやああああああ！！！\n\nテオ…おま…何してた！？別の世界線だから油断してたね！？！？（それは私\n地獄…甘美な地獄！！"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmqdbnf7c2j",
+            "label": [
+                0.0014515783404931426,
+                0.0031642268877476454,
+                0.0006267554708756506,
+                0.9920136332511902,
+                0.00041116366628557444,
+                0.001872220658697188,
+                0.0003292334731668234,
+                0.00013117026537656784
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 1,
+                    "utter": "ぎぃやああああああ！！！\n\nテオ…おま…何してた！？別の世界線だから油断してたね！？！？（それは私\n地獄…甘美な地獄！！"
+                },
+                {
+                    "author": "did:plc:t23oyevu4yok6ce3p7celev5",
+                    "type": 2,
+                    "utter": "へへ…テオ何してたんでしょうね…\nあのタイトル回収シーンで運河に流されたあと、同僚の助言を聞いて仕切り直して、とか色々やってたらね…ヒーロー交代は突然に、てね…"
+                },
+                {
+                    "author": "did:plc:owwd7wzwzijpzamexo6lvqte",
+                    "type": 3,
+                    "utter": "トレンディドラマ風に運命がひっくり返るテオとルカ🤤"
+                }
+            ],
+            "uri": "at://did:plc:owwd7wzwzijpzamexo6lvqte/app.bsky.feed.post/3lfmr6eur5k2j",
+            "label": [
+                0.9865673780441284,
+                0.0002622559550218284,
+                0.004364865366369486,
+                0.008155236952006817,
+                0.00010545772965997458,
+                0.0001836395385907963,
+                0.0001044158561853692,
+                0.0002566498296801001
+            ]
+        }
+    ]
+}

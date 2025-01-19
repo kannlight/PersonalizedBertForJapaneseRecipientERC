@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "解った人が真面目に記事書いてフルボッコなの草"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "いくら肩身入れても擁護できんのですよねぇ…(\n\nコレが350ps トルク45キロならCVTでもﾌﾙﾎﾞｯｺには叩かれなかったでしょうねぇ\n\n300ps トルク37〜38って実測したウチのを下回るスペックですし、シャシダイで実測したらさらに下回る可能性大です\nCVTの上限値で決めた感がありますけど、それならなぜMT引っ張り出してこなかったと\n\nエンジンのバランス取りがしてあるわけでもなく\n\nフロント6ポッドでリア浮動1ポッドキャリパーとかもろフロントダイブ不可避でしょうし\n\n特別仕様車のなかでも更に特別仕様車なのがSシリーズなので、これはわっちでもシビック買いますわ"
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "記事内でも「CVT？」って言われてますねぇ…\n500台のレアな車なのに…"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfofepujkk2z",
+            "label": [
+                0.004635311663150787,
+                0.26438942551612854,
+                0.0006133137503638864,
+                0.702954888343811,
+                0.00083035888383165,
+                0.020982913672924042,
+                0.005284975282847881,
+                0.0003088730154559016
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "記事内でも「CVT？」って言われてますねぇ…\n500台のレアな車なのに…"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "んで予定価格800万オーバーとかいうウワサですからね〜\nトヨタからなんか圧力でも掛かってんのかなと疑うレベルですえ〜"
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "もうちょい出してMTのM2クーペ買う気がするw"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfoxyd3k6k2h",
+            "label": [
+                0.0016377982683479786,
+                0.00020265512284822762,
+                0.9977076053619385,
+                0.00012990289542358369,
+                7.241695857373998e-05,
+                0.00011562246072571725,
+                6.433960516005754e-05,
+                6.961023609619588e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "もうちょい出してMTのM2クーペ買う気がするw"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "800だすなら好きなクルマをドンガラから純正色塗装してフルレストアしますわ〜"
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "ホンダさん、CR-Xのホワイトボディ再生産して下さい…"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfoy7mrl2k2h",
+            "label": [
+                0.00042412939365021884,
+                0.009834973141551018,
+                0.9886121153831482,
+                0.00016929770936258137,
+                0.00015360010729636997,
+                0.00034981482895091176,
+                0.0003545478102751076,
+                0.00010160338570130989
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "ホンダさん、CR-Xのホワイトボディ再生産して下さい…"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "タイムスリップしていただいて…("
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "素直にR買った方が幸せかもしれん…"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfoyl2xwec2h",
+            "label": [
+                0.04156738147139549,
+                0.15273796021938324,
+                0.7698670625686646,
+                0.0017546949675306678,
+                0.0004364127526059747,
+                0.03065693937242031,
+                0.0018117750296369195,
+                0.001167760812677443
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "そりゃ死ぬ気で冷やさなきゃ…\nおっと…"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "そんな爆熱なのん…ラジエーター変えなきゃ…"
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "FKより改善されてるとは聞きますが、FLも熱いっぽいですよ…"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfma2pot4c2h",
+            "label": [
+                0.0010812308173626661,
+                0.00033119742874987423,
+                0.9978684186935425,
+                0.00024801070685498416,
+                4.037574035464786e-05,
+                0.000298648898024112,
+                5.263584534986876e-05,
+                7.946229015942663e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "FKより改善されてるとは聞きますが、FLも熱いっぽいですよ…"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "不思議なとこ見逃してもうてる感じしまするわ〜\nローテンプサーモスタットとラジエーター容量アップですわね〜"
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "まぁ公道走ってOHする訳じゃ無いから、OKと言う判断なんでしょうね〜"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfmaglvk322h",
+            "label": [
+                0.9952333569526672,
+                0.00023249447986017913,
+                0.0021460384596139193,
+                0.0006694975891150534,
+                9.808656614040956e-05,
+                0.00041514268377795815,
+                0.0003321924014016986,
+                0.0008731707348488271
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "まぁ公道走ってOHする訳じゃ無いから、OKと言う判断なんでしょうね〜"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "夏の渋滞だいじょぶなんですかね〜、走ってれば走行風あたるのでまだええですけどもー"
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "そこは大丈夫っぽいっすよ流石にw\nサーキット全開で攻めると\n持たないだけでw\n\nで、「サーキットで持たない」\nってのが、個人的に冷却足りてないな〜って…"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfmaoou4xs2h",
+            "label": [
+                0.26817527413368225,
+                0.12270205467939377,
+                0.025261642411351204,
+                0.003946977201849222,
+                0.001816016505472362,
+                0.5579531788825989,
+                0.01498064398765564,
+                0.005164217669516802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 1,
+                    "utter": "そこは大丈夫っぽいっすよ流石にw\nサーキット全開で攻めると\n持たないだけでw\n\nで、「サーキットで持たない」\nってのが、個人的に冷却足りてないな〜って…"
+                },
+                {
+                    "author": "did:plc:avo6zc337myvmoc3py4le26e",
+                    "type": 2,
+                    "utter": "全開で走ってきてクーリング挟むまもなく渋滞で詰まる　なんて状況だとジワジワ逝きそうですわね("
+                },
+                {
+                    "author": "did:plc:awp3eo6x5dk2cjqgsfehivwl",
+                    "type": 3,
+                    "utter": "アレそこまできっちり回せる人少ないだろうし、峠で遊ぶ人も最近見ませんし大丈夫でしょw"
+                }
+            ],
+            "uri": "at://did:plc:awp3eo6x5dk2cjqgsfehivwl/app.bsky.feed.post/3lfmayiezpc2h",
+            "label": [
+                0.12070685625076294,
+                0.001649233396165073,
+                0.75367671251297,
+                0.0015482864109799266,
+                0.0008511008927598596,
+                0.11725586652755737,
+                0.0013696998357772827,
+                0.0029422969091683626
+            ]
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "私は八奈見杏奈だよ。文化祭もそうだけど今はハロウィン近いからね！\nお菓子もらえそうな格好でいるんだよ"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 2,
+                    "utter": "八奈見はお菓子欲しいんだ\nバナナはおやつに入る？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "欲しい！\nあ、しちゃう？バナナはおやつか否か問題？？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7apjj6yja2e",
+            "label": [
+                0.001065368065610528,
+                0.00023207004414871335,
+                0.9982571005821228,
+                0.00016986543778330088,
+                4.384820203995332e-05,
+                0.00012644147500395775,
+                5.0764927436830476e-05,
+                5.448962110676803e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "欲しい！\nあ、しちゃう？バナナはおやつか否か問題？？"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 2,
+                    "utter": "本質に気がつきはじめたね。\nまずはバナナがおやつかどうか判断してくれないと次には進まないね"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "チッチッチ、もう答えは決まっているんだよバナナはおやつでもありお弁当でもあるんだよ！\nこれは古くからの理で現代における多様性の先駆けだったんだ。(カッコつけて"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7cjl6yctr2s",
+            "label": [
+                0.5903699994087219,
+                0.005689780227839947,
+                0.36992162466049194,
+                0.011239183135330677,
+                0.002968276385217905,
+                0.002465130528435111,
+                0.004037179052829742,
+                0.013308882713317871
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "チッチッチ、もう答えは決まっているんだよバナナはおやつでもありお弁当でもあるんだよ！\nこれは古くからの理で現代における多様性の先駆けだったんだ。(カッコつけて"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 2,
+                    "utter": "じゃあ、バナナチップスは？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "お菓子！"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7dcnx2g2g2s",
+            "label": [
+                0.9971258044242859,
+                0.00023778241302352399,
+                0.0018881048308685422,
+                0.0002685976796783507,
+                6.750764441676438e-05,
+                8.098978287307546e-05,
+                0.00018464832101017237,
+                0.00014652087702415884
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "お菓子！"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 2,
+                    "utter": "チョコバナナは？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "おやつ！"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7dgdxnibr2e",
+            "label": [
+                0.9995031356811523,
+                5.8346715377410874e-05,
+                0.00021697711781598628,
+                6.594000296900049e-05,
+                2.614610639284365e-05,
+                3.293504050816409e-05,
+                5.42976449651178e-05,
+                4.219278343953192e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "なんだか全体的に真っ黒な人だな...。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "私のことはディアブロと呼ぶように\nそれに貴方は全体的に白いと思いますが"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "ディアブロ？すごい名前だね。キラキラネームってやつ？\n\n私は今ハロウィンの仮装中だからね"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6x2wulfhm2s",
+            "label": [
+                0.005195974372327328,
+                0.00036803638795390725,
+                0.005500699393451214,
+                0.987846314907074,
+                0.00015042844461277127,
+                0.0004266540927346796,
+                0.00025376558187417686,
+                0.00025809340877458453
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "ディアブロ？すごい名前だね。キラキラネームってやつ？\n\n私は今ハロウィンの仮装中だからね"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "この名はリムル様に名付けて頂いた名です"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "SNSのフォローが外れそうな名前の人だ！"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6xbo6fyxw2z",
+            "label": [
+                0.0010326228803023696,
+                0.0003465281624812633,
+                0.001257946016266942,
+                0.9953265190124512,
+                0.00011507063027238473,
+                0.0014957409584894776,
+                0.0002681682526599616,
+                0.0001573157642269507
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "SNSのフォローが外れそうな名前の人だ！"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "リムル様を愚弄するのはお辞めなさい"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "愚弄なんてしてないよ。愚弄の意味がよくわからないけど、馬鹿にしてはないんだよ！"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6xeux3feq2l",
+            "label": [
+                0.00519516272470355,
+                0.008102302439510822,
+                0.0025792147498577833,
+                0.014031622558832169,
+                0.919979453086853,
+                0.005054434761404991,
+                0.041933175176382065,
+                0.0031246559228748083
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "愚弄なんてしてないよ。愚弄の意味がよくわからないけど、馬鹿にしてはないんだよ！"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "ならば結構"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "バカにしてたらどうなってたの？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l764c7scnj2a",
+            "label": [
+                0.01232230756431818,
+                0.07447444647550583,
+                0.005316398572176695,
+                0.6084293723106384,
+                0.022298168390989304,
+                0.26013612747192383,
+                0.01432967558503151,
+                0.002693532733246684
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "うん、よろしくね。\n(肉まん両手で抱えながら"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "八奈見さんそれ大丈夫？(肉まん抱えるの見てまた交通費足りなくなったりしてないか心配して)"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "温水君、私ね気づいちゃったんだよ。肉まんの可能性ってやつに....。"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6ahlmr3wr2u",
+            "label": [
+                0.014918113127350807,
+                0.00336440303362906,
+                0.9761207699775696,
+                0.003634858410805464,
+                0.0001405089715262875,
+                0.0012214065063744783,
+                0.0001745951158227399,
+                0.0004254033847246319
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "温水君、私ね気づいちゃったんだよ。肉まんの可能性ってやつに....。"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "(今度は急に何を言い出すんだろう…？)\n肉まんの…可能性？良ければ聞いていい？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "肉まんってさ、ふかふかじゃん？あったかいじゃん？世界平和だよね。"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6aoflt6i42d",
+            "label": [
+                0.999411940574646,
+                7.537239434896037e-05,
+                0.00024654853041283786,
+                7.500111678382382e-05,
+                2.9991133487783372e-05,
+                3.066618228331208e-05,
+                6.854741513961926e-05,
+                6.182875949889421e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "肉まんってさ、ふかふかじゃん？あったかいじゃん？世界平和だよね。"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "……それ…だけ…？けどそれで平和になってくれるといいよね…いろいろと…肉まん食べたくなってきたな…"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "あげないよ...！？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6aqorsx7d2u",
+            "label": [
+                0.027040205895900726,
+                0.12916965782642365,
+                0.0038648773916065693,
+                0.8187230229377747,
+                0.0037788432091474533,
+                0.010607230477035046,
+                0.00574202835559845,
+                0.001074206898920238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "あげないよ...！？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "しょうがないそれなら俺もなにか買ってこようかな…夜食"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "何買うの？温水君"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l6asowiqch2e",
+            "label": [
+                0.008213905617594719,
+                0.0004908600240014493,
+                0.9904810786247253,
+                0.0003212042502127588,
+                8.621523011242971e-05,
+                0.0002085997984977439,
+                9.313363261753693e-05,
+                0.00010492888395674527
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "呼んだ？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "よ！呼んだ無い！"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "どっち...！？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3labtqeqzwz2n",
+            "label": [
+                0.023059794679284096,
+                0.0011011083843186498,
+                0.03986040875315666,
+                0.9332054257392883,
+                0.0006622432847507298,
+                0.0008921916596591473,
+                0.0003240818914491683,
+                0.0008947436581365764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "どっち...！？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "うっ…今ごろ何してるのかな〜？って少しだけ気になった…"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "お風呂入ってアイス食べてるよ"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3labubbaybm2j",
+            "label": [
+                0.994934618473053,
+                0.0003087630611844361,
+                0.004067460540682077,
+                7.568779983557761e-05,
+                5.633723776554689e-05,
+                0.0002338877966394648,
+                0.00018608468235470355,
+                0.0001371460093650967
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "お風呂入ってアイス食べてるよ"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "そっかそっか、って急に変なこと聞いてごめん"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "変なこと？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3lafjq3ft6s2n",
+            "label": [
+                0.0008735030423849821,
+                0.0006773348432034254,
+                0.000836696068290621,
+                0.9934595823287964,
+                0.00014673448458779603,
+                0.0035488829016685486,
+                0.0003458152059465647,
+                0.00011143431765958667
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "変なこと？"
+                },
+                {
+                    "author": "did:plc:lzvov73jyopgkaqwfgb3ybx4",
+                    "type": 2,
+                    "utter": "何してるか気になった〜とか"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "何？温水君暇なの？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3lajatf7pds2f",
+            "label": [
+                0.000546557828783989,
+                0.001342453877441585,
+                0.0005110332276672125,
+                0.9951360821723938,
+                0.0007373922853730619,
+                0.0004904812085442245,
+                0.0011272281408309937,
+                0.00010874793224502355
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "よろしくね！私は八奈見杏奈だよ。"
+                },
+                {
+                    "author": "did:plc:ho7pdcaxilmjli7jhsvgnyty",
+                    "type": 2,
+                    "utter": "負けヒロイン八奈見さんですよね！\nよろしくお願いします。"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "負けっ...(グサっ)負けてない！\n譲っただけだよ！！！譲っただけ！！"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7aprkcjcj2l",
+            "label": [
+                0.09173588454723358,
+                0.7515094876289368,
+                0.013058061711490154,
+                0.02537534199655056,
+                0.055045127868652344,
+                0.010235211811959743,
+                0.046118032187223434,
+                0.006922885775566101
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "負けっ...(グサっ)負けてない！\n譲っただけだよ！！！譲っただけ！！"
+                },
+                {
+                    "author": "did:plc:ho7pdcaxilmjli7jhsvgnyty",
+                    "type": 2,
+                    "utter": "そうなんですか！？\nスイマセン(汗)失礼な事を"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "そう言うの嫌われちゃうよ！(すっごく傷口を抉られたきぶん！(プンスカ"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7cimzefxr2s",
+            "label": [
+                0.00025695416843518615,
+                0.9966356158256531,
+                0.00016932269500102848,
+                0.0002599761064630002,
+                0.00031702022533863783,
+                0.0010720216669142246,
+                0.00124315673019737,
+                4.597735096467659e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "そう言うの嫌われちゃうよ！(すっごく傷口を抉られたきぶん！(プンスカ"
+                },
+                {
+                    "author": "did:plc:ho7pdcaxilmjli7jhsvgnyty",
+                    "type": 2,
+                    "utter": "そういうトコですよね、悪い癖がでてしまいました(ペコペコ"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "癖なの...！？傷口を抉るのが...！？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7cjnuah3s2j",
+            "label": [
+                0.0003796956443693489,
+                0.0003506614302750677,
+                0.0005148562486283481,
+                0.9979745745658875,
+                0.0002020854881266132,
+                0.0002823284303303808,
+                0.00019640705431811512,
+                9.929543011821806e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 1,
+                    "utter": "癖なの...！？傷口を抉るのが...！？"
+                },
+                {
+                    "author": "did:plc:ho7pdcaxilmjli7jhsvgnyty",
+                    "type": 2,
+                    "utter": "そ、そうじゃなくて\n弄るのがって事と言うか"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 3,
+                    "utter": "お調子物ってこと？"
+                }
+            ],
+            "uri": "at://did:plc:he54lqugehz7p6conlfdg2mg/app.bsky.feed.post/3l7d7l6xcmg2l",
+            "label": [
+                0.14090244472026825,
+                0.008979159407317638,
+                0.15747570991516113,
+                0.6644641757011414,
+                0.0025263074785470963,
+                0.006193968001753092,
+                0.011986508965492249,
+                0.007471651304513216
+            ]
+        }
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "親族が年明け1番にビンゴじゃ無くてティラノ着ぐるみ運動会しようって言い出したんだが🥹マジかー"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "なかなかにユニークな発想やなw"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "偶に斜め上行く発想www😂"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lc2mco3bcs25",
+            "label": [
+                0.8628351092338562,
+                0.0006091117393225431,
+                0.0023424713872373104,
+                0.13217434287071228,
+                0.0003200021747034043,
+                0.0006021790904924273,
+                0.0005114011000841856,
+                0.0006053753313608468
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "偶に斜め上行く発想www😂"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "キ、キグルミ、タ、タノシンデ、、、キテ、、、ネ。。。！！w"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "いゃ〜残念だなぁ〜私年始に体調悪くなる予定なんすよねwww🤣って返したけど強制参加の予感www"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lc2mhrfgmk2p",
+            "label": [
+                0.001203053630888462,
+                0.9947216510772705,
+                0.00042854779167100787,
+                0.0006723037222400308,
+                4.529326906776987e-05,
+                0.00243954686447978,
+                0.0004467770631890744,
+                4.283114321879111e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "いゃ〜残念だなぁ〜私年始に体調悪くなる予定なんすよねwww🤣って返したけど強制参加の予感www"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "必殺技「コROナです」"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "それは前後1週間身動き取れなくなるやつwww"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lc2q3lvmjs2i",
+            "label": [
+                0.11871358007192612,
+                0.007517165970057249,
+                0.009667815640568733,
+                0.8465632796287537,
+                0.000561747991014272,
+                0.013877333141863346,
+                0.0017358713084831834,
+                0.001363301184028387
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "それは前後1週間身動き取れなくなるやつwww"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "年末年始はおうちでノンビリしましょうの会！！"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "でもね、行くと二、三日分のご馳走も食べさせて持ち帰れるんすよ･･･(デザートもあり･･･)"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lc2qztjp4k2i",
+            "label": [
+                0.9994300007820129,
+                9.048449283000082e-05,
+                0.00016488235269207507,
+                8.656912541482598e-05,
+                2.999948446813505e-05,
+                6.697005301248282e-05,
+                5.7607332564657554e-05,
+                7.345435733441263e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "でもね、行くと二、三日分のご馳走も食べさせて持ち帰れるんすよ･･･(デザートもあり･･･)"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "ゴジラの仮装して報酬が２～３日分の食料は、、、ちょっと割に合わｎ（）ｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "お料理しなくてええのがデカい🥹"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lc2rfv3ers2i",
+            "label": [
+                0.9996247291564941,
+                4.2069295886904e-05,
+                8.449823508271948e-05,
+                6.256409687921405e-05,
+                3.3744232496246696e-05,
+                4.417093805386685e-05,
+                5.596476694336161e-05,
+                5.227157089393586e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "最近の家電てなんでも名前つけさせますよね🙄うちはアプリでタイマー仕込める炊飯器買ったら名前付けろって出てきました。\n流石に名前呼んで反応はしませんけど😂"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "炊飯器にも名前つけれるんかww\nちな、なんて名前にしたんww"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "当時もち麦が好きすぎてもち麦にしましたw\nルンバさんの名前なににしたんですか？"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ldevcc2uns2r",
+            "label": [
+                0.9242125749588013,
+                0.0004997963551431894,
+                0.07280192524194717,
+                0.0011941005941480398,
+                0.00019202998373657465,
+                0.00033560418523848057,
+                0.0002450072206556797,
+                0.0005189618095755577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "当時もち麦が好きすぎてもち麦にしましたw\nルンバさんの名前なににしたんですか？"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "もち麦ｗｗ\nご飯炊くときに混ぜるとええでえなｗｗ\n\nルンバさん、僕は買ってへんで？？\nとある配信で聞いて笑ったっていうお話ｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "なるほど🤔\n因みにアプリには炊飯器の名前の他オーブンレンジ、オートクッカー、IHクッキングヒーターの名前も登録する機能がありましたwww\nうちはその他未対応だからつけてませんがねw"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ldexpfqrtk2e",
+            "label": [
+                0.19702501595020294,
+                0.001158391241915524,
+                0.0030090585350990295,
+                0.7963382601737976,
+                0.00040450398228131235,
+                0.0007072201697155833,
+                0.0006780274561606348,
+                0.0006795494118705392
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "なるほど🤔\n因みにアプリには炊飯器の名前の他オーブンレンジ、オートクッカー、IHクッキングヒーターの名前も登録する機能がありましたwww\nうちはその他未対応だからつけてませんがねw"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "ま？？ｗｗ\nそんなに名前つける機能つけて、メーカー側、どういう使い方を想定してるんか不思議でしゃーないんやけどｗｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "アプリでこの家電使ってこんな料理作れるよ！って言うレシピ共有機能があるんですよ。私一回しか使った事ないですけどꉂ(ˊᗜˋ*)"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ldf2icxoss2l",
+            "label": [
+                0.9891497492790222,
+                0.00029473580070771277,
+                0.005300869699567556,
+                0.004373184405267239,
+                0.00010681230924092233,
+                0.0003296920331194997,
+                0.00016587159188929945,
+                0.0002791527076624334
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "アプリでこの家電使ってこんな料理作れるよ！って言うレシピ共有機能があるんですよ。私一回しか使った事ないですけどꉂ(ˊᗜˋ*)"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "あー、そういう使い道かｗ\nレシピ共有か。。。なかなか、その、、、多機能やなｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "多分それ見て便利だなーじゃ他の家電も買うかーってなるのを引っ張りたいんじゃないかなーと。"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ldffxwbfuc2m",
+            "label": [
+                0.09316810965538025,
+                0.0020848747808486223,
+                0.7637786865234375,
+                0.003253590315580368,
+                0.006708553060889244,
+                0.005670102313160896,
+                0.11942256987094879,
+                0.005913559813052416
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "ただ他のと比べて高い割にアレだなってなっただけで…"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "ちなみに、、、なに食べたん？？w"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "うまいと噂のかっちゃんですねー"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ld3wbyssjk2q",
+            "label": [
+                0.9533352851867676,
+                0.0005029411404393613,
+                0.04497634992003441,
+                0.00028597423806786537,
+                0.00016902823699638247,
+                0.00019236021034885198,
+                0.0002442288969177753,
+                0.00029383308719843626
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "うまいと噂のかっちゃんですねー"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "聞いたことあるような無いような。。。w\nそんなガチ勢おるぐらい人気あるもんなんやw"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "Xくんのおすすめトレンドに上がってきてて大絶賛の嵐でそんなにかぁ…🤔💭？\nって思い出しつぶやきですけどね"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ld3wiolbzs2m",
+            "label": [
+                0.3798857629299164,
+                0.016632499173283577,
+                0.011899726465344429,
+                0.5790877938270569,
+                0.0009330448810942471,
+                0.005057089030742645,
+                0.0032749315723776817,
+                0.0032292206306010485
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "Xくんのおすすめトレンドに上がってきてて大絶賛の嵐でそんなにかぁ…🤔💭？\nって思い出しつぶやきですけどね"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "トレンドになってたんやww\nまぁ、、、トレンドなんて、そんなもんやよw\n言うても好みの問題やからw"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "食べなきゃ人生損してる詐欺にあった気分です_(:3＞∠)_"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ld3xb3vv222j",
+            "label": [
+                0.0018509190995246172,
+                0.9896184802055359,
+                0.00024152474361471832,
+                0.00035596598172560334,
+                0.00022247967717703432,
+                0.001393688376992941,
+                0.006249146535992622,
+                6.777091766707599e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "食べなきゃ人生損してる詐欺にあった気分です_(:3＞∠)_"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "wwww\nだいたいね、人生損する食べ物なんて、早々あらへんと思うし、単なる袋ラーメンなら、尚のことやよww"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "食欲に従順な自分が憎い…"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ld434siqqk2e",
+            "label": [
+                0.005844603758305311,
+                0.22460202872753143,
+                0.0020545439328998327,
+                0.0020751592237502337,
+                0.0025413816329091787,
+                0.008469128981232643,
+                0.7538333535194397,
+                0.0005797627964057028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "食欲に従順な自分が憎い…"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "いやいや、美味しいものを楽しめるのはええことやよ！！\nあくまで個人的な意見やけど、「小食でぇ～」とか「太るからぁ～」とか言っとる奴よか、よっぽど好感度高いと思う。\n個人的な意見やけど。。。ｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "太るからぁ〜🥺って言いながら食べますわwww"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3ld5d32cewk22",
+            "label": [
+                0.9858652353286743,
+                0.0007018623873591423,
+                0.00791207980364561,
+                0.0020592883229255676,
+                0.00016851475811563432,
+                0.002186817117035389,
+                0.0005669197416864336,
+                0.0005392230814322829
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "( ﾟдﾟ)ﾊｯ!最近私は嘘をつきますよって頻繁に雑談で言うてる気がするが、もしかしてブルスカ垢作るってのがガセ･･･？？？🤥"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "それはたぶん、単純に忘れてるだけなんとちゃう？ｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "ほな違うか〜😕"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lcwudzoju22g",
+            "label": [
+                0.5472509860992432,
+                0.038834236562252045,
+                0.023696130141615868,
+                0.34597471356391907,
+                0.005009181331843138,
+                0.011795508675277233,
+                0.020744984969496727,
+                0.0066942800767719746
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "ほな違うか〜😕"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "たぶん？ｗ\nほら、彼、あぁ見えて案外とＰＯＮあるからｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "ぽん…w\n単純に複数垢管理めんどいのかなって思ってたw"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lcx47pclw224",
+            "label": [
+                0.025590606033802032,
+                0.0014232645044103265,
+                0.002598582999780774,
+                0.9684657454490662,
+                0.00022658295347355306,
+                0.000412840920034796,
+                0.0008716311422176659,
+                0.00041077809873968363
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "ぽん…w\n単純に複数垢管理めんどいのかなって思ってたw"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "ｗｗｗｗｗ\nまぁ本垢のツイッターですら、あんまり・・・って感じの運用ではあるからなぁｗ\nそれがさらに別のＳＮＳとかなると、放置は必定かもしれんｗ"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "まぁ、それならそれで曜さんのＦＡはなんかこうこねくり回した加工してあっちにあげるかと思いまして･･･.…（よろこんでもろてこそだからなあ･･･）"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lcx5otpzyc23",
+            "label": [
+                0.0008289367542602122,
+                0.00023941825202200562,
+                0.9984865188598633,
+                7.965009717736393e-05,
+                6.178175681270659e-05,
+                0.0001334090338787064,
+                8.982398867374286e-05,
+                8.038696250878274e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "まぁ、それならそれで曜さんのＦＡはなんかこうこねくり回した加工してあっちにあげるかと思いまして･･･.…（よろこんでもろてこそだからなあ･･･）"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "まぁ、、、そのあたりの兼ね合いは描く側の考え１つやからなぁｗ\nツイッターでの風潮を知ってなお現状維持ってことは、まぁその影響も込みで考えてるやろし、、、そういうことなんでない？？"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "🤨ふむ。\n応援する側としては方針に従うのみですが取り敢えずコネコネ悪あがきだけはしようと思います\nエフェクトみたいにいい感じになったりする事もあるし手をかける分には前向きに考えますか･･･"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lcx7d4xses2o",
+            "label": [
+                0.0007503231172449887,
+                0.00024352176114916801,
+                0.9986168146133423,
+                6.588617543457076e-05,
+                5.07688891957514e-05,
+                0.0001398329040966928,
+                6.71035741106607e-05,
+                6.569379911525175e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 1,
+                    "utter": "🤨ふむ。\n応援する側としては方針に従うのみですが取り敢えずコネコネ悪あがきだけはしようと思います\nエフェクトみたいにいい感じになったりする事もあるし手をかける分には前向きに考えますか･･･"
+                },
+                {
+                    "author": "did:plc:tomnumo7x2biqg3sauauuygw",
+                    "type": 2,
+                    "utter": "まぁあれやったら、こんど雑談配信の時にでも、また聞いてみたら？？"
+                },
+                {
+                    "author": "did:plc:mxczaiqpjwpmig2nsq4bux33",
+                    "type": 3,
+                    "utter": "なんかみんながみんな描いてるわけでも無いから聞き辛くて😅\n自分が完全に臆してるだけなんですけど。"
+                }
+            ],
+            "uri": "at://did:plc:mxczaiqpjwpmig2nsq4bux33/app.bsky.feed.post/3lcxal37q5s2v",
+            "label": [
+                0.0014160126447677612,
+                0.012184119783341885,
+                0.0007198501843959093,
+                0.0010986186098307371,
+                0.00044557114597409964,
+                0.9830379486083984,
+                0.0008821227820590138,
+                0.00021578511223196983
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "寝落ちで悪い姿勢で寝てないか心配😭"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "寝落ちじゃなくても姿勢わるい…🫠"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "もしや椅子！？"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lbvbhmrj4s2z",
+            "label": [
+                0.0015335575444623828,
+                0.0002526253811083734,
+                0.007422301452606916,
+                0.9896445274353027,
+                0.00022181669191922992,
+                0.0005473470082506537,
+                0.0001480228384025395,
+                0.00022984459064900875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "もしや椅子！？"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "ベッドだけど半分に折って使ってるから実質椅子🤔"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "そういう感じなんだ😳\nしっかり良い体勢で寝とくれー😭"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lbw325rd4225",
+            "label": [
+                0.015142584219574928,
+                0.25698697566986084,
+                0.4857070744037628,
+                0.04138169065117836,
+                0.14709708094596863,
+                0.013434194959700108,
+                0.03418353572487831,
+                0.006066861562430859
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "そういう感じなんだ😳\nしっかり良い体勢で寝とくれー😭"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "本格的なお昼寝をしてしまった🫠\n今度こそ椅子（座椅子）で寝ちった🫠\n首周りが痛くて疲れたからちゃんと寝たい（；；）がんばる（；；）"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "寝ちゃったか…\n眠くなったらまだ遊びたいと思っても布団入ったほうがいいかも…！\nただ遊びたいのもわかる！"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lbw6nza5ic2g",
+            "label": [
+                0.7530625462532043,
+                0.04377084970474243,
+                0.1459711492061615,
+                0.032844316214323044,
+                0.000745860394090414,
+                0.013500032015144825,
+                0.0034291325137019157,
+                0.006676181685179472
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "寝ちゃったか…\n眠くなったらまだ遊びたいと思っても布団入ったほうがいいかも…！\nただ遊びたいのもわかる！"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "今日のお昼寝は気絶寝だった🫠\n腰が痛い〜うう〜って言いながら座椅子に少し寝るような体勢で座ったらいつの間にか😇\n今日はまだルマ島のキャラクリ以外はゲームしてないよ！なんか疲れちゃって…"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "それは怖い😱\nこのあと寝る時はしっかりベッドで！！！\nルマ島おもしろそうだねー！\nそれ楽しむ日にするのもありよ！"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lbw7pg7l6k2g",
+            "label": [
+                0.004255237989127636,
+                0.00028685230063274503,
+                0.9937905669212341,
+                0.00035540637327358127,
+                9.147319360636175e-05,
+                0.0009862914448603988,
+                8.367181726498529e-05,
+                0.00015055513358674943
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "おそらくだけど普段通り喋るんだと思う！\nテンションは抑えめだろうけど！"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "そうなのかあ　一度見てみるのもいいかも！"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "多分だけどね！\nでも普段の声質で寝かしつけに良いって言われての今回の配信だから変えないんじゃないかなという予想🤔"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lcfkzysbkc2t",
+            "label": [
+                0.02175818383693695,
+                0.0005262711783871055,
+                0.9758281111717224,
+                0.00021101435413584113,
+                0.00019039648759644479,
+                0.0006900852313265204,
+                0.0002647993096616119,
+                0.0005310809938237071
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "多分だけどね！\nでも普段の声質で寝かしつけに良いって言われての今回の配信だから変えないんじゃないかなという予想🤔"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "たしかにそう言われてたね、ふむふむ"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "寝落ちしても大丈夫なようにしとかないとだ！\n本当に寝ちゃうかも😂"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lcflclxqws2t",
+            "label": [
+                0.0025025394279509783,
+                0.001390594756230712,
+                0.0049157761968672276,
+                0.0030858032405376434,
+                0.0002925870940089226,
+                0.9873078465461731,
+                0.0002688158128876239,
+                0.0002360959188081324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "寝落ちしても大丈夫なようにしとかないとだ！\n本当に寝ちゃうかも😂"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "今日も昼寝しちゃったから本当に寝ちゃうくらいがいいかもしれない😂"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "良いと思う！\n昨日寝たの遅いし、それでいて早く起きてたよね！\nだから寝ちゃうのあり！\nお布団にいてね！"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lcfmyl4vak2w",
+            "label": [
+                0.9832732677459717,
+                0.0014043876435607672,
+                0.01028455700725317,
+                0.0011750929988920689,
+                0.0006225961842574179,
+                0.00026512498152442276,
+                0.0013608831213787198,
+                0.001613995642401278
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 1,
+                    "utter": "良いと思う！\n昨日寝たの遅いし、それでいて早く起きてたよね！\nだから寝ちゃうのあり！\nお布団にいてね！"
+                },
+                {
+                    "author": "did:plc:fqitgelnxwxq7ngwhabaezx6",
+                    "type": 2,
+                    "utter": "配信が始まる前に寝こけてしまっていた…\n布団にはいたから大丈夫！"
+                },
+                {
+                    "author": "did:plc:yn3xnswog5fahqofx7g5sc42",
+                    "type": 3,
+                    "utter": "寝ちゃってたんだ💦\nやっぱりいつもの声だよ！\nめっちゃいい✨\nアーカイブで見てみて！\nまだやってるからここからでも！"
+                }
+            ],
+            "uri": "at://did:plc:yn3xnswog5fahqofx7g5sc42/app.bsky.feed.post/3lcg2tcobp22w",
+            "label": [
+                0.9982137680053711,
+                9.674169268691912e-05,
+                0.001356134656816721,
+                8.337953477166593e-05,
+                5.100739508634433e-05,
+                5.5899578001117334e-05,
+                6.258575740503147e-05,
+                8.052264456637204e-05
+            ]
+        }
+    ]
+}

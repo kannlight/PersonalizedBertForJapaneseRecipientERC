@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "休みの旦那に「できる範囲で大掃除（片付け）を！」と言って出勤したのだけど、Switchbotくんで確認したら案の定消えていた。\nさすがにGPSはないのでドコに行ッたかは不明であッた（釣りではない）\n\n先程、連絡があり行先判明。\n「車屋に行ッていた」\n「ほぅ…」\n「車、発注してきた」\n「むむむ」\n「納車なんだけど…」\n「うん」\n「再来年の夏頃だッて」\n「あはン」\n\n【ワイの脳内】\n\nなにコイツなにコイツなにコイツなにコイツなにコイツ……\nな！に！コ！イ！ツ！"
+                },
+                {
+                    "author": "did:plc:rzh5lfbjjdmc2aryvnpmcve5",
+                    "type": 2,
+                    "utter": "え!!!Σ(ﾟﾛﾟ!(ﾟﾍﾟ?)???\n\n何も相談もなく、そんな大きな買い物しちゃうの？\n\n玄関に入ってきた瞬間ジャーマンスープレックスだわ。"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "正確にはそれとなく話はしていた（去年\n\n買いに行った（今日\n\n流れ的にはこう👆"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3lbo3yqu6ws2q",
+            "label": [
+                0.8945695757865906,
+                0.004006264265626669,
+                0.09064022451639175,
+                0.0023687868379056454,
+                0.0007881274214014411,
+                0.0023182034492492676,
+                0.002207969082519412,
+                0.0031008918303996325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "正確にはそれとなく話はしていた（去年\n\n買いに行った（今日\n\n流れ的にはこう👆"
+                },
+                {
+                    "author": "did:plc:rzh5lfbjjdmc2aryvnpmcve5",
+                    "type": 2,
+                    "utter": "だば、今日買いに行ってくるね〜とか、欲しくない？"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "本人はその話題に触れたから「言ッた」気になッてる\n\n義父と同じ疾患( ºДº)ｷｰｯ"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3lbo4cblluc27",
+            "label": [
+                0.01376990508288145,
+                0.2619982361793518,
+                0.002433127025142312,
+                0.03139401599764824,
+                0.00650197546929121,
+                0.6306350231170654,
+                0.05168803781270981,
+                0.001579698408022523
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "本人はその話題に触れたから「言ッた」気になッてる\n\n義父と同じ疾患( ºДº)ｷｰｯ"
+                },
+                {
+                    "author": "did:plc:rzh5lfbjjdmc2aryvnpmcve5",
+                    "type": 2,
+                    "utter": "ソレハフジノヤマイダ……トッコウヤクホシイ……"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "義父は除雪機と発電機を買ッてきた…除雪機なかなか巨大なマシンで萎えてる(›´A`‹ )"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3lbo4lg45x22u",
+            "label": [
+                0.0005964653682895005,
+                0.9985039234161377,
+                0.0001979824446607381,
+                0.00020844889513682574,
+                3.542959893820807e-05,
+                0.00022056141460780054,
+                0.0002104766172124073,
+                2.6751828045235015e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "義父は除雪機と発電機を買ッてきた…除雪機なかなか巨大なマシンで萎えてる(›´A`‹ )"
+                },
+                {
+                    "author": "did:plc:rzh5lfbjjdmc2aryvnpmcve5",
+                    "type": 2,
+                    "utter": "( °꒫° )……\n\n今年は雪が多いらしいもんね……必要っちゃ必要だけど……置くスペースも確保しないとだから大変だよね。"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "要するにさ\n「買うだけ」なわけ\n誰がやる羽目になるかッつー話よ👆"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3lbo5ha5szs2f",
+            "label": [
+                0.2790689170360565,
+                0.1083274856209755,
+                0.0113044623285532,
+                0.010217376984655857,
+                0.05018026381731033,
+                0.1633760780096054,
+                0.3656405806541443,
+                0.011884838342666626
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "要するにさ\n「買うだけ」なわけ\n誰がやる羽目になるかッつー話よ👆"
+                },
+                {
+                    "author": "did:plc:rzh5lfbjjdmc2aryvnpmcve5",
+                    "type": 2,
+                    "utter": "メンテナンスにランニングコストに保管場所に……大変だよね。\n\n旦那実家にもあるんだけど30万もするの、旦那が2/3お金出して、義父は1/お金出してあと管理(使うから)……義弟は何もしない……いいご身分……"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "うちは義父が金出して１ミリも動かんwww\n\nそもそもいらんから買うな\n30万ワイにくれwww"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3lbo6hk23d22p",
+            "label": [
+                0.10405634343624115,
+                0.029783736914396286,
+                0.005336769390851259,
+                0.8038214445114136,
+                0.012314016930758953,
+                0.019508520141243935,
+                0.02194834128022194,
+                0.003230818547308445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "プロダクトは良いぜ？\nアホ毛はまとめ髪の方がいいネ\nスティックのやつ☝️"
+                },
+                {
+                    "author": "did:plc:rzh5lfbjjdmc2aryvnpmcve5",
+                    "type": 2,
+                    "utter": "アホ毛にワックスをあたまなてめるようにつかうといいと聞いてやってみよう思ってるんだけどいろいろとありすぎて悩んでんの"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "ワックスは地肌についちゃうとオイリー感すごいからDAISOのマスカラタイプの前髪キープ使うと良き🫶"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3lbf2lgdcgc2a",
+            "label": [
+                0.08579817414283752,
+                0.0011340706842020154,
+                0.9111449122428894,
+                0.0003837508265860379,
+                0.00024619075702503324,
+                0.0004912930889986455,
+                0.00029887029086239636,
+                0.0005026632570661604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "旦那\n【休みの前日】\n\n「明日ガレージ掃除して草刈りして網戸洗うワ」\n\n【休み当日】\n\n「釣り」\n\nワイ\n【帰宅後】\n\n「ガレージ掃除と草刈りと網戸洗った？」\n\n旦那\n「あーそれ次の休みにやる」\n\nもう軽く１年経過してる"
+                },
+                {
+                    "author": "did:plc:oxr7o5uc5f2vxtyptintg6ye",
+                    "type": 2,
+                    "utter": "切実に問いたい\nお前の明日はいつ来ますか？と\n(状況がわかりみすぎて🙃)"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "ほんっっとそれ。\n一年後の休みの話しんかワレ❣️となってますわヨ"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3l73fywd6fp2r",
+            "label": [
+                0.012263644486665726,
+                0.026651723310351372,
+                0.002143188612535596,
+                0.17947757244110107,
+                0.3661031126976013,
+                0.01609978638589382,
+                0.39456167817115784,
+                0.0026992789935320616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "ほんっっとそれ。\n一年後の休みの話しんかワレ❣️となってますわヨ"
+                },
+                {
+                    "author": "did:plc:oxr7o5uc5f2vxtyptintg6ye",
+                    "type": 2,
+                    "utter": "ですよね❣️\n昔、おまえの明日待ってたらわたし死んでんじゃね？って思わず言いました"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "先延ばしにしてることばかりだから「君120歳くらいが寿命の設定になっとん？」\n「次の休みには絶対！！」\n来年もやらんゾこれ🔪"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3l73gc46afx2a",
+            "label": [
+                0.003678540699183941,
+                0.1144837737083435,
+                0.007956457324326038,
+                0.01570165529847145,
+                0.7115229368209839,
+                0.027100561186671257,
+                0.11556053906679153,
+                0.003995564766228199
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "先延ばしにしてることばかりだから「君120歳くらいが寿命の設定になっとん？」\n「次の休みには絶対！！」\n来年もやらんゾこれ🔪"
+                },
+                {
+                    "author": "did:plc:oxr7o5uc5f2vxtyptintg6ye",
+                    "type": 2,
+                    "utter": "もう、次の休みにやらなきゃ永久に休みにしたろうか🔪案件ですわヨ❣️"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "永久に休みwwww\n\n紀州のドンファンがチラついてるワイ( ꒪-꒪)"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3l73gwnyimf2z",
+            "label": [
+                0.9968662858009338,
+                0.0002870313182938844,
+                0.0006013214006088674,
+                0.0013423387426882982,
+                5.090756167192012e-05,
+                0.0005322760553099215,
+                0.00017577527614776045,
+                0.0001441024651285261
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "永久に休みwwww\n\n紀州のドンファンがチラついてるワイ( ꒪-꒪)"
+                },
+                {
+                    "author": "did:plc:oxr7o5uc5f2vxtyptintg6ye",
+                    "type": 2,
+                    "utter": "口で言ってもダメならもう物理しかない👊\n\nドンファン……稼ぎがドンファンにならないかなって思ってしまった🤗"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "友達はデヴィ夫人とか言ってみたいYO😂"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3l73hdosd5v2z",
+            "label": [
+                0.0007588653825223446,
+                0.000209577294299379,
+                0.9986506104469299,
+                0.0001141213797382079,
+                5.882279947400093e-05,
+                8.955977682489902e-05,
+                6.581661727977917e-05,
+                5.261810656520538e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 1,
+                    "utter": "友達はデヴィ夫人とか言ってみたいYO😂"
+                },
+                {
+                    "author": "did:plc:oxr7o5uc5f2vxtyptintg6ye",
+                    "type": 2,
+                    "utter": "待ってて、今すぐなんかで有名人＆セレブになって来るから(無理)"
+                },
+                {
+                    "author": "did:plc:e7nxo3kg5nxlsrtlsicjsfzl",
+                    "type": 3,
+                    "utter": "今すぐwww\nワタシのお父さん「石破茂」とかどう？（劣勢"
+                }
+            ],
+            "uri": "at://did:plc:e7nxo3kg5nxlsrtlsicjsfzl/app.bsky.feed.post/3l73hz7pwnx2l",
+            "label": [
+                0.0004707154294010252,
+                0.00028885548817925155,
+                0.9988370537757874,
+                0.00010483685764484107,
+                5.375940600060858e-05,
+                0.00012070492084603757,
+                7.459847984137014e-05,
+                4.9417634727433324e-05
+            ]
+        }
+    ]
+}

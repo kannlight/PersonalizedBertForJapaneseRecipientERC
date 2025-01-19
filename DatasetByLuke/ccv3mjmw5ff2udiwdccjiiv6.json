@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "名古屋で運転したくないためだけに、多治見とか恵那の客行く時も塩尻からレンタカー移動してたわ。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "名古屋は普通に行けますって。ノールックで車線変更してくるおばさんがいるくらいで"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "真面目に言うと、運転始めた頃に付き合ってた元カノが岐阜の人で運転教えてもらったの元カノだから名古屋以外と運転できる。"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfwsoerztc2m",
+            "label": [
+                0.9989782571792603,
+                7.546761480625719e-05,
+                9.892020170809701e-05,
+                0.000133244669996202,
+                6.72397218295373e-05,
+                0.00017501589900348336,
+                0.00016906838573049754,
+                0.0003027680213563144
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "真面目に言うと、運転始めた頃に付き合ってた元カノが岐阜の人で運転教えてもらったの元カノだから名古屋以外と運転できる。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "よし名古屋は運転出来る。"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "車線多過ぎるのがこわいぐらいか。"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfwttsplns25",
+            "label": [
+                0.0027872470673173666,
+                0.00456756167113781,
+                0.0007622097036801279,
+                0.08459516614675522,
+                0.0014116086531430483,
+                0.9035781621932983,
+                0.0018075593980029225,
+                0.0004905648529529572
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "車線多過ぎるのがこわいぐらいか。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "浜松と比べたらすべてマシである"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "同じぐらいやばい尾張小牧ナンバーの友達の運転マジキチガイだからこわい。"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfwvqi3y4s2g",
+            "label": [
+                0.0006220045033842325,
+                0.001077766064554453,
+                0.0005882166442461312,
+                0.0010349336080253124,
+                0.0011312641436234117,
+                0.9940073490142822,
+                0.0012479271972551942,
+                0.00029055424965918064
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "同じぐらいやばい尾張小牧ナンバーの友達の運転マジキチガイだからこわい。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "練馬/多摩ナンバーはウィンカー入れると入れてくれる。\n尾張小牧は車間を更に詰めてくる。浜松もだ。"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "多摩ナンバーワイニッコリ。\n尾張小牧は車間距離が10センチ。\n怖すぎる。"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfwvz37c6k27",
+            "label": [
+                0.0023960713297128677,
+                0.00102328322827816,
+                0.0015106572536751628,
+                0.007488719653338194,
+                0.0005670878454111516,
+                0.9862276911735535,
+                0.00041938541107811034,
+                0.00036713367444463074
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "検索する時に間取りを考慮しない検索エンジンを吊るせ！！"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "これAIが考えた間取りなの？！"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "いや、不動産投資の人からするとスーモで検索時に3ldkで検索引っかかるように無理やり間取り作った方が客付けが楽という"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfcr56ssa222",
+            "label": [
+                0.7325164079666138,
+                0.01965724118053913,
+                0.09141401946544647,
+                0.05943790823221207,
+                0.005148565862327814,
+                0.03958408534526825,
+                0.029430298134684563,
+                0.022811533883213997
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "いや、不動産投資の人からするとスーモで検索時に3ldkで検索引っかかるように無理やり間取り作った方が客付けが楽という"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "いらねー\nむしろ欲しいのは1LDKですよ"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "それはそう。\nなんか、話に聞くとファミリー向けが足りて無いって話なんだけど、どうなんだろ？"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfcsapmuuc22",
+            "label": [
+                0.050955139100551605,
+                0.0019731782376766205,
+                0.02093842439353466,
+                0.9126990437507629,
+                0.0007529278518632054,
+                0.009182710200548172,
+                0.0018696717452257872,
+                0.0016288543120026588
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "それはそう。\nなんか、話に聞くとファミリー向けが足りて無いって話なんだけど、どうなんだろ？"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 2,
+                    "utter": "かいてる途中で何度も消えるんだけど！\nまず玄関の部屋は住めないな。\n2LDK以上は高く出るから困るー。\n西東京市くらいで1LDKないかなって考えてます。"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "すまん！！！\n普通はこの間取りねーよな笑\n西東京市とか、武蔵野市とかあの辺いいよね。俺も住みたい（負け組多摩地域）"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lfcsujkz4c22",
+            "label": [
+                0.0059230574406683445,
+                0.003342103911563754,
+                0.9812579154968262,
+                0.0074677071534097195,
+                0.00013099235366098583,
+                0.0012677202466875315,
+                0.0003703019756358117,
+                0.00024012209905777127
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "経営者目線ってこう言うことですよね？"
+                },
+                {
+                    "author": "did:plc:u75yjiiujo56o5hivrwy4ole",
+                    "type": 2,
+                    "utter": "経費キャバクラじゃないんですか？？？"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "俺がキャバクラ嫌いなのが問題"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lf573np5w22y",
+            "label": [
+                0.006470150779932737,
+                0.6361435651779175,
+                0.0012042360613122582,
+                0.001237344928085804,
+                0.0033037441316992044,
+                0.006349104456603527,
+                0.3446527123451233,
+                0.0006390634807758033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "経営者はホモにすんのやめろ"
+                },
+                {
+                    "author": "did:plc:lfs2odxneifetlb4fp5iktyb",
+                    "type": 2,
+                    "utter": "ノン気バーもあるだろ"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "昔あったコレステロールって店に実名でボトル入れてたわ。"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lf5fwbx72c23",
+            "label": [
+                0.0010284625459462404,
+                0.00036023533903062344,
+                0.00032970597385428846,
+                0.9973141551017761,
+                0.00015803783026058227,
+                0.00039115690742619336,
+                0.0003101332695223391,
+                0.00010806164209498093
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 1,
+                    "utter": "昔あったコレステロールって店に実名でボトル入れてたわ。"
+                },
+                {
+                    "author": "did:plc:lfs2odxneifetlb4fp5iktyb",
+                    "type": 2,
+                    "utter": "ゲイバーって変な名前の店多いよね"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 3,
+                    "utter": "いきつけある？"
+                }
+            ],
+            "uri": "at://did:plc:ccv3mjmw5ff2udiwdccjiiv6/app.bsky.feed.post/3lf5gzu5zd22p",
+            "label": [
+                0.0985226035118103,
+                0.024536889046430588,
+                0.8074920773506165,
+                0.02793513610959053,
+                0.003876382950693369,
+                0.017576316371560097,
+                0.013251034542918205,
+                0.006809527985751629
+            ]
+        }
+    ]
+}

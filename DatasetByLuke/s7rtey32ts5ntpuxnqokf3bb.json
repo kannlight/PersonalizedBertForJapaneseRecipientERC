@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "俺もー"
+                },
+                {
+                    "author": "did:plc:tnm3ha4oc2fnb4365t5wcbhh",
+                    "type": 2,
+                    "utter": "お嬢ー！やっほー"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "おう、玲王！"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3krdurbyk4s2r",
+            "label": [
+                0.012385002337396145,
+                0.000473751628305763,
+                0.0020808535628020763,
+                0.9837340116500854,
+                0.00039168857620097697,
+                0.00022935582092031837,
+                0.00035060179652646184,
+                0.00035467586712911725
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "おう、玲王！"
+                },
+                {
+                    "author": "did:plc:tnm3ha4oc2fnb4365t5wcbhh",
+                    "type": 2,
+                    "utter": "國神とはどうだ？"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "ん？彼奴とか？んー、普通に接してるけど…？"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3krfmrrow6t2h",
+            "label": [
+                0.0009165903902612627,
+                0.0005104513838887215,
+                0.0006344043067656457,
+                0.9943998456001282,
+                0.0003407936019357294,
+                0.0018192686839029193,
+                0.0012522690230980515,
+                0.00012630762648768723
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "ん？彼奴とか？んー、普通に接してるけど…？"
+                },
+                {
+                    "author": "did:plc:tnm3ha4oc2fnb4365t5wcbhh",
+                    "type": 2,
+                    "utter": "エピ凪で國神ちゃんと出ましたがどうでしたか"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "カッコよかった…缶バッジも2個目来てくれたし"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3krfmzecbvt27",
+            "label": [
+                0.9996304512023926,
+                4.1653227526694536e-05,
+                0.00011289894609944895,
+                5.7552930229576305e-05,
+                2.913632670242805e-05,
+                4.00682220060844e-05,
+                4.6202629164326936e-05,
+                4.1985367715824395e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "カッコよかった…缶バッジも2個目来てくれたし"
+                },
+                {
+                    "author": "did:plc:tnm3ha4oc2fnb4365t5wcbhh",
+                    "type": 2,
+                    "utter": "お嬢の缶バッジ挟めば？"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "挟んでくれた…𓈒𓂂◌"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3krp7infbv322",
+            "label": [
+                0.9996179342269897,
+                7.624152931384742e-05,
+                7.866515079513192e-05,
+                9.00142258615233e-05,
+                1.9426324797677808e-05,
+                3.870939326588996e-05,
+                4.09523090638686e-05,
+                3.805877349805087e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "来たけど…良かったのか？"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 2,
+                    "utter": "お嬢〜来た"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "國神…(抱き着き"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3knqetz36ng2j",
+            "label": [
+                0.949097216129303,
+                0.01845722272992134,
+                0.013735827058553696,
+                0.004958204925060272,
+                0.0008274620631709695,
+                0.006544387433677912,
+                0.004510055761784315,
+                0.001869627507403493
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "國神…(抱き着き"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 2,
+                    "utter": "おっと、待たせて悪かったな(抱きとめ"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "大丈夫…会えたから…(強く抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3knrpj2pxhy2d",
+            "label": [
+                0.998212456703186,
+                0.00044668751070275903,
+                0.0009375195950269699,
+                5.0247868784936145e-05,
+                3.148115865769796e-05,
+                0.00013772044621873647,
+                7.712086517130956e-05,
+                0.00010667686728993431
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "大丈夫…会えたから…(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 2,
+                    "utter": "いや！可愛いじゃないですかお嬢！(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "んぅ…///そうかぁ？///(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3kns6a3c5yi2a",
+            "label": [
+                0.9568232297897339,
+                0.024001142010092735,
+                0.006644776556640863,
+                0.0033673334401100874,
+                0.00045337362098507583,
+                0.005084541160613298,
+                0.0016874595312401652,
+                0.0019381351303309202
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "んぅ…///そうかぁ？///(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 2,
+                    "utter": "そうなんだよ(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "國神に言われたら…言い返せねぇな///(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3knyevnjkq62o",
+            "label": [
+                0.7709566354751587,
+                0.10695906728506088,
+                0.019681354984641075,
+                0.013006920926272869,
+                0.001604401390068233,
+                0.07666787505149841,
+                0.004761505872011185,
+                0.006362297106534243
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "國神に言われたら…言い返せねぇな///(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:qkz4pcddly2263liuakoresd",
+                    "type": 2,
+                    "utter": "そういう所ですよ…お嬢…(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "分かるかよ…///(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3koczy3igzb2g",
+            "label": [
+                0.8498880863189697,
+                0.06437394767999649,
+                0.014469393528997898,
+                0.011180276051163673,
+                0.013351711444556713,
+                0.026567833498120308,
+                0.010922816582024097,
+                0.009245894849300385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "来たけど…良かったのか？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "やぁ、あの子も来させるよ(にこ"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "あ、あざっす"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3kmn5qaztvj2g",
+            "label": [
+                0.9995872378349304,
+                4.790887396666221e-05,
+                0.00010466456296853721,
+                7.2835260652937e-05,
+                3.582303907023743e-05,
+                3.543504499248229e-05,
+                6.889219366712496e-05,
+                4.706295294454321e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "あ、あざっす"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "萌えを見せてくれ！"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "も、え…かい？"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3kmpfvewyei2d",
+            "label": [
+                0.0005019084201194346,
+                0.001612341497093439,
+                0.00042137561831623316,
+                0.996448278427124,
+                0.00021097563148941845,
+                0.0004153249610681087,
+                0.0003125648363493383,
+                7.72375424276106e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "も、え…かい？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "そう！萌え！"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "國神居ねぇから無理じゃね？どうやっておれ1人で萌え要素作るんだ？"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3kn2w7en3rx2k",
+            "label": [
+                0.0005246110958978534,
+                0.9965881109237671,
+                0.00021382281556725502,
+                0.00025943596847355366,
+                0.0001862008066382259,
+                0.0017464504344388843,
+                0.00044268497731536627,
+                3.875570837408304e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "國神居ねぇから無理じゃね？どうやっておれ1人で萌え要素作るんだ？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "いや、来るからね？"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "来んの？"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3kn7xr5j2jg2u",
+            "label": [
+                0.15981750190258026,
+                0.03642800822854042,
+                0.544447660446167,
+                0.18010547757148743,
+                0.010492393746972084,
+                0.02158251591026783,
+                0.03958016261458397,
+                0.0075462982058525085
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 1,
+                    "utter": "来んの？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "来るよ？"
+                },
+                {
+                    "author": "did:plc:s7rtey32ts5ntpuxnqokf3bb",
+                    "type": 3,
+                    "utter": "分かった"
+                }
+            ],
+            "uri": "at://did:plc:s7rtey32ts5ntpuxnqokf3bb/app.bsky.feed.post/3knfazbqa3z2z",
+            "label": [
+                0.9990177154541016,
+                6.152832065708935e-05,
+                0.00046937604201957583,
+                0.0001453462173230946,
+                4.4771048123948276e-05,
+                5.826484994031489e-05,
+                8.599062857683748e-05,
+                0.00011702109623001888
+            ]
+        }
+    ]
+}

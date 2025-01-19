@@ -1,0 +1,844 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "いいな～いいな～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "でも高かったよ・・・想定外の出費過ぎて痛い"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "やっぱり高いよな～パチンコ屋で使う勇気ないから最近の相場が全部わからん笑"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lbnx7gd3wc2o",
+            "label": [
+                0.08341886103153229,
+                0.11711926013231277,
+                0.0031259479001164436,
+                0.057838309556245804,
+                0.0006607548566535115,
+                0.731841504573822,
+                0.004477560054510832,
+                0.0015177411260083318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "やっぱり高いよな～パチンコ屋で使う勇気ないから最近の相場が全部わからん笑"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "いくら最新モデルとはいえ、素で6万近くはウッてなる()\n\nまあWatch 2が1万になったからちょっとは傷浅くなったんだけども"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "素で６万はなかなかするな･･･\nでもまあ今はそんなもんだよな～"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lbotiv3uuk25",
+            "label": [
+                0.0298985056579113,
+                0.024850768968462944,
+                0.0054626078344881535,
+                0.8496582508087158,
+                0.000626702734734863,
+                0.08597894012928009,
+                0.002135312417522073,
+                0.0013888356043025851
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "素で６万はなかなかするな･･･\nでもまあ今はそんなもんだよな～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "でしょー？\n\nでもApple watchはAndroidと繋がらないしGalaxy watchもスマホ合わせないと使えない機能あるしで、どうしても選択の幅がね・・・\n\nまあ私バカだから使えば何でもかんでも満足するんだけどさw"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "２～３万だったら良いのに\n最近スマホ周りほんと高くなりすぎじゃない！？！？\nまあそれはそうよ笑\n愛着もわくしな！"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lbr2hbmaqk24",
+            "label": [
+                0.0006768492748960853,
+                0.0009508916991762817,
+                0.00040521143819205463,
+                0.9971216320991516,
+                0.0001474600430810824,
+                0.00042363483225926757,
+                0.0001831629197113216,
+                9.106869401875883e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "２～３万だったら良いのに\n最近スマホ周りほんと高くなりすぎじゃない！？！？\nまあそれはそうよ笑\n愛着もわくしな！"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "Watch 2の方だと今3万ちょいなんだけど、なんか同じものを1年落ちで買うのも憚られて・・・\n\nどんどん高性能になってるからずーっと値上がり傾向で我々には生きづらいよね、5～6年前なんて最新のスマホも10万切ってたのが倍だし"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "そうなの！？いまはそういう感じで買うのが主流なの！？\n\n高性能になるのはとても良いけど使いこなせないからAシリーズみたいのでも良いかなって思うんだけどもうそれでも高いよな"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lbr3oxauxc2r",
+            "label": [
+                0.0010181783000007272,
+                0.0004772524698637426,
+                0.002707967534661293,
+                0.9950520396232605,
+                0.00012481473095249385,
+                0.00034993610461242497,
+                0.0001253524678759277,
+                0.00014448263391386718
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "これーーー！！めっちゃ気になってたやつ！！でもお値段高くて合わなかったら悲しいから手出せなかったんだよね\nおぜうは標準？\n己も低いのなら高い方がいいんだよな～\nいまニトリのホテルの枕？みたいなの使ってるんだけどヘタって来たからそろそろ買い替え時なんよな～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "リンクの1番高さあるやつにした！\nなんか寝返りで横向いても頭が変に下がらないくらい高くて、今日実際に寝るのがすごい楽しみ"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "ちょっと明日詳しくレビューきぼんぬ\n己もめっちゃ寝返りうってるっぽいからそれすごく良さそう～"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lfmckfxsg227",
+            "label": [
+                0.0016379315638914704,
+                0.00019031265401281416,
+                0.997721254825592,
+                0.0001382746413582936,
+                6.603539804928005e-05,
+                0.00011360881035216153,
+                6.396343087544665e-05,
+                6.857576954644173e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "ちょっと明日詳しくレビューきぼんぬ\n己もめっちゃ寝返りうってるっぽいからそれすごく良さそう～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "とはいえ寝てる時の記憶ないから、時計の睡眠モニタとか起きた感覚とかになっちゃうけど良き？"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "起きたときの感覚がいちばん大事！！楽しみにまっとる！！"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lfmd7xlr7s2s",
+            "label": [
+                0.027230553328990936,
+                0.00043503966298885643,
+                0.9712297916412354,
+                0.0002783953386824578,
+                0.00018822016136255115,
+                0.00029986363369971514,
+                0.00014008025755174458,
+                0.0001979521766770631
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "起きたときの感覚がいちばん大事！！楽しみにまっとる！！"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "任せろ！"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "起きたとき首に違和感なくよくねたーーってなった時は最高だからな！"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lfmf2n2yes2s",
+            "label": [
+                0.9996520280838013,
+                4.512165469350293e-05,
+                8.599723514635116e-05,
+                5.217159559833817e-05,
+                2.830726771207992e-05,
+                4.2719548218883574e-05,
+                5.037189839640632e-05,
+                4.3221421947237104e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "Googleってそういうの下手くそだよな\nわざとなのかな？"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "うーん・・・単純に下手なだけっぽい？\n\nウル姉はやったー？"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "いやおぜうのツイでしった笑\nGoogleのまじでえ？やってたの！？って多くて困る\n前もなんかケースもらえるやつギリギリで気が付いて応募した記憶･･･基本情報入ったときには終ってるんだよな･･･"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lf5tl6uyok2v",
+            "label": [
+                0.003619423136115074,
+                0.1339738667011261,
+                0.000521778070833534,
+                0.8513509631156921,
+                0.0005171473021619022,
+                0.007334087509661913,
+                0.0024558384902775288,
+                0.00022694701328873634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "いやおぜうのツイでしった笑\nGoogleのまじでえ？やってたの！？って多くて困る\n前もなんかケースもらえるやつギリギリで気が付いて応募した記憶･･･基本情報入ったときには終ってるんだよな･･･"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "あれステージクリアでPlayポイントも貰えるからやれるだけやっとくと良いわよマジで"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "さっきやってさ、途中でやめてまた始めたら最初からなんだけどセーブ的なものはない感じかしら？"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lf77aixpdk2g",
+            "label": [
+                0.017592793330550194,
+                0.42038536071777344,
+                0.178714320063591,
+                0.019859693944454193,
+                0.00119666731916368,
+                0.35656753182411194,
+                0.0046964241191744804,
+                0.0009872076334431767
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "さっきやってさ、途中でやめてまた始めたら最初からなんだけどセーブ的なものはない感じかしら？"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "ブロンズとかシルバーとか、各メインクエスト終わりでしかセーブ入らないのよ・・・"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "あり！おけおけ！夜にまとめてやるわ！"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lf7dc43sjc2n",
+            "label": [
+                0.6248888373374939,
+                0.0018251235596835613,
+                0.36870720982551575,
+                0.0016188407316803932,
+                0.0007303791935555637,
+                0.0004861670604441315,
+                0.0007844752399250865,
+                0.0009589730761945248
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "あり！おけおけ！夜にまとめてやるわ！"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "攻略サイトもあるしさくっとやっちゃえやっちゃえ！"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "攻略サイトちゃんとあるのかよ笑"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lf7lltl4zc2a",
+            "label": [
+                0.0013079466298222542,
+                0.0008655327255837619,
+                0.0005656865541823208,
+                0.9955776929855347,
+                0.0002509949845261872,
+                0.0008438928634859622,
+                0.00046502790064550936,
+                0.0001232597860507667
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "なんかかっこよ！"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "バカ高いだけあって宝石みたい"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "なくしたら絶望するやつか"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lem4y5zq7k2r",
+            "label": [
+                0.00206843763589859,
+                0.13973991572856903,
+                0.002055939519777894,
+                0.0018256405601277947,
+                0.0009456857806071639,
+                0.8507602214813232,
+                0.0022276784293353558,
+                0.00037647646968252957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "なくしたら絶望するやつか"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "元値8万のセール4万7千だから吐く"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "おはゆーおぜう\nあけおめめ～"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lenj2pvnu22d",
+            "label": [
+                0.9988194108009338,
+                0.00010385800123913214,
+                0.0006984813371673226,
+                9.924462210619822e-05,
+                4.90263118990697e-05,
+                3.905949415639043e-05,
+                0.00011458849621703848,
+                7.622000703122467e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "おはゆーおぜう\nあけおめめ～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "おはよーウル姉ー\n\n今年ものんびりよろしくね"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "おぜうは休みはどんな感じ？"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3leqrr6vadk23",
+            "label": [
+                0.07941233366727829,
+                0.001685421564616263,
+                0.9125586748123169,
+                0.003362516174092889,
+                0.00041035268804989755,
+                0.0011972675565630198,
+                0.0005115522653795779,
+                0.0008619216969236732
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "おぜうは休みはどんな感じ？"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "5日から3連休は勝ち取った、割にあってないけどね"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "ただの連休やな･･･"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3leqxfmyg322s",
+            "label": [
+                0.002873864956200123,
+                0.9944782257080078,
+                0.00037486961809918284,
+                0.0005744118243455887,
+                4.9247799324803054e-05,
+                0.0005011672037653625,
+                0.0010991038288921118,
+                4.92137587571051e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "ま？復活した？"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "昨日40.5度まで行って死んだかと思ったけど生きてる、あとアイコンとてもかわいい"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "昨日ってじゃあまだ治ってないじゃん\nお大事にだぞ\nそそ描いてもらった～念願のイザーク笑"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3le23ciy52k2u",
+            "label": [
+                0.999588668346405,
+                5.7316097809234634e-05,
+                0.00014308370009530336,
+                6.905916961841285e-05,
+                2.4294518880196847e-05,
+                3.9923470467329025e-05,
+                4.142299803788774e-05,
+                3.6327066482044756e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "昨日ってじゃあまだ治ってないじゃん\nお大事にだぞ\nそそ描いてもらった～念願のイザーク笑"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "恐ろしいことに貰った薬飲んだら今日37.0まで下がってんのよ、こわくない？w"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "いや薬効きすぎだろ笑"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3le23h3kiu223",
+            "label": [
+                0.001823620987124741,
+                0.0005050043109804392,
+                0.0003741417021956295,
+                0.9959126114845276,
+                0.00014548486797139049,
+                0.0008785352692939341,
+                0.0002552492078393698,
+                0.00010527302947593853
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "いや薬効きすぎだろ笑"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "調べたら1日でそれ飲んだうちの半分の人がウイルス消滅したってデータあるらしくて笑ったよね"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "とんでもねえ薬が出来てるな笑"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3le24krvrfs2s",
+            "label": [
+                0.003511486342176795,
+                0.0004975867341272533,
+                0.0007708112243562937,
+                0.9938855767250061,
+                0.00010831411054823548,
+                0.0009056436247192323,
+                0.0002030668838415295,
+                0.0001174298522528261
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "とんでもねえ薬が出来てるな笑"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "んね、時代の進歩はすごい"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "でも下がってもしばらくはおとなしくしとかないとな"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3le24skabik2s",
+            "label": [
+                0.03674628958106041,
+                0.011774761602282524,
+                0.3306921422481537,
+                0.00117251998744905,
+                0.0006514696287922561,
+                0.6157135963439941,
+                0.0015453327214345336,
+                0.0017038863152265549
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "mixi2どう？やる？"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "やっちゃう？"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "気になるよね"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3ldmwlwzrqk2q",
+            "label": [
+                0.021417785435914993,
+                0.0003710755845531821,
+                0.9767253994941711,
+                0.000648870540317148,
+                0.00011436588829383254,
+                0.00037360202986747026,
+                0.0001457141333958134,
+                0.000203232018975541
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "気になるよね"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "ウル姉のいくとこ全部ついてくぞ()"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "どこが定番になって使いやすくなるかわからんもんな　いま状況だと\n少なくともついったくんはオワコンだからな"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3ldn4axxsik2v",
+            "label": [
+                0.1039925366640091,
+                0.33374664187431335,
+                0.1286488175392151,
+                0.0016048980178311467,
+                0.0006941385800018907,
+                0.4230055510997772,
+                0.006169441621750593,
+                0.0021379089448601007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "どこが定番になって使いやすくなるかわからんもんな　いま状況だと\n少なくともついったくんはオワコンだからな"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "なんかSNS周りのウル姉の嗅覚すごいから信頼してる"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "片っ端からやって使いやすいの見つけるしかないからな笑\nいまは青空が気に入ってるけど"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3ldo3nawark2v",
+            "label": [
+                0.09018699079751968,
+                0.0008785998215898871,
+                0.9072654247283936,
+                0.00026454581529833376,
+                0.0002296179300174117,
+                0.000524876406416297,
+                0.00030349427834153175,
+                0.0003465047921054065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "片っ端からやって使いやすいの見つけるしかないからな笑\nいまは青空が気に入ってるけど"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "なんか無難だから「こういうので良いんだよ」感が強し"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "そうそう\nあと公式がくる確率が他のに比べて高い気がする？\nミスキーとかあの辺は国内だけだから公式はこなさそうなんだよな～"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3ldpye232qc2k",
+            "label": [
+                0.921217679977417,
+                0.0004845649818889797,
+                0.021945269778370857,
+                0.05200466141104698,
+                0.0006257069762796164,
+                0.0004760011797770858,
+                0.0008425984415225685,
+                0.0024035705719143152
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "そうそう\nあと公式がくる確率が他のに比べて高い気がする？\nミスキーとかあの辺は国内だけだから公式はこなさそうなんだよな～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "ローカルだし良くも悪くもアングラって感じするよねミスキ"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "そそ\nこれで良い感もとても強いんだけど最終的に変なのばっかり残りそうっていうか笑"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3ldtwdew4sc2l",
+            "label": [
+                0.044759154319763184,
+                0.009738437831401825,
+                0.030878204852342606,
+                0.002513442886993289,
+                0.00034954119473695755,
+                0.9091258645057678,
+                0.0018191543640568852,
+                0.0008161627920344472
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "そしてちゃんとバイトきてる"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "非常にえらい、誉めてしんぜよう"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "つかれた～～"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lckadf7pnk2r",
+            "label": [
+                0.0006555590662173927,
+                0.9940598011016846,
+                0.00031137492624111474,
+                0.00032537407241761684,
+                0.00012754013005178422,
+                0.000501869129948318,
+                0.003975232131779194,
+                4.3296575313434005e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "つかれた～～"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "えらいぞー、ぎゅー"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "明日はリニューアルオープンだーーーがんばりゅ"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lckonzqu4c24",
+            "label": [
+                0.0012447074986994267,
+                0.00026091246400028467,
+                0.9980716109275818,
+                0.00013039782061241567,
+                7.236155215650797e-05,
+                9.062860772246495e-05,
+                6.214684981387109e-05,
+                6.724779814248905e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "明日はリニューアルオープンだーーーがんばりゅ"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "リニューアル！無理しない程度に！"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "今日新しいカウンターぽちぽちしたけどいまいちわかってない！！まあなんとかなるだろ･･･"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lckr6dzzqk2c",
+            "label": [
+                0.008667286485433578,
+                0.8130841851234436,
+                0.005805219989269972,
+                0.0018844399601221085,
+                0.00046180139179341495,
+                0.1678067445755005,
+                0.00197364273481071,
+                0.0003166676324326545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 1,
+                    "utter": "今日新しいカウンターぽちぽちしたけどいまいちわかってない！！まあなんとかなるだろ･･･"
+                },
+                {
+                    "author": "did:plc:hdmwy3ljwzy3bdkisjohno3x",
+                    "type": 2,
+                    "utter": "なんだか知らんがとにかくヨシ！"
+                },
+                {
+                    "author": "did:plc:tdnfespuj7fzwrdpspvw5ded",
+                    "type": 3,
+                    "utter": "まじでその顔で話聞いてた←"
+                }
+            ],
+            "uri": "at://did:plc:tdnfespuj7fzwrdpspvw5ded/app.bsky.feed.post/3lckrc7nzk22c",
+            "label": [
+                0.11010435968637466,
+                0.0076864114962518215,
+                0.0018503592582419515,
+                0.834052562713623,
+                0.0010328362695872784,
+                0.020964542403817177,
+                0.02214018814265728,
+                0.0021687932312488556
+            ]
+        }
+    ]
+}

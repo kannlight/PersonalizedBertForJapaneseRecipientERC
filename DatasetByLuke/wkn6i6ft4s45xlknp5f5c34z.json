@@ -1,0 +1,369 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "1kのやつと1.5kのやつ合計で？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "1000円の方買ってないや欲しい感じ？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "今直筆確定15枚だけど"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "おっけーおっけー\n1kの方は自分で買うわ～"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lc2vri4rpk2m",
+            "label": [
+                0.9995569586753845,
+                4.883535439148545e-05,
+                0.00016394443809986115,
+                5.9858415625058115e-05,
+                2.951749956991989e-05,
+                4.371290197013877e-05,
+                5.55158439965453e-05,
+                4.157714647590183e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "おっけーおっけー\n1kの方は自分で買うわ～"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "継続して直筆確定買うわ\nぺるの配信あるかどうかで数減るかもだけど"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "その辺はお任せするよ。\nありがとう！"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lc2vuovb5s2m",
+            "label": [
+                0.9993234872817993,
+                5.7202065363526344e-05,
+                0.00034926849184557796,
+                5.347263140720315e-05,
+                3.072948311455548e-05,
+                6.0011087043676525e-05,
+                5.898167728446424e-05,
+                6.684844265691936e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "その辺はお任せするよ。\nありがとう！"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "まあ、どうせ通わないとぺるのが買えないしw"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "Wチャンスのやつ最終的に何枚になるか楽しみだわｗ"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lc2w3hrh3s2m",
+            "label": [
+                0.006431153044104576,
+                0.00028044069767929614,
+                0.9926129579544067,
+                0.00019929168047383428,
+                0.00010198276140727103,
+                0.0001899135095300153,
+                8.960893319454044e-05,
+                9.468851203564554e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "Wチャンスのやつ最終的に何枚になるか楽しみだわｗ"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "案外他の賞が出ないからやばいw"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "A賞の報告待ってますね"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lc2w7hh5bs2m",
+            "label": [
+                0.0009539672173559666,
+                0.0002479584072716534,
+                0.998422384262085,
+                0.00010445230145705864,
+                6.414807285182178e-05,
+                8.427385910181329e-05,
+                6.124462379375473e-05,
+                6.15101307630539e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "変えれないんだっけ？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "変わるはずだったけど、いろいろやっても変わらなくて詰んだ\n\n流石にこのタイミングで自分からのお祝いは喜ばれないって…"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "連名にするかい？"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3ldgifuioek2e",
+            "label": [
+                0.00173935666680336,
+                0.0003606698883231729,
+                0.9970797896385193,
+                0.0002561759320087731,
+                0.00012870294449385256,
+                0.0001817935408325866,
+                0.00013292767107486725,
+                0.00012060777225997299
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "連名にするかい？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "アイコンがわいのＸアイコンなんや…"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "もう締め切ってる？"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3ldgin7nefs2e",
+            "label": [
+                0.007680143695324659,
+                0.02672215737402439,
+                0.007664237171411514,
+                0.9426530003547668,
+                0.00041915307519957423,
+                0.013293866999447346,
+                0.0010454455623403192,
+                0.000521956360898912
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "もう締め切ってる？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "まだよ"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "寄せ書きというかプロフィールが変えれないってことか"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3ldgiqnj4cs2e",
+            "label": [
+                0.010974201373755932,
+                0.8718491196632385,
+                0.0006978767924010754,
+                0.1046672910451889,
+                0.0004230881459079683,
+                0.007874603383243084,
+                0.0032515020575374365,
+                0.0002621956809889525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "寄せ書きというかプロフィールが変えれないってことか"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "そう言うことw"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "調べてるけど幹事の交代とかできないのね"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3ldgixdvofk2e",
+            "label": [
+                0.0004506132681854069,
+                0.9978399276733398,
+                0.00013579022197518498,
+                0.0008145316387526691,
+                6.542021583300084e-05,
+                0.00025264869327656925,
+                0.0004122380923945457,
+                2.8836562705691904e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "りょ！\n明日の15時～16時の間くらいで行くと思うわ"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "おなじくらいかな？けどフリー18時から？"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "イベントある日は予約できないんだっけ？"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lcbxnnllxc2k",
+            "label": [
+                0.15364082157611847,
+                0.013112717308104038,
+                0.3378939628601074,
+                0.41023004055023193,
+                0.0006306477007456124,
+                0.08016503602266312,
+                0.0015092439716681838,
+                0.002817541128024459
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "イベントある日は予約できないんだっけ？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "無理だね〜、まあ交渉すれば裏手段あるかもだけど"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "そんなことせんわｗ\n16～18時の回から居座って18～20時の回に参加できないってことであってる？"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lcbxufvgy22k",
+            "label": [
+                0.007237169425934553,
+                0.006197373382747173,
+                0.001332145999185741,
+                0.9247724413871765,
+                0.027559397742152214,
+                0.0032461760565638542,
+                0.028103934600949287,
+                0.0015514763072133064
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "そんなことせんわｗ\n16～18時の回から居座って18～20時の回に参加できないってことであってる？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "基本的には出来ないはず、けど言えばできるかもねw"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "はでしゅくんは18時から行くの？"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lcbxzkpdms2k",
+            "label": [
+                0.05491745471954346,
+                0.0006668271380476654,
+                0.9390376210212708,
+                0.004051785916090012,
+                0.000192861829418689,
+                0.00045803654938936234,
+                0.00017127185128629208,
+                0.0005042374832555652
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 1,
+                    "utter": "はでしゅくんは18時から行くの？"
+                },
+                {
+                    "author": "did:plc:ae66c434zce22y74kfdpmanb",
+                    "type": 2,
+                    "utter": "16時に入って18時に退店扱いにしてもらいそのまま再入場って出来ないかなと画策中"
+                },
+                {
+                    "author": "did:plc:wkn6i6ft4s45xlknp5f5c34z",
+                    "type": 3,
+                    "utter": "それ私も考えたけど、退店した時点ですでに何人か並んでそうではある。\nいや、平日だしどのくらい人集まるのかわからんけども。"
+                }
+            ],
+            "uri": "at://did:plc:wkn6i6ft4s45xlknp5f5c34z/app.bsky.feed.post/3lcby65gfss2k",
+            "label": [
+                0.0027278189081698656,
+                0.0016569076105952263,
+                0.0012086904607713223,
+                0.002601208398118615,
+                0.00028707983437925577,
+                0.99039626121521,
+                0.0008822869276627898,
+                0.00023966957814991474
+            ]
+        }
+    ]
+}

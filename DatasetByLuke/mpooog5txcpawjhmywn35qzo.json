@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "うんw\n街中でもしてると思うw"
+                },
+                {
+                    "author": "did:plc:xzo544p4v7arkngu7secio6i",
+                    "type": 2,
+                    "utter": "お〜マジですかw"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "うんw\n気づく人いるから焦って足閉じるw"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3lberzvv5h22o",
+            "label": [
+                0.009881134144961834,
+                0.0027659477200359106,
+                0.0018312482861801982,
+                0.010008670389652252,
+                0.00028827236383222044,
+                0.9744306206703186,
+                0.0004686310130637139,
+                0.00032544051646254957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "うんw\n気づく人いるから焦って足閉じるw"
+                },
+                {
+                    "author": "did:plc:xzo544p4v7arkngu7secio6i",
+                    "type": 2,
+                    "utter": "撮られてそうだ"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "かなぁ…？"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3lbes3q3sw22o",
+            "label": [
+                0.02868368849158287,
+                0.0010701942956075072,
+                0.9679872989654541,
+                0.00035198457771912217,
+                9.099617454921827e-05,
+                0.0013746456243097782,
+                0.00019079286721535027,
+                0.0002504260919522494
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "かなぁ…？"
+                },
+                {
+                    "author": "did:plc:xzo544p4v7arkngu7secio6i",
+                    "type": 2,
+                    "utter": "たぶん(^◇^;)"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "撮られることはあるよw"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3lbevslrgrs2o",
+            "label": [
+                0.9802951216697693,
+                0.0007202531560324132,
+                0.010133381001651287,
+                0.00602682214230299,
+                0.00024897666298784316,
+                0.0008852749015204608,
+                0.0005105993477627635,
+                0.0011794976890087128
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "撮られることはあるよw"
+                },
+                {
+                    "author": "did:plc:xzo544p4v7arkngu7secio6i",
+                    "type": 2,
+                    "utter": "そうなんですね💕"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "うんw"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3lbffzamavc2o",
+            "label": [
+                0.992672324180603,
+                0.0006781668053008616,
+                0.002628408605232835,
+                0.0013258976396173239,
+                0.00022347524645738304,
+                0.0005127255572006106,
+                0.001384745934046805,
+                0.0005743324290961027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "えーw\nタイツ履いてるのにww"
+                },
+                {
+                    "author": "did:plc:vboxculwgtfp3z5saix6kice",
+                    "type": 2,
+                    "utter": "タイツがえっちだなと思ってw"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "タイツ好きなんだ？w"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3kpk4epstqw2q",
+            "label": [
+                0.00240160059183836,
+                0.00034572294680401683,
+                0.0011975986417382956,
+                0.9952488541603088,
+                0.00018302423995919526,
+                0.0001960029185283929,
+                0.00026609862106852233,
+                0.00016107191913761199
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "タイツ好きなんだ？w"
+                },
+                {
+                    "author": "did:plc:vboxculwgtfp3z5saix6kice",
+                    "type": 2,
+                    "utter": "めちゃくちゃ好きw"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "何色が好き？"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3kpkkdmwtet2z",
+            "label": [
+                0.6296280026435852,
+                0.0008334718295373023,
+                0.3638896644115448,
+                0.001541548757813871,
+                0.0008404843974858522,
+                0.0007779974257573485,
+                0.0009883528109639883,
+                0.0015004968736320734
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "何色が好き？"
+                },
+                {
+                    "author": "did:plc:vboxculwgtfp3z5saix6kice",
+                    "type": 2,
+                    "utter": "黒かなぁ"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "黒はなんか男の子に人気だよね♪"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3kpkkq4kz4b2d",
+            "label": [
+                0.9975060820579529,
+                9.280680387746543e-05,
+                0.0016066537937149405,
+                0.0005036424263380468,
+                4.6132190618664026e-05,
+                6.047237548045814e-05,
+                6.832939106971025e-05,
+                0.0001159134044428356
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 1,
+                    "utter": "黒はなんか男の子に人気だよね♪"
+                },
+                {
+                    "author": "did:plc:vboxculwgtfp3z5saix6kice",
+                    "type": 2,
+                    "utter": "おっぱいより好きだからねw"
+                },
+                {
+                    "author": "did:plc:mpooog5txcpawjhmywn35qzo",
+                    "type": 3,
+                    "utter": "そうなの？w"
+                }
+            ],
+            "uri": "at://did:plc:mpooog5txcpawjhmywn35qzo/app.bsky.feed.post/3kpkl2yzeq42j",
+            "label": [
+                0.0011939388932660222,
+                0.0003798947436735034,
+                0.0009139251196756959,
+                0.9967834949493408,
+                0.00019553069432731718,
+                0.00017239667067769915,
+                0.00023007177514955401,
+                0.00013075732567813247
+            ]
+        }
+    ]
+}

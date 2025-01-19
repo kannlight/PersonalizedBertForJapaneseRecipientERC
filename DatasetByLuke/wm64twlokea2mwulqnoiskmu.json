@@ -1,0 +1,279 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "12/14ちなつないと大阪オフとかどうやろ"
+                },
+                {
+                    "author": "did:plc:fyh5bznnc2w6aq2wxt6p5rua",
+                    "type": 2,
+                    "utter": "私名古屋なんす…"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "えっ今名古屋なん？？\n遠くなってしもうたな🥺"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3lc3hjbd6hc26",
+            "label": [
+                0.0004897286999039352,
+                0.0007785934139974415,
+                0.0004762034222949296,
+                0.9975276589393616,
+                0.00015415818779729307,
+                0.0003079691668972373,
+                0.00018411895143799484,
+                8.158612035913393e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "えっ今名古屋なん？？\n遠くなってしもうたな🥺"
+                },
+                {
+                    "author": "did:plc:fyh5bznnc2w6aq2wxt6p5rua",
+                    "type": 2,
+                    "utter": "いえ、住所は変わってないんですけど当日は東京で起きて終電近くまで名古屋なんです🥺"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "相変わらず移動範囲が広いなw\n大阪民他にいないかなあ"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3lc3hym62l226",
+            "label": [
+                0.0035925705451518297,
+                0.00048639337182976305,
+                0.008684421889483929,
+                0.9858878254890442,
+                0.00016305620374623686,
+                0.0005851408932358027,
+                0.00032109522726386786,
+                0.00027943833265453577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "相変わらず移動範囲が広いなw\n大阪民他にいないかなあ"
+                },
+                {
+                    "author": "did:plc:fyh5bznnc2w6aq2wxt6p5rua",
+                    "type": 2,
+                    "utter": "基本ひきこもりなんですけどたまたま予定が😇\nコメ欄見る限りぐけーさんとか大阪みたいですけどどうなんでしょうね🤔"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "4人集まったら飯食ったあとセットとかも出来るんやろうけど、難しいかなあ"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3lc3imjfzk226",
+            "label": [
+                0.01181610394269228,
+                0.12743249535560608,
+                0.8505862951278687,
+                0.0003847215266432613,
+                0.00020831009896937758,
+                0.008443492464721203,
+                0.000749609898775816,
+                0.00037894921842962503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "4人集まったら飯食ったあとセットとかも出来るんやろうけど、難しいかなあ"
+                },
+                {
+                    "author": "did:plc:fyh5bznnc2w6aq2wxt6p5rua",
+                    "type": 2,
+                    "utter": "声かけてみましょ🙆‍♀️\n私も行けたらよかったんですけど🥺"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "ぐけーさん誘ってみるわ〜"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "途中送信した\nまたご飯行こな！"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3lc3kdaq2bc26",
+            "label": [
+                0.0011427007848396897,
+                0.00021598451712634414,
+                0.9982115030288696,
+                0.00011888277367688715,
+                7.991023448994383e-05,
+                8.695061842445284e-05,
+                7.756467675790191e-05,
+                6.651208241237327e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "まぁ鍵垢にして本人にバレなきゃいいか"
+                },
+                {
+                    "author": "did:plc:lerpchfbbjay4qr6gxhosije",
+                    "type": 2,
+                    "utter": "それはばれるからだめ😑\nなまこさんの言うラインがよくわからないから私もどちらとも言えない…\nこれくらいなら全然オッケーのパターンもあるし"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "ばれた！\n大人しくちょっとずつライン上げて慣らしていきます"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3kxg2gy7dsd2l",
+            "label": [
+                0.07221023738384247,
+                0.10758515447378159,
+                0.022814882919192314,
+                0.6088226437568665,
+                0.0023813340812921524,
+                0.1806585192680359,
+                0.0037342647556215525,
+                0.0017930361209437251
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "ばれた！\n大人しくちょっとずつライン上げて慣らしていきます"
+                },
+                {
+                    "author": "did:plc:lerpchfbbjay4qr6gxhosije",
+                    "type": 2,
+                    "utter": "いやもうギリギリだからというかちょび超えてんのよ笑　見えてるからw"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "えっえっなんの話"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3kxg2lns7lw22",
+            "label": [
+                0.0003644950338639319,
+                0.00033715457539074123,
+                0.0004799666930921376,
+                0.9979053735733032,
+                0.0002810835721902549,
+                0.0002857273502741009,
+                0.00023256600252352655,
+                0.00011361221550032496
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "えっえっなんの話"
+                },
+                {
+                    "author": "did:plc:lerpchfbbjay4qr6gxhosije",
+                    "type": 2,
+                    "utter": "いつもイラストがすごく綺麗だからもってるようなものw絵師さんに感謝してw"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "綺麗な絵師さんにしか頼まないから\nそっかじゃあ思いついたの十分アウトだわ…"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3kxg2r7uvt22r",
+            "label": [
+                0.012381692416965961,
+                0.43077707290649414,
+                0.0011875370983034372,
+                0.006549880374222994,
+                0.0009509577648714185,
+                0.5386926531791687,
+                0.008882001973688602,
+                0.0005781905492767692
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "綺麗な絵師さんにしか頼まないから\nそっかじゃあ思いついたの十分アウトだわ…"
+                },
+                {
+                    "author": "did:plc:lerpchfbbjay4qr6gxhosije",
+                    "type": 2,
+                    "utter": "まぁでもなまこさんの絵っちなつ楽しみにしてる人もいるから\nアンケートしてきめるかー🤔"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "どんなアンケートwww\nいやおちなさんがライン越えなら自重しますよ\nおちなさんに見てもらいたい気持ちが8割だし"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3kxg2wfc4rg2d",
+            "label": [
+                0.13557854294776917,
+                0.005381874740123749,
+                0.8372885584831238,
+                0.005745373200625181,
+                0.0009836803656071424,
+                0.01051169540733099,
+                0.0017722888151183724,
+                0.002738111186772585
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 1,
+                    "utter": "どんなアンケートwww\nいやおちなさんがライン越えなら自重しますよ\nおちなさんに見てもらいたい気持ちが8割だし"
+                },
+                {
+                    "author": "did:plc:lerpchfbbjay4qr6gxhosije",
+                    "type": 2,
+                    "utter": "なにそれwwwwどうゆう感情www\nじゃこうしよう\nいま思い浮かんだシュチュエーションで\nえっちなつアカウントで\nみたいかみたくないか\nアンケートとって\nみたいって票が13人入ったらいいよw"
+                },
+                {
+                    "author": "did:plc:wm64twlokea2mwulqnoiskmu",
+                    "type": 3,
+                    "utter": "あのねえそんなん全員見たいに決まってんでしょw\nわいの頼むイラストが好きで集まってくれた人たちやで\n一段過激なのが来るのが嫌なはずがない"
+                }
+            ],
+            "uri": "at://did:plc:wm64twlokea2mwulqnoiskmu/app.bsky.feed.post/3kxg3cg7h6b2x",
+            "label": [
+                0.6192178130149841,
+                0.016999421641230583,
+                0.03227679803967476,
+                0.03118683397769928,
+                0.20611687004566193,
+                0.0036628511734306812,
+                0.07047019898891449,
+                0.020069243386387825
+            ]
+        }
+    ]
+}

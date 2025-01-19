@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "おめでとう"
+                },
+                {
+                    "author": "did:plc:fqqakwnsulktzi4cy3nd5ole",
+                    "type": 2,
+                    "utter": "ありがと〜"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "ナナちゃんだけ出ません\n助けて"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lbjhgvrqo22o",
+            "label": [
+                0.00020091256010346115,
+                0.9987239241600037,
+                0.000156891779624857,
+                0.0001668558397796005,
+                0.00010134380863746628,
+                0.00033965561306104064,
+                0.00028211367316544056,
+                2.8237594960955903e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "ナナちゃんだけ出ません\n助けて"
+                },
+                {
+                    "author": "did:plc:fqqakwnsulktzi4cy3nd5ole",
+                    "type": 2,
+                    "utter": "見てないんだけど、ナナちゃんだけ確率極悪な奴じゃなくて…？（ポイント交換でもらえる奴）"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "それはモモの方やねー\nモモはガチャから2枚出てます(白目"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lbjhob57is2o",
+            "label": [
+                0.00043472490506246686,
+                0.9984347224235535,
+                0.00014967024617362767,
+                0.00014648727665189654,
+                6.90743763698265e-05,
+                0.0001637737877899781,
+                0.0005708620883524418,
+                3.060766539420001e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "それはモモの方やねー\nモモはガチャから2枚出てます(白目"
+                },
+                {
+                    "author": "did:plc:fqqakwnsulktzi4cy3nd5ole",
+                    "type": 2,
+                    "utter": "不運同盟すぎて笑うんだけどw"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "ナナ本命の片割れなんだよなぁ(\nヤミは一瞬で出たのに…"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lbjhumlpgs2o",
+            "label": [
+                0.03036443516612053,
+                0.9468457102775574,
+                0.009925867430865765,
+                0.0019096024334430695,
+                0.00028196992934681475,
+                0.008967290632426739,
+                0.0012169223045930266,
+                0.00048821052769199014
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "ナナ本命の片割れなんだよなぁ(\nヤミは一瞬で出たのに…"
+                },
+                {
+                    "author": "did:plc:fqqakwnsulktzi4cy3nd5ole",
+                    "type": 2,
+                    "utter": "出ない日はまーじで出ないので日を改めるしかないっすね…"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "がんばる…"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lbjhxkeukc2o",
+            "label": [
+                0.0005757788312621415,
+                0.0022937841713428497,
+                0.9964913725852966,
+                0.00012408714974299073,
+                6.195993773872033e-05,
+                0.0002628162910696119,
+                0.00012616065214388072,
+                6.395023228833452e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "お、情報出たの？"
+                },
+                {
+                    "author": "did:plc:ksvfhor65lbc2ydfnzy2nf4x",
+                    "type": 2,
+                    "utter": "Xの任天堂アカウントで互換性の発言があった感じ。"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "やったぜ"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3laayu64z3l25",
+            "label": [
+                0.9995867609977722,
+                4.9354275688529015e-05,
+                0.00013584048429038376,
+                6.0938353271922097e-05,
+                3.152897988911718e-05,
+                4.323335815570317e-05,
+                5.227007932262495e-05,
+                4.0008806536206976e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "やったぜ"
+                },
+                {
+                    "author": "did:plc:ksvfhor65lbc2ydfnzy2nf4x",
+                    "type": 2,
+                    "utter": "まじありがたいよね。任天堂オンラインもそのまま使えるらしいので更に嬉しい。"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "だねー\n互換性なくて泣く泣く出来なくなったゲームも多いからね…"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lab3qgcnsg2l",
+            "label": [
+                0.00029250961961224675,
+                0.9990062117576599,
+                0.00014092113997321576,
+                0.00010777382703963667,
+                5.5551012337673455e-05,
+                0.00016444348148070276,
+                0.00020338383910711855,
+                2.9128490496077575e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "だねー\n互換性なくて泣く泣く出来なくなったゲームも多いからね…"
+                },
+                {
+                    "author": "did:plc:ksvfhor65lbc2ydfnzy2nf4x",
+                    "type": 2,
+                    "utter": "まじそれな。移植版作ってくれるとは限らないからね…。"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "PS2とかWiiUのゲームとかね…"
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lab3wd4o5325",
+            "label": [
+                0.013665863312780857,
+                0.027877815067768097,
+                0.9545511603355408,
+                0.00039708035183139145,
+                0.0001722281740512699,
+                0.0020238086581230164,
+                0.001019502873532474,
+                0.0002926784800365567
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 1,
+                    "utter": "PS2とかWiiUのゲームとかね…"
+                },
+                {
+                    "author": "did:plc:ksvfhor65lbc2ydfnzy2nf4x",
+                    "type": 2,
+                    "utter": "私が未だにｐｓ３を捨てられない理由っすよ…"
+                },
+                {
+                    "author": "did:plc:z3ypr3w73lgu3mlekgnapopq",
+                    "type": 3,
+                    "utter": "PS3くんは死にました("
+                }
+            ],
+            "uri": "at://did:plc:z3ypr3w73lgu3mlekgnapopq/app.bsky.feed.post/3lab46wal4i2j",
+            "label": [
+                0.0002566605689935386,
+                0.9990691542625427,
+                0.00013818572915624827,
+                0.0001205983353429474,
+                5.8432113291928545e-05,
+                0.00013223831774666905,
+                0.00019534872262738645,
+                2.9493021429516375e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "まだ白坦々食べてません。\n美味しかったのですねー😊"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "お楽しみに取っておくのもいいですね🤤リピートまだです！"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "最近炭水化物を摂るとそのまま脂肪になるんですよね。\n京都で食べたラーメンと丼もので増えた2キロのうちの1キロが全く落ちず。\n年末年始に存分に食べるため調整中です。"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lbtmgsm3wk2x",
+            "label": [
+                0.00360432593151927,
+                0.9242451786994934,
+                0.06916442513465881,
+                0.0005229702219367027,
+                0.0001442206121282652,
+                0.0017107481835409999,
+                0.0004333704710006714,
+                0.00017483461124356836
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "最近炭水化物を摂るとそのまま脂肪になるんですよね。\n京都で食べたラーメンと丼もので増えた2キロのうちの1キロが全く落ちず。\n年末年始に存分に食べるため調整中です。"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "調整でしたか！マメコさんの2キロなんて気にすることないと思われますがまあそういうものですよね😌私は増量止まらないのに未調整🫠"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "太ってないのですがここぞって時に気負わず食べたいのでちょこちょこ調整してます😊"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lbtpz2zpmk2n",
+            "label": [
+                0.004803266376256943,
+                0.0004345321503933519,
+                0.9941832423210144,
+                0.000122005061712116,
+                9.593115100869909e-05,
+                0.00016627520381007344,
+                9.73666028585285e-05,
+                9.733252954902127e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "太ってないのですがここぞって時に気負わず食べたいのでちょこちょこ調整してます😊"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "そだ、韓国でしたよね。暖かいものが美味しそうですね！🍲調整、見習いたいです😞"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "そうなんです。昆大の前は炭水化物の街🇻🇳に行きますし、日本でも韓国でもおそらく暴飲暴食なので🤣"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lbtqma3m3c2t",
+            "label": [
+                0.12687961757183075,
+                0.03912020102143288,
+                0.012890865094959736,
+                0.006941283121705055,
+                0.0030357101932168007,
+                0.7883091568946838,
+                0.016019538044929504,
+                0.006803702563047409
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "そうなんです。昆大の前は炭水化物の街🇻🇳に行きますし、日本でも韓国でもおそらく暴飲暴食なので🤣"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "炭水化物の街なんですか！憧れ〜😍 年末年始は暴飲暴食をすべき時期！プデチゲが食べたくなってきました。太りそうなものばかり好きで困ります😅"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "韓国料理って炭水化物食べたくなりますよね！！\nベトナムも炭水化物ばっかりですよ〜すごいご飯🍚出てきますし。一人で行くと特にですね。\n皆さんともまたご飯行きたいです。今回タイミングありますかね！？"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lbtr7tr6ec2t",
+            "label": [
+                0.0005281096091493964,
+                0.00017904322885442525,
+                0.9989264607429504,
+                0.00011322082718834281,
+                5.9028290706919506e-05,
+                7.977506174938753e-05,
+                5.972813960397616e-05,
+                5.453043195302598e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "え！なんか絡まれたんですか？"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "国名書いてしまったせいか、私にじゃないですがその国憎し！みたいなのが出てきて消しました…全くそういうつもりなかったですが配慮足りなかったです！😖"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "SNSはどこも治安が悪いですね。\nどう使い分けようかと考え中です。"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lfevz7smns2x",
+            "label": [
+                0.005691683851182461,
+                0.00283670611679554,
+                0.035438455641269684,
+                0.0013509629061445594,
+                0.00035582215059548616,
+                0.9532104134559631,
+                0.0006055175326764584,
+                0.000510410638526082
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "SNSはどこも治安が悪いですね。\nどう使い分けようかと考え中です。"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "ここが一番平和ですね、今のところ。。変なのはずっとあちらにいてほしいです。"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "人が少ないからですかね。\n私ミクシィも始めてみましたがほぼ使ってません。"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lfewedzkbs2x",
+            "label": [
+                0.11759433895349503,
+                0.45023736357688904,
+                0.001276260707527399,
+                0.240157350897789,
+                0.0011381106451153755,
+                0.12424106895923615,
+                0.06307251006364822,
+                0.0022830793168395758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "人が少ないからですかね。\n私ミクシィも始めてみましたがほぼ使ってません。"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "そうだmixiもありましたね！様子見です。メタとXやんなっちゃったら考えねば。既に2人とも大嫌いですが。。"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "mixiはここよりもっと人がいないので気楽な気がします。"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3lfewueza222x",
+            "label": [
+                0.9976683259010315,
+                0.00010686282621463761,
+                0.0016503991791978478,
+                0.00014515515067614615,
+                3.5657187254400924e-05,
+                0.00014605636533815414,
+                0.00011130409257020801,
+                0.00013613338524010032
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "明日は洗濯🧺&パッキングデー🧳\n19日から2週間中米いってきま🪲"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "行ってらっしゃいませー！お気をつけて！写真、楽しみです～🍚🐛🐦"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "鳥は父に任せるかもですが、虫とご飯は頑張ります😆"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3kqazg2kdmw24",
+            "label": [
+                0.0013174409978091717,
+                0.00027390074683353305,
+                0.9979876279830933,
+                0.00011838866339530796,
+                6.003291855449788e-05,
+                0.00011642291065072641,
+                5.678476736648008e-05,
+                6.947330257389694e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "鳥は父に任せるかもですが、虫とご飯は頑張ります😆"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "一緒でも上と下で見る所が違いますね！ケツァールぅ😍 南米ご飯楽しみですー。スイーツもお願いします！"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "スイーツは日本からチョコレートスナックを買ってきてもらいますので…笑"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3kqcm6yafgp2h",
+            "label": [
+                0.0388062447309494,
+                0.001342647708952427,
+                0.9584779739379883,
+                0.0002391725720372051,
+                0.00013006897643208504,
+                0.0005365435499697924,
+                0.0002265563525725156,
+                0.00024079477589111775
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "スイーツは日本からチョコレートスナックを買ってきてもらいますので…笑"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "南米スイーツはあかんかったですか！😂沈"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "アイスしか食べてませんけど、それはイマイチでした🤣"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3kqdey7f7ad2g",
+            "label": [
+                0.00039239510078914464,
+                0.9980643391609192,
+                0.00015990796964615583,
+                0.0002085853775497526,
+                7.356962305493653e-05,
+                0.00015820770931895822,
+                0.000907541427295655,
+                3.5416098398854956e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "アイスしか食べてませんけど、それはイマイチでした🤣"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "アイスダメなら全てダメの法則ですね🍨 知らんがなですな！😆残念です…"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "スイーツには厳しいです😆"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3kqf2oz4a2c2b",
+            "label": [
+                0.008506047539412975,
+                0.9800294041633606,
+                0.0006368387839756906,
+                0.004233906511217356,
+                0.00010954422759823501,
+                0.005820025689899921,
+                0.0005451390170492232,
+                0.00011904064012924209
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 1,
+                    "utter": "スイーツには厳しいです😆"
+                },
+                {
+                    "author": "did:plc:5e6gnxyl7ymr5sn63yrghpdw",
+                    "type": 2,
+                    "utter": "私より厳しい！😝いや、私は大甘でドギツ色が好きなのでゆるいですね！"
+                },
+                {
+                    "author": "did:plc:3aklvfrterws5xg6ocyrzqiv",
+                    "type": 3,
+                    "utter": "三毛子さんはスイーツより甘いです。"
+                }
+            ],
+            "uri": "at://did:plc:3aklvfrterws5xg6ocyrzqiv/app.bsky.feed.post/3kqfr3nkvx62a",
+            "label": [
+                0.9878238439559937,
+                0.0014054428320378065,
+                0.005824110005050898,
+                0.0021155274007469416,
+                0.00017755257431417704,
+                0.0012134904973208904,
+                0.0005759897758252919,
+                0.0008639261941425502
+            ]
+        }
+    ]
+}

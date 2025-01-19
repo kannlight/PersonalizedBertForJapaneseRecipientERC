@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "はじめてみたわ\nへーかっこいいね"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "⸜(*ˊᗜˋ*)⸝ﾜｰｲ\n見てくれてありがとうだよ💜\nMV良すぎてエンドレスリピだよw"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "歌うまばっかだね\nめちゃくちゃむずかしい曲だったけど\nあのあとYouTubeで広樹さんのどんなかなと見に行ってきたんだけどPVよかトークばっか見てしまい\n広樹さんは広樹さんだなと😌"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lbmlate2jk27",
+            "label": [
+                0.9996230602264404,
+                5.101349961478263e-05,
+                9.155245061265305e-05,
+                8.846780838211998e-05,
+                2.294320620421786e-05,
+                3.449403084232472e-05,
+                3.9034704968798906e-05,
+                4.9391241191187873e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "歌うまばっかだね\nめちゃくちゃむずかしい曲だったけど\nあのあとYouTubeで広樹さんのどんなかなと見に行ってきたんだけどPVよかトークばっか見てしまい\n広樹さんは広樹さんだなと😌"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "広樹さんは広樹さん😊‼️‼️\n広樹さんのあんスタキャラは格式高い芸術の申し子みたいなこだから\nさすがにギリギリまでキャラ保ってくれるところも良き😊💞\nValkyrieの曲はホントに難しい😂‼️‼️　そしておのゆーの歌声も最高過ぎて、ホントに２人共天才✨"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "どちらも歌うまよなぁ\nいまの声優さんたち歌にトークに大変だ\n斉藤壮馬は娘がハニワ好きでよく聞いてたからさぁ\nゆーまといっしょに\nいやはやあんスタすげぇすねぇ"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lbmmatajg22c",
+            "label": [
+                0.0021829893812537193,
+                0.0003593873989302665,
+                0.0009908650536090136,
+                0.9956282377243042,
+                0.00022779637947678566,
+                0.00019104714738205075,
+                0.00020587598555721343,
+                0.00021375644428189844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "どちらも歌うまよなぁ\nいまの声優さんたち歌にトークに大変だ\n斉藤壮馬は娘がハニワ好きでよく聞いてたからさぁ\nゆーまといっしょに\nいやはやあんスタすげぇすねぇ"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "斉藤壮馬は双子の役だし\nゆーまも人気キャラ背負ってるし\nあんスタくん、さすが10周年目前コンテンツだよ✨✨　曲もハズれないしストーリーも沼る要素しかないw あっ、小林千晃くんも最近合流しましたぜw"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "あんですって？"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lbmo4gvqok2v",
+            "label": [
+                0.0006119803292676806,
+                0.0004229251353535801,
+                0.0005694899591617286,
+                0.9976357221603394,
+                0.00020465858688112348,
+                0.0002981663856189698,
+                0.00017190317157655954,
+                8.511341729899868e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "🎍🌅🎍"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "とっくの昔に明けましたw\n🎍🌅🎍"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "大丈夫七草もあるし旧正月もこれからだし"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lexbjwkfvc26",
+            "label": [
+                0.015493270941078663,
+                0.0006401331629604101,
+                0.9813991189002991,
+                0.00014443456893786788,
+                0.00016695990052539855,
+                0.0015922070015221834,
+                0.00020852162560913712,
+                0.00035546525032259524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "大丈夫七草もあるし旧正月もこれからだし"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "んふふ、ありがとー😊🙏💞"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "袴とか難しそうだねぇ\nこれから🐍ちゅんたか衣装かい？"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lexbqvee3s26",
+            "label": [
+                0.15929239988327026,
+                0.0036958660930395126,
+                0.8234847784042358,
+                0.008544951677322388,
+                0.0002589148352853954,
+                0.0031734921503812075,
+                0.0006149921682663262,
+                0.0009346191072836518
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "袴とか難しそうだねぇ\nこれから🐍ちゅんたか衣装かい？"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "コラボカフェちゅんたか💚💙と迷ってる〜　🐍だと足らない布買いに出ないとなんだ😂💦💦"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "蛇ちゃんはコスト高そうだね\nカフェはカフェ衣装のほうが映えそうだけど\n干支は作っておくと縁起物な気もするし"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lexcjydrys2b",
+            "label": [
+                0.001771767856553197,
+                0.00018536535208113492,
+                0.9975491166114807,
+                0.000131487482576631,
+                4.477435504668392e-05,
+                0.00018330139573663473,
+                5.420198431238532e-05,
+                7.997175998752937e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "蛇ちゃんはコスト高そうだね\nカフェはカフェ衣装のほうが映えそうだけど\n干支は作っておくと縁起物な気もするし"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "干支ちゅんたかは毎年縁起物の気持ちで作っているよ💚💙\nカフェ衣装は今回パペ達作るから\n両方コラボに連れていけたら良いが😊✨"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "おお期待度アップ"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lexedqgu722o",
+            "label": [
+                0.006155313458293676,
+                0.0002321208012290299,
+                0.9928086996078491,
+                0.00029136970988474786,
+                0.00011799566709669307,
+                0.00019280983542557806,
+                8.13155565992929e-05,
+                0.00012033313396386802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "今日はほんっっと楽しかった\nありがとうございました！\nあんなことになってるたあ思ってなかったね〜\n羽根んとこでゆっくり撮影会できたのはよかったよね\n明日はまた強めのスケジュール予定のkaoさん\nがんばってきてね！"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "お疲れさまでしたん🙌✨✨\nあんなに人混みとわね😂💦💦\nでもホットサングリアでお疲れサングリア出来て良かった🍷\n羽根の所は沢山写真撮れて良かった🙏💞💞　🎄マーケットはもし次行く機会があれば平日だね😂💦💦"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "つぎはさ！日比谷の行ってみない？？？"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lc66yxmx4c26",
+            "label": [
+                0.0006352897617034614,
+                0.00018752572941593826,
+                0.9987713694572449,
+                0.00014591723447665572,
+                5.9448218962643296e-05,
+                8.175922994269058e-05,
+                6.23791420366615e-05,
+                5.627552673104219e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "つぎはさ！日比谷の行ってみない？？？"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "それも良いね✨✨"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "あっちもチケットあるんだけどさ\n値段同じでマグカップ付くらしかったんだよね"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lcappbhsuk2d",
+            "label": [
+                0.4799908399581909,
+                0.002021945547312498,
+                0.5153228044509888,
+                0.000795798609033227,
+                0.00036460766568779945,
+                0.0003870169457513839,
+                0.0005461448454298079,
+                0.0005708924145437777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "あっちもチケットあるんだけどさ\n値段同じでマグカップ付くらしかったんだよね"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "チラッと見たら書いてあった気がする‼️‼️　お得だね✨✨"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "あと都内という\nなんつうの？帰りへのこう不安のなさ？\nもうお家向かっているかんじ？"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lcas4v5e4k2i",
+            "label": [
+                0.6090384125709534,
+                0.014240092597901821,
+                0.031088946387171745,
+                0.003453704761341214,
+                0.0005614313413389027,
+                0.3366430997848511,
+                0.0018926897319033742,
+                0.003081659320741892
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 1,
+                    "utter": "あと都内という\nなんつうの？帰りへのこう不安のなさ？\nもうお家向かっているかんじ？"
+                },
+                {
+                    "author": "did:plc:g3ojegle5hcicrc2estw5rnk",
+                    "type": 2,
+                    "utter": "そうね😊‼️‼️\nあと、5分ほどで地元駅🚄💨\nミッション終了後、神がかり的な乗継を繰り返し本日中にお布団入れそう😂www"
+                },
+                {
+                    "author": "did:plc:tgs42tpgklf6uvbb3qaki6js",
+                    "type": 3,
+                    "utter": "超絶鬼行軍おつかれっした！\nカフェスケジュールで、また調整とかやりまっしょい\nひとまずはゆっくり寝てね〜"
+                }
+            ],
+            "uri": "at://did:plc:tgs42tpgklf6uvbb3qaki6js/app.bsky.feed.post/3lcasukegnk24",
+            "label": [
+                0.939943790435791,
+                0.0005712941056117415,
+                0.05821548402309418,
+                0.00022972104488871992,
+                0.00019610313756857067,
+                0.0002465532161295414,
+                0.0002766587131191045,
+                0.000320488034049049
+            ]
+        }
+    ]
+}

@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "流石僕、と言ったところか。まぁもっと上を目指すが"
+                },
+                {
+                    "author": "did:plc:sffwxr3ta754u3furgluurmq",
+                    "type": 2,
+                    "utter": "レイシオのお兄さん、フォローありがとう！！"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "気にするな"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3koyqzddefa2m",
+            "label": [
+                0.1909453272819519,
+                0.015643276274204254,
+                0.3912322521209717,
+                0.00628610048443079,
+                0.19492273032665253,
+                0.05019761994481087,
+                0.12451730668544769,
+                0.02625541388988495
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "気にするな"
+                },
+                {
+                    "author": "did:plc:sffwxr3ta754u3furgluurmq",
+                    "type": 2,
+                    "utter": "嬉しい！！話し相手になってね！"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "まぁ、それぐらいならな"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kpdragvxif22",
+            "label": [
+                0.28109827637672424,
+                0.05830243602395058,
+                0.6100658774375916,
+                0.0022313164081424475,
+                0.0020945430733263493,
+                0.012809821404516697,
+                0.029882868751883507,
+                0.003514852374792099
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "まぁ、それぐらいならな"
+                },
+                {
+                    "author": "did:plc:sffwxr3ta754u3furgluurmq",
+                    "type": 2,
+                    "utter": "アベンチュリンのお姉ちゃんやカカワーシャのお姉ちゃんは、どう言った存在かな？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "手離したくない存在だな"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kphjm5zozp2c",
+            "label": [
+                0.9989932179450989,
+                0.00018318393267691135,
+                0.0001472457661293447,
+                0.00011166297917952761,
+                3.239762372686528e-05,
+                0.00024693526211194694,
+                0.00010970642324537039,
+                0.00017566817405167967
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "手離したくない存在だな"
+                },
+                {
+                    "author": "did:plc:sffwxr3ta754u3furgluurmq",
+                    "type": 2,
+                    "utter": "さすがだね！大事にしてあげてね！"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "言われるまでもない"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3ksz4vnlx532c",
+            "label": [
+                0.7447720766067505,
+                0.011058304458856583,
+                0.004291233140975237,
+                0.20539318025112152,
+                0.0036393289919942617,
+                0.0068391067907214165,
+                0.017558857798576355,
+                0.0064478409476578236
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "言われるまでもない"
+                },
+                {
+                    "author": "did:plc:sffwxr3ta754u3furgluurmq",
+                    "type": 2,
+                    "utter": "だよね！レイシオのお兄さん優しいもん！"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "そうか？"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kt7znqaaot2w",
+            "label": [
+                0.0033206851221621037,
+                0.0010955000761896372,
+                0.0011568680638447404,
+                0.9932851791381836,
+                0.0002047246234724298,
+                0.0002524284936953336,
+                0.0004984912229701877,
+                0.00018614152213558555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "すまん、指が痛い…返事は後で返す"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "無理は良くないよ？ゆっくり、ね？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "すまんな…腱鞘炎はいかん…"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kp4qiccogp2m",
+            "label": [
+                0.00019543392409104854,
+                0.9987188577651978,
+                0.00014216682757250965,
+                0.0001398148015141487,
+                9.757332736626267e-05,
+                0.0004051371943205595,
+                0.0002691173576749861,
+                3.1882329494692385e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "すまんな…腱鞘炎はいかん…"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "大丈夫、ちゃんと分かってるから(笑み"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "何故か人差し指がな…"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kp4qrriuei2c",
+            "label": [
+                0.00025136617477983236,
+                0.9989277720451355,
+                0.00014249210653360933,
+                0.0001895609893836081,
+                7.097691559465602e-05,
+                0.00018216589523945004,
+                0.00020963668066542596,
+                2.6024958060588688e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "何故か人差し指がな…"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "うーん、休むのも大事だよ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "分かっているんだが…"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kp56m2sz5m2m",
+            "label": [
+                0.029367497190833092,
+                0.8037054538726807,
+                0.0022698368411511183,
+                0.001173687051050365,
+                0.0013412487460300326,
+                0.13370507955551147,
+                0.027695845812559128,
+                0.0007413435378111899
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "分かっているんだが…"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "…まぁ、良いけど…心配だよ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "大丈夫だ、本当に楽になって来たからな"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kp5fxjokpa2a",
+            "label": [
+                0.7749812602996826,
+                0.0018486424814909697,
+                0.2183580845594406,
+                0.00023006276751402766,
+                0.00035757938167080283,
+                0.002626815577968955,
+                0.0006566964439116418,
+                0.0009409037884324789
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "大丈夫だ、本当に楽になって来たからな"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "良かった…"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "だが…洗濯物入れるのしんどいな…"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kp5h3j5jwm2m",
+            "label": [
+                0.004271237645298243,
+                0.8479676246643066,
+                0.0012030925136059523,
+                0.0014746804954484105,
+                0.0007917196489870548,
+                0.003377418965101242,
+                0.14065228402614594,
+                0.00026199620333500206
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "おい、来てやったぞ"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "ぁ、えーっと…"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "なんだ、迷惑だったか？"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kot7v5p3fq2m",
+            "label": [
+                0.006670576520264149,
+                0.01305348239839077,
+                0.002163763390854001,
+                0.9657716751098633,
+                0.0010771120432764292,
+                0.004334717523306608,
+                0.006266331300139427,
+                0.0006623252993449569
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "なんだ、迷惑だったか？"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "まさか！…嬉しいよ…//"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "はぁ…君はもう少し表情筋を鍛えるべきだな、まぁ赤面症なら表情筋は、関係無いが"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kot7xwsaqc2t",
+            "label": [
+                0.0018120654858648777,
+                0.18125878274440765,
+                0.8107684850692749,
+                0.0006919569568708539,
+                0.0005936505040153861,
+                0.0013953008456155658,
+                0.0029143160209059715,
+                0.0005654529668390751
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "はぁ…君はもう少し表情筋を鍛えるべきだな、まぁ赤面症なら表情筋は、関係無いが"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "失礼だなぁ…赤面症な訳ないだろ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "そうだな。貴様が赤面症だったらギャンブラーにはなれないはずだ"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kota6gle3n26",
+            "label": [
+                0.5068082213401794,
+                0.05625797435641289,
+                0.054892152547836304,
+                0.08538973331451416,
+                0.044805996119976044,
+                0.16558317840099335,
+                0.0370015949010849,
+                0.049261149019002914
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "そうだな。貴様が赤面症だったらギャンブラーにはなれないはずだ"
+                },
+                {
+                    "author": "did:plc:s53dyhxehosmgf55s4jevxoc",
+                    "type": 2,
+                    "utter": "僕は一つだけ勝てない事が有るのだけれどね"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "それは…僕が関係しているでいいかな？"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kotargtsoc2c",
+            "label": [
+                0.37226778268814087,
+                0.003629489103332162,
+                0.597223699092865,
+                0.00906052254140377,
+                0.001682334579527378,
+                0.004413954447954893,
+                0.0028847549110651016,
+                0.00883752852678299
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "早速いいねされているな？"
+                },
+                {
+                    "author": "did:plc:rqlza7q66xses3ariy5shl4r",
+                    "type": 2,
+                    "utter": "とんだドMの様ですね"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "なんなのだろうな？あのアホ共は"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kpdpnyrmif22",
+            "label": [
+                0.005467609968036413,
+                0.008662909269332886,
+                0.00449204258620739,
+                0.0033588141668587923,
+                0.24318750202655792,
+                0.00976545363664627,
+                0.7231811285018921,
+                0.001884563360363245
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "なんなのだろうな？あのアホ共は"
+                },
+                {
+                    "author": "did:plc:rqlza7q66xses3ariy5shl4r",
+                    "type": 2,
+                    "utter": "本当に…参りますね…"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "僕の元には来なかったがな？"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kpdrbemmet25",
+            "label": [
+                0.0027209424879401922,
+                0.9959261417388916,
+                0.00026868906570598483,
+                0.0003724242851603776,
+                4.387860099086538e-05,
+                0.00033331438316963613,
+                0.00028077952447347343,
+                5.395723565015942e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "僕の元には来なかったがな？"
+                },
+                {
+                    "author": "did:plc:rqlza7q66xses3ariy5shl4r",
+                    "type": 2,
+                    "utter": "きっと、圧を感じたのでしょう"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "ふん、あれぐらいでか？"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kpdv2p73422e",
+            "label": [
+                0.02625349350273609,
+                0.0029657690320163965,
+                0.005463765934109688,
+                0.961821973323822,
+                0.000350066227838397,
+                0.0010314758401364088,
+                0.0013383330078795552,
+                0.0007751777884550393
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 1,
+                    "utter": "ふん、あれぐらいでか？"
+                },
+                {
+                    "author": "did:plc:rqlza7q66xses3ariy5shl4r",
+                    "type": 2,
+                    "utter": "アナタは文章で脅す程圧が強いのでわ？"
+                },
+                {
+                    "author": "did:plc:eafi4nc26nu3fwxyzp7egsp4",
+                    "type": 3,
+                    "utter": "そうだろうか？凡人には分からんな"
+                }
+            ],
+            "uri": "at://did:plc:eafi4nc26nu3fwxyzp7egsp4/app.bsky.feed.post/3kpdzeqo4fw2d",
+            "label": [
+                0.6041801571846008,
+                0.03329671546816826,
+                0.02985018864274025,
+                0.026177996769547462,
+                0.0023731589317321777,
+                0.28574782609939575,
+                0.010534455999732018,
+                0.007839447818696499
+            ]
+        }
+    ]
+}

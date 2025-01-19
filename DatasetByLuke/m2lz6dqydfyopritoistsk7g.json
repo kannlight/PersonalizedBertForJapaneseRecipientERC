@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "ポケスペ好きなの！？！？"
+                },
+                {
+                    "author": "did:plc:4djocrcokeimhaqt2332wf7i",
+                    "type": 2,
+                    "utter": "でも本当イエローちゃんの回までぐらいしか…（持ってた）\n初代で止まっちゃった〜作画も変わりましたよね、確か"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "初代組、いいですよね〜！\n私はダイパまでリアルタイムで追ってましたが、私はルビサファ編まで全部最高だと思ってます\n作画も途中で変わりましたね！少し描き方が大人っぽくなったなって当時思ってました"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lc24a54wuk22",
+            "label": [
+                0.9995673298835754,
+                4.432017885847017e-05,
+                0.00013119293726049364,
+                5.617876013275236e-05,
+                3.91943431168329e-05,
+                3.570230910554528e-05,
+                5.247013541520573e-05,
+                7.358175207627937e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "初代組、いいですよね〜！\n私はダイパまでリアルタイムで追ってましたが、私はルビサファ編まで全部最高だと思ってます\n作画も途中で変わりましたね！少し描き方が大人っぽくなったなって当時思ってました"
+                },
+                {
+                    "author": "did:plc:4djocrcokeimhaqt2332wf7i",
+                    "type": 2,
+                    "utter": "ダイパってタイパと似てるな…（？）\n\nそうなんですね！\n私、普通にイエローの片思いを応援してた組で…あとイエローの師匠になってるグリーンも好きで…ああ、あの当時はピュアでした…ﾊﾊｯ"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "イエローちゃんは応援したくなりますよね！本当に健気で可愛い\n当時はピュアピュアでしたが、今思うとレッドとグリーンの関係最高なんですよね、FRLG編の2人が良すぎて普通に死ねるので見て欲しい〜！"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lc24of2wqs22",
+            "label": [
+                0.9738118648529053,
+                0.0004290285287424922,
+                0.024625152349472046,
+                0.00027017839602194726,
+                0.0001819612953113392,
+                0.00014029015437699854,
+                0.00018332495528738946,
+                0.0003582878562156111
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "(今日もフルグラ食べるなんて言えない)"
+                },
+                {
+                    "author": "did:plc:remqwkztjfn7uw5m6t2n72i6",
+                    "type": 2,
+                    "utter": "アァァァw w w w\n\n素人目ながら恐縮ですが、フルグラは美味しいし栄養もあるけど糖分が多いので、バランスよく取り入れるといいと思います。"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "前に糖分って言われてから少し気をつけようと思って毎日をやめて1日おきに食べてます！"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lc25he4s4222",
+            "label": [
+                0.0024109049700200558,
+                0.0002792824525386095,
+                0.9957363605499268,
+                0.00023835044703446329,
+                7.105444092303514e-05,
+                0.0010017568711191416,
+                8.25715615064837e-05,
+                0.0001796660217223689
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "ブルスカで呟かないと死ぬ体になってたのに、なんか治りつつある"
+                },
+                {
+                    "author": "did:plc:3iqojltws6vezz3atyxulq3y",
+                    "type": 2,
+                    "utter": "エグゼで元気になって健全に戻っちゃったか…."
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "不健全な体を取り戻せ！"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lf7xxe5xp22r",
+            "label": [
+                0.0001734890101943165,
+                0.00038753330591134727,
+                0.9988399147987366,
+                0.00013813676196150482,
+                0.00014184816973283887,
+                0.00011495478975120932,
+                0.0001290312357014045,
+                7.516756886616349e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "不健全な体を取り戻せ！"
+                },
+                {
+                    "author": "did:plc:3iqojltws6vezz3atyxulq3y",
+                    "type": 2,
+                    "utter": "健全フッ軽はいいぞ！"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "フットワークは鈍いぞ！"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lfacijyyi22o",
+            "label": [
+                0.15415216982364655,
+                0.0981648713350296,
+                0.020269067957997322,
+                0.5153451561927795,
+                0.007197841536253691,
+                0.17075107991695404,
+                0.026304321363568306,
+                0.007815493270754814
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "フットワークは鈍いぞ！"
+                },
+                {
+                    "author": "did:plc:3iqojltws6vezz3atyxulq3y",
+                    "type": 2,
+                    "utter": "カプコン展　大阪と東京　どっちに行きますか！！(唐突"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "どっちも行きたいぞ！(強欲)"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lfbgjil4mc2r",
+            "label": [
+                0.0006525549688376486,
+                0.00016317280824296176,
+                0.9988071918487549,
+                0.00010437473247293383,
+                6.672189920209348e-05,
+                8.786645048530772e-05,
+                6.0448954172898084e-05,
+                5.764582601841539e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "どっちも行きたいぞ！(強欲)"
+                },
+                {
+                    "author": "did:plc:3iqojltws6vezz3atyxulq3y",
+                    "type": 2,
+                    "utter": "やったーーーー！！！！！！！展時間中にDMして会いに行っちゃうもんねーーー！！！！(出会い厨"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "ロックマンと熱斗くんの前で這いつくばって写真撮ってる激ヤバ女がいたら私です！"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lfbpwg5afc22",
+            "label": [
+                0.9267978072166443,
+                0.0005659419693984091,
+                0.06043460592627525,
+                0.004881364293396473,
+                0.0005054811481386423,
+                0.00338736386038363,
+                0.0006439401186071336,
+                0.0027835292275995016
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 1,
+                    "utter": "ロックマンと熱斗くんの前で這いつくばって写真撮ってる激ヤバ女がいたら私です！"
+                },
+                {
+                    "author": "did:plc:3iqojltws6vezz3atyxulq3y",
+                    "type": 2,
+                    "utter": "わ、わかりました。世間体を捨てて話しかけに行きます！"
+                },
+                {
+                    "author": "did:plc:m2lz6dqydfyopritoistsk7g",
+                    "type": 3,
+                    "utter": "一緒に激ヤバになりましょう！！！！"
+                }
+            ],
+            "uri": "at://did:plc:m2lz6dqydfyopritoistsk7g/app.bsky.feed.post/3lfbreywrk222",
+            "label": [
+                0.0007321492885239422,
+                0.00018573948182165623,
+                0.9986353516578674,
+                0.00015844682638999075,
+                7.051913416944444e-05,
+                9.655595204094425e-05,
+                6.004919850965962e-05,
+                6.129958637757227e-05
+            ]
+        }
+    ]
+}

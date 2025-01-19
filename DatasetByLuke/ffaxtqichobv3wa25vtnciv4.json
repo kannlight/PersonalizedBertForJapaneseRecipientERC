@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "ねぇ聞かせて…"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "草\nよかったね"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "バカにされてる！！これ！！ねぇこれ！！"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3le2otfq3xc2j",
+            "label": [
+                0.007033113390207291,
+                0.07285996526479721,
+                0.0012044598115608096,
+                0.618480920791626,
+                0.12525956332683563,
+                0.00996227003633976,
+                0.1632324904203415,
+                0.0019671539776027203
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "バカにされてる！！これ！！ねぇこれ！！"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "してないよ"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "わかった！！"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3le2pdjmv7c2j",
+            "label": [
+                0.9990492463111877,
+                6.435268005589023e-05,
+                0.0004319585859775543,
+                0.0002020977553911507,
+                4.964075924362987e-05,
+                3.713296973728575e-05,
+                7.082596130203456e-05,
+                9.463201422477141e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "わかった！！"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "なんなの…"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "何だこの会話…ちなみに今日かぽは何アラやったの？\nわたしはCアラやってた！"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3le2pt64xu22j",
+            "label": [
+                0.00491196196526289,
+                0.002520622219890356,
+                0.0007751508383080363,
+                0.98848557472229,
+                0.00023371880524791777,
+                0.001606358797289431,
+                0.0012537578586488962,
+                0.00021278817439451814
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "何だこの会話…ちなみに今日かぽは何アラやったの？\nわたしはCアラやってた！"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "同じくCアラよ〜\n初見未予習わちゃわちゃしてきた！"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "同じだｗ運動会だけど楽しかったね！\n赤3で行ったの笑う"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3le2q2mtkgc2j",
+            "label": [
+                0.9995890259742737,
+                4.434523725649342e-05,
+                8.94865152076818e-05,
+                0.00012077874998794869,
+                2.717855022638105e-05,
+                4.110395457246341e-05,
+                4.395933137857355e-05,
+                4.412418638821691e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "つええ女も！？喫煙者も！？"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "まって喫煙者！？"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "はい"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3ldim477t4k2m",
+            "label": [
+                0.9966074228286743,
+                0.00043009669752791524,
+                0.0014813656453043222,
+                0.00013798729924019426,
+                0.00018650123092811555,
+                0.00021574768470600247,
+                0.0006013166275806725,
+                0.00033955732942558825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "はい"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "喫煙者（滝藤賢一）、好きです"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "1つ◯付いたやん！！"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3ldip53krez24",
+            "label": [
+                0.9948888421058655,
+                0.00022212235489860177,
+                0.00036617889418266714,
+                0.004118364304304123,
+                8.658371370984241e-05,
+                6.408291665138677e-05,
+                0.00013574882177636027,
+                0.00011808861017925665
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "1つ◯付いたやん！！"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "じっくり見たけど傭兵上がり死ぬほどすき"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "ほら〜〜！！\nそいや昨日たまたまはいさんに会ってFCハウスの事言われました\n気まずかったです。"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3ldisg6x3vb2e",
+            "label": [
+                0.0006079082959331572,
+                0.9974950551986694,
+                0.00010873960854951292,
+                0.0004244239826221019,
+                6.043365647201426e-05,
+                0.0004805408825632185,
+                0.000792120466940105,
+                3.0878767574904487e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 1,
+                    "utter": "ほら〜〜！！\nそいや昨日たまたまはいさんに会ってFCハウスの事言われました\n気まずかったです。"
+                },
+                {
+                    "author": "did:plc:zwnwkvioicl72k3ce2tb7muj",
+                    "type": 2,
+                    "utter": "草\nでも話しかけてくれるのはシンプルに嬉しいね"
+                },
+                {
+                    "author": "did:plc:ffaxtqichobv3wa25vtnciv4",
+                    "type": 3,
+                    "utter": "うんうんｗFCの他のみんなもいた！"
+                }
+            ],
+            "uri": "at://did:plc:ffaxtqichobv3wa25vtnciv4/app.bsky.feed.post/3ldisnm5g6s2m",
+            "label": [
+                0.9995385408401489,
+                4.984690167475492e-05,
+                0.0001262751902686432,
+                0.00013685841986443847,
+                2.603506072773598e-05,
+                3.5000273783225566e-05,
+                4.4332682591630146e-05,
+                4.316939157433808e-05
+            ]
+        }
+    ]
+}

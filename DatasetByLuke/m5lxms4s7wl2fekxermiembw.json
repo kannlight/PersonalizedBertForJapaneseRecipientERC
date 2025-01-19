@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "ごめん..."
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "丹恒とイチャイチャするなら許す！！"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "わ、わかったって！"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knnhoopcag2n",
+            "label": [
+                0.9960326552391052,
+                0.0006385849555954337,
+                0.0007213426870293915,
+                0.0010599687229841948,
+                0.0004986422136425972,
+                0.00014588478370569646,
+                0.0004069135175086558,
+                0.0004959593061357737
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "わ、わかったって！"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "イチャつけよ！！絶対！！"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "わかったって！"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knqib7xvyf2n",
+            "label": [
+                0.9970535039901733,
+                0.0005527009489014745,
+                0.0005753602017648518,
+                0.0004622814303729683,
+                0.00040242497925646603,
+                0.00013887581008020788,
+                0.0003700738598126918,
+                0.00044475364848040044
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "わかったって！"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "( 'ω')و ̑よっしゃ"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "でも...丹恒来ないし"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knuoashkqi2j",
+            "label": [
+                0.0006055767298676074,
+                0.9984373450279236,
+                0.00019349712238181382,
+                0.00019317904661875218,
+                4.810840619029477e-05,
+                0.00017473807383794338,
+                0.0003221833030693233,
+                2.5366682166350074e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "でも...丹恒来ないし"
+                },
+                {
+                    "author": "did:plc:fatn46kzhkvcqy5fy363afcy",
+                    "type": 2,
+                    "utter": "大丈夫大丈夫、これから来るようになるから！"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "ん、ならいいんだけど"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knxl3pqe5l2y",
+            "label": [
+                0.8156424760818481,
+                0.055967699736356735,
+                0.02656629867851734,
+                0.011299089528620243,
+                0.0018707562703639269,
+                0.014524037018418312,
+                0.06945699453353882,
+                0.004672673065215349
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "おーい、丹恒！"
+                },
+                {
+                    "author": "did:plc:ejgvzm2xg66ysg2c3uod6twz",
+                    "type": 2,
+                    "utter": "コウキっ！"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "お待たせ！(抱き寄せ"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knkntlqmuu2v",
+            "label": [
+                0.9980999827384949,
+                0.00017296828445978463,
+                0.0013545287074521184,
+                0.00011233534314669669,
+                4.8553774831816554e-05,
+                6.13728043390438e-05,
+                8.376907499041408e-05,
+                6.650782597716898e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "お待たせ！(抱き寄せ"
+                },
+                {
+                    "author": "did:plc:ejgvzm2xg66ysg2c3uod6twz",
+                    "type": 2,
+                    "utter": "コウキ…///(抱きしめ"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "ごめんな？待たせて(強く抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knnhoefmgx2q",
+            "label": [
+                0.00632180692628026,
+                0.9897395968437195,
+                0.00031186407431960106,
+                0.00045120198046788573,
+                0.00012597491149790585,
+                0.0024321062956005335,
+                0.0004947737324982882,
+                0.00012277186033315957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "ごめんな？待たせて(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:ejgvzm2xg66ysg2c3uod6twz",
+                    "type": 2,
+                    "utter": "大丈夫…///(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "ならよかった...(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knqiays5hk27",
+            "label": [
+                0.2956792414188385,
+                0.41337522864341736,
+                0.18833313882350922,
+                0.0014160673599690199,
+                0.0007904896046966314,
+                0.09305515885353088,
+                0.004629984963685274,
+                0.002720664953812957
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 1,
+                    "utter": "ならよかった...(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:ejgvzm2xg66ysg2c3uod6twz",
+                    "type": 2,
+                    "utter": "コウキ…コウキ…(強く抱き締めたままスリスリして"
+                },
+                {
+                    "author": "did:plc:m5lxms4s7wl2fekxermiembw",
+                    "type": 3,
+                    "utter": "なんだよ、甘えてんのか？(強く抱き締めたまま笑み浮かべ"
+                }
+            ],
+            "uri": "at://did:plc:m5lxms4s7wl2fekxermiembw/app.bsky.feed.post/3knxl4anlho24",
+            "label": [
+                0.9595940709114075,
+                0.007995941676199436,
+                0.0037661960814148188,
+                0.012968858703970909,
+                0.002961835591122508,
+                0.006530184764415026,
+                0.004543800838291645,
+                0.0016390171367675066
+            ]
+        }
+    ]
+}

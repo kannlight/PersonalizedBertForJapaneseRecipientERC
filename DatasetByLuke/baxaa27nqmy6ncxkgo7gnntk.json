@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "オガティ、あなたオガティっていうのね…！と感動しました、Goff先生のアイコンのオガティシールはインテで得ることが出来ますか…"
+                },
+                {
+                    "author": "did:plc:5je7sdvj4mwhswvplr3toj4e",
+                    "type": 2,
+                    "utter": "どうも、オガティです🙋シクヨロだよ！\n\nえ！もらってくださるのですか！？ちょ、あ！た！何も考えてなかったです！差し入れにぶち込みます！"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "えええ！？！？絶対得たいですよ！！みんな得たいに決まってるじゃないですか！！\nGoff先生といえば私の中でアイコンのもふっとした尾ちゃんだったのでオガティと名前がしれて良かったです…✨まつこ感動。\nももこには先生に会えたことをとりあえずリアルタイムで自慢、からのマウントを取ろうと思います。"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3lfcss62lw22n",
+            "label": [
+                0.9994707703590393,
+                5.2657604101113975e-05,
+                0.00024246440443675965,
+                6.785309233237058e-05,
+                3.261624806327745e-05,
+                3.691998063004576e-05,
+                4.288703348720446e-05,
+                5.376381886890158e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "イマジナリーまつだ"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "まつだちゃんだったwwwww"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "まつだちゃんだよ。\nまた話しかけるね…🫶"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3lfa2dpuo3s2g",
+            "label": [
+                0.9809658527374268,
+                0.0005727997049689293,
+                0.017656788229942322,
+                0.00014218231081031263,
+                9.2939859314356e-05,
+                0.00015135314606595784,
+                0.00021222168288659304,
+                0.00020580453565344214
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "まつだちゃんだよ。\nまた話しかけるね…🫶"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "なんかめちゃくちゃ知り合いムーブ出されてビックリして会話しちゃいましたwwwwまつだちゃんはこちょばしいwwww"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "まつだちゃんwwwwwww人生で呼ばれたことないですわそう言えば🤣🤣🤣\n気が向いたらまつだでいいですよ！まつだ。\nMAZDA。"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3lfa32436oc2g",
+            "label": [
+                0.9691579937934875,
+                0.0008163778693415225,
+                0.01316873636096716,
+                0.015306757763028145,
+                0.0002028734452323988,
+                0.00033868636819534004,
+                0.0004003272042609751,
+                0.0006081959581933916
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "まつだちゃんwwwwwww人生で呼ばれたことないですわそう言えば🤣🤣🤣\n気が向いたらまつだでいいですよ！まつだ。\nMAZDA。"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "じゃあ、くろせちゃんで良いですよwwwwww😂"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "くろせちゃんはな長いから裏筋先生かくろ先生、どっちがいいか選んでいいですよ😘"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3lfa3jonlos2g",
+            "label": [
+                0.9225133657455444,
+                0.0004612234188243747,
+                0.07513464987277985,
+                0.000319840619340539,
+                0.00028154512983746827,
+                0.00039383055991493165,
+                0.00039505670429207385,
+                0.0005005582934245467
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "くろせちゃんはな長いから裏筋先生かくろ先生、どっちがいいか選んでいいですよ😘"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "先生は栗羊羹先生がもう居るのでお腹いっぱいです！"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "じゃあももこ…"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3lfa3ubzvxk2g",
+            "label": [
+                0.07411020249128342,
+                0.008899318985641003,
+                0.9130139946937561,
+                0.00151707767508924,
+                0.00027342356042936444,
+                0.0006620865315198898,
+                0.0008219864103011787,
+                0.00070195336593315
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "年末年始仕事ぎちぎちだし今まで意識して取ったことないから尾ちゃんのお誕生日の週連休とった。\n\nどこいこっかなー"
+                },
+                {
+                    "author": "did:plc:5bq473mffgvmsemxoae24bln",
+                    "type": 2,
+                    "utter": "ウェルカム明治村😆✨"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "あーー！行っちゃおうかな…！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3ldae65glqk2c",
+            "label": [
+                0.0038994411006569862,
+                0.00033276400063186884,
+                0.9952331185340881,
+                0.00015487881319131702,
+                6.624922389164567e-05,
+                0.000157889851834625,
+                8.30442804726772e-05,
+                7.256263052113354e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "あんな、あんな山とむみーんセンターを愛するクールで物静かな青戸さんがこんな、こんなどすけべな展開待ったなしのsgoを考えていたなんて…どうなってんだ…花と馬を愛するsudoさんももう居ない…青戸さん…君もあちら側にいくというのか…フォロー失礼しますね…"
+                },
+                {
+                    "author": "did:plc:ow2hnsie32x7uxg3il26kpwm",
+                    "type": 2,
+                    "utter": "sudoはアズカバンに収監されてる\nあるぷすの少女青戸さんがとんだどすけべsgoを書いていると知った時のおれ達の気持ちよぉ...\n青戸さんも本を出さないかって猗窩座になってる"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "猗窩座「お前も作家になれ！青戸！！」"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3ley3b76idc2k",
+            "label": [
+                0.000263118912698701,
+                0.00018247349362354726,
+                0.9989811778068542,
+                0.00020441265951376408,
+                0.00012761587277054787,
+                8.480975520797074e-05,
+                7.842438935767859e-05,
+                7.789322989992797e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "せめて、せめてカフェオレにしよ！！！"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "カフェインレスも試したのですが嫌すぎて😂同僚に１日５杯までと決められました💦💦💦"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "今度差し入れムコスタいれとくね…"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3leojz6pz7s2b",
+            "label": [
+                0.05982384458184242,
+                0.001128078904002905,
+                0.9376260042190552,
+                0.00033353851176798344,
+                0.00017290339746978134,
+                0.0003519262245390564,
+                0.00023983613937161863,
+                0.00032382539939135313
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "今度差し入れムコスタいれとくね…"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "ムコスタwwww私は今回ファモチジンもらいましたよwww前回は、ガスターwwww"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "ファモチジンわたしも愛用してる🫶\nコーヒー飲む前にムコスタのんでね…胃を保護してくれよな…"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3leokezxga22b",
+            "label": [
+                0.7306404113769531,
+                0.0020183036103844643,
+                0.26352739334106445,
+                0.0004001758061349392,
+                0.0004185501020401716,
+                0.0008325793314725161,
+                0.0007919583003968,
+                0.0013706949539482594
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "ファモチジンわたしも愛用してる🫶\nコーヒー飲む前にムコスタのんでね…胃を保護してくれよな…"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "もうムコスタを粉にしてコーヒーに混ぜて飲みたいwww😂"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "くろささん発想が毎回つよい😂\n\n私カフェインの塊みたいな飴？を食べすぎて胃が荒れましたわ…あれないと起きてられない時期ありましたもん…"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3leokwn6qd22b",
+            "label": [
+                0.021388515830039978,
+                0.4651469588279724,
+                0.0021309133153408766,
+                0.38626959919929504,
+                0.0011152528459206223,
+                0.11918698251247406,
+                0.0038809331599622965,
+                0.0008808310376480222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 1,
+                    "utter": "くろささん発想が毎回つよい😂\n\n私カフェインの塊みたいな飴？を食べすぎて胃が荒れましたわ…あれないと起きてられない時期ありましたもん…"
+                },
+                {
+                    "author": "did:plc:kivslmckfp5jesyltkwmdmba",
+                    "type": 2,
+                    "utter": "カフェロップ！？💦私も一時期愛用してました"
+                },
+                {
+                    "author": "did:plc:baxaa27nqmy6ncxkgo7gnntk",
+                    "type": 3,
+                    "utter": "それ！！！それです！！！あれなんも美味しくないししっかり眠くなる！！\nあとなんか小瓶にはいった眠気覚まし…！眠眠打破じゃないやつ…！！"
+                }
+            ],
+            "uri": "at://did:plc:baxaa27nqmy6ncxkgo7gnntk/app.bsky.feed.post/3leolep4lrc2b",
+            "label": [
+                0.04387921839952469,
+                0.41468584537506104,
+                0.014489059336483479,
+                0.1340724676847458,
+                0.02801762893795967,
+                0.043450240045785904,
+                0.31414172053337097,
+                0.007263842038810253
+            ]
+        }
+    ]
+}

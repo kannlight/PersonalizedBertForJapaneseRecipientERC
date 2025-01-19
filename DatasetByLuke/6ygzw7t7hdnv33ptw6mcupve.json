@@ -1,0 +1,724 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "なんか、皆、ボール球振ってるな"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "あとどうしても高めを意識してなのか低めがぜっぜんダメやな…"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、まぁ、ただ台湾は強くなった"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lbp23cfkac2a",
+            "label": [
+                0.990455687046051,
+                0.000623403990175575,
+                0.0033164718188345432,
+                0.002085212618112564,
+                0.00027618411695584655,
+                0.00048195626004599035,
+                0.001031832885928452,
+                0.0017292650882154703
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うん、まぁ、ただ台湾は強くなった"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "ホンマに強なったわこりゃああっぱれや"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、まぁ、これは仕方ない"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lbp2zvenz22a",
+            "label": [
+                0.011098377406597137,
+                0.9844656586647034,
+                0.0012923332396894693,
+                0.00029052456375211477,
+                8.028347656363621e-05,
+                0.0018124586204066873,
+                0.0008401477243751287,
+                0.00012027933553326875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うん、まぁ、これは仕方ない"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "まぁまだWBCとかあるから…"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "次、2026だっけ？"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lbp3a4rlhk2a",
+            "label": [
+                0.002855896018445492,
+                0.00046576684690080583,
+                0.9958772659301758,
+                0.00020560447592288256,
+                5.152352241566405e-05,
+                0.0003959352325182408,
+                7.414286665152758e-05,
+                7.377764995908365e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "次、2026だっけ？"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "うん"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "2年後かぁ、どうなるかだな\n本当に"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lbp3dai45c2a",
+            "label": [
+                0.0007395088905468583,
+                0.00031231538741849363,
+                0.9981533885002136,
+                0.0001556921924930066,
+                4.9607220717007294e-05,
+                0.0004739993601106107,
+                4.963324317941442e-05,
+                6.578058673767373e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "どうかしたんですか？"
+                },
+                {
+                    "author": "did:plc:siujdochavu72hwlxviel64q",
+                    "type": 2,
+                    "utter": "んー、Xがだいぶ荒れてて見るに耐えない状況になってる"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "あぁ、なるほど……やっぱ、やめて正解だったようっすね……X"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lfexsuux5k2h",
+            "label": [
+                0.9959349632263184,
+                0.0016722769942134619,
+                0.0008347230614162982,
+                0.00047075762995518744,
+                4.53918291896116e-05,
+                0.0004381156759336591,
+                0.00022132940648589283,
+                0.00038247363409027457
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "あぁ、なるほど……やっぱ、やめて正解だったようっすね……X"
+                },
+                {
+                    "author": "did:plc:siujdochavu72hwlxviel64q",
+                    "type": 2,
+                    "utter": "もはや、本当か嘘なのかどうかすらあやふやにさせてるからね\n\nまともじゃないよ"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁ、青い鳥が良かったっすよね……"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lfeztzx3kc2h",
+            "label": [
+                0.9996179342269897,
+                6.857462722109631e-05,
+                9.028004569699988e-05,
+                4.85581076645758e-05,
+                2.54780661634868e-05,
+                3.941926115658134e-05,
+                5.13333325216081e-05,
+                5.8389883633935824e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "まぁ、青い鳥が良かったっすよね……"
+                },
+                {
+                    "author": "did:plc:siujdochavu72hwlxviel64q",
+                    "type": 2,
+                    "utter": "そうだね…………あの時はフォロワーと結構仲良くなれたから"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "確かに……"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lff53hfpdk2h",
+            "label": [
+                0.7633538246154785,
+                0.010513762012124062,
+                0.028577493503689766,
+                0.144715815782547,
+                0.0014253866393119097,
+                0.031719841063022614,
+                0.009846317581832409,
+                0.009847515262663364
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "確かに……"
+                },
+                {
+                    "author": "did:plc:siujdochavu72hwlxviel64q",
+                    "type": 2,
+                    "utter": "今じゃあそのような面影がなくなりつつあるけどね"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁ、ですよね\nうちも、やめてここに主にしてますからね"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lffjlxlsn224",
+            "label": [
+                0.9194453954696655,
+                0.001873272005468607,
+                0.07142158597707748,
+                0.0006794357905164361,
+                0.0006459627766162157,
+                0.0016652727499604225,
+                0.0014316379092633724,
+                0.0028375289402902126
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "あぁ、せやな\nあとは大場かな？\nピッチャーの"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "そのぐらいやね あとは川崎か"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "あぁ、だったね！\n落合監督1年目の開幕投手だよな"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lejgv2dj622w",
+            "label": [
+                0.8643385767936707,
+                0.0017497929511591792,
+                0.11668967455625534,
+                0.01318476814776659,
+                0.0005216827848926187,
+                0.0004642558633349836,
+                0.0008013069746084511,
+                0.002249966375529766
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "あぁ、だったね！\n落合監督1年目の開幕投手だよな"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "確かそうだったはず  まぁ肘の故障で投げてなかったけど"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁ、それぐらいやばかったもんな"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lejhctwkjk2w",
+            "label": [
+                0.002532468643039465,
+                0.012880243360996246,
+                0.0003062034666072577,
+                0.004462224431335926,
+                0.0007678648689761758,
+                0.9768733978271484,
+                0.0018841661512851715,
+                0.00029342822381295264
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "まぁ、それぐらいやばかったもんな"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "まぁ酷使してたからしゃあねぇとは思う"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁな、今はそういうのはない感じにはなったけど\n当時は酷使結構あったもんな"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lejhoakofs2w",
+            "label": [
+                0.15250925719738007,
+                0.05043929070234299,
+                0.0041486117988824844,
+                0.030273951590061188,
+                0.0039585246704518795,
+                0.73880934715271,
+                0.012757586315274239,
+                0.0071035209111869335
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "まぁな、今はそういうのはない感じにはなったけど\n当時は酷使結構あったもんな"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "昔は中4とかその辺だったからなぁ今では最短でも中6とかだから負担はそこまでないからええけどその分体力面がなぁって"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁ、確かにな\n1シーズン通してだもんな"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3lejib3c5ms2w",
+            "label": [
+                0.9392645955085754,
+                0.008164714090526104,
+                0.0166059210896492,
+                0.007000574376434088,
+                0.0017640988808125257,
+                0.009288226254284382,
+                0.01013123244047165,
+                0.007780601270496845
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "おー、良いっすね"
+                },
+                {
+                    "author": "did:plc:ncvpppnsw4eeoqva4fjt3xmr",
+                    "type": 2,
+                    "utter": "お、ユーリさんこの作品知ってます！？"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "知ってますよ\nはつゆきさくら、ですよね？"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3leegqg5kt22t",
+            "label": [
+                0.9604978561401367,
+                0.0007987940334714949,
+                0.03307019919157028,
+                0.0018882380099967122,
+                0.0004196638474240899,
+                0.0005198867875151336,
+                0.000688352040015161,
+                0.0021170072723180056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "知ってますよ\nはつゆきさくら、ですよね？"
+                },
+                {
+                    "author": "did:plc:ncvpppnsw4eeoqva4fjt3xmr",
+                    "type": 2,
+                    "utter": "( ˙꒳​˙○)ﾏﾙｰ\n新たな仲間を発見✨✨"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "しかも、好きなキャラ居ますよ\n4人の中に"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3leegtedm222t",
+            "label": [
+                0.9995735287666321,
+                5.724257789552212e-05,
+                8.530290506314486e-05,
+                7.992774771992117e-05,
+                3.084556010435335e-05,
+                4.4835021981270984e-05,
+                5.723777212551795e-05,
+                7.103310781531036e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "しかも、好きなキャラ居ますよ\n4人の中に"
+                },
+                {
+                    "author": "did:plc:ncvpppnsw4eeoqva4fjt3xmr",
+                    "type": 2,
+                    "utter": "誰だ…一体誰なんだ！？！？"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁ、端のキャラが1番好きなキャラと2番目に好きなキャラっすね"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3leeh7uor322n",
+            "label": [
+                0.9994175434112549,
+                4.936747791361995e-05,
+                0.0001275853137485683,
+                6.943417247384787e-05,
+                5.576097100856714e-05,
+                5.497317397384904e-05,
+                7.900405034888536e-05,
+                0.0001463476219214499
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "まぁ、端のキャラが1番好きなキャラと2番目に好きなキャラっすね"
+                },
+                {
+                    "author": "did:plc:ncvpppnsw4eeoqva4fjt3xmr",
+                    "type": 2,
+                    "utter": "おっと！？\nこれは綾推しか！？✨"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "お、お見事！正解です！"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3leehqkwqec2n",
+            "label": [
+                0.9988135099411011,
+                6.045902046025731e-05,
+                0.0002554975217208266,
+                0.0005923964781686664,
+                5.497501479112543e-05,
+                4.3784115405287594e-05,
+                7.282929436769336e-05,
+                0.0001065765245584771
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "まぁ、普通ならそうだな"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "福谷がまだわからんから一応やけど中継ぎや抑えだと話変わるから"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "まぁ、せやな\n先発は開幕やと、恐らく\n金村→北山→加藤→伊藤→福也ではないかと"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3le7nnuv4zk2g",
+            "label": [
+                0.0009031257359310985,
+                0.00020138430409133434,
+                0.9984899759292603,
+                0.000105987761344295,
+                6.340592517517507e-05,
+                0.00011420394730521366,
+                6.009545541019179e-05,
+                6.178781040944159e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "まぁ、せやな\n先発は開幕やと、恐らく\n金村→北山→加藤→伊藤→福也ではないかと"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "なるほどなぁ"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、伊藤、福也に関してはソフトバンク戦ではないかと"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3le7ofnpd5k2g",
+            "label": [
+                0.0004744756151922047,
+                0.00017103200661949813,
+                0.9989795088768005,
+                9.332261834060773e-05,
+                6.218695489224046e-05,
+                0.00010220211697742343,
+                5.782498192274943e-05,
+                5.942806456005201e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うん、伊藤、福也に関してはソフトバンク戦ではないかと"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "エスコンの開幕って言ってたからそうかもなぁ"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、ただ、確実に言えるのは福也はローテ入ると思ってる"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3le7p2wal7s2g",
+            "label": [
+                0.0009141482296399772,
+                0.00015287150745280087,
+                0.9983540773391724,
+                0.00011047619773307815,
+                0.00011668823572108522,
+                0.00014488112356048077,
+                9.210591815644875e-05,
+                0.00011476494546514004
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うん、ただ、確実に言えるのは福也はローテ入ると思ってる"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "まぁ入るやろうね ローテには"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、まぁ、あとは6連戦やる時のローテがどうなるかだな"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3le7pazzvhc2g",
+            "label": [
+                0.0008749871631152928,
+                0.00020294422574806958,
+                0.9984822869300842,
+                0.00010701203427743167,
+                5.685122960130684e-05,
+                0.00016360674635507166,
+                5.242267798166722e-05,
+                5.991455327603035e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うーん、あれじゃあな……"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "15打数無安打だからなぁ…独立リーグも難そうかなぁ"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "ワンチャンあるけど、中島がそれをどう考えてるかによるかな……"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3ldxstbxu4c2b",
+            "label": [
+                0.17084871232509613,
+                0.00613555870950222,
+                0.687890350818634,
+                0.0010135985212400556,
+                0.0005671315593644977,
+                0.13043561577796936,
+                0.0012832187348976731,
+                0.0018258549971506
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "ワンチャンあるけど、中島がそれをどう考えてるかによるかな……"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "NPB希望じゃねぇかなぁ…"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、俺も思う\nだからないってなるとな……って思ってる"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3ldxvnbz67s2b",
+            "label": [
+                0.8723323941230774,
+                0.03393349051475525,
+                0.010754606686532497,
+                0.0019003392662853003,
+                0.0012919041328132153,
+                0.03054930455982685,
+                0.04398760199546814,
+                0.005250461865216494
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うん、俺も思う\nだからないってなるとな……って思ってる"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "西武も取らへんしやっぱり引退かねぇ"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "うん、俺もだと思う\nまぁ、怪我が響いたよな……"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3ldxvxn2fmk2b",
+            "label": [
+                0.000220782749238424,
+                0.9980200529098511,
+                0.00013919867342337966,
+                0.0001999207161134109,
+                0.00012777400843333453,
+                0.0008993832161650062,
+                0.0003572159039322287,
+                3.560335244401358e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 1,
+                    "utter": "うん、俺もだと思う\nまぁ、怪我が響いたよな……"
+                },
+                {
+                    "author": "did:plc:wsg2p5lklex7gz5ekclxqaze",
+                    "type": 2,
+                    "utter": "まぁそうだろうねぇ"
+                },
+                {
+                    "author": "did:plc:6ygzw7t7hdnv33ptw6mcupve",
+                    "type": 3,
+                    "utter": "怪我には勝てないよな……"
+                }
+            ],
+            "uri": "at://did:plc:6ygzw7t7hdnv33ptw6mcupve/app.bsky.feed.post/3ldxw5bd2cc2b",
+            "label": [
+                0.00025381441810168326,
+                0.9989759922027588,
+                0.00016748422058299184,
+                0.00012514439004007727,
+                6.637994374614209e-05,
+                0.00019568961579352617,
+                0.00018690989236347377,
+                2.8627197025343776e-05
+            ]
+        }
+    ]
+}

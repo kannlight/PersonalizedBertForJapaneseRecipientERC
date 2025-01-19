@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "雪のけの体力を確保すべく、たくさん寝たが、布団から出られない問題が"
+                },
+                {
+                    "author": "did:plc:nk4eoy75nm64kotyn6wy42pa",
+                    "type": 2,
+                    "utter": "どっちが長く布団に居られるか勝負な"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "悪いな、私はもう抜け出しちまった"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lfghx3o34k2q",
+            "label": [
+                0.003023838624358177,
+                0.9587276577949524,
+                0.0011299517937004566,
+                0.0006134957657195628,
+                0.00018915363762062043,
+                0.03536911681294441,
+                0.0008139218552969396,
+                0.0001329114311374724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "悪いな、私はもう抜け出しちまった"
+                },
+                {
+                    "author": "did:plc:nk4eoy75nm64kotyn6wy42pa",
+                    "type": 2,
+                    "utter": "行くのか…雪かきに…"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "手伝って……"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lfgi72ln4c2m",
+            "label": [
+                0.0031954862643033266,
+                0.8202318549156189,
+                0.1623901128768921,
+                0.0008249390521086752,
+                0.0006500351009890437,
+                0.008744705468416214,
+                0.003612437518313527,
+                0.00035051212762482464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "手伝って……"
+                },
+                {
+                    "author": "did:plc:nk4eoy75nm64kotyn6wy42pa",
+                    "type": 2,
+                    "utter": "ダンプ持参で行くわ"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "頼もしい"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lfgiometic2m",
+            "label": [
+                0.9975225329399109,
+                0.00010341636516386643,
+                0.0018872213549911976,
+                9.667046106187627e-05,
+                6.705580744892359e-05,
+                0.00010943860979750752,
+                6.106881482992321e-05,
+                0.00015257400809787214
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "頼もしい"
+                },
+                {
+                    "author": "did:plc:nk4eoy75nm64kotyn6wy42pa",
+                    "type": 2,
+                    "utter": "ダンプ手荷物持ち込み駄目だって…ごめん…"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "しょうがないな　近所のホムセンで買っとくね"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lfgj5vdksc2m",
+            "label": [
+                0.11875873804092407,
+                0.017159396782517433,
+                0.8604702949523926,
+                0.000328943133354187,
+                0.00031979006598703563,
+                0.0011467767180874944,
+                0.0012582710478454828,
+                0.0005577990086749196
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "しょうがないな　近所のホムセンで買っとくね"
+                },
+                {
+                    "author": "did:plc:nk4eoy75nm64kotyn6wy42pa",
+                    "type": 2,
+                    "utter": "ごめーん！時給から差し引きしておいて〜！"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "飛行機の距離からタイミーありがと～！"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lfgjpwz4v22m",
+            "label": [
+                0.9996445178985596,
+                5.057388261775486e-05,
+                7.737843407085165e-05,
+                6.918189319549128e-05,
+                2.6839970814762637e-05,
+                3.871817534673028e-05,
+                4.681121208705008e-05,
+                4.595818973029964e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "🥟＜まってるよ"
+                },
+                {
+                    "author": "did:plc:juuqgdotwbheiseheqkc4jcu",
+                    "type": 2,
+                    "utter": "🍚＜俺も"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "🥟＜早くアツアツにして"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lev3a7dxns2s",
+            "label": [
+                0.001278744894079864,
+                0.0003202446678187698,
+                0.9979854822158813,
+                0.00011402156087569892,
+                6.495303387055174e-05,
+                0.00010249700426356867,
+                7.60872644605115e-05,
+                5.78605686314404e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "🥟＜早くアツアツにして"
+                },
+                {
+                    "author": "did:plc:juuqgdotwbheiseheqkc4jcu",
+                    "type": 2,
+                    "utter": "🍚＜早炊きして"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "布団「まだ行くなよ……」"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lev3m2ouxs2s",
+            "label": [
+                0.01810552179813385,
+                0.44619494676589966,
+                0.005338254850357771,
+                0.008008982054889202,
+                0.013333192095160484,
+                0.46486547589302063,
+                0.04243171960115433,
+                0.0017219617730006576
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "布団「まだ行くなよ……」"
+                },
+                {
+                    "author": "did:plc:juuqgdotwbheiseheqkc4jcu",
+                    "type": 2,
+                    "utter": "毛布「まだ12時間、経ってないだろ？」"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "astさん「アナタシロウト！！！」"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lev4flvuys2s",
+            "label": [
+                0.9976785778999329,
+                0.00018582148186396807,
+                0.0007685600430704653,
+                0.0009620872442610562,
+                6.832986400695518e-05,
+                5.7856235798681155e-05,
+                0.00012501630408223718,
+                0.00015371842891909182
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 1,
+                    "utter": "astさん「アナタシロウト！！！」"
+                },
+                {
+                    "author": "did:plc:juuqgdotwbheiseheqkc4jcu",
+                    "type": 2,
+                    "utter": "astさん「どけ！ファンブルってのはなぁ、こうやって出すんだよ！！！」"
+                },
+                {
+                    "author": "did:plc:mc3xfzydeljq6hhjozlrxdiv",
+                    "type": 3,
+                    "utter": "うおおーーー！布団から出た瞬間ファンブルだァーー！流石だぜェーーーッ！！"
+                }
+            ],
+            "uri": "at://did:plc:mc3xfzydeljq6hhjozlrxdiv/app.bsky.feed.post/3lev4ldodsk2s",
+            "label": [
+                0.06242977827787399,
+                0.0017363469814881682,
+                0.001520235207863152,
+                0.9323358535766602,
+                0.0003826774191111326,
+                0.0005948225152678788,
+                0.0005138920969329774,
+                0.00048650935059413314
+            ]
+        }
+    ]
+}

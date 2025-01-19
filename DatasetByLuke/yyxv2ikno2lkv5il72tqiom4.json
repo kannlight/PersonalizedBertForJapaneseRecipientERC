@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、おはよう"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "おはようさん。"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、おはよう、団長"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3lbl7aapkv224",
+            "label": [
+                0.9989486336708069,
+                9.103478078031912e-05,
+                0.0002933788928203285,
+                0.0002470688777975738,
+                6.274206680245697e-05,
+                4.549671211862005e-05,
+                0.0001760097948135808,
+                0.00013557469355873764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、おはよう、団長"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "なんか、久しぶりに話す気がするな。"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、そうだね"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3lblc3b7ajs2w",
+            "label": [
+                0.9712833166122437,
+                0.0004329390940256417,
+                0.023002084344625473,
+                0.000944115687161684,
+                0.0003572379646357149,
+                0.0006578009924851358,
+                0.00099983683321625,
+                0.0023226605262607336
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、そうだね"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "ハロウィン以来……か？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、そうかも"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3lblfx3zbgk2w",
+            "label": [
+                0.9661136269569397,
+                0.00040875395643524826,
+                0.02386653423309326,
+                0.006677397061139345,
+                0.0002725598169490695,
+                0.0005843894905410707,
+                0.0005068472819402814,
+                0.001569887506775558
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、そうかも"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "ん～こういう時に話すことがあんま思い付かねぇな…最近はどうしてたか？とかくらいしか…"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、最近は先生のゲームに付き合ってたかな？"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3lblglltnv222",
+            "label": [
+                0.9935959577560425,
+                0.00027341704117134213,
+                0.005093208514153957,
+                0.0002626350906211883,
+                8.524879376636818e-05,
+                0.00020411035802681,
+                0.00017290716641582549,
+                0.00031246355501934886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、最近は先生のゲームに付き合ってたかな？"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "お、なにやってたんだ？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、ドラゴンクエスト3だったかな"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3lbli2jay3c22",
+            "label": [
+                0.6136547923088074,
+                0.0029675718396902084,
+                0.37720343470573425,
+                0.0016988959396257997,
+                0.0004191471671219915,
+                0.001490198657847941,
+                0.0009374869405291975,
+                0.0016284247394651175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん…（無言で自前のアサルトライフルを構えて"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "え\"っ…。"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん…確か「よくしゃべる」って言いながら撃っていいんだよね？（引き金を引こうとして"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l7slamqgqf2e",
+            "label": [
+                0.05086323618888855,
+                0.0008899078238755465,
+                0.9377995133399963,
+                0.0027346466667950153,
+                0.0002630138478707522,
+                0.006318782921880484,
+                0.00034101682831533253,
+                0.0007899164338596165
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん…確か「よくしゃべる」って言いながら撃っていいんだよね？（引き金を引こうとして"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "いやぁ、それはこのマスク被ってた本人?だからなぁ…。俺はこれを配ってるだけだし…()"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、違った？（そっとアサルトライフル降ろして"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l7slzzvnl52u",
+            "label": [
+                0.03371897712349892,
+                0.012748287059366703,
+                0.017390040680766106,
+                0.9198839068412781,
+                0.0009764727437868714,
+                0.010411678813397884,
+                0.003219621954485774,
+                0.0016510642599314451
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、違った？（そっとアサルトライフル降ろして"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "おう、ありゃ俺の後発で流行ったやつだからな…。\nんで、このマスク…要るか？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、銀行を襲う時に使えそうだから貰っておくね？"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l7snzk5iy727",
+            "label": [
+                0.009815792553126812,
+                0.0004607003938872367,
+                0.9888086915016174,
+                0.00016647625307086855,
+                8.986674947664142e-05,
+                0.0003484998887870461,
+                0.00013358358410187066,
+                0.0001764726621331647
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、ありがと、えっと団長さんだったよね、フォローしても大丈夫？"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "あぁ、勿論だ。\nん、俺の事知ってる感じなんだな？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "うん、一応ね"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l6x2qib72b2l",
+            "label": [
+                0.9194194078445435,
+                0.002227112650871277,
+                0.06361150741577148,
+                0.0010410594986751676,
+                0.000582242792006582,
+                0.005681885872036219,
+                0.004636138211935759,
+                0.002800645539537072
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "うん、一応ね"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "まぁ……良くも悪くもいろんなのと絡められてネタにされてるから目にはつくか…。"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、止まるんじゃねぇぞって台詞はこっちでも有名だから"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l6x4muzg5k2n",
+            "label": [
+                0.8712726831436157,
+                0.01375794131308794,
+                0.0486629344522953,
+                0.018756026402115822,
+                0.007241298444569111,
+                0.015444330871105194,
+                0.008205763064324856,
+                0.016659151762723923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、止まるんじゃねぇぞって台詞はこっちでも有名だから"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "そっちでも有名なのか……。"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、アビドスの生徒も言ってたくらいだから…"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l6x5wdoifo2m",
+            "label": [
+                0.6977015137672424,
+                0.02134787105023861,
+                0.19507227838039398,
+                0.014222812838852406,
+                0.002564537338912487,
+                0.04128046706318855,
+                0.011836634017527103,
+                0.01597391813993454
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 1,
+                    "utter": "ん、アビドスの生徒も言ってたくらいだから…"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "ま、マジか……。それじゃあもうキヴォトス中に…。"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 3,
+                    "utter": "ん、だから団長もロードバイクで200km走るべき"
+                }
+            ],
+            "uri": "at://did:plc:yyxv2ikno2lkv5il72tqiom4/app.bsky.feed.post/3l6x64owzgn2o",
+            "label": [
+                0.00023235224944073707,
+                0.0001773157127900049,
+                0.9990289211273193,
+                0.00017672567628324032,
+                0.00011617453128565103,
+                9.449588833376765e-05,
+                9.569936082698405e-05,
+                7.834291318431497e-05
+            ]
+        }
+    ]
+}

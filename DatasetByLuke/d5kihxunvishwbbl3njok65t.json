@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "ずっしりー！"
+                },
+                {
+                    "author": "did:plc:bjj5t2jf3z4vs3ct6opewksd",
+                    "type": 2,
+                    "utter": "TOOTなので☆w"
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "中身がごんぶとだからですね！！"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3lelgi3nrlk27",
+            "label": [
+                0.2953638732433319,
+                0.009924206882715225,
+                0.02441352978348732,
+                0.6549230813980103,
+                0.0018730685114860535,
+                0.004962654784321785,
+                0.0037221917882561684,
+                0.004817377310246229
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "中身がごんぶとだからですね！！"
+                },
+                {
+                    "author": "did:plc:bjj5t2jf3z4vs3ct6opewksd",
+                    "type": 2,
+                    "utter": "それもありますね☆（？"
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "ですよね〜！じゃないとあんなずっしりじゃない！"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3lelhgm3yik27",
+            "label": [
+                0.07287149131298065,
+                0.001287774764932692,
+                0.00616337638348341,
+                0.9111678004264832,
+                0.0019379615550860763,
+                0.001049891929142177,
+                0.0017292648553848267,
+                0.003792358562350273
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "ですよね〜！じゃないとあんなずっしりじゃない！"
+                },
+                {
+                    "author": "did:plc:bjj5t2jf3z4vs3ct6opewksd",
+                    "type": 2,
+                    "utter": "とはいえTOOTだからってのが強いですねw"
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "けど他のパンツでもずっしりぎっちり…（"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3lelhmthjys27",
+            "label": [
+                0.0011088083265349269,
+                0.9967377781867981,
+                0.00014783546794205904,
+                0.00049650261644274,
+                7.00831224094145e-05,
+                0.000868547591380775,
+                0.0005374953616410494,
+                3.292193650850095e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "けど他のパンツでもずっしりぎっちり…（"
+                },
+                {
+                    "author": "did:plc:bjj5t2jf3z4vs3ct6opewksd",
+                    "type": 2,
+                    "utter": "そんなことは///"
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "あるぞー！！"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3leli3lui6s27",
+            "label": [
+                0.992968738079071,
+                0.000293866207357496,
+                0.005638844333589077,
+                0.00046537950402125716,
+                0.00015446441830135882,
+                0.0001084638133761473,
+                0.00015728952712379396,
+                0.00021289920550771058
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "お大事にね！"
+                },
+                {
+                    "author": "did:plc:mqz6jjllr7kn7y2mfhmduot5",
+                    "type": 2,
+                    "utter": "葛根湯飲んで大人しくしようと思います"
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "それがよいですな〜\n風邪の時ってムラつきません？（"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3leqd63c7gc2b",
+            "label": [
+                0.905835747718811,
+                0.003976096864789724,
+                0.0841396227478981,
+                0.00047482995432801545,
+                0.0002312572323717177,
+                0.0026532779447734356,
+                0.0014842194505035877,
+                0.0012047933414578438
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "それがよいですな〜\n風邪の時ってムラつきません？（"
+                },
+                {
+                    "author": "did:plc:mqz6jjllr7kn7y2mfhmduot5",
+                    "type": 2,
+                    "utter": "年がら年中ムラついてるからわからんですね((("
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "つよつよちんぽめ！！"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3leqgcfcm5s2o",
+            "label": [
+                0.9989963173866272,
+                0.00010418493911856785,
+                0.0005858131917193532,
+                0.00012501167657319456,
+                3.772331911022775e-05,
+                3.201276922482066e-05,
+                6.641371146542951e-05,
+                5.2491101087071e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "つよつよちんぽめ！！"
+                },
+                {
+                    "author": "did:plc:mqz6jjllr7kn7y2mfhmduot5",
+                    "type": 2,
+                    "utter": "つよつよかどうかは実際にお調べいただいて...("
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "ほーう"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3leqhgv354s2o",
+            "label": [
+                0.9972057938575745,
+                0.0001867440587375313,
+                0.0015998899471014738,
+                0.0004298337735235691,
+                0.000102321631857194,
+                5.26836265635211e-05,
+                0.0002643871121108532,
+                0.00015819119289517403
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 1,
+                    "utter": "ほーう"
+                },
+                {
+                    "author": "did:plc:mqz6jjllr7kn7y2mfhmduot5",
+                    "type": 2,
+                    "utter": "窓口は閉じてはいないのでお待ちしております((("
+                },
+                {
+                    "author": "did:plc:d5kihxunvishwbbl3njok65t",
+                    "type": 3,
+                    "utter": "鈴口に空目ったわ（"
+                }
+            ],
+            "uri": "at://did:plc:d5kihxunvishwbbl3njok65t/app.bsky.feed.post/3leqhshgtz22o",
+            "label": [
+                0.1774480789899826,
+                0.10526300966739655,
+                0.0066143241710960865,
+                0.5840228199958801,
+                0.003121117129921913,
+                0.08986640721559525,
+                0.029665812849998474,
+                0.003998463973402977
+            ]
+        }
+    ]
+}

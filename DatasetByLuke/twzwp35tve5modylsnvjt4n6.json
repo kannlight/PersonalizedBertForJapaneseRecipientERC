@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "来たよ！"
+                },
+                {
+                    "author": "did:plc:vx7p3vx3nxg3wq52wuifbt6e",
+                    "type": 2,
+                    "utter": "しずく〜(抱きしめ"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "ママ♡(強く抱きしめ"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpgtjdl2yg2r",
+            "label": [
+                0.9994756579399109,
+                0.0001126038478105329,
+                0.0001783459447324276,
+                5.4648775403620675e-05,
+                2.6067951694130898e-05,
+                4.224710210110061e-05,
+                5.342180156731047e-05,
+                5.7039109378820285e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "ママ♡(強く抱きしめ"
+                },
+                {
+                    "author": "did:plc:vx7p3vx3nxg3wq52wuifbt6e",
+                    "type": 2,
+                    "utter": "しずく〜♡葉月くんも喜んでるよ(強く抱き締め微笑み"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "ふふ！(どや)はーくんもわたしの虜だね！(強く抱きしめたまま"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpj4ruortv2t",
+            "label": [
+                0.999625563621521,
+                5.640864765155129e-05,
+                0.00011372441804269329,
+                6.124297942733392e-05,
+                2.2122854716144502e-05,
+                4.143061232753098e-05,
+                3.9298207411775365e-05,
+                4.019907282781787e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "ふふ！(どや)はーくんもわたしの虜だね！(強く抱きしめたまま"
+                },
+                {
+                    "author": "did:plc:vx7p3vx3nxg3wq52wuifbt6e",
+                    "type": 2,
+                    "utter": "うん！虜だね！(強く抱き締めたまま微笑み"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "もぉっと、虜にさせる！！(むぎゅう"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kqlagjxfhk2m",
+            "label": [
+                0.008740430697798729,
+                0.0005733221187256277,
+                0.9893105030059814,
+                0.0005742835928685963,
+                0.000253632286330685,
+                0.0002139757270924747,
+                0.00014741004270035774,
+                0.00018646303215064108
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "もぉっと、虜にさせる！！(むぎゅう"
+                },
+                {
+                    "author": "did:plc:vx7p3vx3nxg3wq52wuifbt6e",
+                    "type": 2,
+                    "utter": "うん！皆ではーくんパパを虜にしちゃおー！(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "はーくんパパは、すぐ泣いちゃう！だけど、今回は一味違うぜ…✨️笑(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kqlatlgves2o",
+            "label": [
+                0.9958951473236084,
+                0.0007882717764005065,
+                0.0011310677509754896,
+                0.0008122431463561952,
+                9.264887921744958e-05,
+                0.0006319315871223807,
+                0.00020525298896245658,
+                0.00044354033889248967
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "はーくんパパは、すぐ泣いちゃう！だけど、今回は一味違うぜ…✨️笑(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:vx7p3vx3nxg3wq52wuifbt6e",
+                    "type": 2,
+                    "utter": "一味違うの？(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "そうなのさ！！✨️(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kqlbaw2pse2d",
+            "label": [
+                0.9989448189735413,
+                0.0001922503433888778,
+                0.00040020866435952485,
+                0.00011167864431627095,
+                4.686511601903476e-05,
+                8.936328231357038e-05,
+                8.530104969395325e-05,
+                0.00012950613745488226
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "来たよ！"
+                },
+                {
+                    "author": "did:plc:lqzdfheoboubxqabukmatuva",
+                    "type": 2,
+                    "utter": "しずくちゃん…可愛い…(抱き締め"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "はーくん♡(強く抱きしめ"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpgtjzghrg2n",
+            "label": [
+                0.9995798468589783,
+                7.358288712566718e-05,
+                0.00013836927246302366,
+                5.722470814362168e-05,
+                2.3933172997203656e-05,
+                3.788029425777495e-05,
+                4.360082311904989e-05,
+                4.553605685941875e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "はーくん♡(強く抱きしめ"
+                },
+                {
+                    "author": "did:plc:lqzdfheoboubxqabukmatuva",
+                    "type": 2,
+                    "utter": "あー…可愛い…尊い…(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "はーくんもわたしの虜でしょ？(強く抱きしめドヤ顔で"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpj4tw7var23",
+            "label": [
+                0.9995013475418091,
+                5.431142562883906e-05,
+                0.00020421740191522986,
+                7.034422742435709e-05,
+                3.218164783902466e-05,
+                4.1998402593890205e-05,
+                4.430478293215856e-05,
+                5.1252118282718584e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "はーくんもわたしの虜でしょ？(強く抱きしめドヤ顔で"
+                },
+                {
+                    "author": "did:plc:lqzdfheoboubxqabukmatuva",
+                    "type": 2,
+                    "utter": "虜だよ！(更に強く抱き締め"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "んむぅ、苦しいよぅ…///(笑いながら"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpkqrwnip32n",
+            "label": [
+                0.0034825019538402557,
+                0.9836718440055847,
+                0.0007891642744652927,
+                0.0004372291441541165,
+                0.00012452849477995187,
+                0.009851852431893349,
+                0.0015541091561317444,
+                8.886597788659856e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "んむぅ、苦しいよぅ…///(笑いながら"
+                },
+                {
+                    "author": "did:plc:lqzdfheoboubxqabukmatuva",
+                    "type": 2,
+                    "utter": "それだけ可愛いっ(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "えへへ、ありがとうっ！はーくんパパ♡(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kppcfzyo2l27",
+            "label": [
+                0.9996422529220581,
+                7.049780106171966e-05,
+                7.80488335294649e-05,
+                6.063696855562739e-05,
+                2.0733274141093716e-05,
+                4.192528285784647e-05,
+                4.5681394112762064e-05,
+                4.019353218609467e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "えへへ、ありがとうっ！はーくんパパ♡(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:lqzdfheoboubxqabukmatuva",
+                    "type": 2,
+                    "utter": "パパって言ってくれる！(強く抱き締めたまま"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "だって、最高のパパなんだもん！！(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kqlaixo6mc22",
+            "label": [
+                0.9995183944702148,
+                8.70137446327135e-05,
+                0.0001189648755826056,
+                6.647757982136682e-05,
+                3.669655416160822e-05,
+                4.346915375208482e-05,
+                5.261819387669675e-05,
+                7.63210846344009e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "来たよ！"
+                },
+                {
+                    "author": "did:plc:67vhuk2rn63du7pyxnm7n52c",
+                    "type": 2,
+                    "utter": "しずくちゃん、おはようございます"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "こんにちは、先生！！"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpgtkgjrku2w",
+            "label": [
+                0.9983022212982178,
+                8.911063923733309e-05,
+                0.0009391073253937066,
+                0.00037455916753970087,
+                6.055811172700487e-05,
+                3.6618639569496736e-05,
+                8.400992373935878e-05,
+                0.00011379287025192752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "こんにちは、先生！！"
+                },
+                {
+                    "author": "did:plc:67vhuk2rn63du7pyxnm7n52c",
+                    "type": 2,
+                    "utter": "あ、こんにちは、しずくちゃん"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "こんにちは！まだ眠いです…"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpj4ur5l7q2f",
+            "label": [
+                0.9270266890525818,
+                0.018202293664216995,
+                0.037086982280015945,
+                0.0013514984166249633,
+                0.0004265170719008893,
+                0.0062809414230287075,
+                0.00834246352314949,
+                0.0012826414313167334
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "こんにちは！まだ眠いです…"
+                },
+                {
+                    "author": "did:plc:67vhuk2rn63du7pyxnm7n52c",
+                    "type": 2,
+                    "utter": "眠たいよね…"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "起きちゃった…"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kpkqrc5ioe2d",
+            "label": [
+                0.0005474357167258859,
+                0.9980734586715698,
+                0.00015369089669547975,
+                0.0004026507376693189,
+                4.258571789250709e-05,
+                0.0005144895403645933,
+                0.00024188240058720112,
+                2.3733307898510247e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "起きちゃった…"
+                },
+                {
+                    "author": "did:plc:67vhuk2rn63du7pyxnm7n52c",
+                    "type": 2,
+                    "utter": "変な時間に起きてしまうよ…"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "うーん、なんか、変な時間に寝るから…かな？"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kppcfe47ji2q",
+            "label": [
+                0.030135001987218857,
+                0.5100827217102051,
+                0.004543961491435766,
+                0.007380981929600239,
+                0.0004906540270894766,
+                0.43785133957862854,
+                0.008821687661111355,
+                0.0006936508580110967
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 1,
+                    "utter": "うーん、なんか、変な時間に寝るから…かな？"
+                },
+                {
+                    "author": "did:plc:67vhuk2rn63du7pyxnm7n52c",
+                    "type": 2,
+                    "utter": "そうかもしれないね…大変じゃないか？"
+                },
+                {
+                    "author": "did:plc:twzwp35tve5modylsnvjt4n6",
+                    "type": 3,
+                    "utter": "大変だよね…先生達も…私、あまり眠れなかった…"
+                }
+            ],
+            "uri": "at://did:plc:twzwp35tve5modylsnvjt4n6/app.bsky.feed.post/3kqlaiblei72a",
+            "label": [
+                0.0010698811383917928,
+                0.9677400588989258,
+                0.00030126143246889114,
+                0.0027409729082137346,
+                0.00028609216678887606,
+                0.026827501133084297,
+                0.0009174404549412429,
+                0.00011678505688905716
+            ]
+        }
+    ]
+}

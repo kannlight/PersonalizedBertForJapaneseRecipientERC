@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "ひどい"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "そう？"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "串カツ食いたい"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3lby3xkzstc2j",
+            "label": [
+                0.00048502502613700926,
+                0.0001869937259471044,
+                0.9989809393882751,
+                0.00010075632599182427,
+                5.022798359277658e-05,
+                9.020289871841669e-05,
+                5.574905298999511e-05,
+                5.0075796025339514e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "串カツ食いたい"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "田中"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "実際ある"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3lby57gotc22j",
+            "label": [
+                0.5745459198951721,
+                0.0030146699864417315,
+                0.0029367960523813963,
+                0.3936240077018738,
+                0.0016209782334044576,
+                0.011638815514743328,
+                0.007490879390388727,
+                0.005128013901412487
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "実際ある"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "田中最後に行ったの5年前くらいだわ"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "もう俺は覚えてもない()"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3lby6m7rsls2j",
+            "label": [
+                0.13445566594600677,
+                0.7321761250495911,
+                0.003211586968973279,
+                0.015252839773893356,
+                0.001616960042156279,
+                0.07972167432308197,
+                0.03131185099482536,
+                0.002253360813483596
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "オタクじゃん"
+                },
+                {
+                    "author": "did:plc:btguyy4myp42vooqvuuappag",
+                    "type": 2,
+                    "utter": "ツタンとネモのオタクです"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "いいね"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3lexszxllik2z",
+            "label": [
+                0.9996017813682556,
+                4.4791238906327635e-05,
+                0.00011561802966753021,
+                6.239261711016297e-05,
+                3.1570132705383e-05,
+                4.3768763134721667e-05,
+                5.380970105761662e-05,
+                4.6233213652158156e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "いいね"
+                },
+                {
+                    "author": "did:plc:btguyy4myp42vooqvuuappag",
+                    "type": 2,
+                    "utter": "今石集めで忙しい"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "俺も石集めになってる"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3lextq3hew22z",
+            "label": [
+                0.20089229941368103,
+                0.001439990010112524,
+                0.7918590307235718,
+                0.0026593010406941175,
+                0.0002548516495153308,
+                0.0015890016220510006,
+                0.0004552572499960661,
+                0.0008502421551384032
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "俺も石集めになってる"
+                },
+                {
+                    "author": "did:plc:btguyy4myp42vooqvuuappag",
+                    "type": 2,
+                    "utter": "全キャラピックで誰か引くん？"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "ペーパームーンやって欲しくなったからカーマ引きたいのよね〜"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3lexxkm452k22",
+            "label": [
+                0.0007643214776180685,
+                0.00023086980218067765,
+                0.9986340403556824,
+                0.00010745867621153593,
+                6.13014999544248e-05,
+                8.579552377341315e-05,
+                6.0302660131128505e-05,
+                5.5891658121254295e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "ペーパームーンやって欲しくなったからカーマ引きたいのよね〜"
+                },
+                {
+                    "author": "did:plc:btguyy4myp42vooqvuuappag",
+                    "type": 2,
+                    "utter": "なるほど"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "石貯めるついでにイド進める"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3ley2mzgfe22z",
+            "label": [
+                0.002065598266199231,
+                0.00030129996594041586,
+                0.9971415400505066,
+                0.0001368304219795391,
+                7.943584205349907e-05,
+                0.00011596113472478464,
+                8.805887773633003e-05,
+                7.129497680580243e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "佐川の写真"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "実質鶴見辰吾さんグッズじゃん"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "鶴見辰吾のオタク"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l7za3xmjzf26",
+            "label": [
+                0.9981499910354614,
+                0.000122175581054762,
+                0.00043393473606556654,
+                0.0003438566636759788,
+                0.00010675405064830557,
+                0.00022553584130946547,
+                0.0002942136488854885,
+                0.00032360354089178145
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "鶴見辰吾のオタク"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "痛バ"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "実際EPは作りたい"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l7zam24pkr2w",
+            "label": [
+                0.0004926851252093911,
+                0.00018216525495518,
+                0.9989500641822815,
+                0.00010154661868000403,
+                5.877465446246788e-05,
+                9.849372145254165e-05,
+                6.0678194131469354e-05,
+                5.5563148634973913e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "実際EPは作りたい"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "ゲーム画像そのままはまずいから\nイラスト描くところからスタートじゃん"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "佐川のイラスト依頼"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l7zb42wto32g",
+            "label": [
+                0.8652305006980896,
+                0.0005505915614776313,
+                0.13177432119846344,
+                0.000989830819889903,
+                0.00022219546372070909,
+                0.000280072505120188,
+                0.0003972549457103014,
+                0.0005552426446229219
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "佐川のイラスト依頼"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "依頼された側も困惑してそう"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "なんでそんな依頼しちゃうの？"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l7zbbwjbny2y",
+            "label": [
+                0.0003502394538372755,
+                0.0003372427308931947,
+                0.00042617981671355665,
+                0.9978637099266052,
+                0.00022348940547090024,
+                0.0004579481901600957,
+                0.00025893081328831613,
+                8.225630153901875e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "精神と時の部屋"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "修行するしかない"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "最強になろう"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l763ht7pcl2t",
+            "label": [
+                0.0004069155838806182,
+                0.00020474568009376526,
+                0.9989858269691467,
+                0.00012267561396583915,
+                6.882717570988461e-05,
+                8.593885286245495e-05,
+                6.163794023450464e-05,
+                6.33205781923607e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "最強になろう"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "Z戦士になるか"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "戦いに身を投じよう"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l763rhokcn2q",
+            "label": [
+                0.00036367803113535047,
+                0.0001920067152241245,
+                0.9990147352218628,
+                9.053837129613385e-05,
+                8.102922583930194e-05,
+                0.00013713689986616373,
+                5.3283929446479306e-05,
+                6.767837476218119e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "戦いに身を投じよう"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "魔人ブウ倒してくるわ"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "俺が守るけどね"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l7645bxxqp25",
+            "label": [
+                0.3133315145969391,
+                0.007041518110781908,
+                0.6050024032592773,
+                0.001651795580983162,
+                0.022655177861452103,
+                0.023081069812178612,
+                0.010010032914578915,
+                0.01722649112343788
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 1,
+                    "utter": "俺が守るけどね"
+                },
+                {
+                    "author": "did:plc:a5juk6do3xh5bjkaixyfqs4p",
+                    "type": 2,
+                    "utter": "だめだよ"
+                },
+                {
+                    "author": "did:plc:jbfys6urcnhe2q3lbhybtzis",
+                    "type": 3,
+                    "utter": "そうかな？"
+                }
+            ],
+            "uri": "at://did:plc:jbfys6urcnhe2q3lbhybtzis/app.bsky.feed.post/3l764m6pviv2g",
+            "label": [
+                0.5919585227966309,
+                0.010780945420265198,
+                0.24761076271533966,
+                0.10308099538087845,
+                0.0015371603658422828,
+                0.032659318298101425,
+                0.005291452165693045,
+                0.0070808506570756435
+            ]
+        }
+    ]
+}

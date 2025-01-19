@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "どうもー！！！楡井秋彦っす！！"
+                },
+                {
+                    "author": "did:plc:h273ctcxdld5nxwaxqnt5pfb",
+                    "type": 2,
+                    "utter": "しっかり俺の事もフォローして偉いぞー！(頭撫で"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "えっへへ、当然っすよぉ！(肩竦め"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvfzy27djv25",
+            "label": [
+                0.9994294047355652,
+                9.142461931332946e-05,
+                0.00016292106010951102,
+                6.679996295133606e-05,
+                3.197824480594136e-05,
+                7.129355799406767e-05,
+                9.13448675419204e-05,
+                5.484067150973715e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "えっへへ、当然っすよぉ！(肩竦め"
+                },
+                {
+                    "author": "did:plc:h273ctcxdld5nxwaxqnt5pfb",
+                    "type": 2,
+                    "utter": "これからよろしくな！(にっ"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "当然っす！よろしくお願いします(ぺこっ"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvihufg6fk24",
+            "label": [
+                0.32612812519073486,
+                0.0015034934040158987,
+                0.6690651774406433,
+                0.0004901674692519009,
+                0.0004897982580587268,
+                0.000612923817243427,
+                0.0009188230033032596,
+                0.0007914742454886436
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "当然っす！よろしくお願いします(ぺこっ"
+                },
+                {
+                    "author": "did:plc:h273ctcxdld5nxwaxqnt5pfb",
+                    "type": 2,
+                    "utter": "1つ言っていいか？梶から返事がない( ´･ω･`)"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "あって良かったっすね！なんか、梶さん胃カメラ飲むんすね…嫌だろうなぁ…でも！だからこそ梅宮さんが居るんすよね？！✨️"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvj727cmzu2w",
+            "label": [
+                0.999382495880127,
+                7.969458238221705e-05,
+                0.00023100452381186187,
+                9.215332829626277e-05,
+                2.7197722374694422e-05,
+                4.874350634054281e-05,
+                4.5316330215428025e-05,
+                9.342714474769309e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "あって良かったっすね！なんか、梶さん胃カメラ飲むんすね…嫌だろうなぁ…でも！だからこそ梅宮さんが居るんすよね？！✨️"
+                },
+                {
+                    "author": "did:plc:h273ctcxdld5nxwaxqnt5pfb",
+                    "type": 2,
+                    "utter": "そういう事だ！でも...梶が飲むイコール楡井も飲むんだぞ？"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "…あー…現実逃避してたのに"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvnwm35zof24",
+            "label": [
+                0.00017708698578644544,
+                0.9988418221473694,
+                0.0001822445628931746,
+                0.00011614290997385979,
+                9.213799057761207e-05,
+                0.00021313256002031267,
+                0.00034977259929291904,
+                2.7662232241709717e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "…あー…現実逃避してたのに"
+                },
+                {
+                    "author": "did:plc:h273ctcxdld5nxwaxqnt5pfb",
+                    "type": 2,
+                    "utter": "お疲れ様だな！楡井！"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "あ、ありがとうございます😭"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvpxmu7hmf24",
+            "label": [
+                0.9996316432952881,
+                4.715903560281731e-05,
+                8.38186897453852e-05,
+                7.863876817282289e-05,
+                2.76260579994414e-05,
+                3.978542736149393e-05,
+                5.019282252760604e-05,
+                4.1104845877271146e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "どうもー！！！楡井秋彦っす！！"
+                },
+                {
+                    "author": "did:plc:cq42twnzo6qv4e5mt3s4nila",
+                    "type": 2,
+                    "utter": "おい、誰が誰の見守りだって？"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "え？！えーっと…兎に角！色々気を付けて下さいっす！"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvfzwjg3lh2k",
+            "label": [
+                0.002166067948564887,
+                0.004891995340585709,
+                0.011194413527846336,
+                0.07550961524248123,
+                0.0017917340155690908,
+                0.9025675654411316,
+                0.000998974428512156,
+                0.0008796459878794849
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "え？！えーっと…兎に角！色々気を付けて下さいっす！"
+                },
+                {
+                    "author": "did:plc:cq42twnzo6qv4e5mt3s4nila",
+                    "type": 2,
+                    "utter": "なんだよ、心配する必要ねぇよ"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "心配なんすよ〜💦🥺"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvj6xqbv4z2m",
+            "label": [
+                0.0008296607411466539,
+                0.001157391001470387,
+                0.0007404887001030147,
+                0.001315209548920393,
+                0.0004552070749923587,
+                0.9948531985282898,
+                0.00043187791015952826,
+                0.00021709766588173807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "心配なんすよ〜💦🥺"
+                },
+                {
+                    "author": "did:plc:cq42twnzo6qv4e5mt3s4nila",
+                    "type": 2,
+                    "utter": "別に喧嘩吹っかけてるわけじゃねぇんだからいいだろ"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "いや、かわいいんで…"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvnwnrmjhh27",
+            "label": [
+                0.9996440410614014,
+                4.7691275540273637e-05,
+                8.09721605037339e-05,
+                6.275282066781074e-05,
+                2.616196434246376e-05,
+                4.766585698234849e-05,
+                5.01989561598748e-05,
+                4.039781561004929e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "いや、かわいいんで…"
+                },
+                {
+                    "author": "did:plc:cq42twnzo6qv4e5mt3s4nila",
+                    "type": 2,
+                    "utter": "か、可愛い？！"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "かわいいっすよ！！"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvpxfmlf4222",
+            "label": [
+                0.9996254444122314,
+                4.003440335509367e-05,
+                0.00011626230116235092,
+                6.28930501989089e-05,
+                2.828244396368973e-05,
+                4.088955029146746e-05,
+                4.471761349122971e-05,
+                4.143511614529416e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 1,
+                    "utter": "かわいいっすよ！！"
+                },
+                {
+                    "author": "did:plc:cq42twnzo6qv4e5mt3s4nila",
+                    "type": 2,
+                    "utter": "はぁ？！可愛くねぇよ！殴るぞ！"
+                },
+                {
+                    "author": "did:plc:shnliwclvma4cgw6rlcz4juz",
+                    "type": 3,
+                    "utter": "暴力反対っすよ！！"
+                }
+            ],
+            "uri": "at://did:plc:shnliwclvma4cgw6rlcz4juz/app.bsky.feed.post/3kvpxnfib3g26",
+            "label": [
+                0.0066298674792051315,
+                0.012431606650352478,
+                0.029735848307609558,
+                0.012045071460306644,
+                0.768635630607605,
+                0.01479602511972189,
+                0.14759698510169983,
+                0.008128918707370758
+            ]
+        }
+    ]
+}

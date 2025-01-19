@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "今日も一日お疲れ様でした🫡"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "しばらくひきこもりたい😇"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "2ヶ月目突入w\n(๑ •̀ω•́)۶ﾌｧｲﾄ!!"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lbw76esxrs24",
+            "label": [
+                0.0011341336648911238,
+                0.00023937485821079463,
+                0.9981762170791626,
+                0.00012425309978425503,
+                7.682949944864959e-05,
+                0.0001103025206248276,
+                6.494369881693274e-05,
+                7.395423745037988e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "2ヶ月目突入w\n(๑ •̀ω•́)۶ﾌｧｲﾄ!!"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "今全てがめんどくさいモードに入ったから無理ー😇"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "スイッチ入れようかーw🫣"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lbw7u3x77k24",
+            "label": [
+                0.006499564275145531,
+                0.00041786464862525463,
+                0.9924532771110535,
+                0.00013365874474402517,
+                6.175212911330163e-05,
+                0.00023002653324510902,
+                0.00011170215293532237,
+                9.218281047651544e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "お疲れ様でした\nもうすぐ見頃だね"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "山の方は寒いからそろそろかもね🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "冷え込んでるからワンチャン見頃🤩"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lbc6x26njs2b",
+            "label": [
+                0.990168571472168,
+                0.0001959425280801952,
+                0.008988894522190094,
+                0.00013077579205855727,
+                9.998644236475229e-05,
+                0.0001343818148598075,
+                0.00011501303379191086,
+                0.00016652722842991352
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "冷え込んでるからワンチャン見頃🤩"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "寒そう🥶 ⸝⸝"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "着込んでる行かないと寒いかもよ*🥶💨*"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lbceel5oqk2o",
+            "label": [
+                0.0016019077738747,
+                0.0016006423393264413,
+                0.0017339674523100257,
+                0.0016968559939414263,
+                0.0003126869269181043,
+                0.9925298094749451,
+                0.0003071181126870215,
+                0.00021707349515054375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "着込んでる行かないと寒いかもよ*🥶💨*"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "着込むような時期でもないけどね🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "風が無ければね🙄"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lbcesebfuk2h",
+            "label": [
+                0.0014617897104471922,
+                0.0038273006211966276,
+                0.9932481050491333,
+                7.60962357162498e-05,
+                7.587007712572813e-05,
+                0.0006491655949503183,
+                0.000524690083693713,
+                0.00013702103751711547
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "風が無ければね🙄"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "風はあるじゃろ🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "なら寒いやろ🤔\n去年のランチオフも寒かったし…🤔💭"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lbcfkze7b22h",
+            "label": [
+                0.007679977919906378,
+                0.025690628215670586,
+                0.001130040967836976,
+                0.003448411589488387,
+                0.0007114866166375577,
+                0.9521605968475342,
+                0.008610638789832592,
+                0.0005682354676537216
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "おはようございます\n\n昨日よりは涼しいかも"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "朝イチ室内24℃\nそうでも無い🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "そこは温室だから\n室温18℃しかないよ🤔"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lapfjfckhs2d",
+            "label": [
+                0.02801559492945671,
+                0.4585438072681427,
+                0.0019641947001218796,
+                0.4870375394821167,
+                0.0010461097117513418,
+                0.019625727087259293,
+                0.0031580186914652586,
+                0.0006090407841838896
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "そこは温室だから\n室温18℃しかないよ🤔"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "そんなことないよ\n真冬は15℃くらいになるし"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "日あたりよすぎ\n真冬は8℃だし"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lapg2ogkuc2d",
+            "label": [
+                0.9994342923164368,
+                7.09542800905183e-05,
+                4.996839925297536e-05,
+                0.00022499304031953216,
+                2.8701360861305147e-05,
+                6.511056562885642e-05,
+                7.240674312924966e-05,
+                5.3600906539941207e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "日あたりよすぎ\n真冬は8℃だし"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "室内がそこまで下がることない\n日中ならカーテン開ければ20℃くらいにはなる"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "暖房いらないやん日中\nうらやま"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3laph6gmwzc2b",
+            "label": [
+                0.15651661157608032,
+                0.014694728888571262,
+                0.007463958114385605,
+                0.8135583996772766,
+                0.0008345021633431315,
+                0.0019849115051329136,
+                0.0025151753798127174,
+                0.00243168487213552
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "暖房いらないやん日中\nうらやま"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "夜も暖房いらんよ🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "エコでええやん"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lapotmnvy22z",
+            "label": [
+                0.9994639754295349,
+                4.5599957957165316e-05,
+                0.00018818999524228275,
+                8.365905523533002e-05,
+                4.464715311769396e-05,
+                4.0475679270457476e-05,
+                7.119111251085997e-05,
+                6.223183299880475e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "お疲れ様でした\n\n明日は休みですぞ🙌"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "のんびりすればいいじゃん"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "のんびりするよ\nマラソン大会で動きが取れんのよ"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lajbei2t6h27",
+            "label": [
+                0.959337592124939,
+                0.005245060194283724,
+                0.03358687832951546,
+                0.0001717295526759699,
+                9.891936497297138e-05,
+                0.000616649747826159,
+                0.0006658115307800472,
+                0.00027736008632928133
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "のんびりするよ\nマラソン大会で動きが取れんのよ"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "あー、制限かかるやつ"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "囲まれてるからねコースに\n抜け道あるけど大渋滞かな"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lajbxqvdhk2q",
+            "label": [
+                0.0015327500877901912,
+                0.0013899145415052772,
+                0.001734047895297408,
+                0.0008611701778136194,
+                0.0002765230892691761,
+                0.9936630725860596,
+                0.00034584940294735134,
+                0.00019662315025925636
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "囲まれてるからねコースに\n抜け道あるけど大渋滞かな"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "半日くらいじゃろ？🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "早いコースはね\n遅ければ15時くらいまで封鎖"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lajdftckhd23",
+            "label": [
+                0.04039885476231575,
+                0.01056886836886406,
+                0.004313582554459572,
+                0.01411531399935484,
+                0.000593320990446955,
+                0.9274117350578308,
+                0.0016726645408198237,
+                0.0009257146739400923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 1,
+                    "utter": "早いコースはね\n遅ければ15時くらいまで封鎖"
+                },
+                {
+                    "author": "did:plc:dkuh2pfowjxnlnlkbgmkitjy",
+                    "type": 2,
+                    "utter": "🤔\n早い時間に抜けておけば問題なし🤔"
+                },
+                {
+                    "author": "did:plc:inygf2vzatgka6mqzozhdhns",
+                    "type": 3,
+                    "utter": "7時とか8時には封鎖するんよ"
+                }
+            ],
+            "uri": "at://did:plc:inygf2vzatgka6mqzozhdhns/app.bsky.feed.post/3lajev3fd5727",
+            "label": [
+                0.006029152777045965,
+                0.018584661185741425,
+                0.0004764940240420401,
+                0.8960950970649719,
+                0.01029421016573906,
+                0.020888566970825195,
+                0.04706207662820816,
+                0.0005698352470062673
+            ]
+        }
+    ]
+}

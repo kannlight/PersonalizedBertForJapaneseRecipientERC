@@ -1,0 +1,369 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "みーちゃん、ウエストくん好きだったっけ？\n\nWはめっちゃいいよ〜🌈"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "ウエストちょっと気になるねん☺️ライブ行ったらめっちゃ元気になるって聞くから行ってみたい✨"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "ウエスト行ってみる？\nとりあえずファミクラ入らなあかんけど😂\n\nそうそうトラジャ行くねん〜"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3lbvz3rbmu22i",
+            "label": [
+                0.0015401209238916636,
+                0.00029127951711416245,
+                0.9977523684501648,
+                0.0001271200890187174,
+                6.713197944918647e-05,
+                8.384753891732544e-05,
+                7.540455408161506e-05,
+                6.274640327319503e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "ウエスト行ってみる？\nとりあえずファミクラ入らなあかんけど😂\n\nそうそうトラジャ行くねん〜"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "ツアー終わったとこやし来年に向けてfc入ってもいいかなーとも 思う。でもそれ言ったら行きたいライブいっぱいあるわ😂全部入ってられへん💦 \n\nトラジャいいやん！\nやっぱりダンスとか揃ってて上手やから見ごたえあるって聞くよー☺️\nしめちゃん可愛い☺️"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "何行きたいん？\n手分けして入る？\n4連やったころは良かったのに、2連だとなかなかむずかしいよね。\n\nトラビス、とりあえず行ってみるけど、メインは娘だから😂"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3lbw26h2zks2i",
+            "label": [
+                0.04796530678868294,
+                0.0050516133196651936,
+                0.9427887201309204,
+                0.0007522622472606599,
+                0.0002571875520516187,
+                0.0022704657167196274,
+                0.00038892647717148066,
+                0.0005254267016425729
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "何行きたいん？\n手分けして入る？\n4連やったころは良かったのに、2連だとなかなかむずかしいよね。\n\nトラビス、とりあえず行ってみるけど、メインは娘だから😂"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "娘ちゃんがトラビス好きなん？\nでfcも入ってるん？\nいつの間にー🤭"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "そやねん。生きてる人間に興味なかってんけど、まんまと元太に😂\n\nでも入ったのツアー発表されてからやで😂"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3lbw3fgbhe22i",
+            "label": [
+                0.5252071022987366,
+                0.09635226428508759,
+                0.00576929422095418,
+                0.3427625596523285,
+                0.0019883126951754093,
+                0.01773924194276333,
+                0.006987586617469788,
+                0.0031936727464199066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "そやねん。生きてる人間に興味なかってんけど、まんまと元太に😂\n\nでも入ったのツアー発表されてからやで😂"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "いいやん松元☺️\nそれでチケット取れたのすぎょい😳！"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "地方だからかなぁ😂\n横浜と名古屋？大阪？は激戦だったって見かけたよ〜"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3lbw4ujbs2s2n",
+            "label": [
+                0.06087515503168106,
+                0.01306067779660225,
+                0.020326346158981323,
+                0.8882493376731873,
+                0.0003432028752285987,
+                0.014149036258459091,
+                0.0012585733784362674,
+                0.0017377166077494621
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "どしたん？いきなり😂\n\nなにわかわいかったよ〜✨✨"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "👀の件、まだ😒こんな感じで思ってるから\nドリアイちら見してやっぱこれよねーって🤗🎉💕"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "安田の挨拶泣けたわ！\nとにかくなにわキラキラしとった。\nAぇの佐野くん？錦戸くんに顔似てるねん。目が違うけど。"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l4sqoala6g2c",
+            "label": [
+                0.9996016621589661,
+                5.5958033044589683e-05,
+                7.695902604609728e-05,
+                0.00011156828986713663,
+                2.3375994715024717e-05,
+                3.568991451174952e-05,
+                4.4730146328220144e-05,
+                5.014074849896133e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "安田の挨拶泣けたわ！\nとにかくなにわキラキラしとった。\nAぇの佐野くん？錦戸くんに顔似てるねん。目が違うけど。"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "挨拶良かったよね\nあんなん言われたら一生応援する✨って感じやん😭\nなにわはビジュが神ががってる😇\n佐野くん分かる\n顔の下半身が似てるのかな🙄"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "インスタ見た？長い…\n\n安田くんにずっとついてく🩵\n\n北海道、ホテルキャンセルしてないねんけど、もう飛行機ないねん😭\n復活当選したらどないしよ…"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l4srrthoum2m",
+            "label": [
+                0.7782062292098999,
+                0.183257594704628,
+                0.0306293573230505,
+                0.002311642747372389,
+                0.0003067280922550708,
+                0.0030669448897242546,
+                0.0012321574613451958,
+                0.000989384832791984
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "インスタ見た？長い…\n\n安田くんにずっとついてく🩵\n\n北海道、ホテルキャンセルしてないねんけど、もう飛行機ないねん😭\n復活当選したらどないしよ…"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "見てきた！\n延々スクロールしても終わらなくてそっ閉じ。。😱\n北海道、飛行機は抑えてなかったんやっけ？\n札幌丘珠空港の発着調べてみたら？"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "飛行機、キャンセル料が結構かかるから、予約だけ入れて当落出てから流してん…\n\nスノってすごい人気なんだなって改めて思うわぁ。\n復活当選がいつあるかもわからないし、そのとき飛行機あるのかな🥲って感じです。\n\n丘珠は今季ないねん、静岡発着"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l4t5zi4qf72d",
+            "label": [
+                0.008929643779993057,
+                0.8893604874610901,
+                0.01737218163907528,
+                0.006582377944141626,
+                0.0002108076005242765,
+                0.07628721743822098,
+                0.0009916593553498387,
+                0.00026564160361886024
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "飛行機、キャンセル料が結構かかるから、予約だけ入れて当落出てから流してん…\n\nスノってすごい人気なんだなって改めて思うわぁ。\n復活当選がいつあるかもわからないし、そのとき飛行機あるのかな🥲って感じです。\n\n丘珠は今季ないねん、静岡発着"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "うわーそっかぁ💦\n飛行機ほんまに無いみたいやから無理やろなぁ😫\n羽田→乗継→丘珠で考えてる人ちらほら見かける"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "キャンセル待ちチェックするしかないよな〜(てか復活当選もしてないねんけど😂)\n丘珠→函館→羽田→新幹線とかかな🥲\n\nスノ人気すごすぎて、嵐の時みたいになってるよ😂"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l4t7j4n7l52u",
+            "label": [
+                0.006581034976989031,
+                0.024930421262979507,
+                0.9543555974960327,
+                0.0016267835162580013,
+                0.0001607621379662305,
+                0.011696242727339268,
+                0.0003698247019201517,
+                0.000279334926744923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "めずらしいね、雑誌かうの😂"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "食指が動いた時だけね\nおーはしくんのananなんて電子と紙と両方買ってしまった😂"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "なにわ好きやねんなぁ🥰"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l2epfv4bg325",
+            "label": [
+                0.9996181726455688,
+                4.187225204077549e-05,
+                7.973938045324758e-05,
+                6.249821308301762e-05,
+                3.486387140583247e-05,
+                5.036798393120989e-05,
+                6.104682688601315e-05,
+                5.1367773266974837e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "なにわ好きやねんなぁ🥰"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "たまにね"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "たまになんや😂\n昨日、なにふぁむさんよく見るたよ"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l2ik3rdywa2z",
+            "label": [
+                0.3006802797317505,
+                0.0015878427075222135,
+                0.0052606877870857716,
+                0.689298689365387,
+                0.00048393040196970105,
+                0.0006898152059875429,
+                0.0009816506644710898,
+                0.0010170598980039358
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "たまになんや😂\n昨日、なにふぁむさんよく見るたよ"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "りゅちぇの映画始まったから？🎞️"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "あ。ツアーか"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "そうそう、今日も何人か見たよ😂\nみんなかわいくしてはるわ〜✨✨"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l2jrdlvfi627",
+            "label": [
+                0.9995644688606262,
+                4.474431261769496e-05,
+                0.00015092352987267077,
+                8.755383169045672e-05,
+                2.7506061087478884e-05,
+                3.3455551601946354e-05,
+                4.496847395785153e-05,
+                4.6404111344600096e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 1,
+                    "utter": "そうそう、今日も何人か見たよ😂\nみんなかわいくしてはるわ〜✨✨"
+                },
+                {
+                    "author": "did:plc:g3ztix6xqekkmz3be2vyxaga",
+                    "type": 2,
+                    "utter": "最近の若い子ほんま可愛いよな😂"
+                },
+                {
+                    "author": "did:plc:oe5ovd23okzkdodakivdo6xz",
+                    "type": 3,
+                    "utter": "まじそれ✨✨"
+                }
+            ],
+            "uri": "at://did:plc:oe5ovd23okzkdodakivdo6xz/app.bsky.feed.post/3l2jwm7jq7i2x",
+            "label": [
+                0.9991554021835327,
+                6.525574281113222e-05,
+                0.0002751097781583667,
+                0.00023417279589921236,
+                5.3557028877548873e-05,
+                3.8140224205562845e-05,
+                8.197707211365923e-05,
+                9.633455192670226e-05
+            ]
+        }
+    ]
+}

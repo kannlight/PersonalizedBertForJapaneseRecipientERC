@@ -1,0 +1,784 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "こっちも雪やばいです😱\nお互い風邪ひかないようにしましょ💦"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "まりまりまりまりたんたん🥺 \n\nまりなさんは 北陸 東北 北海道？？\n雪いやだーー˚‧·(´ฅωฅ｀)‧º·"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "まりたんたんが可愛くてツボです☺️\n\n私は今は北陸ですー⛄️\n雪めっちゃ降ってます💦"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3lfcq4aeo6k2d",
+            "label": [
+                0.9996474981307983,
+                4.278467167750932e-05,
+                0.00010027543612523004,
+                5.796754339826293e-05,
+                2.6226503905490972e-05,
+                4.0067676309263334e-05,
+                4.190967229078524e-05,
+                4.334960976848379e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "まりたんたんが可愛くてツボです☺️\n\n私は今は北陸ですー⛄️\n雪めっちゃ降ってます💦"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "同じ北陸民だった😭  北陸の雪は 水分含むから 雪かき地獄なんですよね 明日は 雪かきなので\n\nまりたんたん(。・ω・)σ゛ﾂﾝﾂﾝ"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "わんこさんも北陸民！！一緒だ😊\n本当雪かき地獄ですね💦融雪もついてないですし💦\n\nわんこさん( *´ `)σ)´ `*)ﾂﾝﾂﾝ"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3lfcryct5y22d",
+            "label": [
+                0.813433825969696,
+                0.09667926281690598,
+                0.026160888373851776,
+                0.02454855665564537,
+                0.0014918550150468946,
+                0.029586834833025932,
+                0.004665329586714506,
+                0.0034334075171500444
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "わんこさんも北陸民！！一緒だ😊\n本当雪かき地獄ですね💦融雪もついてないですし💦\n\nわんこさん( *´ `)σ)´ `*)ﾂﾝﾂﾝ"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "(*/▽＼*)ｷｬｯ\n\nでも自分は福井だから🤣 富山や 石川の 白山市とか に比べたら可愛い︎💕︎✨"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "福井なんですね😊\n私も前住んでたのが秋田なのでそれに比べたら全然なんですけど💦でも大変は大変ですよね💦"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3lfcshrmf2s2d",
+            "label": [
+                0.03535233810544014,
+                0.02536732517182827,
+                0.012477737851440907,
+                0.6405670046806335,
+                0.0012374157086014748,
+                0.2798231244087219,
+                0.0014432488242164254,
+                0.003731892677024007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "福井なんですね😊\n私も前住んでたのが秋田なのでそれに比べたら全然なんですけど💦でも大変は大変ですよね💦"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "まりまりたんたんの 秋田弁に期待 «٩(*´ ꒳ `*)۶»ﾜｸﾜｸ\n\n福井でも  岐阜よりの方はえぐいですけど🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "残念ながら生まれも育ちも埼玉なので喋れないです😂方言に憧れてます😂\n\n福井も結構降りますよね💦本当雪は大変💦"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3lfcsr5qbbs2d",
+            "label": [
+                0.0009573849383741617,
+                0.9960124492645264,
+                0.0004174443311057985,
+                0.0010298556881025434,
+                4.148593143327162e-05,
+                0.0013129528379067779,
+                0.00017696822760626674,
+                5.1509337936295196e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "なんか気付いたら寝てた😱いつ寝たのかも分からないしめっちゃ寝た！！ww\nこれはスタンド攻撃だ…😨こんなに寝ちゃうなんて絶対そうだ…"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "ザ・ワールド時よ止まれ︎💕︎✨ \nそして まりなは 動き出す\nﾄﾃﾄﾃ((((((っ*･ω･)っ"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "やっぱりスタンド攻撃でした！！！😂\nザ・ワールドは強すぎる😂ww"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldiimz3lrk2t",
+            "label": [
+                0.3833019435405731,
+                0.0013489736011251807,
+                0.004370453301817179,
+                0.6075078248977661,
+                0.0007240515551529825,
+                0.0006105692591518164,
+                0.0007864857907406986,
+                0.001349629950709641
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "やっぱりスタンド攻撃でした！！！😂\nザ・ワールドは強すぎる😂ww"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "第6部は 原作も読んでないので 今ワクワクしながら見てます🥺 \n\nでも 承太郎が˚‧·(´ฅωฅ｀)‧º·\n\nスターマリナを 使わないと プッチには 勝てません🥺"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "６部も面白いですよねっ！承太郎はちょっと可哀想になっちゃいますけど😢\n\nプッチ神父強いですからねー！💦\nわんこさんは何部が好きですかー😊？？"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldin435eic2t",
+            "label": [
+                0.9598407745361328,
+                0.0003612399741541594,
+                0.038591112941503525,
+                0.00028148613637313247,
+                0.00023010605946183205,
+                0.0001714918907964602,
+                0.00020464339468162507,
+                0.00031914113787934184
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "６部も面白いですよねっ！承太郎はちょっと可哀想になっちゃいますけど😢\n\nプッチ神父強いですからねー！💦\nわんこさんは何部が好きですかー😊？？"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "マニアックかもですけど 2部なんですよ︎💕︎✨\nシーザー大好き︎💕︎✨  \n\nスタンドがない所が いいんですよね波紋🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "２部も良いですよねー😊！！\nシーザー私も好きです🥰かっこいい✨\n\n２部のカーズ様、ジョジョの中で1番強いと思ってて🔥誰なら倒せるかなぁって話をよく旦那さんとしてます😂"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldintvfbis2t",
+            "label": [
+                0.998554527759552,
+                7.383460615528747e-05,
+                0.0010287807090207934,
+                6.764487625332549e-05,
+                6.093879710533656e-05,
+                5.4467822337755933e-05,
+                6.375705561367795e-05,
+                9.609884000383317e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "２部も良いですよねー😊！！\nシーザー私も好きです🥰かっこいい✨\n\n２部のカーズ様、ジョジョの中で1番強いと思ってて🔥誰なら倒せるかなぁって話をよく旦那さんとしてます😂"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "カーズさんは 今 地球の周りを まわって 考えるのやめてますから🤣  \n\nたぶん 3部から入った人が多いから 3部は人気ありそうですよね🥺 \n2部面白いのに 🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "３部人気ですねー！！確かに1番人気だと思いますー👑✨\n\n２部も面白いですよねー😊波紋の修行の話とか私は好きです🥰"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldio6wwtok2t",
+            "label": [
+                0.9966390132904053,
+                8.522404095856473e-05,
+                0.0022039662580937147,
+                0.0004348982183728367,
+                0.00012397198588587344,
+                7.365066994680092e-05,
+                0.00011582688603084534,
+                0.0003235095937270671
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "３部人気ですねー！！確かに1番人気だと思いますー👑✨\n\n２部も面白いですよねー😊波紋の修行の話とか私は好きです🥰"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "うちの嫁ちゃんは 5部ですね  \nわんこさん2推しの  ブチャラティ様が イケメン過ぎる︎💕︎✨ \n\nブチャラティ大好きです🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "私も５部が1番好きですー🥰🩷\n\n2番目ブチャラティなんですねー！！✨かっこいいですよねー✨！！"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldiomd5i2k2t",
+            "label": [
+                0.9996063113212585,
+                3.8910802686586976e-05,
+                0.00012574750871863216,
+                5.943190262769349e-05,
+                3.522936822264455e-05,
+                3.494518023217097e-05,
+                4.487113983486779e-05,
+                5.446833893074654e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "めっちゃ可愛いですー😍💕"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "まりなさんだ«٩(*´∀`*)۶»ﾌﾘﾌﾘ♥\n\nうちの末っ子たん ありがとうごさいまふ︎💕︎✨"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "遡ったらわんこさん体調良くないって見て心配です🥺\n\nわんちゃん達に癒されて良くなって下さいね✨"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldielhbu2s2t",
+            "label": [
+                0.0037923771888017654,
+                0.23878909647464752,
+                0.1567564159631729,
+                0.002956490498036146,
+                0.00089383585145697,
+                0.5939879417419434,
+                0.0017548513133078814,
+                0.0010690512135624886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "遡ったらわんこさん体調良くないって見て心配です🥺\n\nわんちゃん達に癒されて良くなって下さいね✨"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "23:30までお仕事なので とりあえず薬のんで 頑張ります💪 \n\n正月休みまで 頑張るぞー🤣 \n\n正月は まりなさんに 構ってもらうから🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "無理しない程度に頑張ってくださいねー(*•̀ㅂ•́)و\"\n\nお正月！私で良ければっ！！😆"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldietgojhc2t",
+            "label": [
+                0.0006191344000399113,
+                0.00021089038637001067,
+                0.9987898468971252,
+                0.00010301085421815515,
+                6.773893983336166e-05,
+                8.446317224297673e-05,
+                6.310085882432759e-05,
+                6.18152625975199e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "無理しない程度に頑張ってくださいねー(*•̀ㅂ•́)و\"\n\nお正月！私で良ければっ！！😆"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "もう あけましておめでとう投げるから受け止めてくださいね🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "わかりましたっ！=͟͟͞͞○ヽ(･ω･´ ヽ)受け止めます！！😂"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldiez22l3s2t",
+            "label": [
+                0.6600624322891235,
+                0.003056472633033991,
+                0.33059829473495483,
+                0.000605622713919729,
+                0.0007668535108678043,
+                0.0014655706472694874,
+                0.001685455092228949,
+                0.0017593279480934143
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "わかりましたっ！=͟͟͞͞○ヽ(･ω･´ ヽ)受け止めます！！😂"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "わんこが1番なんだから۹(◦`H´◦)۶ﾌﾟﾝｽｶ！"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "わんこさんいつも顔文字かわいい😍"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldif5yesac2t",
+            "label": [
+                0.9996324777603149,
+                4.0372855437453836e-05,
+                0.00010909532284131274,
+                5.885857535758987e-05,
+                2.9661219741683453e-05,
+                3.8960653910180554e-05,
+                4.538852590485476e-05,
+                4.522084418567829e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "可愛いんですよー😍💕ジョジョ好きアピールして歩いてます😂"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "イギー好きすぎて  死んだ時泣いたのは ワンコさんだけじゃないはず🥺 \n\nまりなさん が土日絡んでくれなくて わんこは 悲しかった\n˚‧·(´ฅωฅ｀)‧º·"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "分かりますー！！私もめっちゃ泣きましたー😭！！\n\nえー！そうだったんですね🥺✨そんな風に思ってくれてたなんて😭嬉しいです💦"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldfxorlpus2p",
+            "label": [
+                0.9995914101600647,
+                9.049892832990736e-05,
+                8.382075611734763e-05,
+                9.036826668307185e-05,
+                2.0119417968089692e-05,
+                4.175082722213119e-05,
+                4.0327213355340064e-05,
+                4.163059566053562e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "分かりますー！！私もめっちゃ泣きましたー😭！！\n\nえー！そうだったんですね🥺✨そんな風に思ってくれてたなんて😭嬉しいです💦"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "だって 仲良くなりたいんです˚‧·(´ฅωฅ｀)‧º· \n\nウェルカムまりな です🤣"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "嬉しすぎる🥺私ももっと仲良くなりたいですー☺️💖"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldg226spmk2p",
+            "label": [
+                0.9988054037094116,
+                7.660333358217031e-05,
+                0.0008461207617074251,
+                6.919392762938514e-05,
+                3.850259963655844e-05,
+                5.109018093207851e-05,
+                5.4923159041209146e-05,
+                5.817789860884659e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "嬉しすぎる🥺私ももっと仲良くなりたいですー☺️💖"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "本当にですか(*´∀`)σ)∀`*)”ｳﾘｳﾘ"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "ほんとですよー‪(*∩´꒳`∩*)もっと仲良くなっていつか一緒にゲームしたいです🥰"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldg26zu7722p",
+            "label": [
+                0.0012037105625495315,
+                0.00021669591660611331,
+                0.998155415058136,
+                0.00010860188194783404,
+                8.222096948884428e-05,
+                8.510417683282867e-05,
+                7.804870983818546e-05,
+                7.014566654106602e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "ほんとですよー‪(*∩´꒳`∩*)もっと仲良くなっていつか一緒にゲームしたいです🥰"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "いつかじゃなくても いいんですよꉂ🤣𐤔  \n\n遊べる機会あるといいな 🥺"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "わーい🙌✨\n時間合った時に遊びたいです😊🫶"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ldg2pqupnc2p",
+            "label": [
+                0.6703893542289734,
+                0.0009462816524319351,
+                0.3264681398868561,
+                0.0005196747952140868,
+                0.000378287659259513,
+                0.0004533282481133938,
+                0.00041634964873082936,
+                0.00042855512583628297
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "運動不足だからちょっと長めに運動してみる😂がんばるぞお✨"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "まりなさんの運動日記毎日更新期待してますね︎💕︎✨"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "１時間位リングフィットやってきました🔥久しぶりすぎて💦疲れましたー😂"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld3pttopk22p",
+            "label": [
+                0.9775470495223999,
+                0.008225704543292522,
+                0.0022464259527623653,
+                0.0037521175108850002,
+                8.963616710389033e-05,
+                0.003790675662457943,
+                0.003805018262937665,
+                0.0005433968617580831
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "１時間位リングフィットやってきました🔥久しぶりすぎて💦疲れましたー😂"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "リングフィットは 自分に合わなくて辞めました🤣 \n\nでも 色々な部位を鍛えれるので いい所もありますよねꉂ🤭"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "全身運動不足すぎたのでやってみましたー🙌\n終わってから少しフィットボクシングもやったんですけどへろへろで😂ぼろぼろです😂"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld3qukju722p",
+            "label": [
+                0.18306317925453186,
+                0.7723976373672485,
+                0.01656223088502884,
+                0.010941891930997372,
+                0.00026519433595240116,
+                0.013246680609881878,
+                0.0027392019983381033,
+                0.0007840478792786598
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "全身運動不足すぎたのでやってみましたー🙌\n終わってから少しフィットボクシングもやったんですけどへろへろで😂ぼろぼろです😂"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "フィットボクシング2はフリーモードで 鬼しかえらんでませんでした🤣  \nリングフィットキツイですよね スクワットの量がえげつない🥺"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "鬼モード！私全然あれできないです😂わんこさん鬼モード出来るのすごいです✨\n本当スクワット地獄でした😂💦"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld3rcsuehs2p",
+            "label": [
+                0.0064040133729577065,
+                0.022956859320402145,
+                0.0017570456257089972,
+                0.9604088068008423,
+                0.00024087887140922248,
+                0.0068908813409507275,
+                0.0008888756274245679,
+                0.0004526232951320708
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "鬼モード！私全然あれできないです😂わんこさん鬼モード出来るのすごいです✨\n本当スクワット地獄でした😂💦"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "まりなさんが 毎日サボってないから Bluesky見てますからね \nI㉨・)ﾁﾗｯｸﾏ♡"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "私が急にやる気出したの、わんこさんのおかげです(*´˘`*)わんこさん見てたら私も頑張りたくなって😊なので頑張りますよぉ🔥"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld3uxyj2622p",
+            "label": [
+                0.6047523021697998,
+                0.001523064449429512,
+                0.39103755354881287,
+                0.0006216414039954543,
+                0.0004616814258042723,
+                0.000397849507862702,
+                0.0003824500017799437,
+                0.0008234946290031075
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "私が急にやる気出したの、わんこさんのおかげです(*´˘`*)わんこさん見てたら私も頑張りたくなって😊なので頑張りますよぉ🔥"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "自分初めてリングフィットやったとき 酸欠で死ぬかとおもいました🤣 \n\n次の日バキバキだし あいつは 手強いですね 全クリできなかったですし🥺\n\nまりなさんは ストーリー終わりました？？"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "私もそれわかります😂明日の筋肉痛が怖い😂\n\nストーリー全然やってないです😂ボスみたいのが結構強くて😱\nいまはステージ１からやり直してってます😊"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld3vftpmws2p",
+            "label": [
+                0.012191491201519966,
+                0.014528266154229641,
+                0.013610661029815674,
+                0.0012233138550072908,
+                0.00026421272195875645,
+                0.9570083618164062,
+                0.0007476709433831275,
+                0.0004260275745764375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "お仕事お疲れ様です😊✨\n私はキャラメルマキアート味がお気に入りですー🫶"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "まりなさんも プロテイン愛飲してますね(*´∀`)σ)∀`*)”ｳﾘｳﾘ\nトレーニング後のプロテインは ご褒美ですよねꉂ🤭\n\nあと やっぱり 肌が違うんですよね プロテイン飲み始めると(｡ ・`ω・´) ｷﾗﾝ☆"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "ずっと飲んでますよぉ😊🩷\nわかります！タンパク質大事なんだなぁって思いますね(*´˘`*)"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3lczzv26aa22x",
+            "label": [
+                0.9868080019950867,
+                0.00021817359083797783,
+                0.011832133866846561,
+                0.0001897463807836175,
+                0.0001662436843616888,
+                0.00014284055214375257,
+                0.00020777509780600667,
+                0.0004350956005509943
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "ずっと飲んでますよぉ😊🩷\nわかります！タンパク質大事なんだなぁって思いますね(*´˘`*)"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "どこのメーカーですか│˶˙ᵕ˙˶)꜆ﾁﾗｯ♡│˶˙ᵕ˙˶)꜆ﾁﾗｯ♡\nマイプロですか？？"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "ずっとマイプロ使ってたんですけど最近ソイプロテイン飲むようになってなんか知らないメーカーのAmazonで買ってます😂ww\nあとエクスプロージョンを旦那さんが買っててたまに飲んでます😊ヨーグルト味美味しかったです😋"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld22aentq22x",
+            "label": [
+                0.9996294975280762,
+                3.779618054977618e-05,
+                9.513393160887063e-05,
+                7.943531818455085e-05,
+                2.768647755146958e-05,
+                3.997455496573821e-05,
+                4.3706782889785245e-05,
+                4.682421786128543e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "ずっとマイプロ使ってたんですけど最近ソイプロテイン飲むようになってなんか知らないメーカーのAmazonで買ってます😂ww\nあとエクスプロージョンを旦那さんが買っててたまに飲んでます😊ヨーグルト味美味しかったです😋"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "旦那さんと おそろっち💕(*/ω＼*)ｷｬｰ!!\n\nソイプロテインだと バルクス美味しいですよ│˶˙ᵕ˙˶)꜆ﾁﾗｯ♡"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "バルクス今調べてきました！いっぱいフレーバーあって美味しそうですー😋今度買ってみようかなぁって思ってます✨情報ありがとうございます🩷"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld22rdfehs2x",
+            "label": [
+                0.10509674996137619,
+                0.0007059967610985041,
+                0.892489492893219,
+                0.0005286026862449944,
+                0.0002682796330191195,
+                0.00030704689561389387,
+                0.0002421735698590055,
+                0.00036165647907182574
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 1,
+                    "utter": "バルクス今調べてきました！いっぱいフレーバーあって美味しそうですー😋今度買ってみようかなぁって思ってます✨情報ありがとうございます🩷"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "わんこさんも 最初バルクスから飲み始めたんですよ🍺 \n\n結構ハード目のトレーニングするのでソイじゃなくてホエイにしようとおもい 一昨年から エクスプロージョンです💕"
+                },
+                {
+                    "author": "did:plc:yauub6kfhsxm2qbggcnelytg",
+                    "type": 3,
+                    "utter": "そうなんですね😊！わんこさんも飲んでたなら味の心配いらないですね☺️たまに美味しくないの当たるのでww\n\nハード目のトレーニングしてるんですね！すごい🤩かっこいいです✨"
+                }
+            ],
+            "uri": "at://did:plc:yauub6kfhsxm2qbggcnelytg/app.bsky.feed.post/3ld23ezpjrs2x",
+            "label": [
+                0.9845483303070068,
+                0.00019967291154898703,
+                0.013297812081873417,
+                0.001119735068641603,
+                0.00012363342102617025,
+                0.0001639012771192938,
+                0.00012041511945426464,
+                0.0004264393064659089
+            ]
+        }
+    ]
+}

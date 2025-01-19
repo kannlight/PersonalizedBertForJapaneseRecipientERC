@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "金曜日に帰ってくるとかにされるとどうなるか分からないからその時は行けない😭\n退院がいつかによるほんとに……"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "仕方ないけどね…！！\n身体優先してもろて🫠🫠俺も行けるか分かんないし…"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "行ける時は行くってTwitterで言うからね！"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lby772u2k22y",
+            "label": [
+                0.0010938240448012948,
+                0.00019086599058937281,
+                0.9981984496116638,
+                0.00012377685925457627,
+                0.00012798127136193216,
+                9.193571167998016e-05,
+                8.347205584868789e-05,
+                8.973718649940565e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "行ける時は行くってTwitterで言うからね！"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "ありがてぇ…！！コミュ障だから会えるかも怪しいけど！！！影から見てるかも！！！"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "お礼とかあるしちゃんと来なさい！\nまだ渡せてないのもあるし！"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lby7fvusss2y",
+            "label": [
+                0.0032346819061785936,
+                0.01787397265434265,
+                0.03482818603515625,
+                0.00870377104729414,
+                0.9183756709098816,
+                0.004124481230974197,
+                0.01008586399257183,
+                0.0027734090108424425
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "お礼とかあるしちゃんと来なさい！\nまだ渡せてないのもあるし！"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "お礼されるようなことしてないもん！！！！！むしろ俺がする方だもの！！！！！\nﾝﾝﾝﾝﾝ…休み…飛行機……探すか……"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "郵送しようと思ってたのにこれでまだ出来てないからね……\n来れたらでいいからね全然！"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lby7kymzvk2y",
+            "label": [
+                0.001538009848445654,
+                0.8688381314277649,
+                0.0020388744305819273,
+                0.0029451013542711735,
+                0.04378494247794151,
+                0.004405222367495298,
+                0.07597039639949799,
+                0.00047931415610946715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "郵送しようと思ってたのにこれでまだ出来てないからね……\n来れたらでいいからね全然！"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "全然よ！！！！ゆっくりのんびり気にせずまずは休んでもろて☺️☺️\n行けたら行く…！！欲しい本もたくさんあるんだよなぁ…！！！"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "めっちゃ休む！\nほんとに今回フォロワーさんめっちゃ出るから行きたいんよ！！"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lby7rycrqs2l",
+            "label": [
+                0.00220894580706954,
+                0.0002120383724104613,
+                0.9970982074737549,
+                0.00012837887334171683,
+                9.076759306481108e-05,
+                9.309499728260562e-05,
+                8.938014798332006e-05,
+                7.911063585197553e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "あとは痛みに耐えながら飯とか歩きとかやって、問題なくなれば退院かな。\n痛み止めで何とかなってるけど、この状態でほんとに明日飯出るの？笑\nスープみたいなお粥たちとはいえ"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "手術終わったの！？！？！？\nお疲れ様…！！！"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "手術は月曜に終わったよ〜\nお腹の痛みに耐えながら（痛み止めきいてるから全然マシ）ベッドの上でスマホいじってる！\nありがと！！"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lf7dmxf4ik2n",
+            "label": [
+                0.9996187686920166,
+                6.986720109125599e-05,
+                8.700887701706961e-05,
+                4.579460801323876e-05,
+                2.1255928004393354e-05,
+                5.723599679186009e-05,
+                5.3002589993411675e-05,
+                4.70550985482987e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "手術は月曜に終わったよ〜\nお腹の痛みに耐えながら（痛み止めきいてるから全然マシ）ベッドの上でスマホいじってる！\nありがと！！"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "一昨日だ！！！！！！！！\n薬切れたら痛いやつ……痛くなったら呼ぶのよ…………とりあえず一安心！！！"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "痛み止めの流れ遅くされると激痛なんだけどね笑\nなんか自分で速度一定時間だけ早められるのあってそれ使ってる！\nじゃないとトイレおきあがれないからね……"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lf7dtnnrlc2n",
+            "label": [
+                0.017989322543144226,
+                0.3858308494091034,
+                0.013309708796441555,
+                0.013922719284892082,
+                0.0014795465394854546,
+                0.5572925209999084,
+                0.00894524622708559,
+                0.0012301255483180285
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "痛み止めの流れ遅くされると激痛なんだけどね笑\nなんか自分で速度一定時間だけ早められるのあってそれ使ってる！\nじゃないとトイレおきあがれないからね……"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "手術したばっかりだもんね………そうよね…………\nそんなのあるんだー！！すご！！！時代進歩してるね…！！！！トイレオムツじゃないの？？？？"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "最初は尿道カテーテルだったけど、すぐ取れて今は歩いてトイレよ！\nオムツと普通のパンツどっちがいい？って聞かれたけどなんかあったら怖いからオムツにしてはいるよ。消費しないとお金も無駄だし……"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lf7f3gm2nk2n",
+            "label": [
+                0.9615328907966614,
+                0.0022745721507817507,
+                0.017829110845923424,
+                0.0008186742197722197,
+                0.00038474021130241454,
+                0.01408478058874607,
+                0.0009856433607637882,
+                0.0020895323250442743
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "最初は尿道カテーテルだったけど、すぐ取れて今は歩いてトイレよ！\nオムツと普通のパンツどっちがいい？って聞かれたけどなんかあったら怖いからオムツにしてはいるよ。消費しないとお金も無駄だし……"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "カテーテルって見た目痛そうよね………そんなことないんだろうけど…………\nオムツ！！！！！！！ありがとう！！！！！！"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "名前ももう嫌だもん笑\n右腕に栄養入れるためって理由で入れたけどクソ痛かったもんね……あれはもう嫌や……\nオムツやったあ！"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lf7gm6y7qs2n",
+            "label": [
+                0.27177947759628296,
+                0.4874444007873535,
+                0.0033721080981194973,
+                0.005408602766692638,
+                0.0009899534052237868,
+                0.01968630962073803,
+                0.21009591221809387,
+                0.0012232952285557985
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "名前ももう嫌だもん笑\n右腕に栄養入れるためって理由で入れたけどクソ痛かったもんね……あれはもう嫌や……\nオムツやったあ！"
+                },
+                {
+                    "author": "did:plc:tuqmi5gwoi5kcjs2rcc43w7j",
+                    "type": 2,
+                    "utter": "地味に太さありそうだもんね……こわい…………でも栄養はばっちり🫠\nこれ知的好奇心でほんと意味深なことなんもないんだけど……オムツってドキドキする？？？？？"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "ちゃんと見たことないけど太いだろうね……栄養はね……\nそんな癖なくてェ……"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lf7hyqelhc2n",
+            "label": [
+                0.1719629019498825,
+                0.3752662241458893,
+                0.02232471853494644,
+                0.022392913699150085,
+                0.0010332110105082393,
+                0.3952239453792572,
+                0.008838696405291557,
+                0.002957325428724289
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "そもそもcod買ったのに終われないよ笑"
+                },
+                {
+                    "author": "did:plc:t7bkcakxilwnum5y6dyajrjp",
+                    "type": 2,
+                    "utter": "ヘルダイバー2も待ってるよ！！！"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "ヘルダイバー2も買ったね！\nでもわおわお大変そう……"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lebjdrwvbs2n",
+            "label": [
+                0.9993096590042114,
+                6.827728793723509e-05,
+                0.0003635287575889379,
+                9.46183135965839e-05,
+                2.4822054911055602e-05,
+                4.8932772187981755e-05,
+                4.165912469034083e-05,
+                4.852789788856171e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "ヘルダイバー2も買ったね！\nでもわおわお大変そう……"
+                },
+                {
+                    "author": "did:plc:t7bkcakxilwnum5y6dyajrjp",
+                    "type": 2,
+                    "utter": "わおわおもね...\nみんなたいへんだぁね..."
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "なんかこの時期みんな大変そうだね……"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lebjo7objc2n",
+            "label": [
+                0.01462307944893837,
+                0.7401655316352844,
+                0.0022307313047349453,
+                0.033517200499773026,
+                0.00031849771039560437,
+                0.2030104696750641,
+                0.005692233331501484,
+                0.0004423906793817878
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "なんかこの時期みんな大変そうだね……"
+                },
+                {
+                    "author": "did:plc:t7bkcakxilwnum5y6dyajrjp",
+                    "type": 2,
+                    "utter": "色々あるもんねぇ....そんなときこそ励ましたりできたら良いんだけどね...!かける言葉思いつかなくて見守ることしかできない🥹"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "ほんとにそうなんだよね……言葉探し苦手なのだ……🫛"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3leblcawxsc2u",
+            "label": [
+                0.00035235847462899983,
+                0.9979355335235596,
+                0.00012851314386352897,
+                0.00025367175112478435,
+                8.376853656955063e-05,
+                0.0007123541436158121,
+                0.0004988351720385253,
+                3.494554039207287e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "ほんとにそうなんだよね……言葉探し苦手なのだ……🫛"
+                },
+                {
+                    "author": "did:plc:t7bkcakxilwnum5y6dyajrjp",
+                    "type": 2,
+                    "utter": "ンドさんノベルゲーム？書いたのでは...?🙄"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "あれはその人の言いそうなこと考えてるだけだから自分の言葉となると……"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3leblogl2cs2h",
+            "label": [
+                0.05092665180563927,
+                0.4080415964126587,
+                0.001855085021816194,
+                0.004115880001336336,
+                0.0006981329061090946,
+                0.5301341414451599,
+                0.0031162078958004713,
+                0.001112343743443489
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 1,
+                    "utter": "あれはその人の言いそうなこと考えてるだけだから自分の言葉となると……"
+                },
+                {
+                    "author": "did:plc:t7bkcakxilwnum5y6dyajrjp",
+                    "type": 2,
+                    "utter": "それはまた別な話ってことか〜"
+                },
+                {
+                    "author": "did:plc:m7ys5lshbie5lleldhxttbv5",
+                    "type": 3,
+                    "utter": "そうよ〜"
+                }
+            ],
+            "uri": "at://did:plc:m7ys5lshbie5lleldhxttbv5/app.bsky.feed.post/3lebsexynms2m",
+            "label": [
+                0.9911126494407654,
+                0.0011316761374473572,
+                0.002957873046398163,
+                0.002159211551770568,
+                0.00029778879252262414,
+                0.00028826037305407226,
+                0.001021320465952158,
+                0.0010312905069440603
+            ]
+        }
+    ]
+}

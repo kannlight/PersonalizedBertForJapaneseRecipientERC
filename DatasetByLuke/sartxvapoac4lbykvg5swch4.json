@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "はよ。燈矢兄"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "ン、おはよ焦凍…頭回らね"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "コーヒー飲むか？\n淹れるぞ。…インスタントだけど"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lbxqrkernc2v",
+            "label": [
+                0.003909757826477289,
+                0.00037342606810852885,
+                0.9951643943786621,
+                0.00013525033136829734,
+                9.996662993216887e-05,
+                0.00012203675578348339,
+                0.00010453229333506897,
+                9.066251368494704e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "コーヒー飲むか？\n淹れるぞ。…インスタントだけど"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "…甘いのひとつ頼む"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "甘いのか？（砂糖とミルク入れて出し）\n親父がエスプレッソをマグカップで飲むから、なんか新鮮な気持ちだ"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lbxr555vac2v",
+            "label": [
+                0.41295748949050903,
+                0.0009364667348563671,
+                0.010328339412808418,
+                0.5722784996032715,
+                0.0007612092886120081,
+                0.0008227295475080609,
+                0.0008377998601645231,
+                0.0010775094851851463
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "甘いのか？（砂糖とミルク入れて出し）\n親父がエスプレッソをマグカップで飲むから、なんか新鮮な気持ちだ"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "たすかる\nお父さんはブラックか、次ブラックにする"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "…胃を悪くするからやめとけよ。\n親父は胃腸が強いんだから"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lbxrquh4os2v",
+            "label": [
+                0.003169815754517913,
+                0.046245016157627106,
+                0.001491235801950097,
+                0.0054914639331400394,
+                0.03424065560102463,
+                0.8717264533042908,
+                0.03545941039919853,
+                0.0021758791990578175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "…胃を悪くするからやめとけよ。\n親父は胃腸が強いんだから"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "胃強くなりてぇな"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "（胃を強くする方法をポチポチ調べてみた）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lc6ala72yc2c",
+            "label": [
+                0.00045552506344392896,
+                0.0002909422037191689,
+                0.9988929629325867,
+                9.188052354147658e-05,
+                4.76793538837228e-05,
+                0.00010971873416565359,
+                6.077421858208254e-05,
+                5.057278394815512e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "（親父より早起きだからな）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "(おっさんもなかなか早いのにアレより早いんか)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "（だから平和の象徴が心配してたんじゃねぇか？）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lfcvonuybc25",
+            "label": [
+                0.02959609404206276,
+                0.12064474076032639,
+                0.03072708658874035,
+                0.44718778133392334,
+                0.24556778371334076,
+                0.07325490564107895,
+                0.038681864738464355,
+                0.014339707791805267
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "（だから平和の象徴が心配してたんじゃねぇか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "(布団に縛りあげて一定時間まで寝かしつけるしかねぇんじゃね)."
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "（布団消し炭にしそうじゃないか？）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lfcwb4gxmk25",
+            "label": [
+                0.0018193231662735343,
+                0.0003360085829626769,
+                0.9952943921089172,
+                0.0008149687200784683,
+                0.00020488770678639412,
+                0.001145770656876266,
+                0.00023220338334795088,
+                0.00015238599735312164
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "（布団消し炭にしそうじゃないか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "(高級な布団にしときゃちょっとは遠慮するんじゃね)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "（山一つ消し炭にする奴が布団ごときで遠慮するか？）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lffejif7dc2q",
+            "label": [
+                0.005793295800685883,
+                0.006622890941798687,
+                0.004206683486700058,
+                0.8354862928390503,
+                0.08258663862943649,
+                0.02487829700112343,
+                0.036940909922122955,
+                0.0034850093070417643
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "（山一つ消し炭にする奴が布団ごときで遠慮するか？）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "(戦闘になったらそうだろうが寝るときは…ちっとは気になるんじゃねぇか)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "（…親父を見張りに置いとくか？）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lfffui53y22q",
+            "label": [
+                0.042075254023075104,
+                0.0337190143764019,
+                0.09052646160125732,
+                0.009974357672035694,
+                0.01737353578209877,
+                0.7808752655982971,
+                0.01924585923552513,
+                0.006210235878825188
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "（何をむすっとしてるんだ？って顔）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "変な時間に起きてるとか思われてっからよォ？"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "変な時間に起きてないのか？（きょとん）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf7rvptphs2e",
+            "label": [
+                0.001633207080885768,
+                0.0015965551137924194,
+                0.0011898105731233954,
+                0.9867128133773804,
+                0.0007546455599367619,
+                0.007270368747413158,
+                0.0006217557820491493,
+                0.0002207771030953154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "変な時間に起きてないのか？（きょとん）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "起きてねェだろ、早く起きる時はあっけどよ？"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "早過ぎるからじゃねぇか？（きょとん）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf7sfmyyac2e",
+            "label": [
+                0.01358649879693985,
+                0.07320022583007812,
+                0.0030441719572991133,
+                0.8584578633308411,
+                0.010788287036120892,
+                0.028073281049728394,
+                0.01159129198640585,
+                0.0012584046926349401
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "早過ぎるからじゃねぇか？（きょとん）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "……ンな早く起きてなくね？(小首傾げ)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "ん。親父より1.2時間早いだけだよな（頭ぽんぽん）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf7sygo5sc2e",
+            "label": [
+                0.6634417176246643,
+                0.10593444108963013,
+                0.011565298773348331,
+                0.059583403170108795,
+                0.01246157567948103,
+                0.039637017995119095,
+                0.09867863357067108,
+                0.008697910234332085
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "ん。親父より1.2時間早いだけだよな（頭ぽんぽん）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "なんでぽんぽんしてんだよ(ぺい、と手を払い)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "お？"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf7vr23fo22e",
+            "label": [
+                0.0016825668280944228,
+                0.00032608292531222105,
+                0.001453957287594676,
+                0.9958426356315613,
+                0.00016297017282340676,
+                0.00021505089534912258,
+                0.00019631240866146982,
+                0.00012049097858835012
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "お、着替えた"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "バタついてて忘れててな(頭かいて)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "燈矢兄とお揃いのやつ、持ってくるべきか？（きょとん）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf34h56jwc2f",
+            "label": [
+                0.23504479229450226,
+                0.010743149556219578,
+                0.5154221653938293,
+                0.04663899540901184,
+                0.0008732815622352064,
+                0.18747052550315857,
+                0.0013007712550461292,
+                0.0025063755456358194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "燈矢兄とお揃いのやつ、持ってくるべきか？（きょとん）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "おそろ…あるのか？(小首傾げて)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "向こうで使ってるやつお揃いのステンドグラスのやつだが？"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf34ngsmps2f",
+            "label": [
+                0.0032210499048233032,
+                0.0003793308569584042,
+                0.0015329181915149093,
+                0.9937806725502014,
+                0.00025517563335597515,
+                0.00025571134756319225,
+                0.0003443820169195533,
+                0.00023076579964254051
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "向こうで使ってるやつお揃いのステンドグラスのやつだが？"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "あァ…お揃いにすっか？←"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "してみた"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf34togjsk2f",
+            "label": [
+                0.7642979621887207,
+                0.0005949647747911513,
+                0.23104308545589447,
+                0.0022474045399576426,
+                0.000317905331030488,
+                0.0005077708046883345,
+                0.00040433250251226127,
+                0.0005865954444743693
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "してみた"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "ン…見慣れてっけど似合うじゃねェか(頭ぽんぽん)"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "と言うか、揃いだったのを忘れてたのか…（じー）"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lf35bcxll22f",
+            "label": [
+                0.0006759254611097276,
+                0.9981423616409302,
+                0.00011002856626873836,
+                0.00028884460334666073,
+                8.182549208868295e-05,
+                0.00023710771347396076,
+                0.0004359697923064232,
+                2.7845244403579272e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "親父、早かったな。\nお母さんはまだ来ねーのか？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "し、ショオトォォォ！\nちゃんと来たな（歓喜の表情を見せて）"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "五月蝿ぇ！ご近所迷惑だろうがっ！もっと静かに話せ"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lenyhmwylc2j",
+            "label": [
+                0.0018267360283061862,
+                0.016417693346738815,
+                0.002976485760882497,
+                0.013651715591549873,
+                0.9452277421951294,
+                0.004909445997327566,
+                0.013654058799147606,
+                0.0013360538287088275
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 1,
+                    "utter": "五月蝿ぇ！ご近所迷惑だろうがっ！もっと静かに話せ"
+                },
+                {
+                    "author": "did:plc:pr4ixjkmhdscczixezhmmy2v",
+                    "type": 2,
+                    "utter": "あらあら、二人とも元気ね（ﾆｺﾆｺ）\n他の子もそろそろ来るのかしら？\nもしかしてあなたと焦凍だけかしら？（小首を傾げて）"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 3,
+                    "utter": "お。お母さん\nあけましておめでとう。"
+                }
+            ],
+            "uri": "at://did:plc:sartxvapoac4lbykvg5swch4/app.bsky.feed.post/3lenym5wek22j",
+            "label": [
+                0.9994199275970459,
+                7.273284427355975e-05,
+                0.00012698546925093979,
+                0.000203559102374129,
+                3.1717649108031765e-05,
+                2.9930113669252023e-05,
+                6.509522063424811e-05,
+                5.017104194848798e-05
+            ]
+        }
+    ]
+}

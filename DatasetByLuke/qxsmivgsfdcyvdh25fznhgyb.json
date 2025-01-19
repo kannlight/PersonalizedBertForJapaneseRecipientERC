@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "飼い猫とかでなく、野良猫\nただうちの庭で埋まれてた猫"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "埋めないで"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "誤字気づいてなかったわ"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3la67devxwc2z",
+            "label": [
+                0.0031668145675212145,
+                0.9503032565116882,
+                0.00015975361748132855,
+                0.03863818943500519,
+                0.0009073283872567117,
+                0.0038761463947594166,
+                0.0027925516478717327,
+                0.00015587787493132055
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "誤字気づいてなかったわ"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "言いたい事は通じるけれど、それはそれで突っ込みたくなったもので（"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "悲しいから埋めるね(スコップ片手に)"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3la67kw2tes2y",
+            "label": [
+                0.0004011414130218327,
+                0.9986380934715271,
+                0.0003218614438083023,
+                9.956272697309032e-05,
+                3.8478792703244835e-05,
+                0.0002433941263007,
+                0.00022451404947787523,
+                3.294723137514666e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "悲しいから埋めるね(スコップ片手に)"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "おやめ"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "そして出てきたのがこちらのアイルー"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3la6bj3f7qc2h",
+            "label": [
+                0.9991804957389832,
+                7.10864769644104e-05,
+                0.0003146611852571368,
+                0.00025040272157639265,
+                3.3260959753533825e-05,
+                4.211718260194175e-05,
+                4.9475187552161515e-05,
+                5.85739326197654e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "そして出てきたのがこちらのアイルー"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "何処？"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "ゆあまいんど"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3la6eymvw6j25",
+            "label": [
+                0.9933311343193054,
+                0.0029295471031218767,
+                0.0016771993832662702,
+                0.0005102555151097476,
+                0.00014991799253039062,
+                0.00025490144616924226,
+                0.0009533053962513804,
+                0.00019377328862901777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "ゆあまいんど"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "は？"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "心にアイルーを"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3la6f3brmj223",
+            "label": [
+                0.8575465083122253,
+                0.002776089124381542,
+                0.1376902014017105,
+                0.0004934679018333554,
+                0.0002154660614905879,
+                0.0003130767436232418,
+                0.00038714311085641384,
+                0.0005780166247859597
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "骨を持ち帰ったらなんやかんやでドラゴリッチになったので\n事故ではあるけど、事故の原因ではある。そもそも元凶は密猟者ではあるけど"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "骨を持ち帰るんじゃないよ"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "「弟子の教材に欲しくって～」"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3l75im6j7al24",
+            "label": [
+                0.0014662909088656306,
+                0.0002956932585220784,
+                0.9978055357933044,
+                0.00012568317470140755,
+                6.585274240933359e-05,
+                8.586786134401336e-05,
+                8.057112427195534e-05,
+                7.455804734490812e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "「弟子の教材に欲しくって～」"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "そう言う所なんだよな"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "弟子のために入手困難な教材を調達する良い師匠やぞ"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3l75rq2q3ii2f",
+            "label": [
+                0.9962642788887024,
+                0.000128680607303977,
+                0.0006043232860974967,
+                0.0006923798355273902,
+                0.0005382061353884637,
+                0.00011057947267545387,
+                0.00043916801223531365,
+                0.0012223339872434735
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "弟子のために入手困難な教材を調達する良い師匠やぞ"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "でも骨なんだよな"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "ドラゴンの全身骨格って普通にレアだから\nまぁ、ドラゴリッチになったの、持ち帰りに悩んで「骨動かすかぁ……」したからなんだけど"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3l75sgozigb2w",
+            "label": [
+                0.3361331522464752,
+                0.016077334061264992,
+                0.5412617921829224,
+                0.0616178959608078,
+                0.0017452733591198921,
+                0.02986987680196762,
+                0.0031760719139128923,
+                0.010118629783391953
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 1,
+                    "utter": "ドラゴンの全身骨格って普通にレアだから\nまぁ、ドラゴリッチになったの、持ち帰りに悩んで「骨動かすかぁ……」したからなんだけど"
+                },
+                {
+                    "author": "did:plc:6x3pip7teatc7ulg4f63eaxw",
+                    "type": 2,
+                    "utter": "そう言う所なんだよな"
+                },
+                {
+                    "author": "did:plc:qxsmivgsfdcyvdh25fznhgyb",
+                    "type": 3,
+                    "utter": "ダニエル「ついに師匠がドラゴンを殺ったのかとビビった」"
+                }
+            ],
+            "uri": "at://did:plc:qxsmivgsfdcyvdh25fznhgyb/app.bsky.feed.post/3l75t3fn7h22q",
+            "label": [
+                0.000695671362336725,
+                0.0006277038482949138,
+                0.0004773187974933535,
+                0.9949843883514404,
+                0.00024097652931232005,
+                0.00264377286657691,
+                0.00020348961697891355,
+                0.00012662509107030928
+            ]
+        }
+    ]
+}

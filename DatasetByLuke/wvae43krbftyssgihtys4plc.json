@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "なんでや…えっくすくんもブルスカくんもあんどりゅさんの返信がロック画面の通知に来ない何故"
+                },
+                {
+                    "author": "did:plc:fuarexg2vxdihv53ybvft4g6",
+                    "type": 2,
+                    "utter": "もしやシャドバンされている…🥹(特に何もしていないのに…)"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "どうなんでしょう…でもえっくすくん内の通知の方は来てるんですよね…私のスマホのロック画面通知には何故か来ない…他は来てるのに🥹"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3lbcoxdteb22m",
+            "label": [
+                0.001052731298841536,
+                0.9921875,
+                0.00017350324196740985,
+                0.0045100306160748005,
+                0.00014419123181141913,
+                0.0013504084199666977,
+                0.0005270525580272079,
+                5.45574766874779e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "やっぱり消えますよね！？あれは不具合なのか仕様なのか…仕様だったらめちゃくちゃクソなんですけど…\nありますね…気になってしまう"
+                },
+                {
+                    "author": "did:plc:fuarexg2vxdihv53ybvft4g6",
+                    "type": 2,
+                    "utter": "めちゃくちゃクソなんですけど…(  ◜ཫ◝)"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "クソ過ぎますね、戻ってくれよついったーくん🥹"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3lbm35a6p2s2y",
+            "label": [
+                0.002512454753741622,
+                0.024240976199507713,
+                0.0023810502607375383,
+                0.0014017041539773345,
+                0.004646080546081066,
+                0.002204019110649824,
+                0.9620887041091919,
+                0.0005250343238003552
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "登録はしましたね…"
+                },
+                {
+                    "author": "did:plc:fuarexg2vxdihv53ybvft4g6",
+                    "type": 2,
+                    "utter": "みくしィという名を聞くと古傷が傷んで…ｳｯ"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "まぁ、私も古傷が…"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3lebauoudzs2f",
+            "label": [
+                0.00042509930790401995,
+                0.9982579350471497,
+                0.00015841549611650407,
+                0.00012748055451083928,
+                6.051656964700669e-05,
+                0.0005016930517740548,
+                0.00043948192615062,
+                2.9317619919311255e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "まぁ、私も古傷が…"
+                },
+                {
+                    "author": "did:plc:fuarexg2vxdihv53ybvft4g6",
+                    "type": 2,
+                    "utter": "みんなの古傷をえぐってゆく…みくしぃ2号…"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "あの頃は若かった…🥹"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3leceat6ltk2r",
+            "label": [
+                0.8589866161346436,
+                0.1273917555809021,
+                0.0033418359234929085,
+                0.004480850417166948,
+                0.0002828154538292438,
+                0.0023731179535388947,
+                0.0021730379667133093,
+                0.0009699238580651581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "あの頃は若かった…🥹"
+                },
+                {
+                    "author": "did:plc:fuarexg2vxdihv53ybvft4g6",
+                    "type": 2,
+                    "utter": "若かったですね…ちょうどペンタブで絵を描き始めたあたりでした私😂"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "本当若かった…色々ありましたねぇ…私はこの頃に色々目覚めたというか…(高校くらいまでは受け固定だったしリバ苦手だった)"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3leg2gqv5gc2q",
+            "label": [
+                0.9975128173828125,
+                0.0006528483354486525,
+                0.000271374563453719,
+                0.0008004473056644201,
+                4.802853072760627e-05,
+                0.00032390287378802896,
+                0.00012123525084462017,
+                0.00026924419216811657
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "本当若かった…色々ありましたねぇ…私はこの頃に色々目覚めたというか…(高校くらいまでは受け固定だったしリバ苦手だった)"
+                },
+                {
+                    "author": "did:plc:fuarexg2vxdihv53ybvft4g6",
+                    "type": 2,
+                    "utter": "私はCP創作好きになったのが大学4〜5年の頃だったので腐女子としては遅咲きなほうです😂\n昔はわりと何でもいけたけどここ数年で解釈厨になってしまいましたね…"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "私はBLとか知ったり好きになったのは高校ですね！\n私は昔のが苦手多かったですね、みくしーしてた時期でも女体化苦手でしたし"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3lejqib72wc2o",
+            "label": [
+                0.9695806503295898,
+                0.0005392346065491438,
+                0.013214550912380219,
+                0.013540426269173622,
+                0.0003003576130140573,
+                0.0007722215377725661,
+                0.0005075942608527839,
+                0.0015449661295861006
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "ナカーマ！！私もカレンダーラスイチだった！"
+                },
+                {
+                    "author": "did:plc:swymvbm23rkuhxlavi5hefdy",
+                    "type": 2,
+                    "utter": "空夜さんも！ラスイチ仲間じゃ🤝\nやっぱりアクスタ、缶バッジは売り切れが早いんだねぇ…"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "ラスイチ仲間〜！！🤝\nうちのとこはね、蒼角だけ残ってたのよね…3軒とも…所持金足りなかったから諦めたけど🥹"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3ledympyia22s",
+            "label": [
+                0.9931327700614929,
+                0.002671248745173216,
+                0.0031807729974389076,
+                0.0004189443134237081,
+                7.796139107085764e-05,
+                0.00013076361210551113,
+                0.00018828919564839453,
+                0.00019917651661671698
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "ラスイチ仲間〜！！🤝\nうちのとこはね、蒼角だけ残ってたのよね…3軒とも…所持金足りなかったから諦めたけど🥹"
+                },
+                {
+                    "author": "did:plc:swymvbm23rkuhxlavi5hefdy",
+                    "type": 2,
+                    "utter": "蒼角ちゃんいたのか〜‼️いいね…私の方は何もなかった…、対象店舗なのに既に何もなかった所もあったし…"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "いたよー！でもアクスタは全員で飾りたい欲が🥹プロキシ色んなとこにいるんだな…"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3leej44lf522d",
+            "label": [
+                0.9933421015739441,
+                0.0008740104967728257,
+                0.004807365592569113,
+                0.0004214962827973068,
+                6.043499524821527e-05,
+                0.00017017454956658185,
+                0.00013554991164710373,
+                0.00018892269872594625
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "いたよー！でもアクスタは全員で飾りたい欲が🥹プロキシ色んなとこにいるんだな…"
+                },
+                {
+                    "author": "did:plc:swymvbm23rkuhxlavi5hefdy",
+                    "type": 2,
+                    "utter": "わかる、めちゃくちゃわかる…\nせめてなぎねぇがいてくれたら良いんだけどね…\n全然リアルにはお会いしないのにね、いるんだね😂"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "でもなぎねぇいるなら雅も並べたい…(ストーリー的にも)そしてはるまさも並べたい…\n私もプロキシはお会いした事ないな…原神スタレやってる人なら満員電車の中で何回か見たけど！"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3leg2oegnys2q",
+            "label": [
+                0.0008000943344086409,
+                0.0004603465786203742,
+                0.998363196849823,
+                0.0001047419646056369,
+                5.804504326079041e-05,
+                8.876984065864235e-05,
+                6.672894960502163e-05,
+                5.807372508570552e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "でもなぎねぇいるなら雅も並べたい…(ストーリー的にも)そしてはるまさも並べたい…\n私もプロキシはお会いした事ないな…原神スタレやってる人なら満員電車の中で何回か見たけど！"
+                },
+                {
+                    "author": "did:plc:swymvbm23rkuhxlavi5hefdy",
+                    "type": 2,
+                    "utter": "それもわかるwwやっぱり4人セットなのよね…\n意外と隠れていらっしゃるんやなぁ…お会いしてぇぜ…"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "そう、やっぱり4人で飾りたいのよ…欠けちゃだめ！4人とも好き！\n本当にお会いしたい…しかし、声はかけれない…"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3legxcrdbfs2s",
+            "label": [
+                0.4918407201766968,
+                0.14067240059375763,
+                0.3611495792865753,
+                0.000768607365898788,
+                0.0007092386949807405,
+                0.0013161541428416967,
+                0.0017201037844642997,
+                0.0018232398433610797
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "ありがとう〜！！最後の一つはすり抜けたけど、全体的にすり抜け少ないヌヴィえらい！\n色々と試したいな！"
+                },
+                {
+                    "author": "did:plc:swymvbm23rkuhxlavi5hefdy",
+                    "type": 2,
+                    "utter": "すり抜け少ないの偉すぎる…たくさんお水あげちゃう…☺️\nたくさんダメチャレじゃー！！コーギーおじとロボマシュ覚悟〜‼️w"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "えらすぎるよね！沢山お水をお飲み…好きな水取り寄せるから！\n大体その辺りよねwwwロボマシュは本当楽しいダメ出て楽しい！"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3lday5qqvtc2p",
+            "label": [
+                0.9996479749679565,
+                4.573082333081402e-05,
+                9.76148439804092e-05,
+                5.7564589951653033e-05,
+                2.6036866984213702e-05,
+                3.998394822701812e-05,
+                4.496819747146219e-05,
+                4.0223749238066375e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 1,
+                    "utter": "えらすぎるよね！沢山お水をお飲み…好きな水取り寄せるから！\n大体その辺りよねwwwロボマシュは本当楽しいダメ出て楽しい！"
+                },
+                {
+                    "author": "did:plc:swymvbm23rkuhxlavi5hefdy",
+                    "type": 2,
+                    "utter": "日本全国のお水飲みたいって言って来そうで😂😂\nナタの地方伝説系とかもHP高めだし彼らでも良さそう…なのかな？？やったことないけど…"
+                },
+                {
+                    "author": "did:plc:wvae43krbftyssgihtys4plc",
+                    "type": 3,
+                    "utter": "言ってきそう〜！！もう日本全国の水を求めて旅に出るしか🥹\nどうだろ？ヌヴィフリシロ万で挑んでみるかな…？"
+                }
+            ],
+            "uri": "at://did:plc:wvae43krbftyssgihtys4plc/app.bsky.feed.post/3lddcqm75lk2f",
+            "label": [
+                0.0002823772083502263,
+                0.00020119021064601839,
+                0.9991470575332642,
+                0.00011113704385934398,
+                5.8632944273995236e-05,
+                9.204845264321193e-05,
+                6.021579974913038e-05,
+                4.7303110477514565e-05
+            ]
+        }
+    ]
+}

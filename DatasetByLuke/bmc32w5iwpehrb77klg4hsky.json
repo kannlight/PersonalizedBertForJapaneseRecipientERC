@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "じゃあ私荼毘の分考えておくね（親指グッ）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "オイ、何でそうなる(む)"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "え？自分で考えるの嫌だろう？（小首を傾げて）"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lelgjg5xxc2l",
+            "label": [
+                0.02671249397099018,
+                0.07937981188297272,
+                0.0029268194921314716,
+                0.7537322044372559,
+                0.00569401727989316,
+                0.046947889029979706,
+                0.08259397745132446,
+                0.0020127452444285154
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "え？自分で考えるの嫌だろう？（小首を傾げて）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "……No.2の考えようぜ"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "彼のは君が考えるんだろう？"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lelh2ougqs2l",
+            "label": [
+                0.07397011667490005,
+                0.0026709483936429024,
+                0.9179031848907471,
+                0.0017309841932728887,
+                0.0004454260633792728,
+                0.0017386294202879071,
+                0.0006340743857435882,
+                0.0009065596386790276
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "ええっと私は…\n………\n…………\n……………\n…………………\nゲボッ（激辛餅の入った餅巾着を一口食べて咽せた）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "…大福いるか…？？"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "ありがとう。口直しに頂くよ"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcprmsksvk2v",
+            "label": [
+                0.9987253546714783,
+                9.206015965901315e-05,
+                0.0008755733142606914,
+                5.569934728555381e-05,
+                4.120461017009802e-05,
+                6.059238512534648e-05,
+                7.927504339022562e-05,
+                7.022876525297761e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "ありがとう。口直しに頂くよ"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "まぁ……口直しになるかはわからねぇが辛いのよかマシだろ……"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "今回もかっちゃんズのどちらかかな？（クスクス）"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcpsh5an5k2v",
+            "label": [
+                0.3218978941440582,
+                0.0016767544439062476,
+                0.6741682291030884,
+                0.00044010431156493723,
+                0.0003333863860461861,
+                0.0006519568851217628,
+                0.00044119078665971756,
+                0.0003904231416527182
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "今回もかっちゃんズのどちらかかな？（クスクス）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "まぁ……そォだろよ(眉間に皺寄せ)\nつかあんだけ食材あって辛いもんを的確に当てるアンタの運が怖ェわ"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "もしかしてまた君かな？（小首を傾げて）\n狙った訳じゃないのに（くじ番号も今迄避けてたものにしたんだけど）"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcptwvvnus2v",
+            "label": [
+                0.029600802809000015,
+                0.033819008618593216,
+                0.006007292773574591,
+                0.905532717704773,
+                0.0006627833936363459,
+                0.01888599433004856,
+                0.004422714468091726,
+                0.001068666111677885
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "もしかしてまた君かな？（小首を傾げて）\n狙った訳じゃないのに（くじ番号も今迄避けてたものにしたんだけど）"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "残念ながらそっちは俺じゃねぇ\nある意味今回もアンタに当たったら面白ェとは思ったが…"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "今回も君だったら赤い糸を感じちゃうよね"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcpv534ajk2v",
+            "label": [
+                0.009626192972064018,
+                0.0006863634916953743,
+                0.9889739751815796,
+                0.0002087706234306097,
+                7.96419262769632e-05,
+                0.00018569451640360057,
+                0.00010620557441143319,
+                0.00013309925270732492
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "待って！？私手が滑って何かrtしてたよ（はわわわわわわ）\n申し訳ない"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "これだから年寄りは（rtされた人←）"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "手が滑ったって言っただろ。\n君そんなに私と変わらない癖に（はわわわわわわ）"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3ldbjdwsenk2t",
+            "label": [
+                0.02747352421283722,
+                0.2346401810646057,
+                0.004426945466548204,
+                0.4968712627887726,
+                0.1417446732521057,
+                0.019189471378922462,
+                0.0727207288146019,
+                0.002933271462097764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "手が滑ったって言っただろ。\n君そんなに私と変わらない癖に（はわわわわわわ）"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "あ\"?貴様は俺より十は年上の癖にあつかましい"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "え？そう言うなら年上を敬ってくれても良いんだぜ？（親指グッ）"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3ldbjjn3gu22t",
+            "label": [
+                0.003783266991376877,
+                0.040099773555994034,
+                0.010965338908135891,
+                0.01240124274045229,
+                0.9072147011756897,
+                0.0033073320519179106,
+                0.01983438991010189,
+                0.0023940294049680233
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "え？そう言うなら年上を敬ってくれても良いんだぜ？（親指グッ）"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "貴様を敬うとか片腹痛いわ！"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "…………正露丸あげようか？"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3ldbjxh34j22t",
+            "label": [
+                0.001121599692851305,
+                0.001963065005838871,
+                0.9961459636688232,
+                0.00013373949332162738,
+                6.84627884766087e-05,
+                0.0003179957566317171,
+                0.00015900947619229555,
+                9.007550397654995e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "…………正露丸あげようか？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "それ前にも聞いたな"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "え？私の前に言った事ちゃんと覚えてたの？\n私を好きって事で良いよね？"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3ldbk2lejok2t",
+            "label": [
+                0.0013735322281718254,
+                0.00039812890463508666,
+                0.0008814602624624968,
+                0.9965922236442566,
+                0.0002145234466297552,
+                0.00019299866107758135,
+                0.00021332224423531443,
+                0.00013378294534049928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "え？私の前に言った事ちゃんと覚えてたの？\n私を好きって事で良いよね？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "あ\"!?\n何故そうなった！？\n灼くか"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "やめて！？"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3ldbk5jhm6c2t",
+            "label": [
+                0.000759810209274292,
+                0.00200070533901453,
+                0.00042101801955141127,
+                0.9943311214447021,
+                0.00019581938977353275,
+                0.0019213578198105097,
+                0.00028641990502364933,
+                8.374951721634716e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "君の方が絶対声デカいよね！？"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "貴様は態度がデカいだろ"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "わぁ、酷い言われよう"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcddpnhxms25",
+            "label": [
+                0.0010412817355245352,
+                0.9501893520355225,
+                0.00039450539043173194,
+                0.006741649471223354,
+                0.008767029270529747,
+                0.0014496485237032175,
+                0.03115934692323208,
+                0.0002571296354290098
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "わぁ、酷い言われよう"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "貴様にはそれくらい言っても問題ない"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "まあ其処は私と君との仲だしね（親指グッ）"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcddzmsskk25",
+            "label": [
+                0.9618338346481323,
+                0.0009676120243966579,
+                0.03330973908305168,
+                0.00025020932662300766,
+                0.000429251987952739,
+                0.0009360528783872724,
+                0.001116648898459971,
+                0.0011566153261810541
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "まあ其処は私と君との仲だしね（親指グッ）"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "oO(…それは間違いない）（仏頂面）"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "HAHAHA!私達仲良し！認めたね！"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcdedjxjds25",
+            "label": [
+                0.9995040893554688,
+                5.6385764764854684e-05,
+                0.00017022431711666286,
+                9.074353874893859e-05,
+                3.130544791929424e-05,
+                3.3493528462713584e-05,
+                6.110952381277457e-05,
+                5.254262578091584e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 1,
+                    "utter": "HAHAHA!私達仲良し！認めたね！"
+                },
+                {
+                    "author": "did:plc:ae2ptgg535giwea7yjfmepeg",
+                    "type": 2,
+                    "utter": "…取り敢えず五月蝿いから灼くか"
+                },
+                {
+                    "author": "did:plc:bmc32w5iwpehrb77klg4hsky",
+                    "type": 3,
+                    "utter": "やめて！？"
+                }
+            ],
+            "uri": "at://did:plc:bmc32w5iwpehrb77klg4hsky/app.bsky.feed.post/3lcdeo4ebu225",
+            "label": [
+                0.000759810209274292,
+                0.00200070533901453,
+                0.00042101801955141127,
+                0.9943311214447021,
+                0.00019581938977353275,
+                0.0019213578198105097,
+                0.00028641990502364933,
+                8.374951721634716e-05
+            ]
+        }
+    ]
+}

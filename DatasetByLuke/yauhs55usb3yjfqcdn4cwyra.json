@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "見張り本当に止めてください。どうせこの文章も読まずにいいねとかして来るんでしょ？"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "本当にそれな…能無しが"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "梶さん怖い笑"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7um5tqz52p",
+            "label": [
+                0.030281392857432365,
+                0.0038411770947277546,
+                0.007760701235383749,
+                0.6327316761016846,
+                0.0005071797640994191,
+                0.3225190341472626,
+                0.0014748381217941642,
+                0.0008840071386657655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "梶さん怖い笑"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "いや、思うだろ？普通…"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "はい、普通に思います…笑"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7urgskiw2d",
+            "label": [
+                0.9837035536766052,
+                0.0007276696269400418,
+                0.008746611885726452,
+                0.0009540215833112597,
+                0.0003766832232940942,
+                0.0011398880742490292,
+                0.002430324675515294,
+                0.0019212474580854177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "はい、普通に思います…笑"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "(︎✌︎•̅ •̅)ﾀﾞﾛ?笑"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "顔っ笑"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7wz3xgxq26",
+            "label": [
+                0.9994494318962097,
+                4.7508008719887584e-05,
+                0.00010826676589203998,
+                0.00015811964112799615,
+                3.288988955318928e-05,
+                7.723116141278297e-05,
+                8.243118645623326e-05,
+                4.4109736336395144e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "顔っ笑"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "笑った〜♪"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "だって…笑"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7xp5bzqv2t",
+            "label": [
+                0.8956254720687866,
+                0.021711446344852448,
+                0.007081750780344009,
+                0.053709037601947784,
+                0.0012729894369840622,
+                0.010394907556474209,
+                0.007772848010063171,
+                0.002431628992781043
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "だって…笑"
+                },
+                {
+                    "author": "did:plc:qcy7ej6mkwxbuanxiti6vovp",
+                    "type": 2,
+                    "utter": "変顔してねぇぞ？笑"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "してました！笑"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kwabp3fb6w2i",
+            "label": [
+                0.9989303946495056,
+                0.00010473332804394886,
+                0.00045776888146065176,
+                0.00023298368614632636,
+                3.1703264539828524e-05,
+                7.990153972059488e-05,
+                8.049275493249297e-05,
+                8.206976053770632e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "見張り本当に止めてください。どうせこの文章も読まずにいいねとかして来るんでしょ？"
+                },
+                {
+                    "author": "did:plc:ad3sylihdgnoooyie3woe763",
+                    "type": 2,
+                    "utter": "俺はいいよな？(にっ"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "りっくんっ！"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7urqf7x72k",
+            "label": [
+                0.9990654587745667,
+                9.436146501684561e-05,
+                0.0004890528507530689,
+                0.00015933183021843433,
+                4.0495593566447496e-05,
+                2.8146841941634193e-05,
+                6.030633448972367e-05,
+                6.277633656281978e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "りっくんっ！"
+                },
+                {
+                    "author": "did:plc:ad3sylihdgnoooyie3woe763",
+                    "type": 2,
+                    "utter": "来たぜ。でもさ、多分サムネ変えるわ"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "サムネ、変えるの…？"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7wkpu3ih2k",
+            "label": [
+                0.0004904443048872054,
+                0.00025980660575442016,
+                0.0007170618046075106,
+                0.9977055191993713,
+                0.00020678497094195336,
+                0.00028574420139193535,
+                0.0002239685709355399,
+                0.0001107212810893543
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "サムネ、変えるの…？"
+                },
+                {
+                    "author": "did:plc:ad3sylihdgnoooyie3woe763",
+                    "type": 2,
+                    "utter": "これさ、作者さんとサムネ被るんだよ…"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "かわいい…"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7x2cclkz23",
+            "label": [
+                0.9996334314346313,
+                4.5973065425641835e-05,
+                0.0001045157914632,
+                6.363285501720384e-05,
+                2.422783654765226e-05,
+                4.474689194466919e-05,
+                4.542330134427175e-05,
+                3.8050548027968034e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "かわいい…"
+                },
+                {
+                    "author": "did:plc:ad3sylihdgnoooyie3woe763",
+                    "type": 2,
+                    "utter": "可愛いか？"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "うんっ、かわいいよ…！♡"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7xpmf2t526",
+            "label": [
+                0.9996337890625,
+                4.017571700387634e-05,
+                0.00011240298044867814,
+                6.230417056940496e-05,
+                2.745021447481122e-05,
+                4.024543522973545e-05,
+                4.314609395805746e-05,
+                4.058379272464663e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 1,
+                    "utter": "うんっ、かわいいよ…！♡"
+                },
+                {
+                    "author": "did:plc:ad3sylihdgnoooyie3woe763",
+                    "type": 2,
+                    "utter": "真冬には負ける"
+                },
+                {
+                    "author": "did:plc:yauhs55usb3yjfqcdn4cwyra",
+                    "type": 3,
+                    "utter": "え……ぁ…///"
+                }
+            ],
+            "uri": "at://did:plc:yauhs55usb3yjfqcdn4cwyra/app.bsky.feed.post/3kw7xrlmzeu2b",
+            "label": [
+                0.0006138295866549015,
+                0.003293608548119664,
+                0.0003540792386047542,
+                0.9945619702339172,
+                0.0002500776608940214,
+                0.0005436260835267603,
+                0.0002967305190395564,
+                8.602956222603098e-05
+            ]
+        }
+    ]
+}

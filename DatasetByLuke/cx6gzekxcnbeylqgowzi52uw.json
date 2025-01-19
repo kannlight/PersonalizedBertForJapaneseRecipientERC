@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "クリスタ3.0使えるはずなのに2.0のままにしてた……？？"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "ぬるっとアップデートした　何が使えるようになってますか"
+                },
+                {
+                    "author": "did:plc:aezz3dq5rcbcw3qec7z5bxip",
+                    "type": 2,
+                    "utter": "レイヤーカンプ！"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "うわさのカンプ！ちょっとうらやまだったやつ！"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lbm4gac2rc2e",
+            "label": [
+                0.23971199989318848,
+                0.003631375962868333,
+                0.02515529841184616,
+                0.7270079851150513,
+                0.0007176251383498311,
+                0.0007182074477896094,
+                0.000831129087600857,
+                0.0022263547871261835
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "うわさのカンプ！ちょっとうらやまだったやつ！"
+                },
+                {
+                    "author": "did:plc:aezz3dq5rcbcw3qec7z5bxip",
+                    "type": 2,
+                    "utter": "差分や変化の管理、どっちがいいかな？の比較もらくちん！"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "漫画では用事ないかもだけど使ってみたーい！"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lbm4rzxj5c2e",
+            "label": [
+                0.0006272408063523471,
+                0.0002055539662251249,
+                0.9987680315971375,
+                0.00012204201630083844,
+                5.8046985941473395e-05,
+                0.00010434208525111899,
+                5.935205626883544e-05,
+                5.5335131037281826e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "漫画では用事ないかもだけど使ってみたーい！"
+                },
+                {
+                    "author": "did:plc:aezz3dq5rcbcw3qec7z5bxip",
+                    "type": 2,
+                    "utter": "カケアミとトーンどっちがいいかな？とか一時カンプ保存して比較とかできるよ！使い方はあなた次第よ！"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "なーるーほーどねーー！（それだ）"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lbm52ahf222e",
+            "label": [
+                0.9646772742271423,
+                0.0018224911764264107,
+                0.014907097443938255,
+                0.014168051071465015,
+                0.0008626647759228945,
+                0.0002774654421955347,
+                0.0014783325605094433,
+                0.0018065831391140819
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "てあしこおるいたいちべたいいたい"
+                },
+                {
+                    "author": "did:plc:sq2sakdrukuzls577ct55nfa",
+                    "type": 2,
+                    "utter": "まずおふろであったまって"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "ヒンヒン　おふろは寝る寸前でないとすぐ手足ひえちゃうのん……"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lfcoynkzek26",
+            "label": [
+                0.0004807817458640784,
+                0.9983471632003784,
+                0.00012891828373540193,
+                0.00035025482065975666,
+                4.778596121468581e-05,
+                0.0003913703840225935,
+                0.00022918282775208354,
+                2.4689834390301257e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "ヒンヒン　おふろは寝る寸前でないとすぐ手足ひえちゃうのん……"
+                },
+                {
+                    "author": "did:plc:sq2sakdrukuzls577ct55nfa",
+                    "type": 2,
+                    "utter": "これはカニがわかさん湯たんぽになるしか…！"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "やったーーー！ゆたんぽはなさないぞう！！"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lfcp4aytjc26",
+            "label": [
+                0.9992203712463379,
+                7.434793224092573e-05,
+                0.00045932253124192357,
+                8.839963265927508e-05,
+                3.221115912310779e-05,
+                3.415469473111443e-05,
+                4.419144897838123e-05,
+                4.7035453462740406e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "やったーーー！ゆたんぽはなさないぞう！！"
+                },
+                {
+                    "author": "did:plc:sq2sakdrukuzls577ct55nfa",
+                    "type": 2,
+                    "utter": "冬毛でフサフサホットなカニだぜ！あったかくしてね！！"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "うわーんどもですどもです　あったまったらゆでておいしくいただきたいカニチャン！"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lfcpc5b7s226",
+            "label": [
+                0.006653205491602421,
+                0.0004489397688303143,
+                0.9923155307769775,
+                0.0001490348222432658,
+                9.287767898058519e-05,
+                0.00014294221182353795,
+                0.00010085218673339114,
+                9.6599425887689e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "うわーんどもですどもです　あったまったらゆでておいしくいただきたいカニチャン！"
+                },
+                {
+                    "author": "did:plc:sq2sakdrukuzls577ct55nfa",
+                    "type": 2,
+                    "utter": "滑らかな動きでカニを食べようとする～～～！！！でもカニ鍋食べたいな…おいしいよねカニ鍋…モツ鍋もいいよ…"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "かにおいしい……おいしいかに……モツかぁ～あんまりたべたことないな！白子鍋とか！"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lfcpkbehk226",
+            "label": [
+                0.9986845850944519,
+                0.00010091670992551371,
+                0.0007594451308250427,
+                0.00025197738432325423,
+                2.8824169930885546e-05,
+                4.5434611820383e-05,
+                5.477315062307753e-05,
+                7.409054524032399e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 1,
+                    "utter": "かにおいしい……おいしいかに……モツかぁ～あんまりたべたことないな！白子鍋とか！"
+                },
+                {
+                    "author": "did:plc:sq2sakdrukuzls577ct55nfa",
+                    "type": 2,
+                    "utter": "ああ～～～いいね～～～おさけチビチビしながらあつーいお鍋つつきたい～～～モツ鍋美味しいよ！この歳になって胃が耐えてくれるかが問題だけど！！"
+                },
+                {
+                    "author": "did:plc:cx6gzekxcnbeylqgowzi52uw",
+                    "type": 3,
+                    "utter": "だいじ……胃はいたわろう……やさしいもんたべよう……うまいもんはいっぱいある！"
+                }
+            ],
+            "uri": "at://did:plc:cx6gzekxcnbeylqgowzi52uw/app.bsky.feed.post/3lfcpp7z4o226",
+            "label": [
+                0.0010095449397340417,
+                0.0015606089727953076,
+                0.9969421029090881,
+                8.905884897103533e-05,
+                5.58767314942088e-05,
+                0.0001642736024223268,
+                0.00010019249748438597,
+                7.828953675925732e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "お、幸運だねショートくん、俺の事務所のご来賓の方専用のセットだよ〜\n自慢してよか"
+                },
+                {
+                    "author": "did:plc:sartxvapoac4lbykvg5swch4",
+                    "type": 2,
+                    "utter": "これをどうしろと？\n…親父のマグカップやろうか？（）"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "それは欲しいんだけどエンデヴァー事務所そんなの出てたっけ？？？来賓用？？？？"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3ldy2ux3ha22o",
+            "label": [
+                0.0009491801029071212,
+                0.00023215360124595463,
+                0.9983470439910889,
+                0.00017130949709098786,
+                3.5170058254152536e-05,
+                0.0001688045304035768,
+                4.434034781297669e-05,
+                5.196265919948928e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "えーと、……プレゼントの主は何となくわかる。(髪のコーティング剤を手に持って)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "(相手の手元見ては笑いこらえている)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "(開封してそっと後ろから七三分けにしてやった)(とてもいびつ)"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3ldy3b7ltts2o",
+            "label": [
+                0.7615578174591064,
+                0.11175402253866196,
+                0.009224236011505127,
+                0.025513065978884697,
+                0.0037900058086961508,
+                0.0369575172662735,
+                0.046921513974666595,
+                0.0042818165384233
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "(開封してそっと後ろから七三分けにしてやった)(とてもいびつ)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "何してくれてンだテメェ……！(ぶんぶんと頭振り)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "爆豪くんの髪の毛すら七三にしたというコーティング剤…さすが(ぷくくくくくくく、と笑っては写真撮った"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3ldy3klejo22o",
+            "label": [
+                0.996105968952179,
+                0.00014461514365393668,
+                0.0002939398109447211,
+                0.003009113948792219,
+                5.450875323731452e-05,
+                0.0001441116473870352,
+                0.00010630484757712111,
+                0.00014136391109786928
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "(げしげしと蹴りを入れた)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "(蹴られながらも貴方の写真撮って)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "言っとくけどお前も1週間は七三だからね。"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3ldy4ibguo22o",
+            "label": [
+                0.6146017909049988,
+                0.044632285833358765,
+                0.11030509322881699,
+                0.028001567348837852,
+                0.05928293988108635,
+                0.06785169988870621,
+                0.027550281956791878,
+                0.04777437821030617
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "(指さしてゲラゲラ笑い)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "テメェ…人様を指さすンじゃねェよ(むす)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "こりゃ失礼〜\n煮込まれた人参美味しいよ。ビタミン取ったほうがいいんじゃなーい？あげようかー？(によによ"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3lcpr4fsq7s23",
+            "label": [
+                0.09440211951732635,
+                0.001757465535774827,
+                0.9005310535430908,
+                0.0008979770937003195,
+                0.00032849752460606396,
+                0.0005204956396482885,
+                0.0007899798220023513,
+                0.0007722965674474835
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "こりゃ失礼〜\n煮込まれた人参美味しいよ。ビタミン取ったほうがいいんじゃなーい？あげようかー？(によによ"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "人参…誰が入れたか一番わかりやすいな…お父さんが肉と交換してくれたから大丈夫だが、貰うか(自分の皿差し出しては入れろと催促して)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "え、なにそれ、俺も欲しい(貴方の器に入った肉を1枚奪った)\nはい、交換(代わりに人参沢山入れた)"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3lcprivmepc23",
+            "label": [
+                0.029945986345410347,
+                0.001464475062675774,
+                0.9653191566467285,
+                0.001261202385649085,
+                0.0006005403120070696,
+                0.0002785093092825264,
+                0.0006531837279908359,
+                0.00047689510392956436
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "え、なにそれ、俺も欲しい(貴方の器に入った肉を1枚奪った)\nはい、交換(代わりに人参沢山入れた)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "あ…まじお前、しゃあねェな(ぼりぼり人参食べ)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "早速効果あり？素直でよろしい(肉を口に含んで)\nうんま！？！？？？ちょ、その辺に売ってる肉じゃなかよ！？！？"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3lcprtxamt223",
+            "label": [
+                0.9988459348678589,
+                6.856016261735931e-05,
+                0.0001439147599739954,
+                0.0006869305507279932,
+                5.052682536188513e-05,
+                6.438395939767361e-05,
+                7.654006913071498e-05,
+                6.332535849651322e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "早速効果あり？素直でよろしい(肉を口に含んで)\nうんま！？！？？？ちょ、その辺に売ってる肉じゃなかよ！？！？"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "引っぱたくぞ(むす)\nお父さん自分が入れたの当たったみてェでな、何も言わず交換してくれたンだ助かる(もぐもぐ)"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "13人もいて自分の当たるとかすごない？逆に。\n鍋美味しい。\nえ、長男甘やかされすぎじゃなかと？"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3lcpsacw3ss23",
+            "label": [
+                0.9918413162231445,
+                0.00040517240995541215,
+                0.00018848746549338102,
+                0.006886846851557493,
+                8.185925253201276e-05,
+                0.00025862487382255495,
+                0.00019496260210871696,
+                0.00014283915515989065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 1,
+                    "utter": "チキンうまい"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "あ、俺のチキン"
+                },
+                {
+                    "author": "did:plc:o5meve5ktjwrzaoldif2uovh",
+                    "type": 3,
+                    "utter": "これ食べといて(激辛エビチリ渡した)"
+                }
+            ],
+            "uri": "at://did:plc:o5meve5ktjwrzaoldif2uovh/app.bsky.feed.post/3ldxzyngljs2o",
+            "label": [
+                0.006790565326809883,
+                0.0007821664330549538,
+                0.9911836385726929,
+                0.00016554949979763478,
+                0.00018012830696534365,
+                0.00043049381929449737,
+                0.0001891539868665859,
+                0.0002781977818813175
+            ]
+        }
+    ]
+}

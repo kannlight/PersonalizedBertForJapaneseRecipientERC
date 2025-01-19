@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "寒すぎてディズニーの服装迷う 今日ぐらい寒いならダウンとヒートテック不可避なんだが"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "今日と同じくらいだよ"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "さむすぎん！？ダウンでいいよな！？"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3lbbxrzppwc26",
+            "label": [
+                0.0021877281833440065,
+                0.011236068792641163,
+                0.004192703869193792,
+                0.9762945771217346,
+                0.0007824897766113281,
+                0.0034510022960603237,
+                0.001490932423621416,
+                0.00036446109879761934
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "さむすぎん！？ダウンでいいよな！？"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "ダウンでいいよ！！！絶対に屋外待機でﾀﾋぬ！！！！"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "！！！！黒の組織コーデでいくわ…"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3lbbxumkcbs2q",
+            "label": [
+                0.007797177881002426,
+                0.0005987838376313448,
+                0.9907830357551575,
+                0.00019080527999904007,
+                9.659548959461972e-05,
+                0.00026622842415235937,
+                0.00014322076458483934,
+                0.00012407910253386945
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "！！！！黒の組織コーデでいくわ…"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "黒の組織ｗｗｗｗｗｗ\n話は変わるけど、11月22日発売のポケモンの一番くじやべぇえと思うの私だけ？"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "全身まっくろｗｗ\nやべえよねあれ、土鍋ほしい…\n1番くじ用の貯金箱をぶっぱする日が来たなとおもってる…"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3lbby2izidc2q",
+            "label": [
+                0.30861660838127136,
+                0.004294713493436575,
+                0.6310846209526062,
+                0.05089733377099037,
+                0.0004349392547737807,
+                0.002376904943957925,
+                0.000863485736772418,
+                0.0014314433792605996
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "全身まっくろｗｗ\nやべえよねあれ、土鍋ほしい…\n1番くじ用の貯金箱をぶっぱする日が来たなとおもってる…"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "暗闇に紛れられるスタイルｗ\nやべぇ…メタモンクッション欲しいし、ブイズ皿も欲しい…ぶっぱするしかない。"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "ポケモンはほんとにハズレないんだよねぇ…わたしは年明けにホロが控えてるからほどほどにしないと…"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3lbbyfsyrek2q",
+            "label": [
+                0.23618316650390625,
+                0.036032889038324356,
+                0.05281449854373932,
+                0.014428051188588142,
+                0.0008802209631539881,
+                0.6532233357429504,
+                0.0021000863052904606,
+                0.004337668418884277
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "ポケモンはほんとにハズレないんだよねぇ…わたしは年明けにホロが控えてるからほどほどにしないと…"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "たひかひ…"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "年末ジャンボ……(˙◁˙)"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3lbbyojctj22q",
+            "label": [
+                0.0011756822932511568,
+                0.00042646913789212704,
+                0.9979642629623413,
+                0.00011642707249848172,
+                4.415799776325002e-05,
+                0.00016536199836991727,
+                5.833760951645672e-05,
+                4.928910857415758e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "げきあつ"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "げきあつ。買いすぎたらあげるよ。"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "！？"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3l7lccu3xxz2w",
+            "label": [
+                0.00048078500549308956,
+                0.00026953357155434787,
+                0.00070402049459517,
+                0.9977091550827026,
+                0.0002729969855863601,
+                0.0002479569229763001,
+                0.00018428756447974592,
+                0.00013132835738360882
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "！？"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "推しキャラの店舗特典が以下略"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "はっ…！あの、わたしがやりそうなゲームなら普通に買い取るんで…！"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3l7ldfk5utg2h",
+            "label": [
+                0.0006303224945440888,
+                0.000703025667462498,
+                0.001363258925266564,
+                0.9964627623558044,
+                0.00025338289560750127,
+                0.0002481201954651624,
+                0.00023311047698371112,
+                0.00010607511649141088
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "はっ…！あの、わたしがやりそうなゲームなら普通に買い取るんで…！"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "かっこよくてとても可愛い主人公の乙女ゲーは好きかい？"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "自分が男ってこと？？\n可愛い女の子を攻略できるならやります"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3l7ldjdwlmw25",
+            "label": [
+                0.0007738611893728375,
+                0.0002214769774582237,
+                0.9981495141983032,
+                0.0005242650513537228,
+                6.611252319999039e-05,
+                0.00013007524830754846,
+                6.0332520661177114e-05,
+                7.44414865039289e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 1,
+                    "utter": "自分が男ってこと？？\n可愛い女の子を攻略できるならやります"
+                },
+                {
+                    "author": "did:plc:d24sgmevauskz6iw53orzhtt",
+                    "type": 2,
+                    "utter": "ざんねん。自分は女の子。男の子を攻略するやつ。\n主人公が可愛すぎて主人公に落ちるユーザーもいるにはいる。\nなお、パパは立木さんで、ママは井上喜久子さん。なお、アニメはごみ。"
+                },
+                {
+                    "author": "did:plc:jhnlhty2wtbirvdhklfqwf3d",
+                    "type": 3,
+                    "utter": "女の子か〜！もしかしてわたしも主人公にハマるパターンか…？\nママ！！！ママ！！！！え、ママしゅき！！！"
+                }
+            ],
+            "uri": "at://did:plc:jhnlhty2wtbirvdhklfqwf3d/app.bsky.feed.post/3l7leh7lth52v",
+            "label": [
+                0.9946773052215576,
+                0.0005884756101295352,
+                0.0017343699000775814,
+                0.002563425339758396,
+                6.1025257309665903e-05,
+                0.00012135360157117248,
+                0.00011826794070657343,
+                0.00013582238170783967
+            ]
+        }
+    ]
+}

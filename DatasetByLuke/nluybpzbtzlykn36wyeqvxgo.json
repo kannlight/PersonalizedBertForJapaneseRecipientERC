@@ -1,0 +1,279 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "絡みはじめて1年も\n経ってないのに短期間に\n何回も爆弾落とされたら無理\n\n注意するのもだるいし\n持病悪化しそうで怖い……"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 2,
+                    "utter": "注意しようとした結果あいつは悪化しました\nすいません(;_;)"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "爆弾だから無視しよう"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3lexzg7fqas2i",
+            "label": [
+                0.05382104590535164,
+                0.01457922998815775,
+                0.04403436556458473,
+                0.002734424779191613,
+                0.003947087563574314,
+                0.7440292239189148,
+                0.131729394197464,
+                0.005125230178236961
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "爆弾だから無視しよう"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 2,
+                    "utter": "もう向こうから切られたから関わろうにも近付けんw"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "近寄らない方がいい……\nストレス溜まるだけ"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3leyhnraie22u",
+            "label": [
+                0.0037569517735391855,
+                0.2889735996723175,
+                0.004731298889964819,
+                0.0013008882524445653,
+                0.002157265320420265,
+                0.6220044493675232,
+                0.07616723328828812,
+                0.0009082642500288785
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "近寄らない方がいい……\nストレス溜まるだけ"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 2,
+                    "utter": "俺に寄って来なくても身内にくっついてくるのがなぁ"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "とくにうぃんくさんにね……"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3lez2fzkul22g",
+            "label": [
+                0.998826801776886,
+                0.0005586452316492796,
+                0.00014266274229157716,
+                0.00021284885588102043,
+                3.198115882696584e-05,
+                7.531663868576288e-05,
+                6.833417137386277e-05,
+                8.330028504133224e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "とくにうぃんくさんにね……"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 2,
+                    "utter": "あいつが常に1番の被害者"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "離れた方がいいのに\nメンタル心配……"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3leznjs6koc25",
+            "label": [
+                0.0006581186898984015,
+                0.003358931979164481,
+                0.0007470360724255443,
+                0.0008007368887774646,
+                0.0004937319899909198,
+                0.9930604696273804,
+                0.0006875924300402403,
+                0.0001932849845616147
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "離れた方がいいのに\nメンタル心配……"
+                },
+                {
+                    "author": "did:plc:s7azeagegx7v4etzpnfsr3ef",
+                    "type": 2,
+                    "utter": "まぁその辺上手く立ち回ってくれてるから大丈夫よ"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "大丈夫でも心配……\n\n早く離れるべき"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3lf22lo75ws25",
+            "label": [
+                0.0006542091723531485,
+                0.0017628871137276292,
+                0.0011969199404120445,
+                0.0006831411737948656,
+                0.00044746455387212336,
+                0.9945539236068726,
+                0.00048637125291861594,
+                0.00021510673104785383
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "あの……\nご本人様からLINEきて\n旦那にはDMきたが……\n\nうぃんくさんから\nなにか言われたらしいって\nなんで関係ない旦那にDMした？"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "LINE未読無視する"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "うちも私のことが砲に、砲のことが私のとこに来てたりもしてたので……まぁ……うん。。"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "新年からだるいね……\n巻き込まれ辛いね……"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3lerdbfd3dc27",
+            "label": [
+                0.0010586531134322286,
+                0.9714391231536865,
+                0.0008315032464452088,
+                0.000657181313727051,
+                0.0004249173798598349,
+                0.000962647725827992,
+                0.024509787559509277,
+                0.00011610535875661299
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "新年からだるいね……\n巻き込まれ辛いね……"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "私は一度ガチ説教に近いことをして、以来LINEはブロックしており、以降は落ち着いていたのですが。。。\n本人悪気なくしでかしてしまうのが大問題ですよね。。。 当人以外にも連絡入れるのも辞めろと言ったのですが、そこも直ってないのかと\n(年賀状はご家族宛に近いから、どちらにも謝るのは正解な気がしなくもないものの)"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "嬢が説教するとか\nかなり嫌なことがあったんやね……\n\n突発的な行動すると\n手に負えない……"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3lerdz3oe2s27",
+            "label": [
+                0.002941401908174157,
+                0.16629275679588318,
+                0.000654804112855345,
+                0.025057274848222733,
+                0.015242171473801136,
+                0.719039261341095,
+                0.06989188492298126,
+                0.0008804342360235751
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "嬢が説教するとか\nかなり嫌なことがあったんやね……\n\n突発的な行動すると\n手に負えない……"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "すみません、ブロックまではしてなかったけど8月からガン無視決め込んでおりました()\nまぁざっくりTwitterとLINEと同じメッセージ来たり、調べりゃ出てくるものを辞書代わりにされたりとか😅\n\nどーにか常識を身につけて欲しくて伝えた時期はあれど、ぽろぽろとこう、事を起こすのでどうしようもないのかなーと。。"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "絡んでて精神的にきつくなる\n\n同じメッセージ送ってくるのは\nかなりうざい……\n嬢はあいつの親、彼女でもないのに一々聞かれるのは嫌になるね……\n\nVG界隈でそのうち\n晒されそう……"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3lerfpswxuk27",
+            "label": [
+                0.002083052881062031,
+                0.013421876356005669,
+                0.0021176717709749937,
+                0.001173521624878049,
+                0.01575918309390545,
+                0.011127758771181107,
+                0.9535620212554932,
+                0.0007550737936981022
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 1,
+                    "utter": "絡んでて精神的にきつくなる\n\n同じメッセージ送ってくるのは\nかなりうざい……\n嬢はあいつの親、彼女でもないのに一々聞かれるのは嫌になるね……\n\nVG界隈でそのうち\n晒されそう……"
+                },
+                {
+                    "author": "did:plc:et3rthwj6o52e5qogynb64cb",
+                    "type": 2,
+                    "utter": "現実で会うとそこまででもないんですが、SNSが壊滅的に下手ですね……\n\n普通に勘弁して欲しかったです😅元よりLINE不精なので(ご迷惑おかけしております……)、返信ペース合わないし、返事無い！って砲に連絡されたりとか\n著作権のこととか聞かれた時、もー調べてくれよ！案件でした😥\n\nありそうですね。。。そうまでならんことを祈りたいですが"
+                },
+                {
+                    "author": "did:plc:nluybpzbtzlykn36wyeqvxgo",
+                    "type": 3,
+                    "utter": "たしかに\n\n返信は嬢のペースあるから\n返信速度は大丈夫\n気にしなくていいよ😌\nたくちゃん使ってLINE\n催促は子供のやること\nかなりめんどいし、厄介だな……\n\n同じく祈りたいが\nやらかしたり、開き直ったり\n繰り返してるからな……"
+                }
+            ],
+            "uri": "at://did:plc:nluybpzbtzlykn36wyeqvxgo/app.bsky.feed.post/3les2no5t2c27",
+            "label": [
+                0.0026161062996834517,
+                0.00724636297672987,
+                0.0015285350382328033,
+                0.0011357087641954422,
+                0.00538055133074522,
+                0.00328200520016253,
+                0.9782418608665466,
+                0.0005689301178790629
+            ]
+        }
+    ]
+}

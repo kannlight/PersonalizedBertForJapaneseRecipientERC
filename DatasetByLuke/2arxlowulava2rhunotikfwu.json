@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "そもそも乗れてないめぅ"
+                },
+                {
+                    "author": "did:plc:wx2mc6jl3qy3enmzxucnreeq",
+                    "type": 2,
+                    "utter": "やっと動き出したかと思えばすぐ止まる🥲腹減ったー！"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "新大阪でおにぎりをくぅマコトゥヌス"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3lblkzgt2us2k",
+            "label": [
+                0.9993990659713745,
+                6.879612192278728e-05,
+                0.0003060351882595569,
+                5.665477874572389e-05,
+                2.8714091968140565e-05,
+                3.853860107483342e-05,
+                5.778100967290811e-05,
+                4.438427640707232e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "わかってるねルチル"
+                },
+                {
+                    "author": "did:plc:uebivvmc4y56penscrnp26os",
+                    "type": 2,
+                    "utter": "絶対まこつこの曲好きだと思った🫵🏻"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "バレてる"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3lasnjys7sc2s",
+            "label": [
+                0.016640258952975273,
+                0.07032117247581482,
+                0.00040181397343985736,
+                0.8300896286964417,
+                0.0021242499351501465,
+                0.06632214784622192,
+                0.013361871242523193,
+                0.0007387635996565223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "バレてる"
+                },
+                {
+                    "author": "did:plc:uebivvmc4y56penscrnp26os",
+                    "type": 2,
+                    "utter": "ユニゾンスクエアガーデンの方で音程覚えたせいでこの曲カラオケで歌うと大失敗する、全部まこつのせいです"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "トリビュートはそんなもんです、ボクは悪くない🥺"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3laso56pp3222",
+            "label": [
+                0.8699862360954285,
+                0.025868695229291916,
+                0.015254497528076172,
+                0.0025656381621956825,
+                0.0033604027703404427,
+                0.024572374299168587,
+                0.04562385380268097,
+                0.012768355198204517
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "トリビュートはそんなもんです、ボクは悪くない🥺"
+                },
+                {
+                    "author": "did:plc:uebivvmc4y56penscrnp26os",
+                    "type": 2,
+                    "utter": "ユニゾン聞いてたらタイバニ思い出して久しぶりに見たらギャン泣きしました、全部まこつのせいです。"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "Perfectly Euphoria！"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3lasoytutek2s",
+            "label": [
+                0.9989508390426636,
+                9.745360148372129e-05,
+                0.0004463321529328823,
+                0.0002599992440082133,
+                4.425260704010725e-05,
+                3.7173704185988754e-05,
+                6.796923844376579e-05,
+                9.585382213117555e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "Perfectly Euphoria！"
+                },
+                {
+                    "author": "did:plc:uebivvmc4y56penscrnp26os",
+                    "type": 2,
+                    "utter": "前、\n\n初対面でオタクですとかいう自己紹介する人いるけど顔を見れば一瞬でわかるよ\n\n↑カスのユニゾンスクエア\n\nってやつ大爆笑でRTしたらまこつだけ反応してて追い打ち食らったわ"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "まずオリオンをなぞるを理解してないと面白さわからんからなそれw"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3lasphqy25k2a",
+            "label": [
+                0.8220406770706177,
+                0.008478657342493534,
+                0.035655196756124496,
+                0.055246125906705856,
+                0.0070245033130049706,
+                0.031340815126895905,
+                0.01627475582063198,
+                0.02393929846584797
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "⬇️↘️➡️+P"
+                },
+                {
+                    "author": "did:plc:uvjcg54wqmejzy7bmv4fzpis",
+                    "type": 2,
+                    "utter": "Pって何？？？パパ活？？\nまってなにその格ゲーみたいなコマンド\n右がわからんしたと左下はわかったよ！！！！右ふたつってこと…？あってる？"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "このコマンドで波動拳出るよ︎︎👍"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4nhukjvkh2s",
+            "label": [
+                0.17447660863399506,
+                0.0010791691020131111,
+                0.8216661810874939,
+                0.0014198850840330124,
+                0.0003145289374515414,
+                0.0003374881052877754,
+                0.00028205555281601846,
+                0.00042403320549055934
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "このコマンドで波動拳出るよ︎︎👍"
+                },
+                {
+                    "author": "did:plc:uvjcg54wqmejzy7bmv4fzpis",
+                    "type": 2,
+                    "utter": "wwマジでコマンドだったのか"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "そうだよ😊"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4plwiih3f27",
+            "label": [
+                0.999319314956665,
+                7.060350617393851e-05,
+                0.00030046881875023246,
+                7.284123421413824e-05,
+                4.2676827433751896e-05,
+                3.7656423955922946e-05,
+                8.449602319160476e-05,
+                7.193625788204372e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "そうだよ😊"
+                },
+                {
+                    "author": "did:plc:uvjcg54wqmejzy7bmv4fzpis",
+                    "type": 2,
+                    "utter": "対戦してね俺と🫵"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "ボコボコにするね"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4subfepoc2c",
+            "label": [
+                0.2898734509944916,
+                0.005751868709921837,
+                0.6315310001373291,
+                0.003687561023980379,
+                0.037256449460983276,
+                0.016220202669501305,
+                0.009959453716874123,
+                0.0057200160808861256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "ボコボコにするね"
+                },
+                {
+                    "author": "did:plc:uvjcg54wqmejzy7bmv4fzpis",
+                    "type": 2,
+                    "utter": "終わった、はんでくれよハンデ"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "真剣勝負にハンデなんて無い"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4t6xdenwd2u",
+            "label": [
+                0.04102467745542526,
+                0.0027054003439843655,
+                0.9139474034309387,
+                0.0025470133405178785,
+                0.006068539805710316,
+                0.011257623322308064,
+                0.004007572308182716,
+                0.0184418223798275
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "実はなぎママの枠で…"
+                },
+                {
+                    "author": "did:plc:wx2mc6jl3qy3enmzxucnreeq",
+                    "type": 2,
+                    "utter": "それきゃもさんも言ってたなぁ"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "ややちゃん巻き込んでたの草だった"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4qzqd3vmo25",
+            "label": [
+                0.993889331817627,
+                0.00012702972162514925,
+                0.0002123945887433365,
+                0.005142254289239645,
+                0.00010232894419459626,
+                0.00019085612439084798,
+                0.00018741522217169404,
+                0.00014844624092802405
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "ややちゃん巻き込んでたの草だった"
+                },
+                {
+                    "author": "did:plc:wx2mc6jl3qy3enmzxucnreeq",
+                    "type": 2,
+                    "utter": "ややさんは気の毒すぎるww\nおかげで2人に貰えたけどもww"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "筋肉でかいって言ったんやけどなぁ🤔🤔🤔"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4qztnc2lc2q",
+            "label": [
+                0.10512449592351913,
+                0.07366392016410828,
+                0.011679518967866898,
+                0.6904987692832947,
+                0.004758365452289581,
+                0.08317731320858002,
+                0.02680090256035328,
+                0.004296742379665375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "筋肉でかいって言ったんやけどなぁ🤔🤔🤔"
+                },
+                {
+                    "author": "did:plc:wx2mc6jl3qy3enmzxucnreeq",
+                    "type": 2,
+                    "utter": "なぜか女体化もしてるという"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "なんでおっぱいデカくないんだ😭😭😭"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4r2jglj3c26",
+            "label": [
+                0.00035513314651325345,
+                0.998417854309082,
+                0.00020186796609777957,
+                0.0003774385550059378,
+                0.000132762361317873,
+                0.00010381168976891786,
+                0.00038039591163396835,
+                3.081324393860996e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 1,
+                    "utter": "なんでおっぱいデカくないんだ😭😭😭"
+                },
+                {
+                    "author": "did:plc:wx2mc6jl3qy3enmzxucnreeq",
+                    "type": 2,
+                    "utter": "でかかったら立ち絵として使いづらいわww"
+                },
+                {
+                    "author": "did:plc:2arxlowulava2rhunotikfwu",
+                    "type": 3,
+                    "utter": "えーーーーーー？？？🥺"
+                }
+            ],
+            "uri": "at://did:plc:2arxlowulava2rhunotikfwu/app.bsky.feed.post/3l4r3ayrotq2n",
+            "label": [
+                0.0005100573762319982,
+                0.00046267875586636364,
+                0.0004917553160339594,
+                0.9976992011070251,
+                0.000255520804785192,
+                0.00024760450469329953,
+                0.00022942166833672673,
+                0.00010370709060225636
+            ]
+        }
+    ]
+}

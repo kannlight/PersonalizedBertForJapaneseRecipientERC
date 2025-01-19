@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "So... your distinction is that \"if you publish 3rd party content, you give up your own editorial rights?\"  \n\nYou sure you want to go down that path?"
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "I'm just not getting this at all.\n\nSocial media networks are public spaces, but they're run by third parties and are essentially unaccountable. (Until this law, anyway.)"
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "That... is not even remotely close to accurate. \n\nIs your argument that if you open up your property to outsiders, you no longer have the right to remove anyone for breaking your rules? Because... yikes."
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73esafivz2h",
+            "label": [
+                0.4646669328212738,
+                0.08130651712417603,
+                0.22815608978271484,
+                0.09728610515594482,
+                0.02395782619714737,
+                0.03477749228477478,
+                0.043397337198257446,
+                0.026451746001839638
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "That... is not even remotely close to accurate. \n\nIs your argument that if you open up your property to outsiders, you no longer have the right to remove anyone for breaking your rules? Because... yikes."
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "Eh, never mind. Let the social media billionaires do anything they want. That seems to be working out GREAT so far."
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "So, to stop people you personally dislike, you think it's cool to strip away their rights based on your feelings. There's a name for people like you."
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73js7nlav2a",
+            "label": [
+                0.9289816617965698,
+                0.004212859086692333,
+                0.057628195732831955,
+                0.0022216474171727896,
+                0.0008113643852993846,
+                0.0007957386551424861,
+                0.002488527912646532,
+                0.0028599221259355545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "So, to stop people you personally dislike, you think it's cool to strip away their rights based on your feelings. There's a name for people like you."
+                },
+                {
+                    "author": "did:plc:yucu4m7ovhqulwtvcjpfil6g",
+                    "type": 2,
+                    "utter": "But they're already doing this to us bro, this whole 'oh but they're gonna do it back to you some time down the line\" is bullshit! It's already happening!"
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "I'm sorry I have principles and don't stoop to the the same justification for my actions as nazis."
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73kjooiuv2j",
+            "label": [
+                0.12984637916088104,
+                0.7663084864616394,
+                0.00807133037596941,
+                0.016510097309947014,
+                0.0035598420072346926,
+                0.031366534531116486,
+                0.040424756705760956,
+                0.003912664484232664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "I'm sorry I have principles and don't stoop to the the same justification for my actions as nazis."
+                },
+                {
+                    "author": "did:plc:yucu4m7ovhqulwtvcjpfil6g",
+                    "type": 2,
+                    "utter": "You're just down for them stripping others rights as long as they aren't yours. I get it 😉 you're good fam"
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "Lying about my beliefs and my very public stances is... you know... a choice."
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73ov3r4uw22",
+            "label": [
+                0.85365891456604,
+                0.018133167177438736,
+                0.1128585934638977,
+                0.004454702604562044,
+                0.0013056857278570533,
+                0.0021163257770240307,
+                0.00329010933637619,
+                0.0041824402287602425
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "I'm sorry I have principles and don't stoop to the the same justification for my actions as nazis."
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "Interestingly, free speech absolutism is now a hallmark of the far right."
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "I said nothing about \"free speech absolutism.\" I said it's important to protect rights, not strip them away based on \"I don't like these people.\""
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73nya4flr2w",
+            "label": [
+                0.6741971969604492,
+                0.08326779305934906,
+                0.0458550788462162,
+                0.0453551709651947,
+                0.01288596261292696,
+                0.042032621800899506,
+                0.07179754972457886,
+                0.024608610197901726
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "So, to stop people you personally dislike, you think it's cool to strip away their rights based on your feelings. There's a name for people like you."
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "Mike, I can't explain to you that you need to care about people. Empathy is a thing you have to develop for yourself.\n\nYes, I am willing to take away the rights of, say, white supremacists, and I won't apologize for that. \n\nRight now, they hold all the power. We either do something or not."
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "I care about people. Which is why I try to teach people like you that justifying taking away people's rights because \"they'd do it to us\" always leads to the powerful cracking down harder on the powerless and feeling justified. To me, protecting rights is caring about people AND having principals."
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73kod5bds2m",
+            "label": [
+                0.6531920433044434,
+                0.03242338076233864,
+                0.22678717970848083,
+                0.027857502922415733,
+                0.00983946118503809,
+                0.010253652930259705,
+                0.019125955179333687,
+                0.020520849153399467
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "I care about people. Which is why I try to teach people like you that justifying taking away people's rights because \"they'd do it to us\" always leads to the powerful cracking down harder on the powerless and feeling justified. To me, protecting rights is caring about people AND having principals."
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "So far, this approach has been unilaterally unsuccessful at dealing with the rise of fascism. \n\nIt isn't working.\n\nIt is _definitely_ getting people killed.\n\nI'm not new to your brand of abrasiveness but this is the first time you ever called me a fascist, so there's that.\n\nAnyway, bye"
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "I have not called you a fascist. That may be your own guilty conscience speaking.\n\nI will say that adopting their strategies, beliefs, principles, etc. certainly makes you no better than one."
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73ojsyth42x",
+            "label": [
+                0.6245247721672058,
+                0.032230596989393234,
+                0.2564045190811157,
+                0.026137366890907288,
+                0.007118529174476862,
+                0.0114816939458251,
+                0.02390472963452339,
+                0.018197817727923393
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 1,
+                    "utter": "So, to stop people you personally dislike, you think it's cool to strip away their rights based on your feelings. There's a name for people like you."
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "Mike, I can't explain to you that you need to care about people. Empathy is a thing you have to develop for yourself.\n\nYes, I am willing to take away the rights of, say, white supremacists, and I won't apologize for that. \n\nRight now, they hold all the power. We either do something or not."
+                },
+                {
+                    "author": "did:plc:bzcqosvjxeavat6x643ugt62",
+                    "type": 2,
+                    "utter": "Considering we are barreling right into a second Trump presidency, which means we're looking down the barrel of a national abortion ban, national attacks on LGBTQ, etc, I would hope you'd care about those things."
+                },
+                {
+                    "author": "did:plc:cak4klqoj3bqgk5rj6b4f5do",
+                    "type": 3,
+                    "utter": "If you think taking away rights will magically stop that, well, I'm sorry... that's just ridiculous"
+                }
+            ],
+            "uri": "at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3k73kqqmygz2c",
+            "label": [
+                0.23661905527114868,
+                0.6087092757225037,
+                0.045411136001348495,
+                0.019308047369122505,
+                0.006122154649347067,
+                0.04710868373513222,
+                0.02815852500498295,
+                0.008563064970076084
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "フレネルさんとかエリカ様出すと余計に際立つ紅莉栖とイオス様の2強感"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "イオスもせっかく引いたし育てなきゃなぁ"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "つよいよ!\nスキンがどれもすけべだよ。"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lbqy4ovjjs2z",
+            "label": [
+                0.9415426254272461,
+                0.001925405114889145,
+                0.02733275108039379,
+                0.02715517021715641,
+                0.0002816271735355258,
+                0.0007214700453914702,
+                0.0004784747143276036,
+                0.0005624848417937756
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "つよいよ!\nスキンがどれもすけべだよ。"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "あー、そういやスキンて限定のやつ結構来てるんだよな…どうせだし気になったの買っちゃおうかな"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "周年だからね。\n欲しいのかっちゃお。水着くるかいとか（?）"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lbqzb2hdxc2z",
+            "label": [
+                0.0020616657566279173,
+                0.0002776457986328751,
+                0.9972018003463745,
+                0.0001274140813620761,
+                6.75754708936438e-05,
+                0.00012705866538453847,
+                7.087238918757066e-05,
+                6.61150406813249e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "周年だからね。\n欲しいのかっちゃお。水着くるかいとか（?）"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "好きすぎか！"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "じゃあ水着マックス（"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lbqzklvs6k2z",
+            "label": [
+                0.025783712044358253,
+                0.0011372969020158052,
+                0.9718260169029236,
+                0.00043165250099264085,
+                0.00012283201795071363,
+                0.00029959477251395583,
+                0.0002189621445722878,
+                0.00017990649212151766
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "じゃあ水着マックス（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "だぁい！"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "マジレスすると新春クロ\n今回君恵さん\n花嫁君恵さん\n覚醒ハッブル\n今回ヴィー\nあたりを買いました（）"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lbr2uimvls2z",
+            "label": [
+                0.999338686466217,
+                4.4912638259120286e-05,
+                0.00034643046092242,
+                7.348576036747545e-05,
+                4.054149394505657e-05,
+                4.0943017665995285e-05,
+                5.08392222400289e-05,
+                6.411565846065059e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "シーラさんにお小遣い出せば好きな思想書を読ませられる?（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "ちなみに言うと相場200ページで10000円ほどです。"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "悪くないのでは?（"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lfc7ogow3k2a",
+            "label": [
+                0.30037859082221985,
+                0.0009280548547394574,
+                0.694271445274353,
+                0.0006268445868045092,
+                0.0005422573303803802,
+                0.0008550240891054273,
+                0.0010488214902579784,
+                0.0013490747660398483
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "悪くないのでは?（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "もっというと200ページが限度です（）"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "笑顔になった（"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lfcb46c4nk2a",
+            "label": [
+                0.9996215105056763,
+                5.153521851752885e-05,
+                0.00010609380842652172,
+                6.567065429408103e-05,
+                2.3982287530088797e-05,
+                4.390809408505447e-05,
+                4.893847290077247e-05,
+                3.831741196336225e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "笑顔になった（"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "うふふ"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "でも読めるのそもそもすげぇなって。"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lfcbovsznc2a",
+            "label": [
+                0.0011054921196773648,
+                0.0002795352484099567,
+                0.0006764156278222799,
+                0.9970597624778748,
+                0.00022269539476837963,
+                0.0002383965183980763,
+                0.0002587678609415889,
+                0.00015874697419349104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 1,
+                    "utter": "でも読めるのそもそもすげぇなって。"
+                },
+                {
+                    "author": "did:plc:ipjqxzhrtgnbke35kmoviz5v",
+                    "type": 2,
+                    "utter": "すごーーーーーくしかめっ面しながら読む羽目になるからお小遣いもらってるんすよね…"
+                },
+                {
+                    "author": "did:plc:7ib3boyuacrgrjy5rqxp6t5i",
+                    "type": 3,
+                    "utter": "あたまのなかぐるぐるちゃんになるのも理解るのでなおさらに凄味"
+                }
+            ],
+            "uri": "at://did:plc:7ib3boyuacrgrjy5rqxp6t5i/app.bsky.feed.post/3lfcbuk63hs2a",
+            "label": [
+                0.78279048204422,
+                0.007212703116238117,
+                0.0026437602937221527,
+                0.07720088958740234,
+                0.001176601741462946,
+                0.11996413767337799,
+                0.004552681464701891,
+                0.004458791110664606
+            ]
+        }
+    ]
+}

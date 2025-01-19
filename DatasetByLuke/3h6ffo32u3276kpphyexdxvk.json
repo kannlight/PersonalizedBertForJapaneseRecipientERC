@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "双眼鏡"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "持った！"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "金!"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3lax2kjlwnk2t",
+            "label": [
+                0.9113522171974182,
+                0.003035186557099223,
+                0.0685681700706482,
+                0.009958728216588497,
+                0.001978590851649642,
+                0.0008556884131394327,
+                0.0019412728725001216,
+                0.002310225274413824
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "金!"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "お金忘れたのでてふ氏のお金で物販買います！！！"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "なんだァ…テメェ…"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3laxgl7p4nc2t",
+            "label": [
+                0.004053086508065462,
+                0.165354922413826,
+                0.002341658342629671,
+                0.018523884937167168,
+                0.7276884913444519,
+                0.01627805270254612,
+                0.06385651230812073,
+                0.0019034071592614055
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "なんだァ…テメェ…"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "3さいょぅι゛ょです"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "1桁足りねえよなぁ！？"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3laxhfpjjik2t",
+            "label": [
+                0.07841619849205017,
+                0.2506752610206604,
+                0.018479790538549423,
+                0.523298442363739,
+                0.005412258207798004,
+                0.11143623292446136,
+                0.008817347697913647,
+                0.003464476205408573
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "1桁足りねえよなぁ！？"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "03さいです\nまかせろ"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "せめて13といえ"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3lay32qvxn22y",
+            "label": [
+                0.02993738278746605,
+                0.1450231671333313,
+                0.10272615402936935,
+                0.025826716795563698,
+                0.5782574415206909,
+                0.020158177241683006,
+                0.08534807711839676,
+                0.012722793035209179
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "草"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "アプリで忙しい😇😇"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "ゆーてこちらも何ヶ月かぶりではある🤪🤪"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3lalo3yy5zs24",
+            "label": [
+                0.8745003342628479,
+                0.0018628430552780628,
+                0.029512206092476845,
+                0.08870093524456024,
+                0.0007832999108359218,
+                0.001463544089347124,
+                0.0013708824990317225,
+                0.0018058763816952705
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "ゆーてこちらも何ヶ月かぶりではある🤪🤪"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "草ぁ\nソフト探すところからスタートなんよなw"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "埃被っとるやないかい"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3lalo7b2bj224",
+            "label": [
+                0.004063055384904146,
+                0.0593615286052227,
+                0.001019107410684228,
+                0.03411095589399338,
+                0.06414822489023209,
+                0.010821476578712463,
+                0.8254743218421936,
+                0.00100142159499228
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "埃被っとるやないかい"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "いやダンボールに入ってるwww"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "わろ"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3lalojmfdec24",
+            "label": [
+                0.9990752935409546,
+                0.00011732665734598413,
+                0.0002446809085085988,
+                0.00018783322593662888,
+                4.836471998714842e-05,
+                7.665035082027316e-05,
+                0.00017235707491636276,
+                7.742994057480246e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 1,
+                    "utter": "わろ"
+                },
+                {
+                    "author": "did:plc:ebehylw4qjfagfgmuinajtzu",
+                    "type": 2,
+                    "utter": "一人でやってみるかw\nあ、Switch探さなきゃ()"
+                },
+                {
+                    "author": "did:plc:3h6ffo32u3276kpphyexdxvk",
+                    "type": 3,
+                    "utter": "もうめちゃくちゃや"
+                }
+            ],
+            "uri": "at://did:plc:3h6ffo32u3276kpphyexdxvk/app.bsky.feed.post/3lalp7yvx6k24",
+            "label": [
+                0.015689073130488396,
+                0.5027807354927063,
+                0.0007333726971410215,
+                0.02030511572957039,
+                0.01685778796672821,
+                0.025334658101201057,
+                0.41745465993881226,
+                0.000844589143525809
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "なんのバンドだったの？？"
+                },
+                {
+                    "author": "did:plc:p4rrc2rxfhlicu4j2fn4qvbn",
+                    "type": 2,
+                    "utter": "フレデリックだよー！"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "あー！オドループ以外存じ上げてない民なんですが、他におすすめ曲あります？？"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lbtcy2n6fc2l",
+            "label": [
+                0.0005913550849072635,
+                0.0003732506593223661,
+                0.9986754059791565,
+                0.00010076336184283718,
+                4.54657529189717e-05,
+                0.0001003783690975979,
+                5.91685384279117e-05,
+                5.421497189672664e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "あー！オドループ以外存じ上げてない民なんですが、他におすすめ曲あります？？"
+                },
+                {
+                    "author": "did:plc:p4rrc2rxfhlicu4j2fn4qvbn",
+                    "type": 2,
+                    "utter": "めっちゃあるけど、新曲からだと煌舟。わしが沼ったのは、初期のハローグッバイ。KITAKUBEATSと他所のピラニアはフレらしさ前面に出てるかな！！\nフレは音源より、ライブでのアレンジで曲の良さ再確認するバンドだから、？？？てなるかも。"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "今日は聴けんけど明日聞いてみる！！！\nいいよねぇ、ライブバンド…！\nオカモトズもそんな感じだったなぁ…"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lbuaybxris2d",
+            "label": [
+                0.06263886392116547,
+                0.0006394433439709246,
+                0.9351905584335327,
+                0.00044290750520303845,
+                0.0002614787081256509,
+                0.0002602561726234853,
+                0.00022184214321896434,
+                0.0003445689217187464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "今日は聴けんけど明日聞いてみる！！！\nいいよねぇ、ライブバンド…！\nオカモトズもそんな感じだったなぁ…"
+                },
+                {
+                    "author": "did:plc:p4rrc2rxfhlicu4j2fn4qvbn",
+                    "type": 2,
+                    "utter": "曲間のアレンジがいいんだよねぇ。ぁ、だから音源では重低音ない笑\nオカモトズ、ちゃんと聴いたことないな。"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "返信が遅くなりましたー！！\nすみません！！\nKITAKU BEATSのイントロが良すぎんか？？\n\nオカモトズは出していくアルバムで変わるから好みが出てくると思う( •ω•ฅ)\nアルバムのLet it Vなんかは全体的にすごく聞きやすいと思う！\nあとライブでMC長くてクレーム出たって言ってんのにずっと喋る人達だからライブ行くとめちゃんこ楽しいよww"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lc5py7ko2c27",
+            "label": [
+                0.9994912147521973,
+                3.927599755115807e-05,
+                0.00021064117026980966,
+                5.9924386732745916e-05,
+                4.187790909782052e-05,
+                3.924506745534018e-05,
+                5.113925362820737e-05,
+                6.675440818071365e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "返信が遅くなりましたー！！\nすみません！！\nKITAKU BEATSのイントロが良すぎんか？？\n\nオカモトズは出していくアルバムで変わるから好みが出てくると思う( •ω•ฅ)\nアルバムのLet it Vなんかは全体的にすごく聞きやすいと思う！\nあとライブでMC長くてクレーム出たって言ってんのにずっと喋る人達だからライブ行くとめちゃんこ楽しいよww"
+                },
+                {
+                    "author": "did:plc:p4rrc2rxfhlicu4j2fn4qvbn",
+                    "type": 2,
+                    "utter": "そーなの！イントロ面白いんだよ。イントロカットの時代に逆らってるよw\n\nアルバムのカラーあるの楽しいね！今度きいてみる！"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "いやぁイントロとサビへの展開とサビの終わり方が華でしょぉ〜！ww\n\nうんうん！初期の方はカバーしたりもあるしでハマると面白いバンドだなって思うwww"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lcaq3ufqdk2s",
+            "label": [
+                0.9995906949043274,
+                3.4969467378687114e-05,
+                0.00013016420416533947,
+                6.349314207909629e-05,
+                3.785596709349193e-05,
+                3.764385110116564e-05,
+                4.844891373068094e-05,
+                5.673680061590858e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "お、おめでと？\n何色にするん？？"
+                },
+                {
+                    "author": "did:plc:nzqjfrnt5mqtd5tkeksv73wn",
+                    "type": 2,
+                    "utter": "アッシュグレー？"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "またかなり攻めてんね？\n仕事的に言われなさそう？？"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lcnka4ygsc2l",
+            "label": [
+                0.06974297016859055,
+                0.0021903258748352528,
+                0.8770822286605835,
+                0.03680524230003357,
+                0.0006479340954683721,
+                0.011130879633128643,
+                0.001274151261895895,
+                0.0011262961197644472
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "またかなり攻めてんね？\n仕事的に言われなさそう？？"
+                },
+                {
+                    "author": "did:plc:nzqjfrnt5mqtd5tkeksv73wn",
+                    "type": 2,
+                    "utter": "仕事は何も言われんよ〜\n超自由🗽"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "そうなん？？部署移動とかした？\n前聞いてた職場ってお堅いとこじゃないっけ？"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lcnknh4p5k2l",
+            "label": [
+                0.0006448659114539623,
+                0.0002446585858706385,
+                0.0014613934326916933,
+                0.996906578540802,
+                0.00020163488807156682,
+                0.00020950658654328436,
+                0.00019665037689264864,
+                0.00013468221004586667
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "そうなん？？部署移動とかした？\n前聞いてた職場ってお堅いとこじゃないっけ？"
+                },
+                {
+                    "author": "did:plc:nzqjfrnt5mqtd5tkeksv73wn",
+                    "type": 2,
+                    "utter": "いやずっと同じやけど\n周りみてたら割と自由\n特に爪とかすごい人多い……"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "緩くなってるならありがてぇね？？\nそいや思い出したけどこの前おれも用事あって行ったけど私服の人もおったしだいぶ緩くなってんなぁって"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lcnkxg57ys2l",
+            "label": [
+                0.140880286693573,
+                0.000889236165676266,
+                0.8469423055648804,
+                0.00863172858953476,
+                0.0004604161367751658,
+                0.00040718898526392877,
+                0.0006597440224140882,
+                0.0011291136033833027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 1,
+                    "utter": "緩くなってるならありがてぇね？？\nそいや思い出したけどこの前おれも用事あって行ったけど私服の人もおったしだいぶ緩くなってんなぁって"
+                },
+                {
+                    "author": "did:plc:nzqjfrnt5mqtd5tkeksv73wn",
+                    "type": 2,
+                    "utter": "だってわたしも最近私服だもの\n気分によって作業服はおったりとかしてるかな\n上司スマホしてたりするし周りがそんな感じだったら自分だけ頑張るのアホみたいな気持ちして最近手抜きだしたわ(笑)"
+                },
+                {
+                    "author": "did:plc:ttqxxqtl4mjgotov4pyh4tbo",
+                    "type": 3,
+                    "utter": "そこだけ切り抜くとちゃんと仕事しろって思うけどねww\nただ肩の力抜いて仕事できんのはええことよね"
+                }
+            ],
+            "uri": "at://did:plc:ttqxxqtl4mjgotov4pyh4tbo/app.bsky.feed.post/3lcnlf4reas2l",
+            "label": [
+                0.999614953994751,
+                3.775553705054335e-05,
+                8.087133755907416e-05,
+                6.896068953210488e-05,
+                2.8262895284569822e-05,
+                5.187902206671424e-05,
+                6.22160077909939e-05,
+                5.5104617786128074e-05
+            ]
+        }
+    ]
+}

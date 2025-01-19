@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "くそうける\nでぶじゃん"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "おい！！デブにデブ言われくねぇよ！！！デブ！！！！"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "痩せてるわボケェ\n噛みついてやるからな"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3lbhlcivkfk2b",
+            "label": [
+                0.002642417559400201,
+                0.00646116491407156,
+                0.0050035761669278145,
+                0.004429290536791086,
+                0.9652297496795654,
+                0.009272154420614243,
+                0.005201449617743492,
+                0.0017601237632334232
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "痩せてるわボケェ\n噛みついてやるからな"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "今何キロ"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "68！！！"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3lbhm6ufess2b",
+            "label": [
+                0.8707901239395142,
+                0.011129187420010567,
+                0.008521512150764465,
+                0.09906715899705887,
+                0.002058614045381546,
+                0.0017635996919125319,
+                0.004708032589405775,
+                0.0019617616198956966
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "68！！！"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "嘘は駄目だよ！！イカクのXL着れます詐欺も駄目！認めろ！デブ！"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "イカクは流石に着れるわ！w\n96ちゃん今何キロ"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3lbhmoefsrs2b",
+            "label": [
+                0.038784511387348175,
+                0.0006804410950280726,
+                0.00391399348154664,
+                0.9548239707946777,
+                0.0002886074944399297,
+                0.00046389884664677083,
+                0.00040343840373679996,
+                0.0006410094210878015
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "イカクは流石に着れるわ！w\n96ちゃん今何キロ"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "108"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "くそでぶじゃんw"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3lbhodnpn5s2b",
+            "label": [
+                0.010319306515157223,
+                0.005946591030806303,
+                0.0005877551739104092,
+                0.9620047211647034,
+                0.0006593597354367375,
+                0.0035531464964151382,
+                0.016564665362238884,
+                0.0003644175885710865
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "あれくそかわいいよね"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "ビックマックのやつすぺちゃんに似合いそう"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "着たいけど流石にサイズが…"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3lczqwxbg2s2b",
+            "label": [
+                0.000497968983836472,
+                0.9986520409584045,
+                0.0001632909697946161,
+                0.00015021578292362392,
+                4.558021100820042e-05,
+                0.00025910077965818346,
+                0.0002033687778748572,
+                2.8510747142718174e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "着たいけど流石にサイズが…"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "にっこり☺"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "ぶっとばすぞ"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3lcztoabhbc2b",
+            "label": [
+                0.0014816056936979294,
+                0.00020740614854730666,
+                0.9969533681869507,
+                0.0003385741147212684,
+                0.0005164907197467983,
+                0.00022891981643624604,
+                0.00011863232066389173,
+                0.00015504802286159247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "ぶっとばすぞ"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "Chubby Samoyed可愛いね❤\nデーーーーーブ❤❤❤"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "年末コロッケしか食べさせないからな"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3ld4bq2n2oc2v",
+            "label": [
+                0.0024700553622096777,
+                0.9956953525543213,
+                0.00017365846724715084,
+                0.00034190897713415325,
+                0.00010513650340726599,
+                0.00033680596970953047,
+                0.0008299550390802324,
+                4.70897757622879e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 1,
+                    "utter": "年末コロッケしか食べさせないからな"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 2,
+                    "utter": "いじめ　だめだよ"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 3,
+                    "utter": "好きやろコロッケ喜べや"
+                }
+            ],
+            "uri": "at://did:plc:xud5aegv2jlzldhl26wxnnr4/app.bsky.feed.post/3ld4c5e4lws2v",
+            "label": [
+                0.9943444728851318,
+                0.00016658946697134525,
+                0.00456594955176115,
+                0.0001317095011472702,
+                0.00022689986508339643,
+                0.0001026092140818946,
+                0.0002549240889493376,
+                0.0002069628390017897
+            ]
+        }
+    ]
+}

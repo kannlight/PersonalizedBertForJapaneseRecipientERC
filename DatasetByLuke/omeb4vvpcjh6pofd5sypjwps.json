@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "なんでだよぉ😭🤛"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "覚えてないだけかもしれない😭🤛🏻"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "スタンドが発動したのかな…\nなんかパワー系の…💥🤛"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3lfrxda5t4s2x",
+            "label": [
+                0.0057052806951105595,
+                0.0007805508794263005,
+                0.012820813804864883,
+                0.9751132726669312,
+                0.00013845940702594817,
+                0.004920356906950474,
+                0.0002268570679007098,
+                0.00029439019272103906
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "しろい……"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "ちょっと今、雪かき嫌すぎてAKIRA読んでた"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "現実逃避のクセ"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3legpwa265c2m",
+            "label": [
+                0.007134612184017897,
+                0.9793856143951416,
+                0.0016332294326275587,
+                0.0002411661553196609,
+                0.00017504498828202486,
+                0.0064553506672382355,
+                0.0048200516030192375,
+                0.00015492575766984373
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "現実逃避のクセ"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "腰痛い…"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "お、おつかれーー！！！"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3leh3d7tmik2x",
+            "label": [
+                0.999334990978241,
+                5.910246181883849e-05,
+                0.00013904247316531837,
+                0.0002391876478213817,
+                4.8153084208024666e-05,
+                3.2209263736149296e-05,
+                7.807285874150693e-05,
+                6.912776007084176e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "まさにアウトしてたもんw\n外歩けない😭"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "横殴りの風だったしね、そりゃあAKIRA読むよ"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "AKIRA読む情緒なんなんwww\n（あっくん：AKIRAおもしろいよね〜😏）"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3leh55rzrds2x",
+            "label": [
+                0.9994235038757324,
+                9.194010635837913e-05,
+                7.332020322792232e-05,
+                0.00016723979206290096,
+                2.4553664843551815e-05,
+                9.388347098138183e-05,
+                7.33746201149188e-05,
+                5.222462641540915e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "今日もしっかり2枚貼ってるよ🥹"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "効かないのか！\nもう腰バンドしかないね！"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "腰バンドも巻いてたw\nロキソニンテープ×腰バンド×ブラックニッカ"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3ldqewm6kz22t",
+            "label": [
+                0.994243323802948,
+                0.00022748298943042755,
+                0.00358388340100646,
+                0.0010412264382466674,
+                9.204563684761524e-05,
+                0.00026962050469592214,
+                0.00021476473193615675,
+                0.0003276236529927701
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "腰バンドも巻いてたw\nロキソニンテープ×腰バンド×ブラックニッカ"
+                },
+                {
+                    "author": "did:plc:5swwvoqrna74tok4mjdgloca",
+                    "type": 2,
+                    "utter": "病院いこ"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "それな"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3ldqfdhubm22t",
+            "label": [
+                0.4296119809150696,
+                0.004943582229316235,
+                0.41650158166885376,
+                0.01421401184052229,
+                0.07820428907871246,
+                0.0044910782016813755,
+                0.01615661382675171,
+                0.0358768068253994
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "そうだろぉ〜⤴︎\nがんばっただろぉ〜⤴︎"
+                },
+                {
+                    "author": "did:plc:omq25oxpmbeo5vmgsvzr3grk",
+                    "type": 2,
+                    "utter": "私は約２９万文字でしたわー😘ほほほ"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "すげえ！！"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3ldpbt5phsk2s",
+            "label": [
+                0.000576640188228339,
+                0.0002720327756833285,
+                0.0005265085492283106,
+                0.9977594614028931,
+                0.00027133009280078113,
+                0.0002166124468203634,
+                0.0002487166493665427,
+                0.00012875076208729297
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 1,
+                    "utter": "すげえ！！"
+                },
+                {
+                    "author": "did:plc:omq25oxpmbeo5vmgsvzr3grk",
+                    "type": 2,
+                    "utter": "ロキソニン漬けになっても書いてただけはあるってことで🙌"
+                },
+                {
+                    "author": "did:plc:omeb4vvpcjh6pofd5sypjwps",
+                    "type": 3,
+                    "utter": "ど…ドーピング…？😳ｺﾞｸﾘ"
+                }
+            ],
+            "uri": "at://did:plc:omeb4vvpcjh6pofd5sypjwps/app.bsky.feed.post/3ldpcpfotlk2s",
+            "label": [
+                0.0005899622919969261,
+                0.00034462870098650455,
+                0.0006376389064826071,
+                0.9969953298568726,
+                0.0001624300639377907,
+                0.0008878980879671872,
+                0.00029011297738179564,
+                9.198442421620712e-05
+            ]
+        }
+    ]
+}

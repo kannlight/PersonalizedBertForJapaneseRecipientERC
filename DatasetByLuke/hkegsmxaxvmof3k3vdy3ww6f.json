@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "さっき生放送観てて2割くらい何言ってるかわからなかったw"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "むかつくから一切見てないけど、私でも何言ってるかわからなかったらどうしようwwww"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "「知らない言葉や表現も推測しておおむね正しく理解する能力が高い」ってスペイン語の先生にほめていただいたわたくしがわからなかったということは、ネイティブにも伝わらない可能性はあると思う…w"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3l7jrj2ugnn2f",
+            "label": [
+                0.001710407785139978,
+                0.8837549090385437,
+                0.0006778094102628529,
+                0.0015750180464237928,
+                0.0005988261546008289,
+                0.11024049669504166,
+                0.0012120583560317755,
+                0.00023044309637043625
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "その号の別バージョンがWEST.表紙だから予約してるんだけどさ、間違ってこちらが来るかもしれないよねwwww"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "両方買うんだwwww"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "やっぱり買うべき？\n実は両方欲しいと思ってはいるwwww"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3l3fh2nemzx2y",
+            "label": [
+                0.01863371953368187,
+                0.00034315857919864357,
+                0.9796804785728455,
+                0.00031942641362547874,
+                0.00013627884618472308,
+                0.0005218231817707419,
+                0.00015012607036624104,
+                0.00021509570069611073
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "買ってくればよかったよ。電車止まってるので、非常用にw"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "ひょええええーマジかー。気をつけてぇ"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "松本で降ろされたw\n松本城に呼ばれてるのか、信長の呪いかw"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3l2hmyqcfrz2i",
+            "label": [
+                0.07702472060918808,
+                0.0334017314016819,
+                0.017060991376638412,
+                0.7348524332046509,
+                0.0005609594518318772,
+                0.13276812434196472,
+                0.0026484308764338493,
+                0.0016826697392389178
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "見学にいかねばw"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "先週まで黄色いバラを差し出したおデート場所だったのにぃー\nしかし、鶴舞公園でどんだけロケしてんねん。あ、市政資料館も\n\nちな、ポケGOの聖地でもあるぞよ"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "黄色いバラて銀英伝のミッターマイヤーかと思ったぞよw\nとりあえずライブのチケ取れてたので8月ににゃごや行くー"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksfx2acfpj2t",
+            "label": [
+                0.007400225847959518,
+                0.0002651514660101384,
+                0.9914584755897522,
+                0.0004407606029417366,
+                0.00010921685316134244,
+                0.00011563134466996416,
+                9.412791405338794e-05,
+                0.00011649748194031417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "黄色いバラて銀英伝のミッターマイヤーかと思ったぞよw\nとりあえずライブのチケ取れてたので8月ににゃごや行くー"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "それな、銀英伝途中離脱してる私にはさっぱりわからんちんであったw\nおおおー、いついつ？\nまたDMででも日にちお知らせくだされー"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "ほーい"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksfxqkl6qp2j",
+            "label": [
+                0.9995200634002686,
+                6.583391223102808e-05,
+                0.00015696787158958614,
+                6.55733238090761e-05,
+                3.1698386010248214e-05,
+                4.8017624067142606e-05,
+                7.269339403137565e-05,
+                3.919510345440358e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "ほーい"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "ていうか、花岡の黄色いバラって、寅子に似合う色で選んだんじゃないの？\n今気づいたー。花岡ー、違いのわかるできる男ー！空気読めすぎて、敢えなくお別れなのがまたつらたん"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "黄色が好きなんだな、似合うな、と日々思っていたのでせう。しかももっと強い黄色の花だと黄色の服着てるのにどうよってなるけど、いい塩梅だったぬ。一握りの殿方力"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksi6fhc5n72w",
+            "label": [
+                0.9996079802513123,
+                6.272399332374334e-05,
+                8.915420767152682e-05,
+                8.120200072880834e-05,
+                1.9726498067029752e-05,
+                4.619312676368281e-05,
+                4.681512655224651e-05,
+                4.616507430910133e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "黄色が好きなんだな、似合うな、と日々思っていたのでせう。しかももっと強い黄色の花だと黄色の服着てるのにどうよってなるけど、いい塩梅だったぬ。一握りの殿方力"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "ますます惜しい花岡の喪失。だが、寅子はその能力持ってない方だったから、どの世界線に行っても気の毒な花岡くんになってしまう気がする。や、だから、好きになるんだろうけどさ、花岡はw"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "おなごだから気がきくわけじゃないし、おのこだから察する力がないわけでもないっていう組み合わせだぬ"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksi72pbpch2i",
+            "label": [
+                0.34259748458862305,
+                0.335676908493042,
+                0.01789732091128826,
+                0.0442582368850708,
+                0.0038331628311425447,
+                0.2043222188949585,
+                0.043760672211647034,
+                0.007653930690139532
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "田舎なもので現代でも結婚してない女は妖怪扱いだけれども、小学校の校長経験者の女性に「うらやましい。私の時代は結婚しないという選択肢がなかったから」って言われたことがある。"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "一応妖怪扱いはされないぞwww"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "そこは永遠の昭和・長野だからw"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksjupxdsej2o",
+            "label": [
+                0.9875946044921875,
+                0.0008611534140072763,
+                0.00904219038784504,
+                0.0004338652070146054,
+                0.00017113254580181092,
+                0.000636350829154253,
+                0.0005170439835637808,
+                0.0007435831939801574
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "そこは永遠の昭和・長野だからw"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "にゃごやも相当古いけどぬー。にゃがのには負けるのかw 寿命長いから時の流れも遅いのかwww"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "あとロシアでは結婚してないと相当変人扱いされるってロシア語の先生に心配されたことがあるw"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksjv3pjcno22",
+            "label": [
+                0.022924767807126045,
+                0.00467913830652833,
+                0.005723319482058287,
+                0.7705738544464111,
+                0.0006161022465676069,
+                0.193169504404068,
+                0.0009751621983014047,
+                0.0013380945893004537
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "あとロシアでは結婚してないと相当変人扱いされるってロシア語の先生に心配されたことがあるw"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "ロシアは江戸時代かなw"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "きっとソビエト連邦になる前に戻ってるのだよw\nそれはそうと、長野帰ってきてから同年代で結婚してない人とかまわりにほぼいないものー。お江戸にいた頃の友だちは普通に独身女性多いのに。"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksjw62xvg42e",
+            "label": [
+                0.004720309283584356,
+                0.01548437587916851,
+                0.0009022263111546636,
+                0.9691922664642334,
+                0.0003340699477121234,
+                0.007787588983774185,
+                0.001236011041328311,
+                0.0003431830264162272
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "きっとソビエト連邦になる前に戻ってるのだよw\nそれはそうと、長野帰ってきてから同年代で結婚してない人とかまわりにほぼいないものー。お江戸にいた頃の友だちは普通に独身女性多いのに。"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "そうなんだ。やっぱ妖怪か、、、\nあ、ツチノコとかどう？あと、諏訪湖に生息するネッシー的な何かとかw"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "諏訪湖だとスッシーなのかなあw"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksjwjwulyw2u",
+            "label": [
+                0.2952074408531189,
+                0.004547275137156248,
+                0.22910737991333008,
+                0.4624124765396118,
+                0.0008480726974084973,
+                0.003115850267931819,
+                0.0014120667474344373,
+                0.0033494923263788223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 1,
+                    "utter": "諏訪湖だとスッシーなのかなあw"
+                },
+                {
+                    "author": "did:plc:narhz7hfobxpz4bitehz5rzc",
+                    "type": 2,
+                    "utter": "諏訪湖寒そうだなー\nそういや、イエティってのもいたなw"
+                },
+                {
+                    "author": "did:plc:hkegsmxaxvmof3k3vdy3ww6f",
+                    "type": 3,
+                    "utter": "( ﾟдﾟ)ﾊｯ!"
+                }
+            ],
+            "uri": "at://did:plc:hkegsmxaxvmof3k3vdy3ww6f/app.bsky.feed.post/3ksjwpfkqrw2f",
+            "label": [
+                0.00048651863471604884,
+                0.0003343822027090937,
+                0.0005940004484727979,
+                0.9977018237113953,
+                0.00022416969295591116,
+                0.0003633559972513467,
+                0.0001857696770457551,
+                0.00010994906187988818
+            ]
+        }
+    ]
+}

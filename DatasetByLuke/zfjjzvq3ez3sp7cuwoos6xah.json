@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "絵のスキルはないけどレストランサービスとかシェイカー使ったカクテル作りくらいなら出来ます"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "めちゃくちゃかっこいい！！え⁉️\nめちゃくちゃ良い！！！"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "バーテンダーの資格持ってる訳じゃないんだけどね😄ただそういう職じゃないと使う機会もないので..."
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lbtzrseq4s2s",
+            "label": [
+                0.18037231266498566,
+                0.7724775671958923,
+                0.004546259064227343,
+                0.00257582007907331,
+                0.0003627841069828719,
+                0.032109227031469345,
+                0.006625323556363583,
+                0.000930671114474535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "バーテンダーの資格持ってる訳じゃないんだけどね😄ただそういう職じゃないと使う機会もないので..."
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "でもさ、できるのが！\nそーいうのはかっこよくない⁉️\nすごい〜！！憧れるぜ、、、✨🫠"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "確かにねぇwww集まりとかでちょっと披露できるのはあるww"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lbu2bebql22s",
+            "label": [
+                0.9931758046150208,
+                0.00017052456678356975,
+                0.006060123909264803,
+                0.00015361949044745415,
+                7.020949124125764e-05,
+                0.00013953400775790215,
+                0.00010486904648132622,
+                0.00012533992412500083
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "確かにねぇwww集まりとかでちょっと披露できるのはあるww"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "見たすぎ、、、、、、かっこいいぽこたさん見たい、、、、、"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "私がやってもマヌケにしか見えないかもよwww"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lbu66aeeu22s",
+            "label": [
+                0.0871235653758049,
+                0.06032516434788704,
+                0.0090674152597785,
+                0.07980558276176453,
+                0.001115148887038231,
+                0.7513414025306702,
+                0.009243953041732311,
+                0.001977738458663225
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "私がやってもマヌケにしか見えないかもよwww"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "そんなことない！\n可愛いはあるかもしれん！"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "( ↂ⃙⃙⃚⃛ ωↂ⃙⃙⃚⃛)\n実物にはあまり期待しないことだな..."
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lbugey6r5s2k",
+            "label": [
+                0.021184425801038742,
+                0.09860753268003464,
+                0.03871992975473404,
+                0.001221914542838931,
+                0.000710899184923619,
+                0.8348467946052551,
+                0.0034808823838829994,
+                0.0012277562636882067
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "( ↂ⃙⃙⃚⃛ ωↂ⃙⃙⃚⃛)\n実物にはあまり期待しないことだな..."
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "んふ....いや、\nビジュ良しなのはわかってんだ.....\n期待しちゃう..."
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "何それぇ？！\n当日はマスクとサングラス付けてこうかな...🧐🧐🧐"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lbwcy7cnik2b",
+            "label": [
+                0.000776297296397388,
+                0.0004194280772935599,
+                0.001595637877471745,
+                0.9957133531570435,
+                0.00013603271509055048,
+                0.0011171172372996807,
+                0.0001442738575860858,
+                9.792306082090363e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "monoちゃんサークルは単独参加なのか...?お手伝いさんとかいるの...?"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "単独！今回友達誰も連れてけないから、、、買い物できるかな、、、取り置きなるべく頼まなきゃっ😭ってなってる😇"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "なんと...私元々行く予定だったしチケットさえあればお手伝い可能だけど..."
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldiojjrijk2l",
+            "label": [
+                0.04113461449742317,
+                0.42366647720336914,
+                0.41727060079574585,
+                0.03834362328052521,
+                0.002124367980286479,
+                0.071006640791893,
+                0.004102509468793869,
+                0.002351042814552784
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "なんと...私元々行く予定だったしチケットさえあればお手伝い可能だけど..."
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "‼️\nえっ、良いの⁉️"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "monoちゃんの迷惑でなければ全然...😀流石に1人だと買い物大変そうで..."
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldioztjxn22l",
+            "label": [
+                0.025994621217250824,
+                0.0069600665010511875,
+                0.8220041394233704,
+                0.0009352102060802281,
+                0.00046572586870752275,
+                0.14071054756641388,
+                0.0016260462580248713,
+                0.0013035734882578254
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "monoちゃんの迷惑でなければ全然...😀流石に1人だと買い物大変そうで..."
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "迷惑なわけあるか〜い！！😭\nまじで？お言葉甘えても良⁉️"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "いよいよ🥺私でよければ...\n沢山お手伝いします...大好きなmonoちゃんの為...☺️"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldipn6ojlk2l",
+            "label": [
+                0.006135120522230864,
+                0.0007585452403873205,
+                0.992484986782074,
+                0.00013092756853438914,
+                8.50148790050298e-05,
+                0.00017437466885894537,
+                0.0001074286992661655,
+                0.00012361408153083175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "いよいよ🥺私でよければ...\n沢山お手伝いします...大好きなmonoちゃんの為...☺️"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "やったぁ〜！😭嬉しい〜！！\nでも、ほんっと暇やと思うんで、、、私は後半に買い物とご挨拶ちょっと回れたら！と思ってるからその時は特に頼りにしてる😭"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "暇...?あの反応数見たでちょ...😠了解しました！では私は前半でお買い物済ませます〜！🥰"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldiqu27cq22l",
+            "label": [
+                0.6903318762779236,
+                0.008064460940659046,
+                0.16441918909549713,
+                0.12063775211572647,
+                0.0018675861647352576,
+                0.004456339403986931,
+                0.006037165876477957,
+                0.004185607191175222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "暇...?あの反応数見たでちょ...😠了解しました！では私は前半でお買い物済ませます〜！🥰"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "いや、暇だよ〜きっと！\nみんなお目当てのとこあるでしょ☺️そこ先行ってからだから！\nうんうん！ぽこたさん行きたいとこ行ってからで大丈夫よ☺️"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "モ怪という界隈自体がそもそもゆったりだと思うので😌のんびり行こう...私はmonoちゃんのスペース真っ先に行く予定だったがな...🥺ありがとう〜そうします☺️"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lditoqxmj227",
+            "label": [
+                0.6289878487586975,
+                0.0020410013385117054,
+                0.3665958642959595,
+                0.0003713991609402001,
+                0.0002564354217611253,
+                0.0006776959635317326,
+                0.0005380638758651912,
+                0.0005317270406521857
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "んぉ〜らびゅ〜🥺💗\n全て何となくで済ませている🫨"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "なんとなく？？\nで、できちゃうぽこたさん😭\n上手い人の脳内わけわかめ😇"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "いやmonoちゃん絶対描けるんだよな...わかる私にはわかる"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldbpgvhfg227",
+            "label": [
+                0.010582997463643551,
+                0.0006506256177090108,
+                0.9876177906990051,
+                0.0002784010430332273,
+                0.00011744523362722248,
+                0.00032294102129526436,
+                0.0001674079685471952,
+                0.0002623999898787588
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "いやmonoちゃん絶対描けるんだよな...わかる私にはわかる"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "私は習っても描けなかった人間よ？？？描けないのよっ😭"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "描かないだけだってぇ...\n絶対描こうとしたら描ける...\nちみの画力の高さは知っている！"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldbqvaohrk27",
+            "label": [
+                0.6514149308204651,
+                0.023440498858690262,
+                0.25473204255104065,
+                0.018467314541339874,
+                0.006048066541552544,
+                0.0108883585780859,
+                0.00795663706958294,
+                0.02705218270421028
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "描かないだけだってぇ...\n絶対描こうとしたら描ける...\nちみの画力の高さは知っている！"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "私は独学でもやってのけちゃうぽこたさんの才能に羨望と嫉妬が渦巻いているっ....!それくらいには私的に羨ましいのだ！"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "そこまで私の画力を買っていただけてありがたいよ...でも私はどの角度を描いてもバランスに狂いのないmonoちゃんのような絵を書けるようになりたい"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3ldcw7hircs2c",
+            "label": [
+                0.9895402789115906,
+                0.0005248669185675681,
+                0.009302260354161263,
+                0.00010449533874634653,
+                6.339110404951498e-05,
+                0.0001727497874526307,
+                0.00012052244710503146,
+                0.00017146184109151363
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 1,
+                    "utter": "そこまで私の画力を買っていただけてありがたいよ...でも私はどの角度を描いてもバランスに狂いのないmonoちゃんのような絵を書けるようになりたい"
+                },
+                {
+                    "author": "did:plc:esx6fp47emhr5bfd6nzdnapy",
+                    "type": 2,
+                    "utter": "？どの角度ってほどレパートリーがない....いつも左向いてもらっちゃってますねェ😇私はぽこたさんみたいな綺麗で背景も描いてる良い絵が！描きたいっ😭😭😭😭\nないもの強請りして駄々こねちゃうねぇ😭"
+                },
+                {
+                    "author": "did:plc:zfjjzvq3ez3sp7cuwoos6xah",
+                    "type": 3,
+                    "utter": "正面すら書けないから私は_(:3」∠)_ないものねだりだよほんと...お互いの手交換する...???🤲"
+                }
+            ],
+            "uri": "at://did:plc:zfjjzvq3ez3sp7cuwoos6xah/app.bsky.feed.post/3lde5f56agk26",
+            "label": [
+                0.0003235654439777136,
+                0.997819185256958,
+                0.0007948371930979192,
+                0.0001253318041563034,
+                7.883310900069773e-05,
+                0.0003430682118050754,
+                0.0004844898357987404,
+                3.074517735512927e-05
+            ]
+        }
+    ]
+}

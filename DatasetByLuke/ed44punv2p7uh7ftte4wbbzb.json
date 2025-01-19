@@ -1,0 +1,664 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "通知のとこ下に引っ張ってクルクルさせてたら急にドンッと表示されたから叫びそうになった\nありがとう美味しい最高"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "叫んでる音声ほしい"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "うるさいよ？"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyzajq6z22e",
+            "label": [
+                0.0021438831463456154,
+                0.012552721425890923,
+                0.0017701135948300362,
+                0.004520119167864323,
+                0.044308606535196304,
+                0.003222001250833273,
+                0.930682897567749,
+                0.0007996992208063602
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "うるさいよ？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "波形をスライスして曲にする"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "曲にされんの死ぬ"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyzez5v4s2e",
+            "label": [
+                0.000371805188478902,
+                0.9961692690849304,
+                0.00018773319607134908,
+                0.00020456250058487058,
+                0.0003652406157925725,
+                0.0016844812780618668,
+                0.0009628146653994918,
+                5.4043139243731275e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "曲にされんの死ぬ"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "SoundCloudにアップして消さない"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "やだー"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyzizyixc2e",
+            "label": [
+                0.010050174780189991,
+                0.36225250363349915,
+                0.0043100640177726746,
+                0.0028806973714381456,
+                0.0011468856828287244,
+                0.04500675946474075,
+                0.5736241936683655,
+                0.0007287084008567035
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "やだー"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "はずかしいとこ写真撮られまくって脅されたい"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "いいね撮りたい\nよくアニメである写真撮ったものを壁にめっちゃ貼るみたいなのしてみたい"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyzoqydoc2e",
+            "label": [
+                0.00046026150812394917,
+                0.00018454669043421745,
+                0.9989977478981018,
+                0.0001108460855903104,
+                5.324604353518225e-05,
+                8.226501086028293e-05,
+                5.825512562296353e-05,
+                5.2833995141554624e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "飴玉ってえろい"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "チュパチュパ舐めてるもんね"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "ほんとよね"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbypidtxec23",
+            "label": [
+                0.9742392301559448,
+                0.0010192344198003411,
+                0.014820097014307976,
+                0.0015319078229367733,
+                0.00148739293217659,
+                0.0003091375110670924,
+                0.003253353526815772,
+                0.0033396852668374777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "ほんとよね"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "いつか可愛い男の子のおちんちん舐めて泣かせてあげよう"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "うほー"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyyzoqfyc2e",
+            "label": [
+                0.9974542260169983,
+                0.0005611591623164713,
+                0.0002111880312440917,
+                0.0011032973416149616,
+                9.267232235288247e-05,
+                6.814479274908081e-05,
+                0.0004289106873329729,
+                8.044703281484544e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "うほー"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "ここなさんならできる"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "よっしゃやったるで"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyzjjlaw22e",
+            "label": [
+                0.999536395072937,
+                5.224098640610464e-05,
+                0.00016869725368451327,
+                6.916141137480736e-05,
+                3.5404867958277464e-05,
+                3.9779781218385324e-05,
+                5.6069649872370064e-05,
+                4.238151086610742e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "よっしゃやったるで"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "野生のイケメンを捕まえてこようか"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "イケメン！ゲットだぜ！"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyznvf6wk2e",
+            "label": [
+                0.9994567036628723,
+                4.690693458542228e-05,
+                0.00023214980319608003,
+                9.473237878410146e-05,
+                4.017603350803256e-05,
+                3.704056507558562e-05,
+                4.7995719796745107e-05,
+                4.435467781149782e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "イケメン！ゲットだぜ！"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "イケメンのズボンと下着脱がせて\nしゃぶって気持ちよすぎて情けない顔になっちゃって\nそんないちゃこらをできるかれぴを頑張って作ってください(投げやり感)"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "作ります(遠目)"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbyzyjke4s2e",
+            "label": [
+                0.003488109912723303,
+                0.00038864905945956707,
+                0.9955828785896301,
+                0.00013262484571896493,
+                7.255365198943764e-05,
+                0.00015110943058971316,
+                0.00010404761997051537,
+                7.99655172158964e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "手だ、手だ"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "おちつけしこしこ"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "舐めたい"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbeuuwyrrc2b",
+            "label": [
+                0.0012793454807251692,
+                0.00044648602488450706,
+                0.9975866079330444,
+                9.275766205973923e-05,
+                0.0001048146077664569,
+                0.00014835415640845895,
+                0.0002722897916100919,
+                6.932733958819881e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "舐めたい"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "なめても美味しくないよ"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "美味いよ"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbeyqky7kc2k",
+            "label": [
+                0.9995808005332947,
+                3.8194324588403106e-05,
+                0.00010468005348229781,
+                6.459529686253518e-05,
+                4.190000254311599e-05,
+                5.142937516211532e-05,
+                6.364807632053271e-05,
+                5.4703490604879335e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "美味いよ"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "塩味しかしないよ"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "いいやん"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbf3fpq27s2r",
+            "label": [
+                0.9995656609535217,
+                5.067320307716727e-05,
+                0.00012738171790260822,
+                6.774825305910781e-05,
+                3.314076820970513e-05,
+                4.546676063910127e-05,
+                6.25180546194315e-05,
+                4.742087548947893e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "いいやん"
+                },
+                {
+                    "author": "did:plc:i6qe2o7bu52jykitm54vbscz",
+                    "type": 2,
+                    "utter": "もう舐めに来いよ💢💢"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "許可を得てしまった"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lbfun4ymjk2o",
+            "label": [
+                0.9966649413108826,
+                0.0004900675849057734,
+                0.0010916615137830377,
+                0.0010416930308565497,
+                4.2497849790379405e-05,
+                0.0004575673083309084,
+                7.564877159893513e-05,
+                0.0001359071466140449
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "Twitterで馬の交尾の動画出てきた\n\nうん"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "馬に..."
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "馬と交尾したいん？"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lc3jhpceac2o",
+            "label": [
+                0.001705775735899806,
+                0.0004381157923489809,
+                0.9926965236663818,
+                0.004206208512187004,
+                0.0002232125261798501,
+                0.00034242961555719376,
+                0.00021261238725855947,
+                0.00017510463658254594
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "馬と交尾したいん？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "獣姦されてるとこ見られて笑われたい"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "ww\nちんこくそでかかったよ馬"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lc3msnwmm224",
+            "label": [
+                0.9994280934333801,
+                4.928530324832536e-05,
+                8.369141141884029e-05,
+                0.000251968129305169,
+                3.4815981052815914e-05,
+                4.124897895962931e-05,
+                6.047811621101573e-05,
+                5.047249942435883e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "ww\nちんこくそでかかったよ馬"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "興奮する"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "めっちゃ長かった"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lc3mvukres2g",
+            "label": [
+                0.0009528936934657395,
+                0.0005736750899814069,
+                0.0003443268942646682,
+                0.9970687031745911,
+                0.00014615635154768825,
+                0.00037224384141154587,
+                0.00044160845573060215,
+                0.0001004388541332446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "めっちゃ長かった"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "腸にたっしたらしぬ"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "達する多分"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lc3n2xtfu22u",
+            "label": [
+                0.013775404542684555,
+                0.0005677156732417643,
+                0.9845297336578369,
+                0.00019910420814994723,
+                0.00013094296446070075,
+                0.00028858392033725977,
+                0.0002255799772683531,
+                0.0002828559372574091
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "達する多分"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "恥にまみれて死にたい"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "かわいい"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lc3oz2xvv227",
+            "label": [
+                0.9996134638786316,
+                4.241494389134459e-05,
+                0.00011507454473758116,
+                6.314735219348222e-05,
+                2.8770802600774914e-05,
+                4.6139182813931257e-05,
+                4.956757402396761e-05,
+                4.143587648286484e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "え"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "しないとはいってない"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "よかった"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lcbnyidy6c2x",
+            "label": [
+                0.9996086955070496,
+                4.53434040537104e-05,
+                0.0001129898737417534,
+                5.6367414799751714e-05,
+                3.0520259315380827e-05,
+                4.9762857088353485e-05,
+                5.296016752254218e-05,
+                4.34159446740523e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "よかった"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "ちょっと太っちゃったから筋トレしていい男になってからにする"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "なるほどね"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lcbq2pq2ec2a",
+            "label": [
+                0.1381986290216446,
+                0.001106626819819212,
+                0.008754662238061428,
+                0.8480406999588013,
+                0.0006625141249969602,
+                0.0006460289005190134,
+                0.0012093414552509785,
+                0.0013815498678013682
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "なるほどね"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "めざせ細マッチョ"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "細マッチョ好き"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lcbq6mcwgs2i",
+            "label": [
+                0.9995918869972229,
+                3.7062185583636165e-05,
+                9.930867963703349e-05,
+                5.9185116697335616e-05,
+                4.171522596152499e-05,
+                4.0558490582043305e-05,
+                6.80404991726391e-05,
+                6.22889056103304e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 1,
+                    "utter": "細マッチョ好き"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "筋トレはじめて一年目は細マッチョだったんよ"
+                },
+                {
+                    "author": "did:plc:ed44punv2p7uh7ftte4wbbzb",
+                    "type": 3,
+                    "utter": "ほえー"
+                }
+            ],
+            "uri": "at://did:plc:ed44punv2p7uh7ftte4wbbzb/app.bsky.feed.post/3lcbqy7lh5k2z",
+            "label": [
+                0.08222390711307526,
+                0.0075393663719296455,
+                0.005263167433440685,
+                0.8999969363212585,
+                0.0005408680881373584,
+                0.001187923364341259,
+                0.0022502681240439415,
+                0.0009974559070542455
+            ]
+        }
+    ]
+}

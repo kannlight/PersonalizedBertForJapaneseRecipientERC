@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Günaydın. Şahane Pazar tadında bir hava var"
+                },
+                {
+                    "author": "did:plc:gmkbj47qb2rspsldnzbw6cha",
+                    "type": 2,
+                    "utter": "Cumartesiler de şahane olabilir"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Yine de bir pazar değildir ama"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lbmg6wtnsc2h",
+            "label": [
+                0.9619054198265076,
+                0.007487287279218435,
+                0.02149047702550888,
+                0.0029708007350564003,
+                0.0008479905081912875,
+                0.0016019727336242795,
+                0.001654394785873592,
+                0.0020416758488863707
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Yine de bir pazar değildir ama"
+                },
+                {
+                    "author": "did:plc:gmkbj47qb2rspsldnzbw6cha",
+                    "type": 2,
+                    "utter": "Cumartesi öyle bir gündür ki, cuma günü akşamından mutlu eder insanı, kendini benim tatilime bırak dercesine.\nCumartesi gelir yarın yine tatil düşünmeden eğlen der sana\nPazar günü öyle mi berber açık olmaz, eczane açık olmaz, tam mutlu olursun yarın mesai olduğunu hatırlatır sana\n#CumartesiGüzeldir"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Mesela cumartesiden sonra pazar gelse bu sefer cumartesiyi sevemezsin. Pazar neden var, cumartesiyi sev diye. O yüzden pazarın kıymetini bilesin ki buradan cumartesinin kıymetini anlayabilesin. Pazar olmadan cumartesinin bi ehemmiyeti yoktur. Bu yüzden #CumartesiGüzeldir"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lbmjwckrck2h",
+            "label": [
+                0.8440325260162354,
+                0.02622055821120739,
+                0.08603246510028839,
+                0.011221207678318024,
+                0.004731787834316492,
+                0.007145917974412441,
+                0.010733755305409431,
+                0.009881728328764439
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Mesela cumartesiden sonra pazar gelse bu sefer cumartesiyi sevemezsin. Pazar neden var, cumartesiyi sev diye. O yüzden pazarın kıymetini bilesin ki buradan cumartesinin kıymetini anlayabilesin. Pazar olmadan cumartesinin bi ehemmiyeti yoktur. Bu yüzden #CumartesiGüzeldir"
+                },
+                {
+                    "author": "did:plc:gmkbj47qb2rspsldnzbw6cha",
+                    "type": 2,
+                    "utter": "Bu açıdan mantıklı evet. O zaman diyebiliriz ki cumartesi çay ise pazar da bardaktır. Biz çayın sıcağına ve lezzetine tav oluruz ama onu ikram eden bardaktır. \n#CumartesiÇaydır\n#PazarBardaktır"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Cumartesiye çay yakışmaz. Çay pazardır cumartesi de ancak toz şeker zerresi olabilir.\n#Cumartesiyeçayyakışmaz\n#Çaypazardır\n#Cumartesideancaktozşekerzerresiolabilir"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lbmqkmefts2c",
+            "label": [
+                0.4973975121974945,
+                0.014023708179593086,
+                0.4657987356185913,
+                0.004612426273524761,
+                0.002966401632875204,
+                0.0026341048069298267,
+                0.006345350760966539,
+                0.00622180150821805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Cumartesiye çay yakışmaz. Çay pazardır cumartesi de ancak toz şeker zerresi olabilir.\n#Cumartesiyeçayyakışmaz\n#Çaypazardır\n#Cumartesideancaktozşekerzerresiolabilir"
+                },
+                {
+                    "author": "did:plc:gmkbj47qb2rspsldnzbw6cha",
+                    "type": 2,
+                    "utter": "Her şeker zerreden oluşur. Her cumartesi bir zerre alarak hayatımız tatlanır ve hayatı bize Cumartesi yapar. \nCumartesi de şeker kadar tatlıdır zaten. Daha fazlası olsa bizi şeker komasına sokardı zannımca. Çünkü yeterince tatlıdır Cumartesi.\n#CumartesiŞekeri\n#HayatımızınZerresi"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Sadece bir zerreden bir şey hissedilmez ama. Minimum bir çay kaşığı kadar ancak bir şeyler hissettirir bünyede. Aksi, sadece ağza zerre atmaktır. Lakin çay, şekersiz bile EFSOLAŞMIŞTIR. Yani pazar cumartesisiz bile güzeldir ve de özeldir."
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lbmts6h7t22e",
+            "label": [
+                0.7419846653938293,
+                0.052792027592659,
+                0.12523771822452545,
+                0.025351617485284805,
+                0.008829901926219463,
+                0.014229057356715202,
+                0.016078082844614983,
+                0.01549690030515194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Sadece bir zerreden bir şey hissedilmez ama. Minimum bir çay kaşığı kadar ancak bir şeyler hissettirir bünyede. Aksi, sadece ağza zerre atmaktır. Lakin çay, şekersiz bile EFSOLAŞMIŞTIR. Yani pazar cumartesisiz bile güzeldir ve de özeldir."
+                },
+                {
+                    "author": "did:plc:gmkbj47qb2rspsldnzbw6cha",
+                    "type": 2,
+                    "utter": "Pazar günü geceden sonra pazartesi sendromunu hediye ederken, cumartesi geceden sonra pazarı hediye eder. Yani cumartesi daha cömerttir. \n#CumartesiCömerttir"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Cumartesi bir sonraki cumartesiye daha uzakken pazar bir sonraki cumartesiye daha yakındır. Bu yüzden pazar, insanları insanların sevdiği cumartesiye daha çabuk ulaştırır ama insanlar bunu görmez ve sadece kendilerine keyif veren cumartesiyi severler. #PazarSevgidir #CumartesiSahtedir"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lbmxl5zd7s2p",
+            "label": [
+                0.652208149433136,
+                0.061625562608242035,
+                0.19034628570079803,
+                0.026056598871946335,
+                0.013037481345236301,
+                0.014308036305010319,
+                0.02239091694355011,
+                0.020026929676532745
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Y A V R U M"
+                },
+                {
+                    "author": "did:plc:yjlotel2ecscnm2sbodjf6gm",
+                    "type": 2,
+                    "utter": "Yavmur"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Uzun bir yolculuk olacağa benziyor :D\n\nMurvay"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lf3gsnuits2b",
+            "label": [
+                0.960547149181366,
+                0.008886434137821198,
+                0.016359366476535797,
+                0.0038457235787063837,
+                0.0009270042064599693,
+                0.0029406477697193623,
+                0.0033970647491514683,
+                0.0030965362675487995
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Uzun bir yolculuk olacağa benziyor :D\n\nMurvay"
+                },
+                {
+                    "author": "did:plc:yjlotel2ecscnm2sbodjf6gm",
+                    "type": 2,
+                    "utter": "Yaygın içinden geçeriz :D\nYamvur"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Umvray"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lf4vstc6q22e",
+            "label": [
+                0.9943678975105286,
+                0.0007545831031166017,
+                0.0035379414912313223,
+                0.00044509785948321223,
+                0.00012918736319988966,
+                0.00014741873019374907,
+                0.00034330986090935767,
+                0.0002745443198364228
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Umvray"
+                },
+                {
+                    "author": "did:plc:yjlotel2ecscnm2sbodjf6gm",
+                    "type": 2,
+                    "utter": "Günaydın dostum, \nYamvru"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Günaydın\nVuryam"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lf53ktv3ps27",
+            "label": [
+                0.6673649549484253,
+                0.10000130534172058,
+                0.10550428926944733,
+                0.04602724686264992,
+                0.006997840479016304,
+                0.03869440779089928,
+                0.01973463036119938,
+                0.015675406903028488
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Günaydın\nVuryam"
+                },
+                {
+                    "author": "did:plc:yjlotel2ecscnm2sbodjf6gm",
+                    "type": 2,
+                    "utter": "Yavrmu"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Rumvay"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lf53rqjgf227",
+            "label": [
+                0.9721651673316956,
+                0.006364460568875074,
+                0.012233086861670017,
+                0.002781475894153118,
+                0.000529067066963762,
+                0.0016841754550114274,
+                0.0025589566212147474,
+                0.0016837513539940119
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Rumvay"
+                },
+                {
+                    "author": "did:plc:yjlotel2ecscnm2sbodjf6gm",
+                    "type": 2,
+                    "utter": "Rumyav"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Aumryv"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lf5bult6js27",
+            "label": [
+                0.9763153791427612,
+                0.005222516134381294,
+                0.0048669991083443165,
+                0.004727340303361416,
+                0.0005888479063287377,
+                0.0023536940570920706,
+                0.004369764123111963,
+                0.0015556130092591047
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "Sitede oturmama dışında havai fişeklere karşı küfürlerimiz ortak xd"
+                },
+                {
+                    "author": "did:plc:w5viaieabxbyiams2sgchvpn",
+                    "type": 2,
+                    "utter": "havai fişek atanları pataklama zinciri başlatırsan beni yaz 😌"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "HFPKHFPD (Havai Fişek Patlatanların Kafalarında Havai Fişek Patlatma Derneği) kuracağım. İlk üye sensin xd"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3lepf2conc22u",
+            "label": [
+                0.7801734805107117,
+                0.025944065302610397,
+                0.16043376922607422,
+                0.008551418781280518,
+                0.0031201180536299944,
+                0.006401242222636938,
+                0.009036840870976448,
+                0.006339048966765404
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "HFPKHFPD (Havai Fişek Patlatanların Kafalarında Havai Fişek Patlatma Derneği) kuracağım. İlk üye sensin xd"
+                },
+                {
+                    "author": "did:plc:w5viaieabxbyiams2sgchvpn",
+                    "type": 2,
+                    "utter": "Ay bu ikinci eylem planımız oldu derhal SS alayım😌"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "İlki neydi? (Vurma lütfen hatırlamadığım için dkdnmdn)"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3leqcbggywk25",
+            "label": [
+                0.6156429648399353,
+                0.023306110873818398,
+                0.3171651363372803,
+                0.016141202300786972,
+                0.0044309040531516075,
+                0.00584091292694211,
+                0.009699033573269844,
+                0.007773765828460455
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "İlki neydi? (Vurma lütfen hatırlamadığım için dkdnmdn)"
+                },
+                {
+                    "author": "did:plc:w5viaieabxbyiams2sgchvpn",
+                    "type": 2,
+                    "utter": "bi şey BUMBUMlama vardı ya hani aşkolsun yaaaaa\ncemre miydi🤔"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "BUMBUM deyince bişeler canlanmadı değil ama neyi BUMBUMLAYACAĞIMIZI hatırlamıyorum :("
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3leqdxstox22z",
+            "label": [
+                0.91143798828125,
+                0.013328103348612785,
+                0.05674867704510689,
+                0.004484855569899082,
+                0.0017046928405761719,
+                0.0038902387022972107,
+                0.00469511142000556,
+                0.003710414282977581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 1,
+                    "utter": "BUMBUM deyince bişeler canlanmadı değil ama neyi BUMBUMLAYACAĞIMIZI hatırlamıyorum :("
+                },
+                {
+                    "author": "did:plc:w5viaieabxbyiams2sgchvpn",
+                    "type": 2,
+                    "utter": "İlk cemre düşünce kafa atmak gibi bi plan vardı hatta listesini yapmıştın ama onu da bulamadım ddfghjjk ne biçim örgütlenmişiz afedersin ya baya büyük tehlikeyiz dünya için sdfghh"
+                },
+                {
+                    "author": "did:plc:uhfqwwxgi4nofgcsei2tk77f",
+                    "type": 3,
+                    "utter": "Dünya'nın bizden hiç korkmadığına eminim :D daha neye saldıracağımız hatırlamıyoruz :D\n\nBu arada BUMBUM yazdım aramaya belki karşıma çıkar diye ama karşıma başka şeyler çıktı :D"
+                }
+            ],
+            "uri": "at://did:plc:uhfqwwxgi4nofgcsei2tk77f/app.bsky.feed.post/3leqellj4hk2z",
+            "label": [
+                0.8969824910163879,
+                0.015843495726585388,
+                0.04721516743302345,
+                0.012497751973569393,
+                0.0033476368989795446,
+                0.005993482191115618,
+                0.009852326475083828,
+                0.008267705328762531
+            ]
+        }
+    ]
+}

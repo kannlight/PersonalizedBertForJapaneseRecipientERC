@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "や、ほんとね、まーちゃんから入ったハチオウジの限界オタクですけど、曲むちゃくちゃカッコいいですよね？\nまさに音楽好きなので、聴けば聴くほど(勝手に色々流れて来るので)\nうえええ？カッコいいな⁉︎てなってます。後ニコニコなシンちゃんが可愛い(まーちゃんにすぐ結び付けちゃうけどほんと可愛い)"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "本当に曲が良い！私は激しめの曲が好きですが甘めの曲も聞けば聞くほど味が出てくる🫶\nしんちゃんこの前のライブで「一生の思い出」って言いそうになって「最高の思い出」って言い直す(わざと)をやってくれてニヤッとさせられました💚"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "やだ可愛い💚一生の思い出って言ってくれたらハチオウジの限界オタクの感情爆発しちゃいそうです。。。"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3lbkhe6j42c2b",
+            "label": [
+                0.9992283582687378,
+                0.00010133891919394955,
+                0.00041944687836803496,
+                4.7821707994444296e-05,
+                2.7009784389520064e-05,
+                7.268070476129651e-05,
+                4.747082857647911e-05,
+                5.578163472819142e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "やだ可愛い💚一生の思い出って言ってくれたらハチオウジの限界オタクの感情爆発しちゃいそうです。。。"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "是非ご本人にハチオウジ好きですって言ってあげて欲しい🥹きっと喜んでくれるので💚"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "え、ほんとに？私言いながら泣きそう(めんどくさいオタク)"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3lbkhrhxha22b",
+            "label": [
+                0.010446729138493538,
+                0.1562400907278061,
+                0.00046768473112024367,
+                0.8194150924682617,
+                0.0008260839967988431,
+                0.009308276697993279,
+                0.0029549228493124247,
+                0.00034111583954654634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "え、ほんとに？私言いながら泣きそう(めんどくさいオタク)"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "大丈夫🙆‍♀️shinちゃんマジ優しいし、オタクはどこの界隈でも全員めんどくさい(笑)"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "うええぇー優しい、可愛い、好き。\n行きます。白夜さん30行くんですよね？私もそこ行こうかな。(急！)"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3lbkhzynsfc2b",
+            "label": [
+                0.9601773619651794,
+                0.0004233871295582503,
+                0.03838416188955307,
+                0.00021882719011045992,
+                0.00016275275265797973,
+                0.00018709342111833394,
+                0.00020653160754591227,
+                0.00023992428032215685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "うええぇー優しい、可愛い、好き。\n行きます。白夜さん30行くんですよね？私もそこ行こうかな。(急！)"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "是非！一緒に行きましょ🙌"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "わーーー！そこからの酒クズ！\n楽しみすぎる‼︎色々教えて下さい先輩！"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3lbki5x7n4k2b",
+            "label": [
+                0.08509368449449539,
+                0.0007177903316915035,
+                0.912619948387146,
+                0.00041914384928531945,
+                0.00024122948525473475,
+                0.00042434874922037125,
+                0.00023385914391838014,
+                0.0002499983529560268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "ヒプに限らずかも知れんけど、そう思って見てるからだけかも知らんけど、ヒプで共演した人たちの絆ってむちゃくちゃ強くない？昨日のあまつみ姉妹しかり、うちのナゴヤしかり、ハチオウジしかり…尊くて苦しい。"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "ハマも…可愛いです(天を仰ぐ絵文字)"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "大丈夫ですよ、分かってますよーーー！推しを羅列しただけで…！\n愛しいですよね、何なんでしょうね？"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3le4audrjf22l",
+            "label": [
+                0.9995352029800415,
+                7.361440657405183e-05,
+                8.95376069820486e-05,
+                4.4733660615747795e-05,
+                2.6809560949914157e-05,
+                8.866062853485346e-05,
+                5.905637226533145e-05,
+                8.237145812017843e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "大丈夫ですよ、分かってますよーーー！推しを羅列しただけで…！\n愛しいですよね、何なんでしょうね？"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "すみませんノロケたくて便乗しました(笑)\nYUKIくんのインライたくみくん大体聞いてるしたっくんの話題出なかった事がない……"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "それは悶えます…！\n今度またノロケ大会しましょう🫶"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3le4bgl763s2l",
+            "label": [
+                0.07729214429855347,
+                0.0009563462226651609,
+                0.9194071292877197,
+                0.0008676975849084556,
+                0.00019280725973658264,
+                0.0005805220571346581,
+                0.00044917783816345036,
+                0.0002542391885071993
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "それは悶えます…！\n今度またノロケ大会しましょう🫶"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "わー是非🙌"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "え、もういいですか、mskくんとJunくんの好きなところむちゃくちゃ喋っていいですか…"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3le4bldbze22l",
+            "label": [
+                0.9610083103179932,
+                0.003370902733877301,
+                0.0264188963919878,
+                0.004482820630073547,
+                0.00038730958476662636,
+                0.0023768835235387087,
+                0.0008847260032780468,
+                0.0010701112914830446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "え、もういいですか、mskくんとJunくんの好きなところむちゃくちゃ喋っていいですか…"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "聞きたいです！私もたくゆきとハマを語りたい🤣"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "もう最高すぎる😂また予定決めましょ！マドキのなんかありましたっけ直近…！"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3le4bqh3dz22l",
+            "label": [
+                0.9988462924957275,
+                8.91337840585038e-05,
+                0.000791442405898124,
+                5.815155236632563e-05,
+                3.3891239581862465e-05,
+                5.67870847589802e-05,
+                6.20226637693122e-05,
+                6.220879731699824e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 1,
+                    "utter": "もう最高すぎる😂また予定決めましょ！マドキのなんかありましたっけ直近…！"
+                },
+                {
+                    "author": "did:plc:54mzsayaa4qqtakbkk64jtlq",
+                    "type": 2,
+                    "utter": "30日に横浜でライブなんですけどチケットもうないかも🥲そらさんと新年会したいので年始になんかないか調べておきますね！"
+                },
+                {
+                    "author": "did:plc:cxhvypypsyvbdtdvq2l5e2ax",
+                    "type": 3,
+                    "utter": "ありがとうございます！年末年始は福岡から直で北海道なので、ちょうど難しい日だったんですよー紅白ですよね？お気遣いありがとうございます！\nちなみに1/25は池袋で無料でAGEが観れますよー"
+                }
+            ],
+            "uri": "at://did:plc:cxhvypypsyvbdtdvq2l5e2ax/app.bsky.feed.post/3le4c26vjrc2l",
+            "label": [
+                0.9995785355567932,
+                5.039712050347589e-05,
+                0.00014927861047908664,
+                7.005333463894203e-05,
+                2.703249811020214e-05,
+                3.382741124369204e-05,
+                4.014745354652405e-05,
+                5.065733057563193e-05
+            ]
+        }
+    ]
+}

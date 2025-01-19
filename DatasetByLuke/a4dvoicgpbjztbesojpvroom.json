@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "ありがとうございます🥹\n遅くなりましたがフォロバしました！\n呼びタメ大歓迎なのでお気軽に...🌼\nよろしくお願いします〜！"
+                },
+                {
+                    "author": "did:plc:7yifqoyup6js2muvukipf4ei",
+                    "type": 2,
+                    "utter": "ありがとー！\nわたしにもタメ口で大丈夫です🧡\nよろしくお願いします🙇‍♀️"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "それではお言葉に甘えて...！\nお互いタメで話そう！！\nこちらこそよろしくね〜🙌🏻\nたくさんスノ話出来たら嬉しい🥹"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lcame6trn223",
+            "label": [
+                0.017962655052542686,
+                0.00046195535105653107,
+                0.9806445240974426,
+                0.00021270745492074639,
+                0.00017105058941524476,
+                0.00019962055375799537,
+                0.00017113657668232918,
+                0.00017626569024287164
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "それではお言葉に甘えて...！\nお互いタメで話そう！！\nこちらこそよろしくね〜🙌🏻\nたくさんスノ話出来たら嬉しい🥹"
+                },
+                {
+                    "author": "did:plc:7yifqoyup6js2muvukipf4ei",
+                    "type": 2,
+                    "utter": "いっぱいお話しよー☺️\n94年生まれなの？\n実はわたしも…！"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "今更すぎる返信でごめんね😭ま！？同い年！？！嬉しい！！🥹え、だんご三兄弟世代🍡(?)"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lcsewrknv22j",
+            "label": [
+                0.9993763566017151,
+                5.76448546780739e-05,
+                0.00011092532804468647,
+                0.0002823827671818435,
+                3.1074385333340615e-05,
+                4.582775363815017e-05,
+                4.8772642912808806e-05,
+                4.7077934141270816e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "今更すぎる返信でごめんね😭ま！？同い年！？！嬉しい！！🥹え、だんご三兄弟世代🍡(?)"
+                },
+                {
+                    "author": "did:plc:7yifqoyup6js2muvukipf4ei",
+                    "type": 2,
+                    "utter": "全然返せる時で大丈夫だよー🥹🩵\n返信してくれてありがとうね！\nだんご3兄弟は懐かしすぎるんだけど！！🤣何十年も忘れてたワードだ🤣歌めっちゃ流行ったよね！"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "優しい😭こちらこそだよ〜〜返信ありがとうね🥹私も久しぶりに言った笑笑 だんごかハム太郎かみたいなとこあるよね🤣"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lcup5xytk22a",
+            "label": [
+                0.9996077418327332,
+                4.328071736381389e-05,
+                0.00010559582005953416,
+                7.534158794442192e-05,
+                2.5465198632446118e-05,
+                3.849540007649921e-05,
+                5.316982787917368e-05,
+                5.09065757796634e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "優しい😭こちらこそだよ〜〜返信ありがとうね🥹私も久しぶりに言った笑笑 だんごかハム太郎かみたいなとこあるよね🤣"
+                },
+                {
+                    "author": "did:plc:7yifqoyup6js2muvukipf4ei",
+                    "type": 2,
+                    "utter": "やばい！！\nハム太郎めっちゃ好きだった！！\nキャラソンとか聴いてた🤣\nr.ちゃんは何ハム推しだったの？🤣笑"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "やっぱり1度は通る道よね？(???)\nキャラソンあったかも🤣待って調べたい🤣私はかぶるくん推しだった💚‪naちゃん(って呼んでいい？)の推しハムは？🐹笑笑"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lcuywely5c24",
+            "label": [
+                0.0010135136544704437,
+                0.00025439023738726974,
+                0.998370349407196,
+                0.00011076505325036123,
+                5.1417235226836056e-05,
+                8.693982817931101e-05,
+                5.652687468682416e-05,
+                5.607307321042754e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "返信遅くなりすいません！\nフォローありがとうございました🌼\nもちろんです！こちらこそ仲良く\nしてください〜🙌🏻\n\n早速ですが何てお呼びしましょう？"
+                },
+                {
+                    "author": "did:plc:uoyj5q3myv2jqfbfakieiilr",
+                    "type": 2,
+                    "utter": "呼びタメ大歓迎です🙆‍♀️よろしくお願いします🥺\n\n私はみのちゃんって呼ばれることが多いです！好きなように呼んでもらって大丈夫です👌\nなんて呼んだらいいですか？？"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "それではお言葉に甘えて...お互い\nタメで話そう〜！\n\n了解！みのちゃんって呼ぶね🫶🏻\n私はりなっていうのでなんでも\nOK🙌🏻💜"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lbj3pusuf222",
+            "label": [
+                0.6527593731880188,
+                0.0008454707567580044,
+                0.34355780482292175,
+                0.0006091248360462487,
+                0.00046582584036514163,
+                0.0004959797370247543,
+                0.0006115630967542529,
+                0.0006549126701429486
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "それではお言葉に甘えて...お互い\nタメで話そう〜！\n\n了解！みのちゃんって呼ぶね🫶🏻\n私はりなっていうのでなんでも\nOK🙌🏻💜"
+                },
+                {
+                    "author": "did:plc:uoyj5q3myv2jqfbfakieiilr",
+                    "type": 2,
+                    "utter": "おっけー🙆‍♀️\nりなちゃんって呼ぶね〜😊✨"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "はーい🙌🏻改めてよろしくね！\nたくさん推し話聞かせてね〜☺️🌼"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lbjy2qgjds2z",
+            "label": [
+                0.08689077198505402,
+                0.0008453722111880779,
+                0.9106199145317078,
+                0.00036489966441877186,
+                0.00029333026031963527,
+                0.00032585757435299456,
+                0.0003611278661992401,
+                0.0002987020998261869
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "はーい🙌🏻改めてよろしくね！\nたくさん推し話聞かせてね〜☺️🌼"
+                },
+                {
+                    "author": "did:plc:uoyj5q3myv2jqfbfakieiilr",
+                    "type": 2,
+                    "utter": "こちらこそよろしくね〜🙌✨\n推し話いっぱいしよう😉❣️"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "やった〜！☺️\n楽しみにしてるね！\nあとはじめましてから思ってたんだ\nけどアイコンのぬいちゃん達可愛いね🌼"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lbmjvjepec25",
+            "label": [
+                0.9980966448783875,
+                9.054569818545133e-05,
+                0.0014862443786114454,
+                8.378789061680436e-05,
+                5.2919505833415315e-05,
+                5.752268771175295e-05,
+                6.187778490129858e-05,
+                7.052177534205839e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 1,
+                    "utter": "やった〜！☺️\n楽しみにしてるね！\nあとはじめましてから思ってたんだ\nけどアイコンのぬいちゃん達可愛いね🌼"
+                },
+                {
+                    "author": "did:plc:uoyj5q3myv2jqfbfakieiilr",
+                    "type": 2,
+                    "utter": "ありがとう🥹嬉しい〜🙌\nアイコン何がいいかわかんなくて推しのぬいちゃん並べて撮っただけなんだけどねw"
+                },
+                {
+                    "author": "did:plc:a4dvoicgpbjztbesojpvroom",
+                    "type": 3,
+                    "utter": "ぬいちゃんが並んでるの癒しよ🌼可愛い🥹推し活写真撮るのド下手すぎてアイコン選びいつも困るんだよね〜😭"
+                }
+            ],
+            "uri": "at://did:plc:a4dvoicgpbjztbesojpvroom/app.bsky.feed.post/3lboslt5lak2l",
+            "label": [
+                0.9996732473373413,
+                5.280245022731833e-05,
+                8.546694152755663e-05,
+                4.7526082198601216e-05,
+                2.1507905330508947e-05,
+                4.045019159093499e-05,
+                4.141679164604284e-05,
+                3.758317689062096e-05
+            ]
+        }
+    ]
+}

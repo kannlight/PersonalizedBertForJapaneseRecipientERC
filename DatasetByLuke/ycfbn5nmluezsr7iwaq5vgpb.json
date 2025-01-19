@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "入ったCWLS、マスターの昔から知り合いかな？って人達がどんどん入ってきて内輪ノリみたいな雰囲気出てて行きずらくなってる。いや、もしかしたら皆初めましてだけどコミュ高々人間ばっかかもしれない…🤔"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "ワイも前に入ったとこは、初めましての人だとおもうけど、すぐノリ良く話してるから、みんなすげえ…って思いつつ段々フェードアウトしていった…"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "FF14界隈、もしかして距離近コミュ高々の人しかいない…？\nできればちょっとずつ仲を深めて行きたいんですけどね…(. . `)"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbwd4f7aw22g",
+            "label": [
+                0.0003246519772801548,
+                0.0002354379976168275,
+                0.9990944862365723,
+                9.14972260943614e-05,
+                4.56594571005553e-05,
+                0.00010887555254157633,
+                5.300667180563323e-05,
+                4.6439214202109724e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "FF14界隈、もしかして距離近コミュ高々の人しかいない…？\nできればちょっとずつ仲を深めて行きたいんですけどね…(. . `)"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "きっと今募集しているLSだとちょっとづつでいけるはず・・！\n\n慣れたら一気に爆発しそうではあるけど(;´･ω･)"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "確かに！ちょっとずつ距離縮めていけるかもですね👀\n慣れたらまぁ慣れたで大丈夫そうな気がしますが…どうなるやら……"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbwkplypwc2l",
+            "label": [
+                0.0009057199931703508,
+                0.00019458327733445913,
+                0.9984626770019531,
+                0.00011906849249498919,
+                5.334572051651776e-05,
+                0.0001539136574137956,
+                5.1542963774409145e-05,
+                5.9162139223190024e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "確かに！ちょっとずつ距離縮めていけるかもですね👀\n慣れたらまぁ慣れたで大丈夫そうな気がしますが…どうなるやら……"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "今回はマックスの人数決めてますから破綻はなさそうかなぁと☺️"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "ですね！きっと大丈夫でしょう！(あとは人が来てくれるだけ…)"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbwpfoggh22g",
+            "label": [
+                0.0006336076185107231,
+                0.0001963041868293658,
+                0.9987825751304626,
+                9.112553379964083e-05,
+                6.131920963525772e-05,
+                0.0001145771675510332,
+                5.788458656752482e-05,
+                6.252522143768147e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "ですね！きっと大丈夫でしょう！(あとは人が来てくれるだけ…)"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "観てる人は増えてるし、ウォッチ登録してる人もいるんですけどね〜(TдT)"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "あ！でも1人お話聞きたいって連絡してくれた方がいまして！！もしかしたら加入してくれるかもです😳"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbwsmy7z4k2w",
+            "label": [
+                0.002010323805734515,
+                0.0002544650051277131,
+                0.9972561001777649,
+                0.00014544374425895512,
+                6.878693966427818e-05,
+                0.00012153809802839532,
+                6.978613964747638e-05,
+                7.356965215876698e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "あ！でも1人お話聞きたいって連絡してくれた方がいまして！！もしかしたら加入してくれるかもです😳"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "おー\n期待大‼️\n\n入ってくれるといいな"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "実は今日お会いする予定なのでドキドキですっ！\n入ってくれると嬉しいですねぇ☺️"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbxtnrsegk2b",
+            "label": [
+                0.015124254859983921,
+                0.00040792496292851865,
+                0.9835859537124634,
+                0.00022499669285025448,
+                0.00010823551565408707,
+                0.00031094529549591243,
+                0.00010477708565304056,
+                0.00013289919297676533
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "おお！もしかしてLハウスの抽選参加されるんですか？！？！\n当たりますように✨️"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "ありがとうございます～\n\nソロFCなのですが、いまSまでは当選したのですが、引っ越しでL狙って空きがあれば抽選参加してます(*‘ω‘ *)\n\nなのでハウジングは一切やっていないのですが・・💦"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "そうなんですね！！\nハウジングはハマると時間もお金もなくなっちゃいますからね…\nもし当たったらハウス訪問させてください〜😊"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbgj34h7ek2l",
+            "label": [
+                0.0006887728231959045,
+                0.00018704787362366915,
+                0.9987586736679077,
+                0.00012610100384335965,
+                5.1992563385283574e-05,
+                8.20727800601162e-05,
+                5.036145375925116e-05,
+                5.491902265930548e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "そうなんですね！！\nハウジングはハマると時間もお金もなくなっちゃいますからね…\nもし当たったらハウス訪問させてください〜😊"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "エレにいたころSでしたが、めっちゃ沼りました…\n家具も自作できなかったから基本買ってました(笑)\n\nLなんて実際当たったら、あんな大きなところやれるのか？！という最大の問題がうまれます😱\n\nぜひぜひ来て下さい〜"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "やっぱり沼りますよね(笑)\nLサイズはもう未知の世界過ぎて…いったい沼ったらどれだけのお金が消えることやら…😱\nアスさんち楽しみにしてます( 'ω' و)و \""
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbh3vqpw3s2o",
+            "label": [
+                0.0033392198383808136,
+                0.000321112631354481,
+                0.9957249164581299,
+                0.00014244651538319886,
+                5.5558342864969745e-05,
+                0.0002804792602546513,
+                6.23613377683796e-05,
+                7.387519144685939e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "やっぱり沼りますよね(笑)\nLサイズはもう未知の世界過ぎて…いったい沼ったらどれだけのお金が消えることやら…😱\nアスさんち楽しみにしてます( 'ω' و)و \""
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "前に作りたいのはあったのですが、\nMハウス当たった時に、柱やらが邪魔でハウジングしづら〜とそのまま放置して、手放しちゃった事もあります(^_^;)\n\nLなら作るれるか？！というのも実際手にしないと分からないという(笑)"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "今はもう柱撤去システムが導入されたのでハウジングの幅広がりましたからね！\nホント実際にハウジングやらないとどうなるか分からないので色々と準備と覚悟が必要です(笑)"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbhcajfams2q",
+            "label": [
+                0.11389416456222534,
+                0.0007496944162994623,
+                0.8785838484764099,
+                0.0011857188073918223,
+                0.0003801451239269227,
+                0.003956314641982317,
+                0.00024736838531680405,
+                0.0010026500094681978
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "今はもう柱撤去システムが導入されたのでハウジングの幅広がりましたからね！\nホント実際にハウジングやらないとどうなるか分からないので色々と準備と覚悟が必要です(笑)"
+                },
+                {
+                    "author": "did:plc:xd7s6p7rshlyhale6f6qqzec",
+                    "type": 2,
+                    "utter": "ワイ勝手に外Sでも💰️払ったら中をLにできるシステム(四次元ポケット)かと思ってた(笑)"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "あれ？！？！どうなんでしたっけ？！？！なんか言ってたような気もしなくもない…(記憶力0)"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3lbhkg7l6nc2q",
+            "label": [
+                0.007479189895093441,
+                0.0016373812686651945,
+                0.00838265661150217,
+                0.9803244471549988,
+                0.0001497331541031599,
+                0.0014758259057998657,
+                0.0002396677591605112,
+                0.00031110909185372293
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "ブルスカで繋がってる人ともっと遊んで仲良くなりたい✨️せっかく繋がれてるんだし！"
+                },
+                {
+                    "author": "did:plc:xqjfc523eqg2pbxfruzx4uu3",
+                    "type": 2,
+                    "utter": "遊ぼォォーー！✊"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "遊ぶぅぅぅー‼️‼️"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3l7d76rne3e27",
+            "label": [
+                0.994137167930603,
+                0.00022013235138729215,
+                0.005163002759218216,
+                0.00011200837616343051,
+                8.248416270362213e-05,
+                8.377782069146633e-05,
+                0.00010729335917858407,
+                9.410370694240555e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "遊ぶぅぅぅー‼️‼️"
+                },
+                {
+                    "author": "did:plc:xqjfc523eqg2pbxfruzx4uu3",
+                    "type": 2,
+                    "utter": "やたーー！\nデスコで突然お声かけしますかもです！(突然👀)"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "了解です！…が、もしかしたらLSのボイチャにいたり、最近リア友がFF14始めたのでそれの見守りしてたりしてるかもです💦"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "なので、事前にこの日に遊ぶ‼️って予定立てた方が確実かと！\nちなみに来週以降は9割空いてます💪"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3l7d7qtyohe27",
+            "label": [
+                0.017610447481274605,
+                0.0003524889762047678,
+                0.9806817770004272,
+                0.00027043037698604167,
+                0.00017093397036660463,
+                0.0004463791265152395,
+                0.00016604755364824086,
+                0.000301579013466835
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "了解です！…が、もしかしたらLSのボイチャにいたり、最近リア友がFF14始めたのでそれの見守りしてたりしてるかもです💦"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "なので、事前にこの日に遊ぶ‼️って予定立てた方が確実かと！\nちなみに来週以降は9割空いてます💪"
+                },
+                {
+                    "author": "did:plc:xqjfc523eqg2pbxfruzx4uu3",
+                    "type": 2,
+                    "utter": "えっ、火曜日行けます🥰"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "ｸﾞｫｫｫ…来週は火曜日だけ予定が…火曜日だけ……😭"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3l7damoxk322k",
+            "label": [
+                0.00026332878042012453,
+                0.9989174604415894,
+                0.0001551899767946452,
+                0.00026094086933881044,
+                7.907770486781374e-05,
+                0.00013215217040851712,
+                0.00016581936506554484,
+                2.601751657493878e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 1,
+                    "utter": "ｸﾞｫｫｫ…来週は火曜日だけ予定が…火曜日だけ……😭"
+                },
+                {
+                    "author": "did:plc:xqjfc523eqg2pbxfruzx4uu3",
+                    "type": 2,
+                    "utter": "わ、遅くなりました😭\nガッテン承知ィ〜\nでは木曜日はいかがですかーー！？"
+                },
+                {
+                    "author": "did:plc:ycfbn5nmluezsr7iwaq5vgpb",
+                    "type": 3,
+                    "utter": "木曜日いけますー！⭕️"
+                }
+            ],
+            "uri": "at://did:plc:ycfbn5nmluezsr7iwaq5vgpb/app.bsky.feed.post/3l7htjkvwoq2o",
+            "label": [
+                0.9993234872817993,
+                6.259763904381543e-05,
+                0.00038775085704401135,
+                6.045684858690947e-05,
+                3.219190693926066e-05,
+                4.286983312340453e-05,
+                4.5623473852174357e-05,
+                4.5041142584523186e-05
+            ]
+        }
+    ]
+}

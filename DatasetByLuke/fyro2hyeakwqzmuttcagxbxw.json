@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "お菓子なんかいくつあっても結局食べますから"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "？？？「パクパクですわ!!」"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "チョコレート菓子9つなんかあっという間ですわ！！"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbwdavm6zs2r",
+            "label": [
+                0.0034433850087225437,
+                0.0006797130918130279,
+                0.0005316285532899201,
+                0.9945566654205322,
+                0.00017938317614607513,
+                0.0002554248203523457,
+                0.0002218020526925102,
+                0.00013201807450968772
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "チョコレート菓子9つなんかあっという間ですわ！！"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "クリアファイル3つ確保する気ですわこの先生"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "企画者の先生と気が合うみたいで推しが多い…"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbwdntflnc2r",
+            "label": [
+                0.9985169768333435,
+                0.00011696969158947468,
+                0.00014327817189041525,
+                0.0008953700307756662,
+                4.2054707591887563e-05,
+                0.0001144642592407763,
+                7.067436672514305e-05,
+                0.00010029929399024695
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "企画者の先生と気が合うみたいで推しが多い…"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "絶対担当の人の趣味だよねこの人選\n\nセリカ、ハルカ、コハルは分かるよメインストーリーで活躍してたしアニメも出てるし\n\nコユキ、ココナ、モミジは言い逃れできないよ"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "後半は本当にお気にから選びました感もりもりだよな でもわかる ココナちゃ教官はね、本当にかわいいんだよ…"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbwffgpdhc2r",
+            "label": [
+                0.9995624423027039,
+                6.084773485781625e-05,
+                9.38500597840175e-05,
+                9.569597750669345e-05,
+                2.453767228871584e-05,
+                4.408751556184143e-05,
+                5.006725405110046e-05,
+                6.84613041812554e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "後半は本当にお気にから選びました感もりもりだよな でもわかる ココナちゃ教官はね、本当にかわいいんだよ…"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "わかる…ココナちゃん呼びするとプンプンするところも含めてかわいいんだ…\n\nそして後半メンバーは俺も好きだよちくしょう…(チョコレート菓子9つ)"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "買おう お菓子を 集めよう 生徒を"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbwhdmc2g22e",
+            "label": [
+                0.0011086027370765805,
+                0.00023257573775481433,
+                0.9982555508613586,
+                0.0001241253485204652,
+                5.655569475493394e-05,
+                0.0001036768953781575,
+                6.1007005569990724e-05,
+                5.79094048589468e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "買おう お菓子を 集めよう 生徒を"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "お菓子の買い過ぎでユウカに怒られるところまでが先生のテンプレ"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "先生、この領収書…😡"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbwmwi3s722e",
+            "label": [
+                0.046964943408966064,
+                0.01467013731598854,
+                0.00879745278507471,
+                0.8666718006134033,
+                0.0009087462676689029,
+                0.05733389034867287,
+                0.0030633576679974794,
+                0.0015896052354946733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "外国人に英語で話されてリスニングはかなりいけるなと思ったしスピーキングもギャグとしては最高の仕上がりだった"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "それだとそのスピーキング正しく伝わってないやつでは？"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "かなしいね…もっとドゥオしないと…"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3ldsl43nst22y",
+            "label": [
+                0.000249045027885586,
+                0.9990586638450623,
+                0.00021992991969455034,
+                0.00010550490696914494,
+                5.198402868700214e-05,
+                0.00011525717127369717,
+                0.00016828873776830733,
+                3.1320123525802046e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "これは愛らし先生 同僚になって褒めてあげたくなるかわいさ"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "こんな平和時空で使える英文を教えてちょうだいよ\n教科書で修羅場展開しないで"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "修羅場で学ぶ英会話…役立つ時が来ても嫌だなあ〜"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3ldstrtokr22s",
+            "label": [
+                0.011276778765022755,
+                0.11346802860498428,
+                0.004353717435151339,
+                0.0017155720852315426,
+                0.0010759792057797313,
+                0.768899142742157,
+                0.09832175076007843,
+                0.0008890192839317024
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "3リットルと5リットルが入る容器で4リットルを作れって問題についてずっと考えてたけど、0、0.5、1、1.5…って.5刻みで8まで作れるやり方を全部見つけられたのでとてもスッキリした"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "0.5刻みってどうやって作るんだ…"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "いいんですか…答え言っちゃって…"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lcfdskfq222w",
+            "label": [
+                0.004245347809046507,
+                0.010166341438889503,
+                0.0010997994104400277,
+                0.009829407557845116,
+                0.0002881111577153206,
+                0.9733778238296509,
+                0.0007379557355307043,
+                0.0002552822988945991
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "いいんですか…答え言っちゃって…"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "4リットルはちゃんと作れたので大丈夫です"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "さすがである"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lcfe7iipc22w",
+            "label": [
+                0.8657917976379395,
+                0.0016262424178421497,
+                0.010111445561051369,
+                0.11127188801765442,
+                0.0008587390184402466,
+                0.0016974837053567171,
+                0.0015377391828224063,
+                0.007104754913598299
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "さすがである"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "むしろ0.5刻みをどうやってやったのかさっぱり想像がつかねぇんだなこれが"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "ヒント：1番作りやすいのは1.5と2.5"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lcfgys55x22w",
+            "label": [
+                0.008524280972778797,
+                0.0003876602277159691,
+                0.9900436401367188,
+                0.00019779476861003786,
+                0.00013541158114094287,
+                0.00028185511473566294,
+                0.00016095268074423075,
+                0.00026843041996471584
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "ヒント：1番作りやすいのは1.5と2.5"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "どうやってそれぞれの入れ物のピッタリ半分を作るんだ…\nえぇ…"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "そう！ そうなんだよぉ 円柱の容器を半分に…縦でも横でもなく…"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lcfhs56whc2w",
+            "label": [
+                0.7938214540481567,
+                0.010869475081562996,
+                0.13650614023208618,
+                0.04257874935865402,
+                0.0024565900675952435,
+                0.003450676565989852,
+                0.005015134811401367,
+                0.005301778204739094
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "そう！ そうなんだよぉ 円柱の容器を半分に…縦でも横でもなく…"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "斜めってコト…？\n\n対角線…？\n\nん”ん”ん”っ!？（バグる音）"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "容器を斜めにそっと傾けて◪こう！"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lcfjh67jjk2w",
+            "label": [
+                0.0011745837982743979,
+                0.00015312778123188764,
+                0.998213529586792,
+                0.00014498207019641995,
+                5.954542211838998e-05,
+                0.0001326339552178979,
+                5.365083779906854e-05,
+                6.800780101912096e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "ギラ青ケイオスを購入"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "アーク君その青カラー好きよな\n\n他の格ゲーでもその色あったわ"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "ほー それは知らなかった！\nいいよなこのカラー ストライヴは光の反射もきれいだから使うのがたのしみ"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbby57y3cc2m",
+            "label": [
+                0.6817236542701721,
+                0.0007608814630657434,
+                0.3146860897541046,
+                0.0010926948161795735,
+                0.00041300684097222984,
+                0.0005031311302445829,
+                0.00032759152236394584,
+                0.0004929368733428419
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "おおお〜これもかっこいい！\nグラブルの格ゲーってアークだったんだ あるのは知ってたけどどこが作ってるのかまでは見てなかった…"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "アーク君だけあって完成度結構高かったよ\nあとアーケードモードの最終ボスが理不尽に強いのもアークだなって思った"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "ちょっと見てみたけど、ワンボタンで必殺技出せるタイプの格ゲーだしキャラもエフェクトもかわいいし、それでいてトレモなんかもあっていい感じね\nアケモボスは強いんだ…アークの血が流れてる"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbc3sfvl7s2m",
+            "label": [
+                0.9991768002510071,
+                5.189353396417573e-05,
+                0.00046560741611756384,
+                9.678896458353847e-05,
+                3.1419447623193264e-05,
+                4.680689380620606e-05,
+                5.205924389883876e-05,
+                7.853121496737003e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "ちょっと見てみたけど、ワンボタンで必殺技出せるタイプの格ゲーだしキャラもエフェクトもかわいいし、それでいてトレモなんかもあっていい感じね\nアケモボスは強いんだ…アークの血が流れてる"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "どっちかっていうとグラブルメインでやってるライト層向けの格ゲーだね\n操作も簡単でコマンドも波動、竜巻、昇竜コマンドしか無いけど技にクールタイム採用されてたり他の格ゲーと差別化出来てて良いなって思った\n技のバリエーション的に差し合い要素強いけどそこはちゃんとアークしっかりコンボもやってくれてる"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "グラブルはユーザーも多いもんね その中でやりこみ格ゲーマーとなると比率少なそうだし、こういう臨機応変な作りのゲームは愛を感じてよい\nペルソナのやつも連打だけでコンボできたりして面白かった"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbcagvox5s2m",
+            "label": [
+                0.9996294975280762,
+                3.975101935793646e-05,
+                9.794650395633653e-05,
+                5.776413672720082e-05,
+                3.33462048729416e-05,
+                4.086609260411933e-05,
+                5.039257666794583e-05,
+                5.0327838835073635e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 1,
+                    "utter": "グラブルはユーザーも多いもんね その中でやりこみ格ゲーマーとなると比率少なそうだし、こういう臨機応変な作りのゲームは愛を感じてよい\nペルソナのやつも連打だけでコンボできたりして面白かった"
+                },
+                {
+                    "author": "did:plc:745yzwz5vhopivpqxrbmrb63",
+                    "type": 2,
+                    "utter": "ライト層向けの格ゲーはやっぱそうなるよね\nペルソナだとアークの経歴でいったらみんなレリウスかカルル君システムになっちゃいそう"
+                },
+                {
+                    "author": "did:plc:fyro2hyeakwqzmuttcagxbxw",
+                    "type": 3,
+                    "utter": "伝説の格ゲーになっちゃうね"
+                }
+            ],
+            "uri": "at://did:plc:fyro2hyeakwqzmuttcagxbxw/app.bsky.feed.post/3lbcj627jls2b",
+            "label": [
+                0.4951464533805847,
+                0.06378327310085297,
+                0.1600879728794098,
+                0.1470111906528473,
+                0.0024346942082047462,
+                0.10962936282157898,
+                0.006362531334161758,
+                0.01554448064416647
+            ]
+        }
+    ]
+}

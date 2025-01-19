@@ -1,0 +1,554 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "🫵おはようございますおはようございますおはようございます💩"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "thx"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "う◯このことわざを久々に作りたいんです〜協力して欲しいですー"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lby4h2iw4c2r",
+            "label": [
+                0.0003280062519479543,
+                0.00022590455773752183,
+                0.9991059899330139,
+                9.216157923219725e-05,
+                5.1314873417140916e-05,
+                8.668081136420369e-05,
+                6.11820796621032e-05,
+                4.8641060857335106e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "う◯このことわざを久々に作りたいんです〜協力して欲しいですー"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "汚名付けられたくないんで他の人とやって下さい"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "私のう◯こを披露したいと思います。いつか"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lby5povoj22r",
+            "label": [
+                0.0007333217654377222,
+                0.00024458178086206317,
+                0.9986248016357422,
+                0.00010517846385482699,
+                5.5790860642446205e-05,
+                9.536333527648821e-05,
+                8.899493695935234e-05,
+                5.1922124839620665e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "私のう◯こを披露したいと思います。いつか"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "しないで下さい。"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "私のう◯こはいつ止まるのでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lby64gaoms2r",
+            "label": [
+                0.0015453193336725235,
+                0.9683752655982971,
+                0.002196446293964982,
+                0.00026751874247565866,
+                0.0006215956527739763,
+                0.020861633121967316,
+                0.0059938025660812855,
+                0.00013839449093211442
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "私のう◯こはいつ止まるのでしょうか"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "自分に聞きに来ないで、自分が決める事じゃない。"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "なんか生まれ変わってからは増えているような気がします。よくわかんないですけども🪭"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbycza7tvk2p",
+            "label": [
+                0.030593417584896088,
+                0.09236937016248703,
+                0.00240231491625309,
+                0.12157407402992249,
+                0.0005678283632732928,
+                0.7454572916030884,
+                0.006232618819922209,
+                0.0008030472090467811
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "おは〜ようございまーす_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "🙅"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "実を言うと私も仮ラベル付けられてるんですよね。今はどうなったのかわかりませんけども。嫌ですね"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbwpdjt3hs2m",
+            "label": [
+                0.0037886144127696753,
+                0.01470930129289627,
+                0.001239731558598578,
+                0.0017492433544248343,
+                0.0016968012787401676,
+                0.0083597581833601,
+                0.9677916765213013,
+                0.000664890801999718
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "羨ましい限りです。私はどうすれば良いのでしょうか"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "自分も知りたい"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "仮ラベル付けられても全然平常運転な自分はおかしいのでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbwrjt4tkk2m",
+            "label": [
+                0.030868181958794594,
+                0.0075417784973979,
+                0.007400433998554945,
+                0.6622353196144104,
+                0.0010414578719064593,
+                0.28522568941116333,
+                0.0029201474972069263,
+                0.002766921417787671
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "ツイッターの方の俺、だいぶ変わったのはご存知？"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "ゲームのグループ抜けたのは知ってるし、アイコンとID変わってたな。\nそれ以外は知らんな"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "なんとか立ち直りはした_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "新生らつきの始まりや"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbu3p6jsxc2o",
+            "label": [
+                0.9410699605941772,
+                0.0015969567466527224,
+                0.05588077753782272,
+                0.00016852858243510127,
+                0.0001451119314879179,
+                0.00039743963861837983,
+                0.0003889945801347494,
+                0.000352266535628587
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "なんとか立ち直りはした_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "新生らつきの始まりや"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "そうか_(:3 」∠)_"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "変えすぎて戸惑ってる？"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbu4mxws2s2o",
+            "label": [
+                0.20073489844799042,
+                0.02680272050201893,
+                0.018370160833001137,
+                0.22259096801280975,
+                0.0009132309351116419,
+                0.5256677269935608,
+                0.0024348238948732615,
+                0.0024854345247149467
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "変えすぎて戸惑ってる？"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "ごめん、興味ないｗ\n後、時間あったら少し良い?報告したい"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "ん？なんだ？"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbu4sco4ac2o",
+            "label": [
+                0.0006340636755339801,
+                0.00028336263494566083,
+                0.0006097094155848026,
+                0.9974837303161621,
+                0.00025949260452762246,
+                0.0003718614752870053,
+                0.0002529591438360512,
+                0.00010485948587302119
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "ん？なんだ？"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "ハッキリ見たから報告すると活動行く日、自分事故死する予知夢見た。\nいつ死ぬかは分からん、スパム行く日だったら笑ってｗ"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "こっわ"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbu4vz4n4c2o",
+            "label": [
+                0.0009136777953244746,
+                0.0014643995091319084,
+                0.0008065500878728926,
+                0.010326085612177849,
+                0.0015674751484766603,
+                0.9836667776107788,
+                0.0008429830777458847,
+                0.00041208259062841535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "おは_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "💣💥"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "おひさ"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbma7sr4ks2a",
+            "label": [
+                0.9995759129524231,
+                4.0249629819300026e-05,
+                0.00011111859930679202,
+                9.099140879698098e-05,
+                2.8981017749174498e-05,
+                3.359193215146661e-05,
+                6.610372656723484e-05,
+                5.315658199833706e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "おひさ"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "さよなら👋"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "はよツイッター戻ってきて〜_(:3」z)_"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbmac4o76k2a",
+            "label": [
+                0.0012553604319691658,
+                0.6834421157836914,
+                0.2977335453033447,
+                0.0007288508932106197,
+                0.002633970696479082,
+                0.002933569485321641,
+                0.010855454951524734,
+                0.0004171469190623611
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "はよツイッター戻ってきて〜_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "ラベル剥がされたらな"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "グループまとめる人居ないのだ(勝手に抜けた俺が悪いけど)_(:3」z)_"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbmaecqh522a",
+            "label": [
+                0.00023619616695214063,
+                0.9989261031150818,
+                0.00016186173888854682,
+                0.00011097733658971265,
+                7.014588481979445e-05,
+                0.00022681990230921656,
+                0.00024066207697615027,
+                2.712128662096802e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "グループまとめる人居ないのだ(勝手に抜けた俺が悪いけど)_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "めんど"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "実は言うと俺も_(:3」z)_\nまだ戻るには早い気がする"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3lbmagriti22a",
+            "label": [
+                0.19183431565761566,
+                0.06450953334569931,
+                0.01810823380947113,
+                0.002364926040172577,
+                0.000567744136787951,
+                0.7149789929389954,
+                0.0058386498130857944,
+                0.0017976649105548859
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "普通に忘れてた_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "今も修正してねえじゃねえかｗ"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "最近色々と忙しくて忘れてまうわ_(:3」z)_"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3l7p47bqwcz2t",
+            "label": [
+                0.027091776952147484,
+                0.9062455892562866,
+                0.001164796412922442,
+                0.003349506761878729,
+                0.00022686916054226458,
+                0.05944056063890457,
+                0.0022240548860281706,
+                0.00025685367290861905
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "最近色々と忙しくて忘れてまうわ_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "学習能力どころか記憶能力までも終わってんのか"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "もう数週間前で色々バタバタしてるよ_(:3」z)_\nでも今週が1番忙しい"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3l7q57erdys2p",
+            "label": [
+                0.3398109972476959,
+                0.14066216349601746,
+                0.010922646149992943,
+                0.014968167059123516,
+                0.000996817834675312,
+                0.47945550084114075,
+                0.010900952853262424,
+                0.00228279922157526
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "もう数週間前で色々バタバタしてるよ_(:3」z)_\nでも今週が1番忙しい"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "楽しそうで良かったやん_(:3 」∠)_"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "無事受かったらなんかくれ、なんでもええ_(:3」z)_"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3l7qj2amxyc2a",
+            "label": [
+                0.0002776527835521847,
+                0.00034238031366840005,
+                0.9990125894546509,
+                6.617278995690867e-05,
+                5.608288120129146e-05,
+                0.0001102063397411257,
+                8.745110244490206e-05,
+                4.748946594190784e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 1,
+                    "utter": "無事受かったらなんかくれ、なんでもええ_(:3」z)_"
+                },
+                {
+                    "author": "did:plc:qjckh2dypfokgoufozvrlhvp",
+                    "type": 2,
+                    "utter": "ワシの命を奪えと言ったら殺ってくれる?(*´ω｀*)"
+                },
+                {
+                    "author": "did:plc:p4nbtwu2utreywv2ynlskm6v",
+                    "type": 3,
+                    "utter": "むり_(:3」z)_\n他の人に頼みなさい_(:3」z)_"
+                }
+            ],
+            "uri": "at://did:plc:p4nbtwu2utreywv2ynlskm6v/app.bsky.feed.post/3l7rng2ebhy22",
+            "label": [
+                0.0013752951053902507,
+                0.9058131575584412,
+                0.0012444440508261323,
+                0.0009261096129193902,
+                0.006631121970713139,
+                0.004113332834094763,
+                0.07959803938865662,
+                0.00029851679573766887
+            ]
+        }
+    ]
+}

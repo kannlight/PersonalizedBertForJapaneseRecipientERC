@@ -1,0 +1,569 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "okay but I have _seven_ of them"
+                },
+                {
+                    "author": "did:plc:4hfgotjfri2wi2emchg2e5hy",
+                    "type": 2,
+                    "utter": "Damn!  Where did you get these, and how many can I but before it becomes frivolous?  4?"
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "I got them from here! tenmokus.com/collections/..."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kfnrzzu4m62s",
+            "label": [
+                0.9560828804969788,
+                0.005344841163605452,
+                0.02992311120033264,
+                0.0041923061944544315,
+                0.0005619382136501372,
+                0.0009446211042813957,
+                0.0013285133754834533,
+                0.0016218459932133555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Any system of morals that predisposes that hard work is inherently good for you and that things that make life easier are innately suspect is always going to be fundamentally prejudiced against the disabled."
+                },
+                {
+                    "author": "did:plc:itlxawcltyjh6mcxympjq4l4",
+                    "type": 2,
+                    "utter": "Also quite frankly that's some weird ass Christian \"suffering builds character\" bullshit"
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "It’s not ALWAYS explicitly Christian, but in this culture it sure is a lot of the time!"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf2bryhegq2b",
+            "label": [
+                0.9777792692184448,
+                0.0027458257973194122,
+                0.009963683784008026,
+                0.005404477007687092,
+                0.0006201900541782379,
+                0.000598960614297539,
+                0.0011769486591219902,
+                0.0017106547020375729
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Any system of morals that predisposes that hard work is inherently good for you and that things that make life easier are innately suspect is always going to be fundamentally prejudiced against the disabled."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Looking squarely at you, Bicycle Discourse. (And I say this as someone whose spouse is an erstwhile commuter cyclist.)"
+                },
+                {
+                    "author": "did:plc:t7ayphiew2kysdunfu6xm2at",
+                    "type": 2,
+                    "utter": "Looking right back: There are plenty of disabled people who can ride bikes but not drive cars."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Absolutely there are! I love bicycles. I love non-automobile transportation options. I vigorously support infrastructural and institutional efforts to make it as easy as possible for people to choose to use them."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6qgj5ljf2f",
+            "label": [
+                0.9291636943817139,
+                0.004694945644587278,
+                0.058228205889463425,
+                0.0020785252563655376,
+                0.0007691978826187551,
+                0.0006409370107576251,
+                0.001858929987065494,
+                0.0025656414218246937
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Absolutely there are! I love bicycles. I love non-automobile transportation options. I vigorously support infrastructural and institutional efforts to make it as easy as possible for people to choose to use them."
+                },
+                {
+                    "author": "did:plc:t7ayphiew2kysdunfu6xm2at",
+                    "type": 2,
+                    "utter": "Kinda looked to me like you were saying cyclists (like me!) who participate in Bicyclist Discourse are \"fundamentally prejudiced against the disabled.\" Maybe you should be more specific about who you are criticizing, instead of aiming your criticism at all cyclists."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Were you working from a fundamental principle that hard work is fundamentally good for you and that anything that makes life easier is inherently suspicious?"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6quhsz5g2d",
+            "label": [
+                0.642850399017334,
+                0.008978030644357204,
+                0.3125101625919342,
+                0.013289551250636578,
+                0.0039170654490590096,
+                0.0022206855937838554,
+                0.006218671333044767,
+                0.010015434585511684
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Were you working from a fundamental principle that hard work is fundamentally good for you and that anything that makes life easier is inherently suspicious?"
+                },
+                {
+                    "author": "did:plc:t7ayphiew2kysdunfu6xm2at",
+                    "type": 2,
+                    "utter": "The way I read it, you were saying that everyone who participates in Bicycle Discourse is ableist and also believes that anything that makes life easier is suspicious. I now accept that you did not mean that. But that was my honest read of your two posts."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Fair enough. No, I was seeing a lot of that in the Bicycle Discourse. The Bicycle Discourse is famously not a monolith?m, though."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6r6cyki42a",
+            "label": [
+                0.8175980448722839,
+                0.042207151651382446,
+                0.03305308148264885,
+                0.04048975184559822,
+                0.006285277660936117,
+                0.02001296915113926,
+                0.02782556414604187,
+                0.01252814196050167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Fair enough. No, I was seeing a lot of that in the Bicycle Discourse. The Bicycle Discourse is famously not a monolith?m, though."
+                },
+                {
+                    "author": "did:plc:t7ayphiew2kysdunfu6xm2at",
+                    "type": 2,
+                    "utter": "The part of Bicycle Discourse I follow has a lot of pictures of drivers parked on sidewalks, bad path infrastructure that has sharp curves and poles in the middle, and stuff like that. E.g. this video:\nwww.youtube.com/watch?v=dofY..."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Yeah, my husband was a 20+ mile per day commuter cyclist for YEARS. So much of the cycling \"infrastructure\" is things that only appear to make sense for cyclists when observed out the window of a moving car."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6rv6jnbg2d",
+            "label": [
+                0.9782612919807434,
+                0.0035494579933583736,
+                0.005855907686054707,
+                0.007368225604295731,
+                0.0007647047168575227,
+                0.0008622893365100026,
+                0.0015422760043293238,
+                0.001795804942958057
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Any system of morals that predisposes that hard work is inherently good for you and that things that make life easier are innately suspect is always going to be fundamentally prejudiced against the disabled."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Looking squarely at you, Bicycle Discourse. (And I say this as someone whose spouse is an erstwhile commuter cyclist.)"
+                },
+                {
+                    "author": "did:plc:5dokrqnikwh5egun7yfivvi2",
+                    "type": 2,
+                    "utter": "Speaking as a disabled former cyclist with heavily pro bike politics, fuck those guys. They make people like your spouse look bad."
+                },
+                {
+                    "author": "did:plc:5dokrqnikwh5egun7yfivvi2",
+                    "type": 2,
+                    "utter": "There are some drivers who will try to run you off the road just because, but that's not oppression. It isn't systemic or even very common."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Yeah. Drivers are frequently awful. This is because people are frequently awful, and drivers tend to be people. Cyclists are completely justified in their opposition to awful drivers. This does not mean that driving is inherently immoral!"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf2dinp6yh2g",
+            "label": [
+                0.8889648914337158,
+                0.009735838510096073,
+                0.03201810643076897,
+                0.050903551280498505,
+                0.0037009590305387974,
+                0.002196673071011901,
+                0.00549031887203455,
+                0.006989606656134129
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Yeah. Drivers are frequently awful. This is because people are frequently awful, and drivers tend to be people. Cyclists are completely justified in their opposition to awful drivers. This does not mean that driving is inherently immoral!"
+                },
+                {
+                    "author": "did:plc:zcsn2n6w7iqvnkluc7rif5wd",
+                    "type": 2,
+                    "utter": "Driving has outsized impacts on the environment and the health of other people (via pollution and car crashes). If it’s your only option due to disability or location, that’s fine. But if it’s perfectly viable for you to take public transport or cycle, then driving instead *is* kinda immoral."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "LOL, no. Not any more than running the air conditioning or buying a smartphone or eating vegan is."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6auctfvz2g",
+            "label": [
+                0.773492693901062,
+                0.04636553302407265,
+                0.05118090659379959,
+                0.02984406240284443,
+                0.006711846217513084,
+                0.02239631861448288,
+                0.05567970871925354,
+                0.014328955672681332
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "LOL, no. Not any more than running the air conditioning or buying a smartphone or eating vegan is."
+                },
+                {
+                    "author": "did:plc:zcsn2n6w7iqvnkluc7rif5wd",
+                    "type": 2,
+                    "utter": "Turning on the aircon doesn’t kill 1,700 and seriously injure 30,000 per year in the UK alone. I don’t have aircon here but I do have central heating and I literally need that to stay alive. But if I drove all the time it would be a personal choice."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Okay, taking a step back here for a moment and taking both of your statements at face value: what circumstances in your life mandate central heating as necessary for survival? What circumstances render driving a personal choice?"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6qmtoga727",
+            "label": [
+                0.6844610571861267,
+                0.021919284015893936,
+                0.23131947219371796,
+                0.03183295205235481,
+                0.00575023889541626,
+                0.005865200888365507,
+                0.007797275669872761,
+                0.011054454371333122
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Okay, taking a step back here for a moment and taking both of your statements at face value: what circumstances in your life mandate central heating as necessary for survival? What circumstances render driving a personal choice?"
+                },
+                {
+                    "author": "did:plc:zcsn2n6w7iqvnkluc7rif5wd",
+                    "type": 2,
+                    "utter": "How about the fact I will freeze to death in my own home if I don’t turn it on? It goes below 0°C most winters.\n\nMeanwhile, a third of car journeys in the UK are under 2 miles. You can walk or cycle that easily. Tell me that that’s more necessary than keeping my flat above freezing."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "And yet, the UK was settled for millennia before central heating was even a thing, right?"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6v6qttpg2t",
+            "label": [
+                0.7902220487594604,
+                0.014558793045580387,
+                0.16449755430221558,
+                0.014485570602118969,
+                0.0033368777949362993,
+                0.0023642010055482388,
+                0.004628993105143309,
+                0.005905927624553442
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "LOL, no. Not any more than running the air conditioning or buying a smartphone or eating vegan is."
+                },
+                {
+                    "author": "did:plc:34q263asqvu5hschnuaq5dqe",
+                    "type": 2,
+                    "utter": "Drivers get far more subsidies and murder far more people than users of those other devices. And ~0 drivers who take the responsibility of driving seriously avoid alternatives to that stress. We live in a society etc, but we still have some agency."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Want to talk about the child labor involved in mining heavy metals for smartphones or the climate disasters caused by air conditioning? How much of the labor that went into the clothes you’re wearing was performed by slaves?"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6cpokffk27",
+            "label": [
+                0.10065599530935287,
+                0.004888781812041998,
+                0.8576815724372864,
+                0.022449318319559097,
+                0.004127887077629566,
+                0.002023665001615882,
+                0.0030681949574500322,
+                0.005104537587612867
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Want to talk about the child labor involved in mining heavy metals for smartphones or the climate disasters caused by air conditioning? How much of the labor that went into the clothes you’re wearing was performed by slaves?"
+                },
+                {
+                    "author": "did:plc:34q263asqvu5hschnuaq5dqe",
+                    "type": 2,
+                    "utter": "Yes as I said \"we live in a society\", all of these things have flaws. Transit, bikes, and even walking shoes require resources. But your defense of cars is like a gun nut responding to a gun safety discussion by saying normal kitchen knives can also kill people."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Sorry — where do you see a defense of cars here? Have you, perhaps, made up a thing to be mad at?"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf6ekukjec27",
+            "label": [
+                0.25895267724990845,
+                0.5783531069755554,
+                0.03581241890788078,
+                0.05139949172735214,
+                0.009153122082352638,
+                0.026514500379562378,
+                0.030766751617193222,
+                0.009047952480614185
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Yeah. Drivers are frequently awful. This is because people are frequently awful, and drivers tend to be people. Cyclists are completely justified in their opposition to awful drivers. This does not mean that driving is inherently immoral!"
+                },
+                {
+                    "author": "did:plc:nzmci5jwjwysdqr4o3f4eg6d",
+                    "type": 2,
+                    "utter": "There is polling to say that drivers don’t see cyclists as human and I regularly see violent rhetoric from motorists about cyclists, there are definitely huge blind spots to people who have no choice but to drive from them though."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Oh I’ve seen so much violent rhetoric about cyclists. It’s a big problem. The solution isn’t to decide that cars are inherently a moral hazard tho"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf2f3dusfs2f",
+            "label": [
+                0.8087130784988403,
+                0.0480363667011261,
+                0.03229272738099098,
+                0.07655642181634903,
+                0.005095498636364937,
+                0.009814789518713951,
+                0.011693421751260757,
+                0.007797659374773502
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Oh I’ve seen so much violent rhetoric about cyclists. It’s a big problem. The solution isn’t to decide that cars are inherently a moral hazard tho"
+                },
+                {
+                    "author": "did:plc:lqjvefrfea2lmshf4udxayk4",
+                    "type": 2,
+                    "utter": "Not a moral hazard, but an actual hazard. It's not just bikes. Ask any motorcyclist. Ask anyone in a small, cheap car what it's like to have some enormous land yacht just muscle into your lane because they can't even see you. We have to find something less dangerous."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "You're never going to eliminate them, though. We tolerate all kinds of things that are objectively hazardous because of the benefits they bring to people, from air conditioning to disposable plastics to capitalism."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf2pci6t5w27",
+            "label": [
+                0.3007977306842804,
+                0.028088057413697243,
+                0.6230698823928833,
+                0.0134712103754282,
+                0.006371017079800367,
+                0.00800351146608591,
+                0.009672444313764572,
+                0.010526158846914768
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "You're never going to eliminate them, though. We tolerate all kinds of things that are objectively hazardous because of the benefits they bring to people, from air conditioning to disposable plastics to capitalism."
+                },
+                {
+                    "author": "did:plc:lqjvefrfea2lmshf4udxayk4",
+                    "type": 2,
+                    "utter": "That's because elimination is an unreasonable goal in any context. It's not the presence of any other car at all that keeps me in a car, it's the sheer density and preponderance of them, not to mention the lack of alternatives. I don't care about actual working pickup trucks or the like."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Sure. But creating the viable alternatives is FAR more likely to change the landscapes than demonizing autos. And I say this as someone who kind of hates cars."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf2q5e3p7j2h",
+            "label": [
+                0.8478007912635803,
+                0.01976851560175419,
+                0.0911189392209053,
+                0.015108983963727951,
+                0.0032941908575594425,
+                0.005066252779215574,
+                0.008473541587591171,
+                0.009368757717311382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Any system of morals that predisposes that hard work is inherently good for you and that things that make life easier are innately suspect is always going to be fundamentally prejudiced against the disabled."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Looking squarely at you, Bicycle Discourse. (And I say this as someone whose spouse is an erstwhile commuter cyclist.)"
+                },
+                {
+                    "author": "did:plc:2obtldrf6h4jyg4ttea63nbd",
+                    "type": 2,
+                    "utter": "oh damn I agreed with the first statement\nand then you had to follow with this\n\nbikes aren't good cause they are hard work\nthey are good because not everyone can drive\nand they actually make getting around easier for many of us with disabilities, including myself"
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "Given that you're not making the first argument, you're not in the set of people I'm looking at here. I am a big fan of non-auto transportation, for all the reasons you cite and more."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf7ayfzdjn2u",
+            "label": [
+                0.7682880759239197,
+                0.05955928936600685,
+                0.08361867815256119,
+                0.029850315302610397,
+                0.006265700329095125,
+                0.017374897375702858,
+                0.017240814864635468,
+                0.017802245914936066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "Given that you're not making the first argument, you're not in the set of people I'm looking at here. I am a big fan of non-auto transportation, for all the reasons you cite and more."
+                },
+                {
+                    "author": "did:plc:2obtldrf6h4jyg4ttea63nbd",
+                    "type": 2,
+                    "utter": "I just feel a bit aggrieved by all the hate directed at cyclists and would like a break from it\n\nyes some cyclists are insufferable but for every shitty bro cyclist there are like 100 shitty motorists who are actually maiming and killing folks so why we always ragging on cyclists?"
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "I'm not ragging on cyclists. As a *member* of the cycling community, I am calling in people within the cycling community for ableism."
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf7bdy2rd42o",
+            "label": [
+                0.8003804087638855,
+                0.031354475766420364,
+                0.07986734062433243,
+                0.040504422038793564,
+                0.00459262914955616,
+                0.011220958083868027,
+                0.015266235917806625,
+                0.016813548281788826
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 1,
+                    "utter": "I'm not ragging on cyclists. As a *member* of the cycling community, I am calling in people within the cycling community for ableism."
+                },
+                {
+                    "author": "did:plc:2obtldrf6h4jyg4ttea63nbd",
+                    "type": 2,
+                    "utter": "Where is it happening? I see more people talking about the ableism than ableism itself\n\nand SO MUCH ableism and erasure of disabled people who don't drive in the neverending conversation about how shitty cyclists are\n\nit seems like the only conversation anyone is ever having TBH"
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "I'm deliberately trying not to add heat to conversations that have more if it than light already. If you're not experiencing it, that's great, but I've seen enough You Can Do Anything On A Bike, And If You Can't, You Are Lazy, Selfish, Or Insufficiently Pure conversation to last me a damn lifetime."
+                },
+                {
+                    "author": "did:plc:g6asx7scljsgdu3vqwtyfszj",
+                    "type": 3,
+                    "utter": "more *of it"
+                }
+            ],
+            "uri": "at://did:plc:g6asx7scljsgdu3vqwtyfszj/app.bsky.feed.post/3kf7bwlh44p2d",
+            "label": [
+                0.7195029854774475,
+                0.07069706171751022,
+                0.14000706374645233,
+                0.021041300147771835,
+                0.005999540910124779,
+                0.014399177394807339,
+                0.013652268797159195,
+                0.014700633473694324
+            ]
+        }
+    ]
+}

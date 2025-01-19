@@ -1,0 +1,439 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "what"
+                },
+                {
+                    "author": "did:plc:7kra3m5l4sl2pa6w5l35mi5f",
+                    "type": 2,
+                    "utter": "university of chicago, babey"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "thankful every day i attended a state school"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kitcugdqts26",
+            "label": [
+                0.9995967745780945,
+                8.338318002643064e-05,
+                8.184748003259301e-05,
+                6.324140849756077e-05,
+                2.2250689653446898e-05,
+                3.897352871717885e-05,
+                6.217549525899813e-05,
+                5.1261162298033014e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "yeah i was going to say that after state school i have to whisper “it was uva”"
+                },
+                {
+                    "author": "did:plc:r75unbj372lvbim6syioaueo",
+                    "type": 2,
+                    "utter": "It was actually pretty funny growing up in VA which was so red at the time when I was a kid but had this tradition of supporting actually very good state schools (GMU econ and law are what they are but the undergrad is a perfectly adequate state school, and it's the third tier in VA)"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "there is a book to be written — if it doesn’t already exist — about how the unusual southern politics of the 70s and 80s produced the conditions for massive investments in public higher education throughout the region"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "but yeah, VA has shockingly few private schools. so many of the institutions, even the ones that sound boutique, are public."
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kitdix3mns26",
+            "label": [
+                0.5742300152778625,
+                0.05509446561336517,
+                0.22207243740558624,
+                0.08391045033931732,
+                0.011667708866298199,
+                0.014198624528944492,
+                0.01961878314614296,
+                0.019207578152418137
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "there is a book to be written — if it doesn’t already exist — about how the unusual southern politics of the 70s and 80s produced the conditions for massive investments in public higher education throughout the region"
+                },
+                {
+                    "author": "did:plc:7yoaciwmtnyzc4kgtj4iyc3v",
+                    "type": 2,
+                    "utter": "The story starts with the major federal investments in military bases in the South, and the massive number of GIs who stayed.\n\nBetween them and the local veterans, there was a ton of GI Bill money floating around, and the South captured it by building and expanding colleges.\n\nIt’s the RTP story."
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "RTP?"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kitdpib42v2a",
+            "label": [
+                0.002645739121362567,
+                0.00039589518564753234,
+                0.0036564006004482508,
+                0.9923921227455139,
+                0.00017001229571178555,
+                0.00026626233011484146,
+                0.0002693901478778571,
+                0.0002041412517428398
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "yeah i was going to say that after state school i have to whisper “it was uva”"
+                },
+                {
+                    "author": "did:plc:mj4x6midcgtwrwkvmgffzuqq",
+                    "type": 2,
+                    "utter": "Even W and M is public! What a weird state"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "i think you mean “what a great commonwealth!”"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kitdvwo5fe2x",
+            "label": [
+                0.37373578548431396,
+                0.004857884254306555,
+                0.6063921451568604,
+                0.008296665735542774,
+                0.0011106698075309396,
+                0.0006342470878735185,
+                0.0015275097684934735,
+                0.003445127047598362
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "I don’t know if I would call “party elites decline to challenge leader of party” evidence of a “rigged system,” given that this has been the norm for an incumbent president for centuries."
+                },
+                {
+                    "author": "did:plc:qvcro2x63rhyll7npfzbulex",
+                    "type": 2,
+                    "utter": "The rules for getting on a primary ballot when there is an incumbent should be the same as when there isn't. Even if it's the norm, it's anti-democratic and a bad policy."
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "The rules are the same! No one has changed the rules to prevent a challenge to Biden!"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrqvuszky2j",
+            "label": [
+                0.39713579416275024,
+                0.042510200291872025,
+                0.42851999402046204,
+                0.04162868112325668,
+                0.02367076277732849,
+                0.011461502872407436,
+                0.026849716901779175,
+                0.028223372995853424
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "I don’t know if I would call “party elites decline to challenge leader of party” evidence of a “rigged system,” given that this has been the norm for an incumbent president for centuries."
+                },
+                {
+                    "author": "did:plc:4usmserhjqkvhldgedfjb3jw",
+                    "type": 2,
+                    "utter": "With all due respect, I don't think the fact that something's been the case for centuries is strong evidence that it's *not* rigged."
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "Okay, so in that case what *isn’t* rigged?"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrqr2amdz2n",
+            "label": [
+                0.9899084568023682,
+                0.0015852028736844659,
+                0.003367695026099682,
+                0.0022732047364115715,
+                0.00037234683986753225,
+                0.0004879112238995731,
+                0.0012932595564052463,
+                0.0007119039073586464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "Okay, so in that case what *isn’t* rigged?"
+                },
+                {
+                    "author": "did:plc:4usmserhjqkvhldgedfjb3jw",
+                    "type": 2,
+                    "utter": "Rigged is obviously a spectrum, but parliamentary systems with ranked choice voting seem less rigged to me than the U.S. system!"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "okay, now i am confused. the common definition of rigged is “prearranged and fixed so that the winner is determined before the competition.” what do you mean by it?"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrrbawdb424",
+            "label": [
+                0.6793164610862732,
+                0.018561121076345444,
+                0.13383999466896057,
+                0.12693969905376434,
+                0.009623143821954727,
+                0.007245008368045092,
+                0.013462638482451439,
+                0.011011970229446888
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "okay, now i am confused. the common definition of rigged is “prearranged and fixed so that the winner is determined before the competition.” what do you mean by it?"
+                },
+                {
+                    "author": "did:plc:kqokb3lwlwe7kyvms47s4hnp",
+                    "type": 2,
+                    "utter": "(Chiming in unsolicited to say: that’s a narrow definition of rigged. A carnival game is rigged when the owner can exert undue and undisclosed influence on its outcome. That’s what I hear Matt saying here.)"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "people who are influential (and often democratically elected) stakeholders in an institution exercising influence in that institution is not undue influence. it’s just politics!"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrrkhu25r2a",
+            "label": [
+                0.5132085680961609,
+                0.02254452183842659,
+                0.21588824689388275,
+                0.19133710861206055,
+                0.010564015246927738,
+                0.0049664052203297615,
+                0.014714308083057404,
+                0.026776794344186783
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "people who are influential (and often democratically elected) stakeholders in an institution exercising influence in that institution is not undue influence. it’s just politics!"
+                },
+                {
+                    "author": "did:plc:pev57m26gc3u3t5oirsiofs2",
+                    "type": 2,
+                    "utter": "The lesson of 2016 was when you clear the deck for a preselected candidate it is likely that voter enthusiasm will be very low. Biden has been a very good president, but the polls are clear that we are falling into that same trap again."
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "but the deck hasn’t been cleared. people who could be president are *choosing* not to challenge Biden"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrsewxcq72g",
+            "label": [
+                0.5613531470298767,
+                0.07573769986629486,
+                0.13797539472579956,
+                0.09795262664556503,
+                0.028163688257336617,
+                0.02618991956114769,
+                0.03737793490290642,
+                0.03524959832429886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "people who are influential (and often democratically elected) stakeholders in an institution exercising influence in that institution is not undue influence. it’s just politics!"
+                },
+                {
+                    "author": "did:plc:kqokb3lwlwe7kyvms47s4hnp",
+                    "type": 2,
+                    "utter": "Yes and, when those people are nominally bound by one set of rules, norms and values but routinely sidestep them in order to exert influence that line gets a bit fuzzy, IMO.\n\nLike, we probably agree that “might makes right” is not justice, but that’s sort of what we have, right?"
+                },
+                {
+                    "author": "did:plc:kqokb3lwlwe7kyvms47s4hnp",
+                    "type": 2,
+                    "utter": "I understand that there are many ways to interpret the role, values, responsibilities etc of the DNC.\n\nBut the meaning of a system is what it does, and this system seems to be best at neutering leftist values - sometimes democratically, sometimes not."
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "what share of democratic voters do you think would call themselves “leftists?”"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrrulihgj2a",
+            "label": [
+                0.23448671400547028,
+                0.008646398782730103,
+                0.6950250864028931,
+                0.0391434021294117,
+                0.005516835488379002,
+                0.0030813354533165693,
+                0.005894780158996582,
+                0.008205403573811054
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "okay, now i am confused. the common definition of rigged is “prearranged and fixed so that the winner is determined before the competition.” what do you mean by it?"
+                },
+                {
+                    "author": "did:plc:b43r2ysiyablfjq6it36u6yx",
+                    "type": 2,
+                    "utter": "I don't think you can say that about the general elections, but I'd say that about the primaries. And if the primaries for both parties are rigged to produce candidates that will offer preferential treatment to wealthy individuals and corporations, there's no need to rig the general election."
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "“My preferred political outcome didn’t happen” ≠ “rigged”"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgrskzrix42j",
+            "label": [
+                0.9839587211608887,
+                0.0027608214877545834,
+                0.006660220213234425,
+                0.0020176786929368973,
+                0.00048205608618445694,
+                0.0009864761959761381,
+                0.0018278778297826648,
+                0.0013061260106042027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "believe it or not the most i have been yelled at online this past week is not on here but on tiktok for saying the true statement that the “hedge funds investing in housing” problem is downstream of the “chronic housing shortage problem.”\n\nfor this i was denounced as a liar and a shill."
+                },
+                {
+                    "author": "did:plc:b43r2ysiyablfjq6it36u6yx",
+                    "type": 2,
+                    "utter": "There's not enough evidence contrary to your position to justify calling you names, certainly. I'm not personally convinced of one vs. the other, but I also don't think it's a matter of tremendous practical importance. Whether the chicken came first or the egg, they're both here now."
+                },
+                {
+                    "author": "did:plc:b43r2ysiyablfjq6it36u6yx",
+                    "type": 2,
+                    "utter": "Was there already too much demand vs. supply in the first place? I don't know!\n\nWould it be helpful to the average person trying to rent an apartment or buy a house to have a bunch of speculators enter the market? Absolutely not!"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "if a market isn’t supply constrained speculators won’t enter it!"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgs35oibk72n",
+            "label": [
+                0.7541310787200928,
+                0.007981982082128525,
+                0.08949126303195953,
+                0.12009845674037933,
+                0.008266793563961983,
+                0.0025746712926775217,
+                0.007594284601509571,
+                0.009861443191766739
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "if a market isn’t supply constrained speculators won’t enter it!"
+                },
+                {
+                    "author": "did:plc:6geqxno4kcrqtquzvivyenca",
+                    "type": 2,
+                    "utter": "Wouldn’t they if they know they have the ability to supply constrain it?"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "how would they do that? investors buying homes does not preclude developers from building then"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgs45o6zro23",
+            "label": [
+                0.13907864689826965,
+                0.0034587127156555653,
+                0.8170272707939148,
+                0.02359304204583168,
+                0.005884977988898754,
+                0.0016997393686324358,
+                0.003743299748748541,
+                0.005514360964298248
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 1,
+                    "utter": "believe it or not the most i have been yelled at online this past week is not on here but on tiktok for saying the true statement that the “hedge funds investing in housing” problem is downstream of the “chronic housing shortage problem.”\n\nfor this i was denounced as a liar and a shill."
+                },
+                {
+                    "author": "did:plc:6jv6lwsadcm6ftfm7qqetl7s",
+                    "type": 2,
+                    "utter": "Feels like a both/and issue but if being anti-housing shortage leads to better/building more low income housing I don’t care. #decommodifyhousing"
+                },
+                {
+                    "author": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+                    "type": 3,
+                    "utter": "the problem with saying it is both/and is that the hedge fund footprint is really quite small. total SFH ownership of about 600,000, which is not nothing minor in the scheme of things"
+                }
+            ],
+            "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3kgry75k5k32i",
+            "label": [
+                0.6873311996459961,
+                0.04899512976408005,
+                0.09038200229406357,
+                0.1006937175989151,
+                0.010160145349800587,
+                0.024059472605586052,
+                0.021731989458203316,
+                0.01664632186293602
+            ]
+        }
+    ]
+}

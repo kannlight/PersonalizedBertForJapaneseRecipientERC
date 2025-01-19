@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "プロセカ次寧々ちゃん来るやん"
+                },
+                {
+                    "author": "did:plc:m6gpinmvbvuydgukymanu7vt",
+                    "type": 2,
+                    "utter": "プロセカやってるの？"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "推しイベがある時だけやってる感じ"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3lbhpf6q3r22p",
+            "label": [
+                0.9717640280723572,
+                0.000850620970595628,
+                0.024801209568977356,
+                0.0005896722432225943,
+                0.00011443299445090815,
+                0.0008872282924130559,
+                0.0004314017132855952,
+                0.000561433145776391
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "推しイベがある時だけやってる感じ"
+                },
+                {
+                    "author": "did:plc:m6gpinmvbvuydgukymanu7vt",
+                    "type": 2,
+                    "utter": "なるほどねー、てことは寧々ちゃん推し？"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "うん！寧々ちゃん推しだよ❤️"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3lbm64a3ods25",
+            "label": [
+                0.9993786811828613,
+                4.190143954474479e-05,
+                0.0002805292315315455,
+                7.526861008955166e-05,
+                5.015299757360481e-05,
+                3.8838927139295265e-05,
+                5.563573358813301e-05,
+                7.891505811130628e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "うん！寧々ちゃん推しだよ❤️"
+                },
+                {
+                    "author": "did:plc:m6gpinmvbvuydgukymanu7vt",
+                    "type": 2,
+                    "utter": "じゃあ、ブルフェスって引いた？"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "引いたよ👍"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3lbroec6ubc26",
+            "label": [
+                0.004441794008016586,
+                0.010216768831014633,
+                0.0010956812184304,
+                0.015819508582353592,
+                0.0016817253781482577,
+                0.011116745881736279,
+                0.9547911882400513,
+                0.0008366164402104914
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "引いたよ👍"
+                },
+                {
+                    "author": "did:plc:m6gpinmvbvuydgukymanu7vt",
+                    "type": 2,
+                    "utter": "結果はどうだった？"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "出たよ！"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3lbwpnpiaz227",
+            "label": [
+                0.9993891716003418,
+                6.284407572820783e-05,
+                0.00023772130953148007,
+                0.0001542325917398557,
+                3.4265722206328064e-05,
+                2.953410876216367e-05,
+                4.9755490181269124e-05,
+                4.2472169297980145e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "出たよ！"
+                },
+                {
+                    "author": "did:plc:m6gpinmvbvuydgukymanu7vt",
+                    "type": 2,
+                    "utter": "何10連？"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "10連だったかな？"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3lbz3t2ihq22n",
+            "label": [
+                0.20833083987236023,
+                0.0010605028364807367,
+                0.7860968708992004,
+                0.001963723683729768,
+                0.0003989417164120823,
+                0.0006726202555000782,
+                0.000518752436619252,
+                0.0009577377350069582
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "一般的には21日からが下旬らしいよ"
+                },
+                {
+                    "author": "did:plc:2z5gok445ibe2jqlq72elmjd",
+                    "type": 2,
+                    "utter": "なるほど！\n教えてくれてありがとう!!\nあとでイオンにも電話してみる！"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "そうだね！\n私も電話で聞いてみようかな"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3l6t56fwrpt2j",
+            "label": [
+                0.001012056483887136,
+                0.00015170635015238076,
+                0.9983906745910645,
+                0.00015485406038351357,
+                5.990562931401655e-05,
+                0.00010399603343103081,
+                5.880076059838757e-05,
+                6.801072595408186e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "そうだね！\n私も電話で聞いてみようかな"
+                },
+                {
+                    "author": "did:plc:2z5gok445ibe2jqlq72elmjd",
+                    "type": 2,
+                    "utter": "買えた？"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "まだ買えてない😭"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3l6z75ro3xk27",
+            "label": [
+                0.0003975040162913501,
+                0.9988957643508911,
+                0.00017776545428205281,
+                9.399645205121487e-05,
+                5.663322008331306e-05,
+                0.00018031499348580837,
+                0.00016864799545146525,
+                2.940265039796941e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "まだ買えてない😭"
+                },
+                {
+                    "author": "did:plc:2z5gok445ibe2jqlq72elmjd",
+                    "type": 2,
+                    "utter": "今売ってる店見つけたから買ってくる!!"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "いいなー行ってらっしゃい👋😊"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3l6za2ujtqu2d",
+            "label": [
+                0.35286593437194824,
+                0.002167330589145422,
+                0.6424311399459839,
+                0.0006607435061596334,
+                0.00034605167456902564,
+                0.0005009250016883016,
+                0.0004939178470522165,
+                0.0005339814233593643
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 1,
+                    "utter": "いいなー行ってらっしゃい👋😊"
+                },
+                {
+                    "author": "did:plc:2z5gok445ibe2jqlq72elmjd",
+                    "type": 2,
+                    "utter": "今日電話したらありますよーでもなくなり次第終了って言われたから電話したら意外と売ってるかも"
+                },
+                {
+                    "author": "did:plc:dlfagqw6rmh5bjk7btv7dcnt",
+                    "type": 3,
+                    "utter": "取り扱ってる店舗はわかるんだけど遠いからなかなか行けないんだよね💦\n\n電話してもし残ってたら明日行ってみる！"
+                }
+            ],
+            "uri": "at://did:plc:dlfagqw6rmh5bjk7btv7dcnt/app.bsky.feed.post/3l6za6xxuw523",
+            "label": [
+                0.0006251886952668428,
+                0.0004052229051012546,
+                0.9986292123794556,
+                9.050394146470353e-05,
+                4.938318670610897e-05,
+                9.352041524834931e-05,
+                5.489064278663136e-05,
+                5.2161121857352555e-05
+            ]
+        }
+    ]
+}

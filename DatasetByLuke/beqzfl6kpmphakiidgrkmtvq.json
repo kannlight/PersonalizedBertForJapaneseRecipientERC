@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "なかなか風流な物を・・・有難く受け取ろう"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "ン、いつも世話なってる\n誕生日おめでとうさん、良い日々を"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "あまり夜更かしして明日朝寝坊しないようにな？"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3leouaxveh22x",
+            "label": [
+                0.0018555399728938937,
+                0.002009635791182518,
+                0.013269581831991673,
+                0.0011211162200197577,
+                0.0004653174546547234,
+                0.9804785847663879,
+                0.00043059629388153553,
+                0.00036955505493097007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "あまり夜更かしして明日朝寝坊しないようにな？"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "…眠気がゼロだ"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "子守歌を歌うか？\n親父殿を呼ぶか？\n母君を呼ぶか？（選択肢が何とも言えない）"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3leouiykjqc2x",
+            "label": [
+                0.6950273513793945,
+                0.013832471333444118,
+                0.2219965010881424,
+                0.0036323159001767635,
+                0.0010547330603003502,
+                0.05647440627217293,
+                0.002311628544703126,
+                0.0056706084869802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "捕まったな（笑）"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "嘘じゃん…"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "（起きてたの知ってた）"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3leouxgodp22x",
+            "label": [
+                0.9175984263420105,
+                0.026408430188894272,
+                0.009355420246720314,
+                0.007434705272316933,
+                0.002970513654872775,
+                0.01773306168615818,
+                0.012170524336397648,
+                0.006328896153718233
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "君と末っ子君の会話はユーモアが有って面白いぞ"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "ユーモア求めてねェェェェェしッ!! 彼奴が、ぐぬぬッ、舐めプ野郎が人の神経逆撫ですッから…クソがァァァァァ(BoooM) 絶対超えてやる!!"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "緑谷が爆豪と轟２人合わせたら最強と言っていたらしいが、コンビ組んでみるか？爆焦ペア…とか（名前考えて）"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3lcndoo47t225",
+            "label": [
+                0.0005147372139617801,
+                0.0001630393526284024,
+                0.9989387392997742,
+                0.00012795469956472516,
+                5.5520889873150736e-05,
+                9.143376519205049e-05,
+                5.840376252308488e-05,
+                5.0198945245938376e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "緑谷が爆豪と轟２人合わせたら最強と言っていたらしいが、コンビ組んでみるか？爆焦ペア…とか（名前考えて）"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "…爆笑…だと、俺と彼奴が組めば№1すら越えられるコンビになれンのか←(少し沈黙)\nいやねェだろ、ねェ、彼奴とコンビ組むならクソナードをボケに添える"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "普段末っ子がツッコミでお前がボケのようだが、緑谷相手にﾂｯｺﾐが出来るのか？（くくっ）"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3lcppwbvcxc2m",
+            "label": [
+                0.03191002458333969,
+                0.03926391527056694,
+                0.04489407688379288,
+                0.3571731448173523,
+                0.10391519218683243,
+                0.3832753002643585,
+                0.026129167526960373,
+                0.013439208269119263
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "普段末っ子がツッコミでお前がボケのようだが、緑谷相手にﾂｯｺﾐが出来るのか？（くくっ）"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "…は？ ハァァァァァ!? 誰がボケだッて!?\n常にボケはあのポケポケした舐めプだろォがよ!!(がうがう)"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "どちらがどちらかアンケートでも取ってみるか？（くくっ）"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3lcpq2zqttk2m",
+            "label": [
+                0.0008673140546306968,
+                0.00015931556117720902,
+                0.9984776377677917,
+                0.00013443494390230626,
+                9.560277976561338e-05,
+                0.00010390833631390706,
+                0.00010005899093812332,
+                6.162579666124657e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "206"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "うす、カウント有難う"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "今日は朝から時線が賑やかだったぞ"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3laiaprwo7k2c",
+            "label": [
+                0.008230399340391159,
+                0.00036069678026251495,
+                0.0018393141217529774,
+                0.9881755113601685,
+                0.00015917870041448623,
+                0.0008524427539668977,
+                0.00020541400590445846,
+                0.00017709247185848653
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 1,
+                    "utter": "今日は朝から時線が賑やかだったぞ"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "どうやらそうみてェだな…漫才もしてるし、"
+                },
+                {
+                    "author": "did:plc:beqzfl6kpmphakiidgrkmtvq",
+                    "type": 3,
+                    "utter": "轟親子枠で出場しないとだな（くくっ）"
+                }
+            ],
+            "uri": "at://did:plc:beqzfl6kpmphakiidgrkmtvq/app.bsky.feed.post/3laiawzge4c2c",
+            "label": [
+                0.021963397040963173,
+                0.014868111349642277,
+                0.9437223076820374,
+                0.0018156319856643677,
+                0.0005101020797155797,
+                0.015161821618676186,
+                0.0011429962469264865,
+                0.0008155734976753592
+            ]
+        }
+    ]
+}

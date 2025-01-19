@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "お迎え感謝致します"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "なんだか全体的に真っ黒な人だな...。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "私のことはディアブロと呼ぶように\nそれに貴方は全体的に白いと思いますが"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6ubls3fnn2l",
+            "label": [
+                0.007722134236246347,
+                0.012750735506415367,
+                0.9099366664886475,
+                0.011924981139600277,
+                0.022544963285326958,
+                0.0019235792569816113,
+                0.029751164838671684,
+                0.0034457058645784855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "私のことはディアブロと呼ぶように\nそれに貴方は全体的に白いと思いますが"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "ディアブロ？すごい名前だね。キラキラネームってやつ？\n\n私は今ハロウィンの仮装中だからね"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "この名はリムル様に名付けて頂いた名です"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6x4bi6lx72l",
+            "label": [
+                0.9995335340499878,
+                5.685049472958781e-05,
+                0.00015580563922412694,
+                5.236318611423485e-05,
+                3.028861465281807e-05,
+                5.031647742725909e-05,
+                4.608663948602043e-05,
+                7.479665509890765e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "この名はリムル様に名付けて頂いた名です"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "SNSのフォローが外れそうな名前の人だ！"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "リムル様を愚弄するのはお辞めなさい"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6xc2dd67f2q",
+            "label": [
+                0.006801776122301817,
+                0.656316876411438,
+                0.003940686583518982,
+                0.005265786312520504,
+                0.08014556765556335,
+                0.0607336200773716,
+                0.1845017373561859,
+                0.0022939778864383698
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "リムル様を愚弄するのはお辞めなさい"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "愚弄なんてしてないよ。愚弄の意味がよくわからないけど、馬鹿にしてはないんだよ！"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "ならば結構"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6z4xskzyh2v",
+            "label": [
+                0.997556209564209,
+                8.896357758203521e-05,
+                0.0018601971678435802,
+                0.00013977142225485295,
+                6.878624844830483e-05,
+                6.65559564367868e-05,
+                9.9224089353811e-05,
+                0.00012033477833028883
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "ええ、構いませんよ\n私の方からも特別にフォローして差し上げましょう\n光栄に思いなさい"
+                },
+                {
+                    "author": "did:plc:rpmbeej2wolweuto2p2njgta",
+                    "type": 2,
+                    "utter": "ありがとうございます♪悪魔何でしたね確か。\n英霊とは異なる存在。\n仲良くしてもらえると嬉しいですね♪"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "サーヴァントについては存じ上げておりますので御安心を\nこちらこそ、交流関係が増えればリムル様のお役に立てますからねぇ\nクフフフ"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6zgoki2f52l",
+            "label": [
+                0.461020827293396,
+                0.0011897101067006588,
+                0.5348781943321228,
+                0.0003455216356087476,
+                0.000470119237434119,
+                0.0008645289926789701,
+                0.0006332371267490089,
+                0.0005978200351819396
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "サーヴァントについては存じ上げておりますので御安心を\nこちらこそ、交流関係が増えればリムル様のお役に立てますからねぇ\nクフフフ"
+                },
+                {
+                    "author": "did:plc:rpmbeej2wolweuto2p2njgta",
+                    "type": 2,
+                    "utter": "こちらのことも知られていると♪\nそちらの世界も一応はマスターがネトフリとやらで全て視聴は完了済みです♪"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "ほう、では貴方もリムル様の\n素晴らしいご活躍を目にしたのですね？"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6zgtwnj4n2l",
+            "label": [
+                0.9900355935096741,
+                0.00029487290885299444,
+                0.003965453244745731,
+                0.004968398250639439,
+                0.0001226646127179265,
+                8.922764391172677e-05,
+                0.00013656118244398385,
+                0.0003872149682138115
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "ほう、では貴方もリムル様の\n素晴らしいご活躍を目にしたのですね？"
+                },
+                {
+                    "author": "did:plc:rpmbeej2wolweuto2p2njgta",
+                    "type": 2,
+                    "utter": "もちろん♪推しというのが該当するのなら…きめかねますけどもやはりリムル様でしょうかね。\n孔明のような采配や仲間への気配り…優しさetc"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "素晴らしい、貴方とは良き縁が結べそうですねぇクフフフ"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6zh3cf5zp2l",
+            "label": [
+                0.9681237936019897,
+                0.0003432155936025083,
+                0.03056788071990013,
+                0.0001922250521602109,
+                0.00013266901078168303,
+                0.0002455191279295832,
+                0.00017023799591697752,
+                0.00022432957484852523
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "素晴らしい、貴方とは良き縁が結べそうですねぇクフフフ"
+                },
+                {
+                    "author": "did:plc:rpmbeej2wolweuto2p2njgta",
+                    "type": 2,
+                    "utter": "秒レベルで次の采配を導く答えはまさに諸葛孔明そのものでしたからね~♪"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "リムル様には【ラファエル】と言う全知全能のスキルをお持ちだとか"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6zhbbiuzv2v",
+            "label": [
+                0.07112137973308563,
+                0.0009430604986846447,
+                0.034375596791505814,
+                0.8902958631515503,
+                0.00046517731971107423,
+                0.0012084073387086391,
+                0.000355479191057384,
+                0.0012350145261734724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "お迎え感謝致します"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "俺は鉄華団団長、オルガ・イツカだ。\n…あんたは？"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "私の名はディアブロ\nジュラテンペスト連邦国国王\nリムル・テンペスト様にお仕えしています"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wov2rdhs2i",
+            "label": [
+                0.9974587559700012,
+                0.00015991309192031622,
+                0.00168553926050663,
+                0.00013168463192414492,
+                6.070015660952777e-05,
+                0.00011719704343704507,
+                0.00011940304830204695,
+                0.00026681210147216916
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "私の名はディアブロ\nジュラテンペスト連邦国国王\nリムル・テンペスト様にお仕えしています"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "へぇ……王国かぁ。そりゃすげぇな…。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "我が君リムル様はオクタグラムと呼ばれる8人の魔王の1人でもありますからねぇ\nクフフ……あの凛々しいお姿……思い出すだけで胸が張り裂けそうです……"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wp5lsvtn2z",
+            "label": [
+                0.9994840621948242,
+                0.0001505287509644404,
+                9.453201346332207e-05,
+                6.231283623492345e-05,
+                2.2196705685928464e-05,
+                6.96604693075642e-05,
+                4.505250763031654e-05,
+                7.156210631364956e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "我が君リムル様はオクタグラムと呼ばれる8人の魔王の1人でもありますからねぇ\nクフフ……あの凛々しいお姿……思い出すだけで胸が張り裂けそうです……"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "魔、魔王…?俺のところじゃそんなの厄災戦前に書かれた本でしか単語として目にしたことねぇな…。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "では、どなたが貴方の世界の覇権を握っておられるのですか？"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wr72awsg2q",
+            "label": [
+                0.13312619924545288,
+                0.028101162984967232,
+                0.6777735352516174,
+                0.05524914339184761,
+                0.019626561552286148,
+                0.05450759083032608,
+                0.01509341225028038,
+                0.016522381454706192
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "では、どなたが貴方の世界の覇権を握っておられるのですか？"
+                },
+                {
+                    "author": "did:plc:7s4b56d6kx6tdu6l6vw3zauf",
+                    "type": 2,
+                    "utter": "覇権ってか宇宙含めた治安維持ならギャラルホルンって組織が担っちゃいるが…｡"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "なるほど……組織なのですか"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wryegfsc2q",
+            "label": [
+                0.0014409174909815192,
+                0.0005805955734103918,
+                0.00037878405419178307,
+                0.996333122253418,
+                0.00014542891585733742,
+                0.0006092855473980308,
+                0.0003756372316274792,
+                0.00013622907863464206
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "お迎え感謝致します"
+                },
+                {
+                    "author": "did:plc:nevs56vklhepobet2hzqfmnq",
+                    "type": 2,
+                    "utter": "フォロするますっ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "こちらもさせて頂きました\n以後、宜しくお願い致します\nサメ殿"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6x4enh46a2q",
+            "label": [
+                0.9902504682540894,
+                0.00015819734835531563,
+                0.008900359272956848,
+                0.00012306096323300153,
+                0.00010712715447880328,
+                0.00011808703129645437,
+                0.00016919639892876148,
+                0.0001735505647957325
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "こちらもさせて頂きました\n以後、宜しくお願い致します\nサメ殿"
+                },
+                {
+                    "author": "did:plc:nevs56vklhepobet2hzqfmnq",
+                    "type": 2,
+                    "utter": "ん〜サメ？\nGULA〜"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "サメと名乗られているのでは？"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6x4i2djg22j",
+            "label": [
+                0.05780969560146332,
+                0.0011611995287239552,
+                0.4072798490524292,
+                0.5261178612709045,
+                0.0008355001336894929,
+                0.0033006768207997084,
+                0.0006649699644185603,
+                0.0028302271384745836
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "サメと名乗られているのでは？"
+                },
+                {
+                    "author": "did:plc:nevs56vklhepobet2hzqfmnq",
+                    "type": 2,
+                    "utter": "あ〜…なまえ呼ぶ今しゅき〜\n（今は名前で呼んで欲しいらしい？）"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "それではお名前をお聞きしても？"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6z4yuijiy2a",
+            "label": [
+                0.002621842548251152,
+                0.0002042249107034877,
+                0.9959565997123718,
+                0.000578631937969476,
+                0.00010923764057224616,
+                0.0002300352934980765,
+                0.00014047166041564196,
+                0.00015894346870481968
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "それではお名前をお聞きしても？"
+                },
+                {
+                    "author": "did:plc:nevs56vklhepobet2hzqfmnq",
+                    "type": 2,
+                    "utter": "マイネームイズGULA！\nよろちくー♪"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "承知致しました\nGULA殿"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6zg56z2yx2l",
+            "label": [
+                0.9980657696723938,
+                0.00010126474808203056,
+                0.0013722435105592012,
+                0.00012295620399527252,
+                5.732354475185275e-05,
+                6.008023046888411e-05,
+                7.828992238501087e-05,
+                0.00014205029583536088
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "起きなさい"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "は、はひっ…(がたっ)"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "やれやれ\nリムル様に穏便に済ませろとご命令されていなければ叩き起していたところですが……\nまぁ、いいでしょう"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wpdczkft2l",
+            "label": [
+                0.209083691239357,
+                0.6664015054702759,
+                0.009507719427347183,
+                0.0031746653839945793,
+                0.0012539314338937402,
+                0.0985335037112236,
+                0.010171948932111263,
+                0.0018730366136878729
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "やれやれ\nリムル様に穏便に済ませろとご命令されていなければ叩き起していたところですが……\nまぁ、いいでしょう"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "ひ、久しぶりのお休みで…つい…"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "そうでしたか\nそういえば、スレッタ殿はどのような事をなされているので？"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wphfv4ka2j",
+            "label": [
+                0.20434756577014923,
+                0.001873336499556899,
+                0.6172717809677124,
+                0.17085343599319458,
+                0.0008633260149508715,
+                0.0013446671655401587,
+                0.0006537876324728131,
+                0.0027920911088585854
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "そうでしたか\nそういえば、スレッタ殿はどのような事をなされているので？"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "はぇ…？が、学生…ですよ…？"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "学生？……なるほど\nリムル様に以前お聞きしたことがあります\n勉学をするのが主な任務だとか"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wpxprizq2s",
+            "label": [
+                0.018012354150414467,
+                0.0005843266262672842,
+                0.007467759773135185,
+                0.9722145199775696,
+                0.00026262711617164314,
+                0.0005047128652222455,
+                0.00034859575680457056,
+                0.0006051051896065474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "学生？……なるほど\nリムル様に以前お聞きしたことがあります\n勉学をするのが主な任務だとか"
+                },
+                {
+                    "author": "did:plc:qannyb4mz6tgafow5nre5mvt",
+                    "type": 2,
+                    "utter": "に、任務…た、確かにそうかもしれません。\n課題したり勉強したり、ですから…"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "ですが、今のうちに励んで置いた方がよろしいかと\nリムル様もよく過去を嘆いてる時がございますので"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wqdwxvrk2e",
+            "label": [
+                0.00030850464827381074,
+                0.0002332689327886328,
+                0.9990133047103882,
+                7.874122093198821e-05,
+                6.321540422504768e-05,
+                0.00016531560686416924,
+                5.95852907281369e-05,
+                7.810744864400476e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "宜しければ\nお相手致しましょう"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "ありがとうディアブロ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "お気になさらず\n私も少々退屈しておりましたので\n話題は瑞希殿にお任せしましょう"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wolr4jf42l",
+            "label": [
+                0.09308058023452759,
+                0.0016605086857452989,
+                0.900946855545044,
+                0.00024176989973057061,
+                0.00039806909626349807,
+                0.0013426518999040127,
+                0.0015352742047980428,
+                0.0007942067459225655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "お気になさらず\n私も少々退屈しておりましたので\n話題は瑞希殿にお任せしましょう"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "話題かぁ良く流れで\n話してるからなぁ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "そうですか……\nそれではいと尊きリムル様のご活躍をおきかせ致しましょうか？\nクフフ"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wosnt72g2l",
+            "label": [
+                0.0037078161258250475,
+                0.0003856312541756779,
+                0.9954244494438171,
+                0.0001249002671102062,
+                7.281103899003938e-05,
+                0.0001169361567008309,
+                8.707959204912186e-05,
+                8.03227667347528e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "そうですか……\nそれではいと尊きリムル様のご活躍をおきかせ致しましょうか？\nクフフ"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "僕も気になってる\nそのリムルさんがどういう人なのか。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "宜しいでしょう\nでは、まずリムル様の功績からお話しましょう\nリムル様は前世は人間のお姿だったとか……そこで通り魔に刺され死亡しましたがスライムとして我々の世界に転生されました\n最初は目も見えず声も出せずただただ周囲に生えていたヒポクテ草を捕食していたそうです"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wp3gxmi22q",
+            "label": [
+                0.9475342631340027,
+                0.0010566359851509333,
+                0.042660053819417953,
+                0.003275202587246895,
+                0.0004851978155784309,
+                0.0007594662019982934,
+                0.000605517125222832,
+                0.0036236424930393696
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "宜しいでしょう\nでは、まずリムル様の功績からお話しましょう\nリムル様は前世は人間のお姿だったとか……そこで通り魔に刺され死亡しましたがスライムとして我々の世界に転生されました\n最初は目も見えず声も出せずただただ周囲に生えていたヒポクテ草を捕食していたそうです"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "転生って実際にあるんだ。\n本でしか見たこと無い\nしかもスライムか\nスライムって最初に戦う最弱モンスターじゃん"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "リムル様はスライムであらせられながら八星魔王オクタグラムの1人にしてジュラテンペスト連邦国の国王です"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6wqxcfwli2s",
+            "label": [
+                0.6887173056602478,
+                0.003503403626382351,
+                0.02172868885099888,
+                0.27309900522232056,
+                0.0014220477314665914,
+                0.002622965956106782,
+                0.001658293535001576,
+                0.00724823260679841
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "お呼びでしょうか？"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "うん、ちょっと皆に秘密にしてることディアブロには伝えておこうかなって。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "なるほど\n私で宜しいのでしたらお聞きしましょう"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6uv7kkcvj2l",
+            "label": [
+                0.001866622013039887,
+                0.00018007890321314335,
+                0.9974566102027893,
+                0.0001525314582977444,
+                5.976072498015128e-05,
+                0.0001254945673281327,
+                7.689728226978332e-05,
+                8.199737931136042e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "なるほど\n私で宜しいのでしたらお聞きしましょう"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "うん、ディアブロでいいんだ\n実は僕(小声で)男なんだ\nでもこれは皆には伝えられない\n普通にいつも通りに接しられるのが、たまらなく嫌なんだ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "なるほど……我々悪魔は性別が無いのでご期待に添える答えが出せるかは分かりませんが………ふむ"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6ux2o45zo2j",
+            "label": [
+                0.8614286184310913,
+                0.0289116520434618,
+                0.03349310904741287,
+                0.003973015118390322,
+                0.00041029549902305007,
+                0.06591083109378815,
+                0.002967788837850094,
+                0.002904713386669755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "なるほど……我々悪魔は性別が無いのでご期待に添える答えが出せるかは分かりませんが………ふむ"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "いい答えは期待していない\nただ今伝えられてホットしてる。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "そうですか\nお力になれたのなら良かったです\n1つ申し上げるとすれば\n私は今後とも瑞希殿にお力添えする所存でございます\nその方がリムル様のお役に立てるでしょうからねぇ……クフフ"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6uxiifhel2l",
+            "label": [
+                0.9912403225898743,
+                0.0002330731222173199,
+                0.007852914743125439,
+                7.277453551068902e-05,
+                9.574199793860316e-05,
+                0.00016597489593550563,
+                0.00016016574227251112,
+                0.0001790605892892927
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "そうですか\nお力になれたのなら良かったです\n1つ申し上げるとすれば\n私は今後とも瑞希殿にお力添えする所存でございます\nその方がリムル様のお役に立てるでしょうからねぇ……クフフ"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 2,
+                    "utter": "それが聞けて良かった"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "いえいえ\nまた何かございましたら\nお気軽にお声掛けください"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6uxvxtuua2l",
+            "label": [
+                0.0789286196231842,
+                0.0005252267001196742,
+                0.9182958602905273,
+                0.0003427224582992494,
+                0.00042542224400676787,
+                0.0004913141019642353,
+                0.0004146533028688282,
+                0.0005761025822721422
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "よろしくお願い致します\nキソ殿\n改めて自己紹介を\n私はリムル様にお仕えする忠実なるバトラー、ディアブロと申します\nお見知り置きを"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "なるほど。リムル……ってのがお前の指揮官なのか。\nこちらこそ、この世界のことをよく知らないから何か困ったことがあったら頼らせて貰おう。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "我が君を呼び捨てとは少々見過ごせませんが……ここでは騒ぎを起こすなと仰せつかっておりますので大目に見るとしましょう。\n宜しいでしょう。私で良ければ力添え致しましょう"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6rr6ynb652z",
+            "label": [
+                0.09267118573188782,
+                0.1840294748544693,
+                0.2865889370441437,
+                0.027616553008556366,
+                0.04204249382019043,
+                0.1907990574836731,
+                0.15638533234596252,
+                0.019866975024342537
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "我が君を呼び捨てとは少々見過ごせませんが……ここでは騒ぎを起こすなと仰せつかっておりますので大目に見るとしましょう。\n宜しいでしょう。私で良ければ力添え致しましょう"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "ああ、悪いな。\nどこの世界も上下関係は厳しいか……これからは気をつけるよ。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "宜しい\n我が君、リムル様は尊きお方なのです\n貴方もリムル様にお会いしたらその力に魅了されることでしょう"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6rrjuotkg2z",
+            "label": [
+                0.8307825922966003,
+                0.002473394386470318,
+                0.16134198009967804,
+                0.0010618020314723253,
+                0.00048572520609013736,
+                0.0007032108260318637,
+                0.0005170488147996366,
+                0.002634272212162614
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "宜しい\n我が君、リムル様は尊きお方なのです\n貴方もリムル様にお会いしたらその力に魅了されることでしょう"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "悪いがオレの命は既に預けてあるからな。\nだがまあ、ディアブロがそこまで惚れてるってことは余程の器なんだろう。\n会える日が楽しみだよ。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "ほう、キソ殿も誰かに忠誠を？\n少し興味がありますねぇ"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6rsdl2c4r2l",
+            "label": [
+                0.004103619605302811,
+                0.00019550143042579293,
+                0.9920645356178284,
+                0.00309870601631701,
+                8.893816993804649e-05,
+                0.00021549523808062077,
+                8.154042734531686e-05,
+                0.0001516826159786433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 1,
+                    "utter": "ほう、キソ殿も誰かに忠誠を？\n少し興味がありますねぇ"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "オレにも指揮官がいるのさ。戦闘じゃからっきしだが頭のキレる有能な奴なんだ。\nオレのいた世界は深海……人間の敵がウヨウヨいてな。オレはソイツ等を倒して平和を勝ち取るために戦ってンのさ。\n尤も……オレは何の因果かこの世界に来ちまったみたいだけど。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 3,
+                    "utter": "なるほど……魔物の様なものでしょうか？"
+                }
+            ],
+            "uri": "at://did:plc:zexdogbopea7dnfbmrjjpz63/app.bsky.feed.post/3l6rsw6ltgs2a",
+            "label": [
+                0.002385286381468177,
+                0.0008448066655546427,
+                0.001998497173190117,
+                0.9831311702728271,
+                0.0001678609987720847,
+                0.010804051533341408,
+                0.00043689069570973516,
+                0.0002314986486453563
+            ]
+        }
+    ]
+}

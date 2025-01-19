@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "凝を怠るな！そこにちゃんといますよ…！"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "あ、いたぁ！！かわよ！\n俺の円の半径は0.5m（つーかこれが限界）"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "ひとりちゃん挟まっちゃったのね…"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lbotpsgmdc2l",
+            "label": [
+                0.0019194253254681826,
+                0.9965140223503113,
+                0.000218754488741979,
+                0.000775011139921844,
+                4.044741581310518e-05,
+                0.00030145252821967006,
+                0.0001902116637211293,
+                4.065109169459902e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "ひとりちゃん挟まっちゃったのね…"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "狭いとこ好きだからね…でも喜多ちゃんが見つけてくれるのよね…"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "どこにいたって見つけてくれるんだよな…郁代は…"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lboumrdhs22l",
+            "label": [
+                0.0034500614274293184,
+                0.0023733372800052166,
+                0.9934012293815613,
+                0.00012571871047839522,
+                6.325429421849549e-05,
+                0.00034802837762981653,
+                0.00010550192382652313,
+                0.00013279833365231752
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "どこにいたって見つけてくれるんだよな…郁代は…"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "GPS、付けておいたからね！ひとりちゃん！"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "迷子になっても大丈夫なようにですよね？？？"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lbovht3bbk2l",
+            "label": [
+                0.0935545265674591,
+                0.0015953837428241968,
+                0.8806405067443848,
+                0.015590807422995567,
+                0.0006154997390694916,
+                0.004025514703243971,
+                0.0007271238137036562,
+                0.003250625915825367
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "迷子になっても大丈夫なようにですよね？？？"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "スマホ眺めながら「ふふ…今日も寄り道せずに帰れたわね…どこにいてもわかるからね、ひとりちゃん…ふふっ」て楽しげな喜多ちゃん"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "ゾゾゾぼ喜多合同…"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lbovujscps2l",
+            "label": [
+                0.9881865382194519,
+                0.001889502047561109,
+                0.006445195525884628,
+                0.0008612140081822872,
+                0.00024522285093553364,
+                0.0006204289966262877,
+                0.0012213150039315224,
+                0.0005305210943333805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "天才だって信じてた……"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "ヨグさん…額に縫目が…"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "パカ……ってするために……！"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfrrfmnsz227",
+            "label": [
+                0.31252726912498474,
+                0.16279777884483337,
+                0.23552879691123962,
+                0.21766620874404907,
+                0.007071958854794502,
+                0.03618088364601135,
+                0.017294539138674736,
+                0.010932574979960918
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "パカ……ってするために……！"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "メロンパン入れになってるんだよね…"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "人肌に温めてるメロンパン嫌すぎる…！"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfrrm2qyvs27",
+            "label": [
+                0.002929650479927659,
+                0.006126896943897009,
+                0.0012940593296661973,
+                0.002141424687579274,
+                0.0018516023410484195,
+                0.004767911974340677,
+                0.980303168296814,
+                0.0005853252368979156
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "人肌に温めてるメロンパン嫌すぎる…！"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "冷たいよりいいだろ！！人肌メロンパン！！"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "人肌ってつくと少しキッショwって思うけど……"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfrt2tnu2k27",
+            "label": [
+                0.04028964042663574,
+                0.3037336468696594,
+                0.005321453791111708,
+                0.019198860973119736,
+                0.0025308548938483,
+                0.5731557607650757,
+                0.053855981677770615,
+                0.0019137859344482422
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "人肌ってつくと少しキッショwって思うけど……"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "ほら…外はさむいだろう…人肌に温めておいたよ…"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "ぬる……レンチンしてクレメンス"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfru2ewn4s27",
+            "label": [
+                0.0031828624196350574,
+                0.9471308588981628,
+                0.03250567242503166,
+                0.0007744356989860535,
+                0.0005793292657472193,
+                0.0012115401914343238,
+                0.01440418604761362,
+                0.0002112333895638585
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "ぬる……レンチンしてクレメンス"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "了解、おかのした（ゆで卵をレンチンする音）"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "アルミホイルも巻くべ！"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfrwmfy22c27",
+            "label": [
+                0.005932195577770472,
+                0.0003610911371652037,
+                0.992624819278717,
+                0.0002940230770036578,
+                0.00016618453082628548,
+                0.00023783663345966488,
+                0.00013091854634694755,
+                0.0002529653429519385
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "喜多はクマさんパンツ穿け。それが嫌ならパステルカラーのやつにしろ……"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "パステルカラーのクマさんパンツよひとりちゃん！！"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "そのクマさんパンツは、ヒグマップに載るかな？？？"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfgyjacxsk2r",
+            "label": [
+                0.0006194488960318267,
+                0.00017904641572386026,
+                0.9988365769386292,
+                0.00012201059143990278,
+                5.0348902732366696e-05,
+                9.17992292670533e-05,
+                5.114573650644161e-05,
+                4.9563925131224096e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "そのクマさんパンツは、ヒグマップに載るかな？？？"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "金沢八景と下北沢で目撃したと情報が載ってるわね！"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "金沢八景で目撃情報あがったら、もう…それェ……繁殖してるじゃん……"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfgytukaf22r",
+            "label": [
+                0.0016576163470745087,
+                0.006502521224319935,
+                0.0004196691734250635,
+                0.9801903367042542,
+                0.0004675394156947732,
+                0.00985565036535263,
+                0.0007562882383354008,
+                0.00015042637824080884
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "金沢八景で目撃情報あがったら、もう…それェ……繁殖してるじゃん……"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "子作りしちゃってる…ってコト…？\n\nきたぬいっぷ欲しいわね"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "クマさんパンツが目撃できるタイミングなんて！！！そういうことだろ！！！\n\n可愛いマップじゃん……"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfh3a3wg622r",
+            "label": [
+                0.9992850422859192,
+                7.50217805034481e-05,
+                0.00017636701522860676,
+                0.0003053653344977647,
+                3.195935641997494e-05,
+                3.281771932961419e-05,
+                4.487177648115903e-05,
+                4.858569445786998e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "クマさんパンツが目撃できるタイミングなんて！！！そういうことだろ！！！\n\n可愛いマップじゃん……"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "ぷぷっぴどぅ～した時かもしれないじゃん！！\n\n19時4分、ココアを持ちながらきたーんと帰宅する姿を確認。該当地域の方は可愛さに正気を失わないよう注意されたし、ってね"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "パタヤビーチ？\n\n可愛いな…！もうほりごたつさんが喜多ぬいの観測者になろう！"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfh5fyr7nk2r",
+            "label": [
+                0.999467670917511,
+                6.137719174148515e-05,
+                0.00024747109273448586,
+                7.99873741925694e-05,
+                2.3046955902827904e-05,
+                3.466594353085384e-05,
+                4.15411705034785e-05,
+                4.429378896020353e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 1,
+                    "utter": "パタヤビーチ？\n\n可愛いな…！もうほりごたつさんが喜多ぬいの観測者になろう！"
+                },
+                {
+                    "author": "did:plc:msceeazlyatp5c2klxeszaw4",
+                    "type": 2,
+                    "utter": "水着になっちゃう…？\n\n喜多ぬいは心の綺麗な人の前にしか現れないの代…"
+                },
+                {
+                    "author": "did:plc:a2uvsi5cigoszwcdqknfiuxc",
+                    "type": 3,
+                    "utter": "ユニコーンみたいな…"
+                }
+            ],
+            "uri": "at://did:plc:a2uvsi5cigoszwcdqknfiuxc/app.bsky.feed.post/3lfh6f53ovs2r",
+            "label": [
+                0.07876428961753845,
+                0.006265921518206596,
+                0.9104039072990417,
+                0.002323083346709609,
+                0.00015859260747674853,
+                0.0008033622289076447,
+                0.0007894999580457807,
+                0.0004913108423352242
+            ]
+        }
+    ]
+}

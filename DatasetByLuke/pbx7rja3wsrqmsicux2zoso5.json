@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "可愛い！ナニコレ！可愛い〜〜❤️❤️❤️"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "え？可愛いですか？？\nびっくり〜🤣\n\nありがとうございます！！！"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "おしゃれだし色もパステルカラーで素敵です〜！表情も〜〜！！"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3lbl4zr7yps2i",
+            "label": [
+                0.9996113181114197,
+                4.163979974691756e-05,
+                0.00012511441309470683,
+                6.143848440842703e-05,
+                3.143544745398685e-05,
+                3.730276148417033e-05,
+                4.53584871138446e-05,
+                4.6346798626473173e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "おしゃれだし色もパステルカラーで素敵です〜！表情も〜〜！！"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "えええ！！！\nありがとうございます〜😂\nアナログに近い塗り方で、あまり修正効かないところが今後の課題です😂\nまた頑張ります！！！"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "厚塗りは修正は出来ませんよね💦せめて、髪、肌、服、背景にレイヤー分けるといいかもです💦でも1枚で描くのが一番早い！！"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3lbl6nyzcrs2l",
+            "label": [
+                0.0018382976995781064,
+                0.008940119296312332,
+                0.986055850982666,
+                0.00020907714497298002,
+                0.00012014559615636244,
+                0.0023253746330738068,
+                0.00026074619381688535,
+                0.0002504386065993458
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "厚塗りは修正は出来ませんよね💦せめて、髪、肌、服、背景にレイヤー分けるといいかもです💦でも1枚で描くのが一番早い！！"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "これって厚塗りってやつですかね？←おーい😂\n昔習った油絵っぽく色を乗っけてるんですが、そうか、これが厚塗り？？\n\nちょこちょこレイヤー増やしてみます🫡\nいつもありがとうございます😊"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "デジタルでは1枚のレイヤーにどんどん描き込むのを厚塗りって呼んでると思います。私見ですが😅\nどんどん素敵になられて〜楽しみです！"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3lbl7a23iqs2w",
+            "label": [
+                0.9886006712913513,
+                0.0002146163024008274,
+                0.010502764955163002,
+                0.00015091878594830632,
+                0.00011201403685845435,
+                0.00014790394925512373,
+                0.0001161416366812773,
+                0.0001550559827592224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "デジタルでは1枚のレイヤーにどんどん描き込むのを厚塗りって呼んでると思います。私見ですが😅\nどんどん素敵になられて〜楽しみです！"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "重ね重ね本当にありがとうございます！がんばります！！"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "お忙しいのに！！プレッシャーかけてすいません💦でもでもわーーい！楽しみ✨"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3lblktugj2c2q",
+            "label": [
+                0.9994489550590515,
+                4.976401760359295e-05,
+                0.0002804986434057355,
+                5.092874198453501e-05,
+                3.0325763873406686e-05,
+                5.1552218792494386e-05,
+                4.2061736166942865e-05,
+                4.5904565922683105e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "今日は危なかった…話しながら気を失いかけた…💦3時間半しか睡眠取ってないと流石に眠いね〜😅"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "うわーーー\n3時間半はキツイです！！\nご自愛くださいませーーー！！！"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "ふっかーーつ！！ありがとうございます❤2199をサブスクで見つつ〜元気充填✨✨✨"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3l6rbri4ix52b",
+            "label": [
+                0.9996100068092346,
+                4.384135172585957e-05,
+                0.00013468433462549,
+                5.895409412914887e-05,
+                2.8647771614487283e-05,
+                3.829578054137528e-05,
+                4.507838093559258e-05,
+                4.054418241139501e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "ふっかーーつ！！ありがとうございます❤2199をサブスクで見つつ〜元気充填✨✨✨"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "2199の古代君、可愛いですもんね🤭🤭🤭"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "前半はゆるい絵ですが性格がカワイイですね～～元気でピュア～今もちゃんとピュアだけど…いじめられて悲しいっす💦"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3l6shoe6uuv27",
+            "label": [
+                0.9993293285369873,
+                0.00030565971974283457,
+                0.00010662708518793806,
+                7.574676419608295e-05,
+                2.1545331037486903e-05,
+                5.609589788946323e-05,
+                5.280955883790739e-05,
+                5.2291765314294025e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "前半はゆるい絵ですが性格がカワイイですね～～元気でピュア～今もちゃんとピュアだけど…いじめられて悲しいっす💦"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "🥲🥲🥲\n本当、何であんな可哀想な目に😭\n第二章がどん底でそこから上がるだけとのことですが、別に毎回どん底に突き落とさなくてもいいのよ、と思わなくもなく😑"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "ほんまに～～イジメ反対！！主人公なんだぞ～～プンスコ！"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3l6x74uqfdt2b",
+            "label": [
+                0.0025259635876864195,
+                0.043347038328647614,
+                0.03666609153151512,
+                0.013037853874266148,
+                0.8351821303367615,
+                0.008116906508803368,
+                0.05756888911128044,
+                0.003555045695975423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "ほんまに～～イジメ反対！！主人公なんだぞ～～プンスコ！"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "ですよねーーー😑😑😑"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "総統との友情が無かったらもう見ない💦今はまだ無い…😭"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3l6x7gizv2u27",
+            "label": [
+                0.034372661262750626,
+                0.9296661019325256,
+                0.0036612791009247303,
+                0.002030286006629467,
+                0.00038242575828917325,
+                0.026978779584169388,
+                0.002045177621766925,
+                0.0008632640819996595
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 1,
+                    "utter": "総統との友情が無かったらもう見ない💦今はまだ無い…😭"
+                },
+                {
+                    "author": "did:plc:67kgmwatahcjacwthvhhuy2h",
+                    "type": 2,
+                    "utter": "あると信じましょう😭\nオリヤマより、仲良くなりそうなキャラ設定なんですけどね🥲"
+                },
+                {
+                    "author": "did:plc:pbx7rja3wsrqmsicux2zoso5",
+                    "type": 3,
+                    "utter": "見た目はめちゃ良いのにね〜😑"
+                }
+            ],
+            "uri": "at://did:plc:pbx7rja3wsrqmsicux2zoso5/app.bsky.feed.post/3l6xf2qzage2q",
+            "label": [
+                0.00445225415751338,
+                0.9931353330612183,
+                0.0007318389252759516,
+                0.00042392362956888974,
+                8.370792784262449e-05,
+                0.0001804800849640742,
+                0.0009096415597014129,
+                8.289112884085625e-05
+            ]
+        }
+    ]
+}

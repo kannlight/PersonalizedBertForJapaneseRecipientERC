@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "なるほど……\nどうして北斗七星なんだプラナ…"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "北斗七星はおおぐま座の一部です。\nプラナに北斗七星がある。\nつまりプラナは大熊並みに強いということです？"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "逞しいねプラナ…"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lbnria6muk2t",
+            "label": [
+                0.16666755080223083,
+                0.09058097004890442,
+                0.027310458943247795,
+                0.5279388427734375,
+                0.002050289884209633,
+                0.171136736869812,
+                0.008075475692749023,
+                0.006239642854779959
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "逞しいねプラナ…"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "実際にプラナは先生より強いです\nヘイロー持ちの生徒に勝てるわけないです"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "プラナに腕相撲で負けたいんですが"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lbo24zyaks27",
+            "label": [
+                0.0011428715661168098,
+                0.002513737417757511,
+                0.9949736595153809,
+                0.00017864268738776445,
+                0.00015022863226477057,
+                0.0006010850775055587,
+                0.00032256334088742733,
+                0.00011714120773831382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "プラナに腕相撲で負けたいんですが"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "最初は手加減しているけど先生の弱すぎる力に興奮していそうです"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "ゾクゾクしているのか…プラナ"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lbo4ubgmvk2y",
+            "label": [
+                0.9069871306419373,
+                0.004352578893303871,
+                0.025104021653532982,
+                0.0254221074283123,
+                0.00044313116814009845,
+                0.03410515561699867,
+                0.002228682627901435,
+                0.0013571670278906822
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "プラナが最も曇る呼び方"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "アロナ"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "a.r.o.n.a\n先生を呼ぶ時の呼び方そろそろ変えたいですね"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lff6nzvp3k2p",
+            "label": [
+                0.0005274080322124064,
+                0.0005072799976915121,
+                0.9984927177429199,
+                8.279452595161274e-05,
+                6.559619214385748e-05,
+                9.078295988729224e-05,
+                0.00016523891827091575,
+                6.81507881381549e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "a.r.o.n.a\n先生を呼ぶ時の呼び方そろそろ変えたいですね"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "『あの人』？\nでも、プラナは同じ人認定はしてるらしいからテセウスの船問題を抱えてはいない"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "あの人先生ってのも語呂の悪さ…とりあえずおもいだして欲しいので\nプレナパテス先生\nにしてるんですがもっとこう…曇るのを…"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lffma6cx4k24",
+            "label": [
+                0.00486842030659318,
+                0.9786567091941833,
+                0.0008658352890051901,
+                0.0005472662160173059,
+                0.00015707584680058062,
+                0.007702772039920092,
+                0.007074213586747646,
+                0.00012761946709360927
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "あの人先生ってのも語呂の悪さ…とりあえずおもいだして欲しいので\nプレナパテス先生\nにしてるんですがもっとこう…曇るのを…"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "あーそういう\n無難に私の先生とかでいいんじゃないでしょうか"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "ぽよぽよ…"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lfgvhghryc2v",
+            "label": [
+                0.997870922088623,
+                0.0007473468431271613,
+                0.0006259419023990631,
+                0.00011726537923095748,
+                4.01189063268248e-05,
+                0.00014800425560679287,
+                0.00036510833888314664,
+                8.535525557817891e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "ぽよぽよ…"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "ぽよぉ……"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "ぽよよ！"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lfhxzfb5uc2a",
+            "label": [
+                0.9986182451248169,
+                0.00019932717259507626,
+                0.0007062362274155021,
+                0.00010405387729406357,
+                5.124830568092875e-05,
+                5.387346027418971e-05,
+                0.00018557377916295081,
+                8.154565875884145e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "ぽよよ！"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "ぽよぽよぽよぽよぽよぽよぽよ"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "ぽよよ…ぷゃまま！"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lfiwrrjlfc23",
+            "label": [
+                0.9974083304405212,
+                0.0005880868411622941,
+                0.0012478017015382648,
+                0.00020230028894729912,
+                7.116566848708317e-05,
+                0.00010495581227587536,
+                0.00023571180645376444,
+                0.00014156519318930805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "一瞬黄金樹に見えた"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "黄金樹なわけ……"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "アイコンがコロコロ変わっていくね"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lexg6ayyyc2a",
+            "label": [
+                0.0025076917372643948,
+                0.00026619480922818184,
+                0.0010738824494183064,
+                0.995246946811676,
+                0.0001818168821046129,
+                0.00030506993061862886,
+                0.0002630571834743023,
+                0.00015531286771874875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "アイコンがコロコロ変わっていくね"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "アイコンわかんなくなっちゃった"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "かおす"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3leyec6woi22v",
+            "label": [
+                0.9599844217300415,
+                0.009341919794678688,
+                0.019141731783747673,
+                0.0015321177197620273,
+                0.0007478954503312707,
+                0.0014828912680968642,
+                0.00617230636999011,
+                0.0015967120416462421
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "かおす"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "おすすめのアイコンないです？\nプラナ+その他抱き合わせでいいんで"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "手当たり次第にプラナを送りつける妖怪になってしまう"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3leyqyqwrnc2n",
+            "label": [
+                0.1141430214047432,
+                0.03686624765396118,
+                0.009177478961646557,
+                0.41755425930023193,
+                0.0008151102811098099,
+                0.4170640707015991,
+                0.0028538245242089033,
+                0.0015260576037690043
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "手当たり次第にプラナを送りつける妖怪になってしまう"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 2,
+                    "utter": "平常運転ヨシッ！\nプラナちゃんいっぱいだね"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "とりあえず2000枚送りつけるよ"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lezunbtnrc2n",
+            "label": [
+                0.0010604645358398557,
+                0.00018787062435876578,
+                0.99831223487854,
+                0.0001140706444857642,
+                7.718655979260802e-05,
+                0.0001050307837431319,
+                7.5620184361469e-05,
+                6.762277917005122e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "世にも奇妙な"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "こんばんはアンコウ？さん？名前変えました？"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "こんばんは\n前の名前はplanarchiveですよ"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lesfqb5u5k2u",
+            "label": [
+                0.9986671209335327,
+                0.00014575735258404166,
+                0.00044388268725015223,
+                0.00013316074910108,
+                6.977393059059978e-05,
+                9.831503120949492e-05,
+                0.0002213346160715446,
+                0.0002205947384936735
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "こんばんは\n前の名前はplanarchiveですよ"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "おはようございます\nXと同じ\"翻車魚\"さんではなかったでしょうか？\n私のこと…覚えていますでしょうか…？"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "よくリプライくれる人ですね、覚えてますよ"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lesjwji6ps2x",
+            "label": [
+                0.9991171956062317,
+                4.3152635043952614e-05,
+                0.00022508946130983531,
+                0.00011201517190784216,
+                7.63403731980361e-05,
+                6.904530164320022e-05,
+                0.0001326717610936612,
+                0.00022447507944889367
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "よくリプライくれる人ですね、覚えてますよ"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "実は…Xのアカウント凍結されました…"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "わー不思議…"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3leskiem5rk2m",
+            "label": [
+                0.0013068777043372393,
+                0.00037099490873515606,
+                0.0008246982470154762,
+                0.9966542720794678,
+                0.0001512310846010223,
+                0.00033998448634520173,
+                0.00024073543318081647,
+                0.0001112445243052207
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 1,
+                    "utter": "凍結って見る専門になるんですね\n凍結原因が気になるところ"
+                },
+                {
+                    "author": "did:plc:wbezwp3v3rqrrc57d4cskjtz",
+                    "type": 2,
+                    "utter": "いえ…少しでも何か見たらエラーになって何も見れなくなります…ほとんど使えないです…\n恐らくは悪戯の通報かよく私が返信で画像を使って返信するのでスパム報告されたのかもしれません…悪意なんてないです…"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 3,
+                    "utter": "そんな仕様に\n通報の数なんですかね？？\n何件で凍結に至るんでしょうね"
+                }
+            ],
+            "uri": "at://did:plc:4utue6ik2huwraqht5kydkdl/app.bsky.feed.post/3lesmntfles2y",
+            "label": [
+                0.0008719171164557338,
+                0.00037322528078220785,
+                0.0006750069442205131,
+                0.9955456256866455,
+                0.00025553794694133103,
+                0.0016630637692287564,
+                0.000475261767860502,
+                0.00014041289978194982
+            ]
+        }
+    ]
+}

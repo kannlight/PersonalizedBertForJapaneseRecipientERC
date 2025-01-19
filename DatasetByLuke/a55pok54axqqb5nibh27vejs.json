@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "……(うさ耳のカチューシャともこもこの手袋を見つめている)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "もこもこのルームシューズいるか？(セットで付けろよ、と差し出し)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "…荼毘さんがつけた方が似合うと思います…(素早くうさ耳を差し出してみた)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldy3al6mmm2f",
+            "label": [
+                0.003389673540368676,
+                0.000458032067399472,
+                0.9956108927726746,
+                0.00010486772225704044,
+                6.462648889282718e-05,
+                0.0001625312288524583,
+                8.994395466288552e-05,
+                0.00011931798508157954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…荼毘さんがつけた方が似合うと思います…(素早くうさ耳を差し出してみた)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "いやいや、天喰くんの方が似合うだろ(ほら、とルームシューズ押し付け)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "………(仕方なくルームシューズと手袋を装着してみた)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldy3of6cvo2h",
+            "label": [
+                0.007891829125583172,
+                0.985626757144928,
+                0.0009778795065358281,
+                0.0004774385888595134,
+                7.62626004870981e-05,
+                0.0038991079200059175,
+                0.0009527105139568448,
+                9.800823318073526e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "………(仕方なくルームシューズと手袋を装着してみた)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "あ、似合う似合う、流石(ｸｽｸｽ)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "、…(すぐに脱いですみっこに移動)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldy3y25wfm2q",
+            "label": [
+                0.7860400080680847,
+                0.03340328857302666,
+                0.1339879035949707,
+                0.006995935924351215,
+                0.0009525849018245935,
+                0.024161111563444138,
+                0.01120537519454956,
+                0.0032537183724343777
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "、…(すぐに脱いですみっこに移動)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "あ……似合ってンのに逃げんなよー(後ろ追いかけ←)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "！、…思ってないですよね…(うさ耳でガード)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldy4c4zft42q",
+            "label": [
+                0.036592889577150345,
+                0.012363587506115437,
+                0.12353615462779999,
+                0.003014534479007125,
+                0.0014310587430372834,
+                0.8176825642585754,
+                0.002808471443131566,
+                0.002570746000856161
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…(すみっこで 鶏肉を食べている)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "アンタにもこれやるわ(大福を相手の皿に乗せて)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "……なんだこれは…(大福を凝視している)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3lcpteenzhp25",
+            "label": [
+                0.006640348583459854,
+                0.0009953833650797606,
+                0.00358831649646163,
+                0.9802005290985107,
+                0.00021691888105124235,
+                0.007776699494570494,
+                0.0003057314606849104,
+                0.00027608289383351803
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "……なんだこれは…(大福を凝視している)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "和菓子だな、煮られたからドロドロになっとる"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "…これ、よかったら…(取り分けた鶏肉を相手の皿に乗せた)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3lcpu5rnmbk2c",
+            "label": [
+                0.006308951415121555,
+                0.0004994485643692315,
+                0.9924650192260742,
+                0.00013394832785706967,
+                9.095061977859586e-05,
+                0.00019864457135554403,
+                0.00015656801406294107,
+                0.00014652719255536795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…これ、よかったら…(取り分けた鶏肉を相手の皿に乗せた)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "アンタは鶏肉か…\nいいもんあたっとるな(もらったもんをすぐに口に入れ満足げな顔して"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "…当たってしまって申し訳ない…(ぽつり)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3lcpvap3txa2c",
+            "label": [
+                0.0036345121916383505,
+                0.9872640371322632,
+                0.00030100217554718256,
+                0.00092328991740942,
+                7.900619675638154e-05,
+                0.00727920513600111,
+                0.0004373383126221597,
+                8.154608076438308e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…当たってしまって申し訳ない…(ぽつり)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "運も実力っていうだろが\n今回はアンタがその運勝ち取ったってこったろ(口に鶏肉放り込みながら)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "……次は君も勝てるといいな…(大福を思い切って食べてみた)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3lcpvvzmg3p2e",
+            "label": [
+                0.0005579472053796053,
+                0.0002686369407456368,
+                0.9988277554512024,
+                9.587977547198534e-05,
+                5.567590051214211e-05,
+                8.36710532894358e-05,
+                5.552520451601595e-05,
+                5.503408101503737e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "……次は君も勝てるといいな…(大福を思い切って食べてみた)"
+                },
+                {
+                    "author": "did:plc:3rpuavmlc62bszfsbqrubldn",
+                    "type": 2,
+                    "utter": "ぜってぇ勝つに決まってンだろ\n完全勝利目指してんだからな\n……美味いか？"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "……大福の良さがどこかに行ってしまった味がする、……(俯いた)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3lcpwpi74hs2i",
+            "label": [
+                0.0003209130372852087,
+                0.998802661895752,
+                0.00013632781337946653,
+                0.00014166066830512136,
+                4.02281220885925e-05,
+                0.00031146762194111943,
+                0.00022038999304641038,
+                2.6310137400287203e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…くしゃみだけが止まらないんだが、…花粉だろうか"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "仲間だな(くしゃみ止まらない)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "…これ、よければ…(鼻に優しいティッシュを差し出した)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldlae6sx3m2r",
+            "label": [
+                0.0023460532538592815,
+                0.0024376860819756985,
+                0.9942511320114136,
+                0.0001037684123730287,
+                7.557820208603516e-05,
+                0.0003823421720881015,
+                0.0002617734426166862,
+                0.0001415902515873313
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…これ、よければ…(鼻に優しいティッシュを差し出した)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "あ、ありがとよ…鼻ヤベェよな(ちょんと摘むと鼻元押さえ)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "花粉なのか寒暖差によるものなのか…早く治るといいですね…(俯き)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldldftyfzr2c",
+            "label": [
+                0.002625024178996682,
+                0.9535784721374512,
+                0.03082510270178318,
+                0.00022283858561422676,
+                0.00013617394142784178,
+                0.01049938052892685,
+                0.0019401038298383355,
+                0.0001728742354316637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "花粉なのか寒暖差によるものなのか…早く治るといいですね…(俯き)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "どっちもありそうだ……あとは大掃除のハウスダストか(頭ポンポン)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "ぁ、…俺はこれからなのでマスク着用で挑みます…(こくり)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldljyrne2y2r",
+            "label": [
+                0.002512714359909296,
+                0.06502176076173782,
+                0.0039948103949427605,
+                0.0011138066183775663,
+                0.0005517445388250053,
+                0.9248120784759521,
+                0.0016858421731740236,
+                0.0003073093539569527
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "ぁ、…俺はこれからなのでマスク着用で挑みます…(こくり)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "……気をつけてな？怪我しそうだ"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "…マスクを着けてたら大丈夫…だと思います…(ぽつり)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldlkjp5nml2o",
+            "label": [
+                0.07087157666683197,
+                0.06109132990241051,
+                0.15616561472415924,
+                0.0010457560420036316,
+                0.0006920580635778606,
+                0.7041661739349365,
+                0.003660838585346937,
+                0.0023066073190420866
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 1,
+                    "utter": "…マスクを着けてたら大丈夫…だと思います…(ぽつり)"
+                },
+                {
+                    "author": "did:plc:qyklbgyunr7fi7mteia2riru",
+                    "type": 2,
+                    "utter": "呼吸器官は守れそうだな(ひとつ頷いて)"
+                },
+                {
+                    "author": "did:plc:a55pok54axqqb5nibh27vejs",
+                    "type": 3,
+                    "utter": "…大掃除くらいで怪我はしないですよ…(ぼそ)"
+                }
+            ],
+            "uri": "at://did:plc:a55pok54axqqb5nibh27vejs/app.bsky.feed.post/3ldll4yxyy22p",
+            "label": [
+                0.04798194766044617,
+                0.007866616360843182,
+                0.016790535300970078,
+                0.0031932697165757418,
+                0.0010838565649464726,
+                0.9178440570831299,
+                0.00213504652492702,
+                0.0031046424992382526
+            ]
+        }
+    ]
+}

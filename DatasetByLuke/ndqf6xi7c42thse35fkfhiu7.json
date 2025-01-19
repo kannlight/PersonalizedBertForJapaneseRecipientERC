@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "俺の車どうなってるか見てこい"
+                },
+                {
+                    "author": "did:plc:jlcqj7vzzudhhg3t2qcfrocv",
+                    "type": 2,
+                    "utter": "数多い車の中に押し込まれてたよ"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "一生帰ってこなさそう"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lc2uqfecvs2g",
+            "label": [
+                0.000502222974319011,
+                0.9963524341583252,
+                0.00028799468418583274,
+                0.00014311613631434739,
+                8.144501771312207e-05,
+                0.002110057510435581,
+                0.0004767154750879854,
+                4.60921110061463e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "一生帰ってこなさそう"
+                },
+                {
+                    "author": "did:plc:jlcqj7vzzudhhg3t2qcfrocv",
+                    "type": 2,
+                    "utter": "ボスの車もあったにょ\nえぼわごの手前に2台くらい敷き詰められてて大変そうだった"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "なんかその感じだとマジで一生帰ってこないだろ"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lc2uu5wjsc2g",
+            "label": [
+                0.002246314426884055,
+                0.2885984480381012,
+                0.0016057045431807637,
+                0.001843927544541657,
+                0.0022045595105737448,
+                0.6966384053230286,
+                0.006365121342241764,
+                0.0004974513431079686
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "なんかその感じだとマジで一生帰ってこないだろ"
+                },
+                {
+                    "author": "did:plc:jlcqj7vzzudhhg3t2qcfrocv",
+                    "type": 2,
+                    "utter": "半年くらい掛かりそうですね..."
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "流石にそのレベルの事されたら怒るけど"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lc2uxwzjsc2g",
+            "label": [
+                0.0028939282055944204,
+                0.0047669559717178345,
+                0.0025863884948194027,
+                0.012634712271392345,
+                0.9250199198722839,
+                0.00887034647166729,
+                0.04111991822719574,
+                0.0021077680867165327
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "流石にそのレベルの事されたら怒るけど"
+                },
+                {
+                    "author": "did:plc:jlcqj7vzzudhhg3t2qcfrocv",
+                    "type": 2,
+                    "utter": "もう修理までしてもらう感じ？"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "アクチュエーター必要なら持って行くって言っただけ\nとりあえず構ってられないから原因見て欲しいって話した"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lc2vubsuic2g",
+            "label": [
+                0.005786022637039423,
+                0.11217938363552094,
+                0.29483363032341003,
+                0.0024574731942266226,
+                0.1453174352645874,
+                0.023924292996525764,
+                0.4109138548374176,
+                0.004587954375892878
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "こんばんは‼️‼️‼️‼️‼️"
+                },
+                {
+                    "author": "did:plc:4fwcmgcg7ohvbeqr6lz62a5b",
+                    "type": 2,
+                    "utter": "あれはマジでビックリした\nあの時は本当にありがとうございました…"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "生きているのでヨシ‼️"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lfadob4mhk2z",
+            "label": [
+                0.9995372295379639,
+                5.945568409515545e-05,
+                0.00016320146096404642,
+                5.0123653636546806e-05,
+                2.855150705727283e-05,
+                4.400012767291628e-05,
+                6.246567500056699e-05,
+                5.492394484463148e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "生きているのでヨシ‼️"
+                },
+                {
+                    "author": "did:plc:4fwcmgcg7ohvbeqr6lz62a5b",
+                    "type": 2,
+                    "utter": "生きてるだけで偉い‼️"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "らしいね\n死んだらどうなるのか気になるけど"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lfadsuxm2s2z",
+            "label": [
+                0.43966931104660034,
+                0.015146863646805286,
+                0.21184614300727844,
+                0.2164168357849121,
+                0.0007592914043925703,
+                0.1101800948381424,
+                0.002348486799746752,
+                0.0036329925060272217
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "らしいね\n死んだらどうなるのか気になるけど"
+                },
+                {
+                    "author": "did:plc:4fwcmgcg7ohvbeqr6lz62a5b",
+                    "type": 2,
+                    "utter": "仏教ですら宗派によって死後の世界に対する考え方が違うので謎らしい"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "いっぺん死んでみよか‼️"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lfadylaifs2z",
+            "label": [
+                0.00039072599611245096,
+                0.0009956645080819726,
+                0.9974223375320435,
+                0.00011752259160857648,
+                9.3782291514799e-05,
+                0.0004235162923578173,
+                0.00047947707935236394,
+                7.689779886277393e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 1,
+                    "utter": "いっぺん死んでみよか‼️"
+                },
+                {
+                    "author": "did:plc:4fwcmgcg7ohvbeqr6lz62a5b",
+                    "type": 2,
+                    "utter": "アイゼンさんはちゃんと生きてください\n常闇の2ndライブがいずれ来るので"
+                },
+                {
+                    "author": "did:plc:ndqf6xi7c42thse35fkfhiu7",
+                    "type": 3,
+                    "utter": "俺が死ぬ訳ねえだろ\nカートで事故って首半周以上回ったのに生きてんだぞ"
+                }
+            ],
+            "uri": "at://did:plc:ndqf6xi7c42thse35fkfhiu7/app.bsky.feed.post/3lfae4mhfs22z",
+            "label": [
+                0.025675976648926735,
+                0.10958071798086166,
+                0.005102392286062241,
+                0.10994900017976761,
+                0.04726988822221756,
+                0.6620354652404785,
+                0.03182806447148323,
+                0.008558426052331924
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "私のかぼちゃは入っていますか？"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "西瓜は入っておりません\n瓜科は排除されました"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "おめー秋のグラタンっつったらかぼちゃ、きのこ、さつまいもだろ"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3lbqtvf2is22z",
+            "label": [
+                0.16384725272655487,
+                0.0009744976996444166,
+                0.8325088620185852,
+                0.0008778683841228485,
+                0.00045273356954567134,
+                0.00031813737587071955,
+                0.0004684992600232363,
+                0.0005521265557035804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "おめー秋のグラタンっつったらかぼちゃ、きのこ、さつまいもだろ"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "かぼちゃはまだしもさつまいもとキノコは入れぬ"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "それはあなたの感想ですよね😅"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3lbr3d4iej22g",
+            "label": [
+                0.911511242389679,
+                0.000989041174761951,
+                0.0784384161233902,
+                0.0013713547959923744,
+                0.0011236403370276093,
+                0.0006539769819937646,
+                0.0026213994715362787,
+                0.0032908672001212835
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "上位10種ｗ"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "上位4種のシチューでした😤"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "季節感ないつまらないシチュー😂"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3lbr5osf6us25",
+            "label": [
+                0.010139605961740017,
+                0.9829710125923157,
+                0.0005148709751665592,
+                0.0008653168333694339,
+                0.00010513483721297234,
+                0.0005797112244181335,
+                0.004727011546492577,
+                9.727427095640451e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "はよ寝ろや"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "589コメント目でした"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "投稿数すくなｗ"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3ld2ussltyk22",
+            "label": [
+                0.003999665845185518,
+                0.002069840906187892,
+                0.0005781371146440506,
+                0.9917240738868713,
+                0.0001205006628879346,
+                0.0005197008140385151,
+                0.0008346172980964184,
+                0.00015349563909694552
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "投稿数すくなｗ"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "自慢することじゃ無いですよ😅"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "私はブルースカイの先輩ですよ😅\n先輩893も投稿しててすごぉい！と言うところです😅"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3ld3cujwnic2q",
+            "label": [
+                0.011941201984882355,
+                0.0007063557859510183,
+                0.0015680920332670212,
+                0.9846659898757935,
+                0.0002606795751489699,
+                0.00023533440253231674,
+                0.0002923607244156301,
+                0.00033005853765644133
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "私はブルースカイの先輩ですよ😅\n先輩893も投稿しててすごぉい！と言うところです😅"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "自由な時間が多くて羨ましいどすなぁ"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "毎日決められた時間に休憩を取り、定時に退社していますので🤭"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3ld3mqz3imc2q",
+            "label": [
+                0.998934805393219,
+                7.042486686259508e-05,
+                0.00032518667285330594,
+                4.925599569105543e-05,
+                6.5954627643805e-05,
+                0.00012026698095723987,
+                0.00020371327991597354,
+                0.00023043007240630686
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "働け"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "私は半休よ"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "うるさい"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3laxcdjn46k2v",
+            "label": [
+                0.003045853693038225,
+                0.004355120938271284,
+                0.002495214343070984,
+                0.0022243354469537735,
+                0.016488058492541313,
+                0.002343154978007078,
+                0.9682648181915283,
+                0.0007834239513613284
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "うるさい"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "🐮🤚🏿"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "て、くろくなぁい？"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3laxcqbozp22n",
+            "label": [
+                0.005763685796409845,
+                0.004066060297191143,
+                0.002451211679726839,
+                0.9846470355987549,
+                0.0005854352493770421,
+                0.001137665705755353,
+                0.0010239055845886469,
+                0.0003249547444283962
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "て、くろくなぁい？"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "黒はダメって言いたいんですか"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "はい"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3laxpfmr5rc2l",
+            "label": [
+                0.9966074228286743,
+                0.0004300978616811335,
+                0.0014813677407801151,
+                0.00013798754662275314,
+                0.00018650175479706377,
+                0.0002157483104383573,
+                0.0006013186066411436,
+                0.0003395581152290106
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 1,
+                    "utter": "はい"
+                },
+                {
+                    "author": "did:plc:6mryyw6i5mkvygnhfwenlpit",
+                    "type": 2,
+                    "utter": "😨"
+                },
+                {
+                    "author": "did:plc:g4s7xgzd2etqi3cbyrgetws4",
+                    "type": 3,
+                    "utter": "🐮の手が黒いのはおかしいだろ😡"
+                }
+            ],
+            "uri": "at://did:plc:g4s7xgzd2etqi3cbyrgetws4/app.bsky.feed.post/3laxx3jvc2c2z",
+            "label": [
+                0.0023465126287192106,
+                0.0017298569437116385,
+                0.00044576614163815975,
+                0.9830410480499268,
+                0.0017226026393473148,
+                0.007623221725225449,
+                0.0028199523221701384,
+                0.0002708829997573048
+            ]
+        }
+    ]
+}

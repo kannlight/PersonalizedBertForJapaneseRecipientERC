@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "北海道行きたい行きたい"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "きてきて"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "ごみっちエスコートして❤️"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lbgzpf6znc2k",
+            "label": [
+                0.7918895483016968,
+                0.0019078912446275353,
+                0.20427443087100983,
+                0.0005918581737205386,
+                0.00025583768729120493,
+                0.00030751776648685336,
+                0.00037457383587025106,
+                0.0003984168579336256
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "ごみっちエスコートして❤️"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "北の果てまで連れて行くよ♥"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "その前にごみっちのパンツ洗濯させて❤️"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lbh5lcopqs27",
+            "label": [
+                0.08709355443716049,
+                0.004542658105492592,
+                0.9059404134750366,
+                0.0005085166194476187,
+                0.00035581664997152984,
+                0.000348314963048324,
+                0.0008442678372375667,
+                0.00036646818625740707
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "その前にごみっちのパンツ洗濯させて❤️"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "ニオイかぐからだめ"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "ふーーーん？？"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lbh6spzrw227",
+            "label": [
+                0.012060203589498997,
+                0.003116999287158251,
+                0.0025137048214673996,
+                0.980288028717041,
+                0.0002062547137029469,
+                0.0004322196473367512,
+                0.001067176810465753,
+                0.0003154104051645845
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "ふーーーん？？"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "ますと会うときはパンツ履かない"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "それ逆に…いやなんにもない…"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lbharwlfpk27",
+            "label": [
+                0.1702127307653427,
+                0.6157742738723755,
+                0.006132399197667837,
+                0.07402695715427399,
+                0.002043250249698758,
+                0.09099753946065903,
+                0.038151755928993225,
+                0.0026610668282955885
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "それ逆に…いやなんにもない…"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "パンツ履いてるか履いてないか当てるシュレディンガーのパンツやるね"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "名探偵コカンの名の下に1秒で真実を見抜いてやる"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lbhdbbnatc27",
+            "label": [
+                0.0006606513052247465,
+                0.00015554041601717472,
+                0.9985812902450562,
+                0.0002053200005320832,
+                0.00012447660265024751,
+                0.00012279361544642597,
+                6.0520931583596393e-05,
+                8.947246533352882e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "ごみっちはすぐ漏らすからなぁ…"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "漏らしかけたことはあるけど、漏らしたことはあまりないんですが？"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "おねがいします"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcboniemmc2g",
+            "label": [
+                0.0002887185546569526,
+                0.0009628873667679727,
+                0.998241662979126,
+                9.262579987989739e-05,
+                8.675685967318714e-05,
+                0.0001420571788912639,
+                0.00012367342424113303,
+                6.169384869281203e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "おねがいします"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "ますのパンツ貸してくれたらそれに漏らしてあげる"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "多分はけないよ（サイズ的な問題"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lccbvftnok2v",
+            "label": [
+                0.0006863405578769743,
+                0.9966174960136414,
+                0.00016617965593468398,
+                0.00016102184599731117,
+                9.099817543756217e-05,
+                0.0013533283490687609,
+                0.0008703588973730803,
+                5.424879782367498e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "多分はけないよ（サイズ的な問題"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "体重何キロだっけ？"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "90キロ"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcch2yevrs2v",
+            "label": [
+                0.7980695962905884,
+                0.02915029041469097,
+                0.0305702555924654,
+                0.0533645823597908,
+                0.00271745678037405,
+                0.04117593541741371,
+                0.03499031439423561,
+                0.00996154360473156
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "90キロ"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "だめ100キロ超えて"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "いや♡"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcchfbtbas2v",
+            "label": [
+                0.9995973706245422,
+                6.41706064925529e-05,
+                0.00010222017590422183,
+                6.980616308283061e-05,
+                2.439561103528831e-05,
+                4.160810203757137e-05,
+                6.465010665124282e-05,
+                3.5750639653997496e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "いや♡"
+                },
+                {
+                    "author": "did:plc:digxd4hlqbr4c3xlg7646q56",
+                    "type": 2,
+                    "utter": "北海道で美味しいもの食べさせまくって肥育するしかないね"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "いわゆる幸せ太りってやつか…"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcck5q4stk2v",
+            "label": [
+                0.9994730353355408,
+                7.772738172207028e-05,
+                0.0001998874213313684,
+                8.086988236755133e-05,
+                1.728165807435289e-05,
+                6.197919719852507e-05,
+                4.505488323047757e-05,
+                4.417034506332129e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "スノボに行く予定を立ててしまった…（人生初、恐怖、骨折、死"
+                },
+                {
+                    "author": "did:plc:imfavqixjttobzbao2zfuj63",
+                    "type": 2,
+                    "utter": "スキーは？"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "それは何回もある\nジャム勝にいく"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcajil6bfs2x",
+            "label": [
+                0.0003598270704969764,
+                0.00021183786157052964,
+                0.999007523059845,
+                0.00011901457037311047,
+                8.93522665137425e-05,
+                8.204729238059372e-05,
+                6.814932567067444e-05,
+                6.226495315786451e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "それは何回もある\nジャム勝にいく"
+                },
+                {
+                    "author": "did:plc:imfavqixjttobzbao2zfuj63",
+                    "type": 2,
+                    "utter": "スキーいこ\nスノボでもいいけど…"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "ショートスキーやりたい"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcalszrz7k2g",
+            "label": [
+                0.00039125949842855334,
+                0.00024275951727759093,
+                0.999017596244812,
+                9.641050564823672e-05,
+                4.5892720663687214e-05,
+                9.542296174913645e-05,
+                6.147734529804438e-05,
+                4.91739010612946e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "ショートスキーやりたい"
+                },
+                {
+                    "author": "did:plc:imfavqixjttobzbao2zfuj63",
+                    "type": 2,
+                    "utter": "でたショートスキーやったことない\nいいね"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "ずっこけそうよな"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcaoejrx2k2g",
+            "label": [
+                0.010286153294146061,
+                0.029950033873319626,
+                0.0019833329133689404,
+                0.010647016577422619,
+                0.0008183359168469906,
+                0.9443373084068298,
+                0.0014601018046960235,
+                0.0005176858976483345
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "ずっこけそうよな"
+                },
+                {
+                    "author": "did:plc:imfavqixjttobzbao2zfuj63",
+                    "type": 2,
+                    "utter": "僕スキーだけはできるよ"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "スノボにも挑戦しよ"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcbpcfoufk2v",
+            "label": [
+                0.0011082598939538002,
+                0.0001741751766530797,
+                0.998290479183197,
+                0.00013205059804022312,
+                6.701789243379608e-05,
+                9.80741242528893e-05,
+                6.081940955482423e-05,
+                6.907052738824859e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 1,
+                    "utter": "スノボにも挑戦しよ"
+                },
+                {
+                    "author": "did:plc:imfavqixjttobzbao2zfuj63",
+                    "type": 2,
+                    "utter": "どっかで言ったような言ってないようなだけど、スノボ1回だけやった事ある\n滑れるようになったけど難しいしおしり痛いし止まるのにいちいちコケないといけないってので来年からはスキーでいいや、になった"
+                },
+                {
+                    "author": "did:plc:6rur7rdqio6q5fowgr52iutj",
+                    "type": 3,
+                    "utter": "俺もそうなる可能性大やねんけど"
+                }
+            ],
+            "uri": "at://did:plc:6rur7rdqio6q5fowgr52iutj/app.bsky.feed.post/3lcbqwpvkzk2v",
+            "label": [
+                0.0017864573746919632,
+                0.008262189105153084,
+                0.001663405098952353,
+                0.0006098244921304286,
+                0.000372846145182848,
+                0.9859905242919922,
+                0.0011107530444860458,
+                0.00020406555267982185
+            ]
+        }
+    ]
+}

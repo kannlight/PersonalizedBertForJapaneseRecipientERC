@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "ありがとうございます！\nよろしくお願いします🙇‍♀️\nアイコンの膝ラビとっても可愛いですね！私もお迎えするか悩んだんですけど、結局機会逃してしまって…💦\n改めてアップで見ると可愛らしい😊"
+                },
+                {
+                    "author": "did:plc:aauzutzqaqq2tj4xnrtf6r5s",
+                    "type": 2,
+                    "utter": "こちらこそです！\n可愛いですよね☺️\nラビコレ、また受注あると思いますし、その時は是非お迎えしてあげてください🥹"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "受注生産本当ありがたい……\nかなたさんは源氏がお好きなのですか？☺️\n（かなたさんと呼ばせていただいてもいいですか？）"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lbji7lu4sc25",
+            "label": [
+                0.9995263814926147,
+                4.5383880205918103e-05,
+                0.00019836424326058477,
+                5.920935291214846e-05,
+                2.696339834074024e-05,
+                4.441364580998197e-05,
+                4.186756268609315e-05,
+                5.750749187427573e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "受注生産本当ありがたい……\nかなたさんは源氏がお好きなのですか？☺️\n（かなたさんと呼ばせていただいてもいいですか？）"
+                },
+                {
+                    "author": "did:plc:aauzutzqaqq2tj4xnrtf6r5s",
+                    "type": 2,
+                    "utter": "かなたさん呼びおーけーですよ〜🙆‍♀️\n源氏兄弟大好きです🫶\n最推しが膝丸で、推しが髭切、雲生さん、豊前、小竜ですかね🤔\n他にも推しいますが、基本みんな好きです🥹\nおさかなさんまさんも源氏兄弟好きですか？"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "源氏推し〜〜お仲間です🥰\n膝丸、肥前、同田貫が好きなんですが、膝丸が寂しがると気がついたら部屋が髭切だらけになってしまって…笑\nとうらぶみんなビジュいいですよねぇ✨✨"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lbjlmlaeus2d",
+            "label": [
+                0.9994865655899048,
+                7.200877735158429e-05,
+                0.00013850357208866626,
+                0.0001251646754099056,
+                2.6546440494712442e-05,
+                4.37974558735732e-05,
+                4.222597635816783e-05,
+                6.50949077680707e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "源氏推し〜〜お仲間です🥰\n膝丸、肥前、同田貫が好きなんですが、膝丸が寂しがると気がついたら部屋が髭切だらけになってしまって…笑\nとうらぶみんなビジュいいですよねぇ✨✨"
+                },
+                {
+                    "author": "did:plc:aauzutzqaqq2tj4xnrtf6r5s",
+                    "type": 2,
+                    "utter": "わぁ〜い🙌\n嬉しいです！\nその気持ちわかります😂😂\nみんなかっこいいし可愛いですよね🥹"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "全員が全員、外も中身も個性強すぎて笑\n雲生さん出てきた時もそーくるの？ってびっくりしちゃいました😂\n素敵な子が増える増える笑"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lbl2gw33hs2o",
+            "label": [
+                0.9986764788627625,
+                8.51699587656185e-05,
+                0.00017197719716932625,
+                0.0008359713829122484,
+                4.396903023007326e-05,
+                5.7059474784182385e-05,
+                6.136229785624892e-05,
+                6.807627505622804e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "全員が全員、外も中身も個性強すぎて笑\n雲生さん出てきた時もそーくるの？ってびっくりしちゃいました😂\n素敵な子が増える増える笑"
+                },
+                {
+                    "author": "did:plc:aauzutzqaqq2tj4xnrtf6r5s",
+                    "type": 2,
+                    "utter": "見た目とのギャップもいいですよね🥹\n雲生さんも最初見た時、気怠げに見えたのに中身があれじゃないですか🤭\n素敵な子ばかりで嬉しいですよね！"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "ほんと〜に🤣\nいつ新しい推しができてもおかしくないのである意味ハラハラです笑"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lbm7x5darc2m",
+            "label": [
+                0.032601285725831985,
+                0.0013298889389261603,
+                0.9067832231521606,
+                0.0022969350684434175,
+                0.00033104215981438756,
+                0.055796992033720016,
+                0.0003068906953558326,
+                0.0005538438563235104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "コースターも先に兄者きたし、やっぱり兄者に遊ばれてる？？？"
+                },
+                {
+                    "author": "did:plc:m4udadpjwlez6uqif4wwnwci",
+                    "type": 2,
+                    "utter": "兄者に好かれているのかもしれない…🌝"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "兄者ルートはちょっと怖いんで……🖐️"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lfo7ezz5722n",
+            "label": [
+                0.001164795714430511,
+                0.0010575249325484037,
+                0.0014983160654082894,
+                0.0010104470420628786,
+                0.0003575227747205645,
+                0.9943267703056335,
+                0.00037548583350144327,
+                0.00020915205823257565
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "兄者ルートはちょっと怖いんで……🖐️"
+                },
+                {
+                    "author": "did:plc:m4udadpjwlez6uqif4wwnwci",
+                    "type": 2,
+                    "utter": "兄者「そんなことないよ(⁠⁠^⁠‿⁠^⁠)」"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "笑顔なのに怖い人って存在しますよね……"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lfoh22tqw22b",
+            "label": [
+                0.0008912654593586922,
+                0.0012263598619028926,
+                0.0007408896344713867,
+                0.0014412389136850834,
+                0.0004041013598907739,
+                0.9944724440574646,
+                0.0006110063986852765,
+                0.0002126045583281666
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "笑顔なのに怖い人って存在しますよね……"
+                },
+                {
+                    "author": "did:plc:m4udadpjwlez6uqif4wwnwci",
+                    "type": 2,
+                    "utter": "兄者「怖くないよ(⁠≧⁠▽⁠≦⁠)」"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "め！！！！！！！兄者！！はうすっ！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lfonqrko722r",
+            "label": [
+                0.8193671703338623,
+                0.026576099917292595,
+                0.07581766694784164,
+                0.061367981135845184,
+                0.004035805817693472,
+                0.004354625009000301,
+                0.004863669630140066,
+                0.00361708109267056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "め！！！！！！！兄者！！はうすっ！！！！！"
+                },
+                {
+                    "author": "did:plc:m4udadpjwlez6uqif4wwnwci",
+                    "type": 2,
+                    "utter": "兄者「⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ⊂⁠(⁠◉⁠‿⁠◉⁠)⁠つ」"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "おかしい…増えてる……幻覚？？？\nもはや恐怖体験……兄者から逃げるのほんと至難しそう…怖いって…"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lfp5bhk6ms2x",
+            "label": [
+                0.0006946185603737831,
+                0.0014963250141590834,
+                0.0006557464366778731,
+                0.002977412659674883,
+                0.0005569304339587688,
+                0.9928761720657349,
+                0.0005450500757433474,
+                0.00019788036297541112
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 1,
+                    "utter": "おかしい…増えてる……幻覚？？？\nもはや恐怖体験……兄者から逃げるのほんと至難しそう…怖いって…"
+                },
+                {
+                    "author": "did:plc:m4udadpjwlez6uqif4wwnwci",
+                    "type": 2,
+                    "utter": "兄者「分(^(^▽(^▽(^▽^)▽^)▽^)^)身　」"
+                },
+                {
+                    "author": "did:plc:ew5qfi3iuvjfkilnbcaxnsmw",
+                    "type": 3,
+                    "utter": "ほんとに増えてた……その勢いでおとうと君も一緒に増やしてはいただけないでしょうか……"
+                }
+            ],
+            "uri": "at://did:plc:ew5qfi3iuvjfkilnbcaxnsmw/app.bsky.feed.post/3lfp5jxrp6k2x",
+            "label": [
+                0.003995244856923819,
+                0.01041433960199356,
+                0.963907778263092,
+                0.018969204276800156,
+                0.00018648523837327957,
+                0.001991203986108303,
+                0.00026795468875207007,
+                0.0002677748561836779
+            ]
+        }
+    ]
+}

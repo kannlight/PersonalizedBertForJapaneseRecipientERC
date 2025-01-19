@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "ひさしぶりに浮上したらなんか勝手にフォロー外されてて草"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "もっとこい"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "生き返ったでな"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3lbclrmaza22f",
+            "label": [
+                0.9995813965797424,
+                5.9182013501413167e-05,
+                0.00013205426512286067,
+                5.774179953732528e-05,
+                2.8212181859998964e-05,
+                4.221818380756304e-05,
+                5.7427951105637476e-05,
+                4.1785500798141584e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "生き返ったでな"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "アイコンゴムやんｗ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "😄"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3lbju2n7cvk25",
+            "label": [
+                0.9546815156936646,
+                0.011772160418331623,
+                0.01664816215634346,
+                0.0019300319254398346,
+                0.0008721543708816171,
+                0.0031943151261657476,
+                0.00958131905645132,
+                0.001320293522439897
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "😄"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "やらしい"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "あいこんにこまってたもんで、、"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3lbkkjy3juc2a",
+            "label": [
+                0.00026257813442498446,
+                0.9986627101898193,
+                0.0001427958341082558,
+                0.00016673156642355025,
+                8.087446622084826e-05,
+                0.00031247892184183,
+                0.0003450814983807504,
+                2.6743482521851547e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "あいこんにこまってたもんで、、"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "おっぱいとかにしてくれへんかな()"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "チクビーム"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3lc5sn3itzk27",
+            "label": [
+                0.8376303911209106,
+                0.029562313109636307,
+                0.07180799543857574,
+                0.015268659219145775,
+                0.002801313530653715,
+                0.016773277893662453,
+                0.021599026396870613,
+                0.004557021427899599
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "まじで痔が痛いのですけどね"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "ほじるぞ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "死ぬ"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kou3miu5vz24",
+            "label": [
+                0.0009711921447888017,
+                0.005213412921875715,
+                0.0011078770039603114,
+                0.0005798920756205916,
+                0.0005753551376983523,
+                0.9901313781738281,
+                0.0011917600641027093,
+                0.00022905023070052266
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "死ぬ"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "流血…"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "血まみれ🩸"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kovbmxujrf2d",
+            "label": [
+                0.0006959553575143218,
+                0.9938974976539612,
+                0.00010975535406032577,
+                0.0005606282502412796,
+                0.00033587380312383175,
+                0.002596211386844516,
+                0.001746635651215911,
+                5.7525874581187963e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "血まみれ🩸"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "うわぁ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "理不尽"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kow4aksgw62v",
+            "label": [
+                0.004037107340991497,
+                0.039259959012269974,
+                0.005179829429835081,
+                0.0033885473385453224,
+                0.12172077596187592,
+                0.0034996604081243277,
+                0.8216353058815002,
+                0.0012788122985512018
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "理不尽"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "真面目な話不正出血と勘違いしそう()"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "ｺﾜｲ"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3koxndetcvq2m",
+            "label": [
+                0.0006647294503636658,
+                0.0011294727446511388,
+                0.00084254692774266,
+                0.0014927444281056523,
+                0.0006770728505216539,
+                0.9944078922271729,
+                0.0005549784400500357,
+                0.0002306134847458452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "ｺﾜｲ"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "(´へωへ`*)"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "（╹◡╹）"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3koxschtjgc2s",
+            "label": [
+                0.9217106103897095,
+                0.01683528535068035,
+                0.041093017905950546,
+                0.0026533075142651796,
+                0.0011733738938346505,
+                0.0051092649810016155,
+                0.009373367764055729,
+                0.0020517499651759863
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "めがかゆい"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "目に種付けされてんぞ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "やべえ目で受粉した"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3knbkeesnoi23",
+            "label": [
+                0.15498755872249603,
+                0.0026347592938691378,
+                0.007284971419721842,
+                0.8279798030853271,
+                0.000453596148872748,
+                0.004100552294403315,
+                0.0010637459345161915,
+                0.0014950321055948734
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "やべえ目で受粉した"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "目が妊む"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "もうこれわかんねえな"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kndyza35qx2q",
+            "label": [
+                0.009830291382968426,
+                0.9054811000823975,
+                0.0007700556889176369,
+                0.0018191764829680324,
+                0.002002270892262459,
+                0.04665157571434975,
+                0.03306681290268898,
+                0.00037873905966989696
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "もうこれわかんねえな"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "語録で草"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "汗汗"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3knfu2iufqu2p",
+            "label": [
+                0.754428505897522,
+                0.017873553559184074,
+                0.0020509534515440464,
+                0.02458302304148674,
+                0.0007438869215548038,
+                0.1728390008211136,
+                0.026029514148831367,
+                0.0014516700757667422
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "汗汗"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "やっぱり好きなんすねぇ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "はい・・・"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kngfovewio2k",
+            "label": [
+                0.648979902267456,
+                0.24409906566143036,
+                0.006199505180120468,
+                0.01050823088735342,
+                0.001237916061654687,
+                0.06454093009233475,
+                0.02146114408969879,
+                0.002973247552290559
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "はい・・・"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "もっと胸張って淫夢好きって!"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "張るしかねえ"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3knil37l7zn25",
+            "label": [
+                0.0012363111600279808,
+                0.0008918595849536359,
+                0.9966431856155396,
+                0.00010568332800175995,
+                0.00012027601042063907,
+                0.0007079869392327964,
+                0.00017365078383591026,
+                0.00012099008745281026
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "ちんこはちんこだけどチンポはエロいよね"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "じゃあチンポを常用して☝"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "常用ポするかー"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kn3pgvfae22q",
+            "label": [
+                0.014648663811385632,
+                0.0010166069259867072,
+                0.98322993516922,
+                0.00017843631212599576,
+                9.174083970719948e-05,
+                0.0004601812397595495,
+                0.00017752483836375177,
+                0.00019698259711731225
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "常用ポするかー"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "変態じゃーん( ◠‿◠ )"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "裏切り者がよ😠"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kn6fesssr523",
+            "label": [
+                0.002699674107134342,
+                0.09193266183137894,
+                0.0030610645189881325,
+                0.006746144499629736,
+                0.7909677028656006,
+                0.013529803603887558,
+                0.08931221067905426,
+                0.0017507238080725074
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "裏切り者がよ😠"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "ええーなんでｗ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "www"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kn6t44yzkh27",
+            "label": [
+                0.99888676404953,
+                7.193523197202012e-05,
+                0.0004116380005143583,
+                0.0002692168054636568,
+                4.771080784848891e-05,
+                8.61663356772624e-05,
+                0.00013316309195943177,
+                9.340574615634978e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "www"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "( •́ฅ•̀ )ｸｯｻ"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "ʅ（◞‿◟）ʃ"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kn6vfrptve24",
+            "label": [
+                0.8927463293075562,
+                0.01047713216394186,
+                0.08224783837795258,
+                0.0016238013049587607,
+                0.00115355069283396,
+                0.0030576633289456367,
+                0.0068619754165410995,
+                0.0018317336216568947
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 1,
+                    "utter": "ʅ（◞‿◟）ʃ"
+                },
+                {
+                    "author": "did:plc:oto3htngqfjbwld3k4f5p3sa",
+                    "type": 2,
+                    "utter": "なんでチンポ好きなの"
+                },
+                {
+                    "author": "did:plc:uhgywwshx4ocu6msegxinu2r",
+                    "type": 3,
+                    "utter": "そこにチンポがあるからね"
+                }
+            ],
+            "uri": "at://did:plc:uhgywwshx4ocu6msegxinu2r/app.bsky.feed.post/3kn6vhbgcmd26",
+            "label": [
+                0.9716261029243469,
+                0.004584931302815676,
+                0.013994184322655201,
+                0.0005881991819478571,
+                0.0009657463524490595,
+                0.0033037520479410887,
+                0.00304461014457047,
+                0.0018924074247479439
+            ]
+        }
+    ]
+}

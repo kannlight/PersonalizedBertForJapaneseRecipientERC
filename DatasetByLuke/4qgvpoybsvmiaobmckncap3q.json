@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "ひょっとして: 機嫌悪そうなときはサイゼに連れて行けば大丈夫と認識されている。"
+                },
+                {
+                    "author": "did:plc:tkrjn7qm6bjlbwuawmuzlxwr",
+                    "type": 2,
+                    "utter": "久石っぽい"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "不器用な人を好きになりたい"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lbpcnxdo7k2t",
+            "label": [
+                0.0008933704812079668,
+                0.00031483176280744374,
+                0.9984073042869568,
+                0.00010896160529227927,
+                4.809314850717783e-05,
+                9.452278754906729e-05,
+                6.207823025761172e-05,
+                7.080502837197855e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "不器用な人を好きになりたい"
+                },
+                {
+                    "author": "did:plc:tkrjn7qm6bjlbwuawmuzlxwr",
+                    "type": 2,
+                    "utter": "「なんですか？　センパイは私が不器用だっていいたいんですか？」"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "「知らない。ただ、フグみたいには見える」"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lbpdpwvmd22t",
+            "label": [
+                0.8832777738571167,
+                0.009585232473909855,
+                0.04383097216486931,
+                0.017586244270205498,
+                0.0008811814477667212,
+                0.031790416687726974,
+                0.0072419848293066025,
+                0.0058061243034899235
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "「知らない。ただ、フグみたいには見える」"
+                },
+                {
+                    "author": "did:plc:tkrjn7qm6bjlbwuawmuzlxwr",
+                    "type": 2,
+                    "utter": "(無言無表情で頬を膨らませる久石)"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "「やっぱり、フグ」"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lbpdtyfevs2t",
+            "label": [
+                0.5996894836425781,
+                0.0021642178762704134,
+                0.3923216462135315,
+                0.0009364792495034635,
+                0.0006547230295836926,
+                0.0010470050619915128,
+                0.001060935202986002,
+                0.00212557683698833
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "「やっぱり、フグ」"
+                },
+                {
+                    "author": "did:plc:tkrjn7qm6bjlbwuawmuzlxwr",
+                    "type": 2,
+                    "utter": "ところでなんでみぞれに突っかかってるんです久石"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "久石は不器用なひとが好きだけど、べつに付き合うのは得意じゃないので……。"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lbpe2sasts2t",
+            "label": [
+                0.5213385820388794,
+                0.11429190635681152,
+                0.027504408732056618,
+                0.0023797350004315376,
+                0.0005408272263593972,
+                0.30922937393188477,
+                0.020860161632299423,
+                0.003855040529742837
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "久石は不器用なひとが好きだけど、べつに付き合うのは得意じゃないので……。"
+                },
+                {
+                    "author": "did:plc:tkrjn7qm6bjlbwuawmuzlxwr",
+                    "type": 2,
+                    "utter": "思考読めないからみぞれに対してはかなり相性が悪そう"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "でも実力あるし、不器用だし、悪い人ではないので、ぜったいに嫌いではないという久石。"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lbpeecicy22t",
+            "label": [
+                0.9235633611679077,
+                0.0007691000937484205,
+                0.015371729619801044,
+                0.005816164892166853,
+                0.0021783304400742054,
+                0.003403779584914446,
+                0.03701191768050194,
+                0.011885639280080795
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "なるほどです。導入を検討してみようかな。"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "まあ、わたしが教えられること、という前提なので違う選択肢をとられた場合にはいっしょにググりながらやることになるかと！\n\nミックスや補正で扱えるのはStudio One、昔使ってたのがLogicになります。。"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "Ableton、ちなみにどこに魅力を感じているんですか？"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lfpatxb35s2d",
+            "label": [
+                0.02544560842216015,
+                0.00032483701943419874,
+                0.9719467759132385,
+                0.0008700164034962654,
+                0.0002953776274807751,
+                0.00030411549960263073,
+                0.00027272282750345767,
+                0.0005405793781392276
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "Ableton、ちなみにどこに魅力を感じているんですか？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "単純に曲書くのが速いところ、煩雑さがなく機能にアクセスしやすいところ、独創性を発揮しやすいところ、音源やエフェクトに代替不可能な文化を感じるところ...\n\nキリがない、わたしの作曲のすべてです"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "すごく良さそう。\n\nちなみに導入するなら、Lite付属のMIDIコントローラーとか買って、スタンダードにアップグレードするとかがいいんですか？"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lfpbmakr622d",
+            "label": [
+                0.002500609727576375,
+                0.00014327093958854675,
+                0.9967825412750244,
+                0.00019270573102403432,
+                7.514241588069126e-05,
+                0.0001420619519194588,
+                6.516549183288589e-05,
+                9.852701623458415e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 1,
+                    "utter": "すごく良さそう。\n\nちなみに導入するなら、Lite付属のMIDIコントローラーとか買って、スタンダードにアップグレードするとかがいいんですか？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "それがですね...内蔵音源の差もあるのですが、Max for Liveという開発環境のプリセットが動くかどうかの点で、わたしのおすすめは最上位のSuiteになります。\n\nあえてIntroでやるのもアリかも。"
+                },
+                {
+                    "author": "did:plc:4qgvpoybsvmiaobmckncap3q",
+                    "type": 3,
+                    "utter": "生涯の趣味と割り切ってSuite＋高機能PC買うか的な話ですね……じぶんのPCは5年前に買ったゲーミングノートでまだ全然使えると思いつつも、DTMはみんなデスクトップでやっているイメージもあり。\n\nここは慎重に決めたいかもです。でも、こういうの買うために真面目に投資しているところもあるので、見せてもらって検討します。"
+                }
+            ],
+            "uri": "at://did:plc:4qgvpoybsvmiaobmckncap3q/app.bsky.feed.post/3lfpc6xf5hc2d",
+            "label": [
+                0.0007695735548622906,
+                0.00016126754053402692,
+                0.9986246824264526,
+                8.928302850108594e-05,
+                5.250130197964609e-05,
+                0.00018071237718686461,
+                5.663426054525189e-05,
+                6.523246702272445e-05
+            ]
+        }
+    ]
+}

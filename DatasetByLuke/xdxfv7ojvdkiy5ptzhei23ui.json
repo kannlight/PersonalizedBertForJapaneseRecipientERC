@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "ばち率高いね"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "実はこれ蜂楽の缶バッチ2個であとマステ\nマステばっかりなんよね\n（娘がカプセルに戻すから中身見えない）"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "しろがなぎ？"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lfeows5jxs2l",
+            "label": [
+                0.3002573549747467,
+                0.043928325176239014,
+                0.014591951854526997,
+                0.6048180460929871,
+                0.0013120153453201056,
+                0.021773241460323334,
+                0.010671182535588741,
+                0.0026479035150259733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "しろがなぎ？"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "あいく！（缶バッチ"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "あいく！？白なんだ！？(意外)"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lfeoytfigc2b",
+            "label": [
+                0.0007691751234233379,
+                0.0003478162398096174,
+                0.0008035231730900705,
+                0.9973279237747192,
+                0.00021124165505170822,
+                0.00019848121155519038,
+                0.00021099319565109909,
+                0.0001307891943724826
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "あいく！？白なんだ！？(意外)"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "見渡す限り、黒と紫のカプセルがない\nこの店舗は初なんだけど、故意に抜いてるのかな？"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "そんなことある！？\n今日からだよね？だとしたら意図的…？"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lfep4wkvsk2b",
+            "label": [
+                0.0004623445274773985,
+                0.0002506171294953674,
+                0.0009412490180693567,
+                0.9974026083946228,
+                0.00018008633924182504,
+                0.00044250674545764923,
+                0.000212158149224706,
+                0.0001083873794414103
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "そんなことある！？\n今日からだよね？だとしたら意図的…？"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "意図的に人気キャラ抜いてる店舗とかあるとは聞いたんやけど…\n確定のやつ、黄色ばっかりとかだから怪しくない？\n明らかに選んでおけるしね"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "そんな店舗あるんだ…\nそのために行ったのになかったら悲しいよね😭"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lfepi3aaek2b",
+            "label": [
+                0.00019837974105030298,
+                0.9990527033805847,
+                0.0001352677500108257,
+                0.0002010116440942511,
+                5.6682365539018065e-05,
+                0.00015890522627159953,
+                0.00016977528866846114,
+                2.735532689257525e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "こないだのラウワンのドリンクの生クリームがトラウマになりつつある…😂\nあれが原因で体調崩した訳じゃないかもだけど💦"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "ランワン、凪君の飲んだ？\nあれ、めっちゃ甘くて重かったよ…\nまねきねこのは体壊しそうな味（着色料）\nただただ不味い\n室料かかるようになったし、スルーかなぁ…\nコラボルーム取れたら…とか、かなぁ"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "のんだよー、アサイーのやつだよね？\n\nあ、そっか…室料タダだったんだもんね！今までタダだったのがお金かかるってなったら考えるよね😂"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lf7wlz423k2c",
+            "label": [
+                0.37357297539711,
+                0.024665052071213722,
+                0.3474375009536743,
+                0.14937394857406616,
+                0.0024400996044278145,
+                0.08548033237457275,
+                0.005984628107398748,
+                0.011045413091778755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "のんだよー、アサイーのやつだよね？\n\nあ、そっか…室料タダだったんだもんね！今までタダだったのがお金かかるってなったら考えるよね😂"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "あれ激甘じゃなかった？💦\n\nそうなのー💦\n朝うた？なら30分10円？みたいだからアリかなぁ？\nポストカード、普通に買わせて欲しい💦"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "ポストカードの方さ、ドリンクちょっとお高いんだよね…\nほんと普通に売ってくれればいいのにー！"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lf7zbk7lts2b",
+            "label": [
+                0.0016657665837556124,
+                0.1095890924334526,
+                0.8813813924789429,
+                0.0007864728686399758,
+                0.0011517914244905114,
+                0.00037773922667838633,
+                0.0047065382823348045,
+                0.0003412244841456413
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "ポストカードの方さ、ドリンクちょっとお高いんだよね…\nほんと普通に売ってくれればいいのにー！"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "880円だよね\nそれなら選ばせてくれよ！って値段…\n部屋代もかかるのに。。。。"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "ヒロアカの時もそうだったし、それでおちゃこちゃんだったからかなしかった😂\n\nいつからかワンドリンク制になってたのも知らなくて、前ファボテリアのどりんく持ち込んだ時にめちゃめちゃ大変だった💦"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lf7zhqsic22b",
+            "label": [
+                0.00043826428009197116,
+                0.9988833069801331,
+                0.00013509449490811676,
+                0.00017550098709762096,
+                5.064029755885713e-05,
+                0.00014433645992539823,
+                0.00014258880401030183,
+                3.0269144190242514e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "ヒロアカの時もそうだったし、それでおちゃこちゃんだったからかなしかった😂\n\nいつからかワンドリンク制になってたのも知らなくて、前ファボテリアのどりんく持ち込んだ時にめちゃめちゃ大変だった💦"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "880円ならさすがに推し欲しいよね\n今回はシール？みたいなので十分かなぁ？とか思うけど、めっちゃ小さいと微妙よね\n\n昔はワンドリンク制ではなかったんや！"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "フレークシールでしょ？私も買うならそれくらいかなぁって思ってたけど、すぐなくなりそう～！\n\n昔は違ったと思う…っていつの時代の話してんだってくらい昔かもだけど😂"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lf7zu5lkwk2y",
+            "label": [
+                0.010938337072730064,
+                0.041688814759254456,
+                0.001443446846678853,
+                0.9206077456474304,
+                0.0007743239402770996,
+                0.019007867202162743,
+                0.005007825791835785,
+                0.0005317035829648376
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "マフラーの主張がすごいwww"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "しかもネーム入り！wwwwww\nなぎくんだけ、どこかの民族やわーって見てたw"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "学校指定マフラー、しかもネーム入り、個人情報ダダ漏れwww"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lf4kwqersc2l",
+            "label": [
+                0.003201025305315852,
+                0.0021886546164751053,
+                0.0004998054355382919,
+                0.9871999025344849,
+                0.00019297638209536672,
+                0.005960473325103521,
+                0.0006050793454051018,
+                0.00015199011249933392
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "学校指定マフラー、しかもネーム入り、個人情報ダダ漏れwww"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "私立のいいとこの子が個人情報ダダ漏れでいいのかしらwww"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "ほんとにwww\nしかもこのマフラー販売されるんだねw"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lf4lyoe2ss2u",
+            "label": [
+                0.13834047317504883,
+                0.0010045876260846853,
+                0.0036435890942811966,
+                0.8546897172927856,
+                0.0005251540569588542,
+                0.0005781470681540668,
+                0.0005696368752978742,
+                0.0006486655911430717
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "洗濯したいのに昨日から引き続き胃が変なのと頭痛で何もしたくない。。。"
+                },
+                {
+                    "author": "did:plc:tt7n67ifenzfmsmltrdtz7le",
+                    "type": 2,
+                    "utter": "体調悪いの？大丈夫！？\nゆっくりできるといいね💦"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "昨日遊んで帰ってきてから胃がムカムカしてて、夜中に吐きそうなくらい気持ち悪くなってた…今もなんか食べたら戻しそうで飲み物だけ飲んでる…\nラウワンで当たったのかな…まさかね…"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lev5q4cc4c25",
+            "label": [
+                0.0012498549185693264,
+                0.8181012868881226,
+                0.0013009412214159966,
+                0.002494951244443655,
+                0.002695756498724222,
+                0.11227597296237946,
+                0.061490248888731,
+                0.0003909365041181445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "昨日遊んで帰ってきてから胃がムカムカしてて、夜中に吐きそうなくらい気持ち悪くなってた…今もなんか食べたら戻しそうで飲み物だけ飲んでる…\nラウワンで当たったのかな…まさかね…"
+                },
+                {
+                    "author": "did:plc:tt7n67ifenzfmsmltrdtz7le",
+                    "type": 2,
+                    "utter": "あたるものあるかな？💦\n風邪とかかな？💦お大事にしてね！元気になったら遊ぼうね！"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "当たるとしたら生クリームくらいかな？胃もたれ感あったのは確かだけど💦\n喉とか変じゃないから風邪でもインフルでもなさそう！\nとりあえず回復したっぽい💦"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3lexx5n57bk27",
+            "label": [
+                0.9637929201126099,
+                0.0038813618011772633,
+                0.005257703363895416,
+                0.000687320192810148,
+                0.0001864388323156163,
+                0.022690244019031525,
+                0.0021090959198772907,
+                0.0013948364648967981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "当たるとしたら生クリームくらいかな？胃もたれ感あったのは確かだけど💦\n喉とか変じゃないから風邪でもインフルでもなさそう！\nとりあえず回復したっぽい💦"
+                },
+                {
+                    "author": "did:plc:tt7n67ifenzfmsmltrdtz7le",
+                    "type": 2,
+                    "utter": "元気になって良かった！胃もたれだったのかな。クリーム😂"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "夜中に目覚めた時、吐きそうなくらい気持ち悪かったからただの胃もたれじゃなくて当たったのかなって思ったんだよね…翌朝(昨日)起きてからお腹が大変なことになってたし…\n何が原因かわかんないけどとりあえず回復して良かった😮‍💨"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3leyaytbu622w",
+            "label": [
+                0.00712423725053668,
+                0.10941682755947113,
+                0.00154412304982543,
+                0.006803562864661217,
+                0.0003646148252300918,
+                0.8713565468788147,
+                0.0029094715137034655,
+                0.0004805939388461411
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "夜中に目覚めた時、吐きそうなくらい気持ち悪かったからただの胃もたれじゃなくて当たったのかなって思ったんだよね…翌朝(昨日)起きてからお腹が大変なことになってたし…\n何が原因かわかんないけどとりあえず回復して良かった😮‍💨"
+                },
+                {
+                    "author": "did:plc:tt7n67ifenzfmsmltrdtz7le",
+                    "type": 2,
+                    "utter": "それは怖いね🥲その店舗大丈夫なのかなぁ…💦\nとりあえず回復してよかったよ！"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "友達に体調どうだったか聞いてないからラウワンのせいとは言い切れないけどね💦\n昨日東京に戻る日だったら死んでた😇"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3leybscwa3c2v",
+            "label": [
+                0.0009920850861817598,
+                0.002735080663114786,
+                0.0006479228613898158,
+                0.0016531599685549736,
+                0.00040882418397814035,
+                0.9930015802383423,
+                0.0003523149061948061,
+                0.00020911087631247938
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "友達に体調どうだったか聞いてないからラウワンのせいとは言い切れないけどね💦\n昨日東京に戻る日だったら死んでた😇"
+                },
+                {
+                    "author": "did:plc:tt7n67ifenzfmsmltrdtz7le",
+                    "type": 2,
+                    "utter": "1人のときでなくて良かった！"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "ほんとに😂\n昨日移動だったら上空でキラキラ🌈してたかもしれない😂"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3leyluie2i22e",
+            "label": [
+                0.07498430460691452,
+                0.5039896965026855,
+                0.024393416941165924,
+                0.02854393981397152,
+                0.000884528155438602,
+                0.36315011978149414,
+                0.0024670613929629326,
+                0.0015869117341935635
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "ブルロのまねきコラボ〜\nコラボってなんでまとめて一気に来るんかね"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "なんか色々ありすぎて、年明け忙しいよね\nランワンも行かなきゃでしょー？"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "あー、ラウンドワンもあったね！\n忘れてた"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3le4mnjtenc2u",
+            "label": [
+                0.028427138924598694,
+                0.0014816062757745385,
+                0.005288793705403805,
+                0.9632840752601624,
+                0.0003232872986700386,
+                0.0002858256339095533,
+                0.0003898984577972442,
+                0.0005194352124817669
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "あー、ラウンドワンもあったね！\n忘れてた"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "北海道はばちらぁ！"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "すすきの行くタイミングあるか微妙なんよね💦"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3le4n5rquzs2u",
+            "label": [
+                0.0008487503509968519,
+                0.9978407621383667,
+                0.0003326094301883131,
+                0.00017577888502273709,
+                3.553878195816651e-05,
+                0.0005695453146472573,
+                0.00016280503768939525,
+                3.4117263567168266e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "すすきの行くタイミングあるか微妙なんよね💦"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "年末年始忙しいもんねぇ💦\nすすきのまで遠いのー？"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "家が札幌じゃないから、行くとなるとだいぶ重い腰上げないと…なんだよね😅"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3le4nktgags2m",
+            "label": [
+                0.03660445287823677,
+                0.25077953934669495,
+                0.008432439528405666,
+                0.008150910027325153,
+                0.0009497469873167574,
+                0.6898433566093445,
+                0.004216764587908983,
+                0.0010227988241240382
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "家が札幌じゃないから、行くとなるとだいぶ重い腰上げないと…なんだよね😅"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "うぉおお\nそれはしんどい\nしかも大雪"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "札幌行く予定あればいいんだけどねー\n雪もひどいし、都会と違ってJR高いから電車乗るだけで結構金かかるのもネック…\nすすきのにいるのがなぎだったら是が非でも行っただろうけどw"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3le4owax5fc2b",
+            "label": [
+                0.0038494300097227097,
+                0.983279824256897,
+                0.00523907458409667,
+                0.0002449044259265065,
+                0.00010421648039482534,
+                0.005494164302945137,
+                0.001663764240220189,
+                0.00012467180204112083
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 1,
+                    "utter": "札幌行く予定あればいいんだけどねー\n雪もひどいし、都会と違ってJR高いから電車乗るだけで結構金かかるのもネック…\nすすきのにいるのがなぎだったら是が非でも行っただろうけどw"
+                },
+                {
+                    "author": "did:plc:i3j4edkwwmrvvyj3jf3wl3qs",
+                    "type": 2,
+                    "utter": "ちょっとめんどくさいってなるね\n\n東京に凪君いるよね\n\n大阪はひおりん！"
+                },
+                {
+                    "author": "did:plc:xdxfv7ojvdkiy5ptzhei23ui",
+                    "type": 3,
+                    "utter": "そっか東京にいるんだったか！今月池袋行く予定なかったから全然気にしてなかった💦\n大阪はひおりんなんだね！"
+                }
+            ],
+            "uri": "at://did:plc:xdxfv7ojvdkiy5ptzhei23ui/app.bsky.feed.post/3le4s4f7te22r",
+            "label": [
+                0.0011296874145045877,
+                0.000466675846837461,
+                0.0007507309201173484,
+                0.997012734413147,
+                0.00015729415463283658,
+                0.00016047009557951242,
+                0.0001953139726538211,
+                0.00012706972484011203
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "いつ⁈着るの⁈✨✨"
+                },
+                {
+                    "author": "did:plc:hqukyzkjf5akx7xegpkyfkin",
+                    "type": 2,
+                    "utter": "まだ買ってませんよ！買ったとしても着るか微妙…"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "もったいないよ‼︎着よ⁇ワタシ正座で待てるから‼︎"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3lbqrbfktjs2i",
+            "label": [
+                0.03222711756825447,
+                0.1214844286441803,
+                0.7769103050231934,
+                0.02396177314221859,
+                0.018998613581061363,
+                0.007027496118098497,
+                0.014556352980434895,
+                0.004833862651139498
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "もったいないよ‼︎着よ⁇ワタシ正座で待てるから‼︎"
+                },
+                {
+                    "author": "did:plc:hqukyzkjf5akx7xegpkyfkin",
+                    "type": 2,
+                    "utter": "えぇー…買ったとしても宝の持ち腐れにしかならないですよ🥺きょんさんいないところで着ようかな…"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "また‼︎そうやって‼︎きょんさんいないとこで‼︎😭{もう栢さん買収するしか‼︎)"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3lbqrhqkkss2i",
+            "label": [
+                0.017351144924759865,
+                0.38368213176727295,
+                0.04641406983137131,
+                0.017990194261074066,
+                0.305402547121048,
+                0.018470855429768562,
+                0.2067003697156906,
+                0.00398867717012763
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "ウソだ‼︎もう見れないなんてウソだ‼︎\n・゜・(ノД`)・゜・"
+                },
+                {
+                    "author": "did:plc:hqukyzkjf5akx7xegpkyfkin",
+                    "type": 2,
+                    "utter": "ほら、再来年度分でしたし…あとガーターストッキング電線したのと、インナーサイズ合ってないので…その分栢ランカが可愛い衣装着てくれますよ！！"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "新しいの準備するので‼︎ちゃんと‼︎ガーターベルトのやつ‼︎かわいく包んでお渡しするので‼︎"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3ldzansggfc2s",
+            "label": [
+                0.014787466265261173,
+                0.000727490521967411,
+                0.9835130572319031,
+                0.000204888463485986,
+                0.0001906291290652007,
+                0.00019237288506701589,
+                0.00019000659813173115,
+                0.00019402742327656597
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "新しいの準備するので‼︎ちゃんと‼︎ガーターベルトのやつ‼︎かわいく包んでお渡しするので‼︎"
+                },
+                {
+                    "author": "did:plc:hqukyzkjf5akx7xegpkyfkin",
+                    "type": 2,
+                    "utter": "新しいの準備しなくていいですってwwww梱包してても丁寧にお返ししますwwww"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "じゃあストッキングはあたしが履くので月野さんはピンキーナース着て⁇( 'ω')?"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3ldzqwzucms2t",
+            "label": [
+                0.0037749374751001596,
+                0.00043728697346523404,
+                0.9952097535133362,
+                0.00020950654288753867,
+                8.950828487286344e-05,
+                9.647604747442529e-05,
+                9.640991629566997e-05,
+                8.609618089394644e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "じゃあストッキングはあたしが履くので月野さんはピンキーナース着て⁇( 'ω')?"
+                },
+                {
+                    "author": "did:plc:hqukyzkjf5akx7xegpkyfkin",
+                    "type": 2,
+                    "utter": "いやいや、それならきょんさんにピンキーナース貸すから着て？？"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "あたしがピンキーナースで月野さんが白ストッキング&ガーターベルト( 'ω')?"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3le2eaebo2s2h",
+            "label": [
+                0.9945372939109802,
+                0.0003000662836711854,
+                0.003910616040229797,
+                0.0006840848363935947,
+                8.227156649809331e-05,
+                0.0001048577978508547,
+                0.00016565798432566226,
+                0.00021509986254386604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "あたしがピンキーナースで月野さんが白ストッキング&ガーターベルト( 'ω')?"
+                },
+                {
+                    "author": "did:plc:hqukyzkjf5akx7xegpkyfkin",
+                    "type": 2,
+                    "utter": "違う違う、きょんさんがピンキーナースして白ストッキング&ガーターベルトの贅沢盛りするんですよ？？"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "ガーターベルト&ストッキングなアルト君を想像しました( 'ㅅ'){違和感がなかったです)"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3le2ex3z5bs2h",
+            "label": [
+                0.9862715005874634,
+                0.0002593394019640982,
+                0.012114997953176498,
+                0.00038510654121637344,
+                0.00010049549746327102,
+                0.0002997298142872751,
+                0.0002361001243116334,
+                0.00033261117641814053
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "うわあたしだったらごめん‼︎"
+                },
+                {
+                    "author": "did:plc:nxoez2r7rms5jyoljxzm3u5g",
+                    "type": 2,
+                    "utter": "違いますよ～別の人です☺️気使わせてすみません💦"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "あっ💦良かったヒヤッとした😭\nXいよいよ住みづらくなってきたよね。メンタル的に削られんのちょっとやだよね(アレな広告ツイートとか)"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3lcp57xy3w223",
+            "label": [
+                0.04637502506375313,
+                0.6391827464103699,
+                0.0030546002089977264,
+                0.0037943273782730103,
+                0.0006054015248082578,
+                0.29618409276008606,
+                0.010075313039124012,
+                0.0007284649182111025
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "あっ💦良かったヒヤッとした😭\nXいよいよ住みづらくなってきたよね。メンタル的に削られんのちょっとやだよね(アレな広告ツイートとか)"
+                },
+                {
+                    "author": "did:plc:nxoez2r7rms5jyoljxzm3u5g",
+                    "type": 2,
+                    "utter": "本当自衛してんのに自衛意味無いのわけが分かりませんよね。見たくないからそうしてんのに。エロも普通に広告として上がってくんの如何なものかと思います…そして何度もゾンビのように這い上がってくるツイ(広告)…見たいものだけ見たいのにですね💦"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "ホントに‼︎いらんアップデートばっか…‼︎青い鳥に戻って…何回くじら見ても良いから戻ってほし…"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3lcp6other223",
+            "label": [
+                0.0007446370436809957,
+                0.9519100189208984,
+                0.0025395886041224003,
+                0.001104836817830801,
+                0.004366437904536724,
+                0.0007121233502402902,
+                0.03843602165579796,
+                0.00018628606630954891
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "ホントに‼︎いらんアップデートばっか…‼︎青い鳥に戻って…何回くじら見ても良いから戻ってほし…"
+                },
+                {
+                    "author": "did:plc:nxoez2r7rms5jyoljxzm3u5g",
+                    "type": 2,
+                    "utter": "そうなんすよね。外部リンクもツイートに表示しないから～みたいなのとかマジでイミフなアプデお疲れ様でしたって感じです…無料でやるには限界があるんでしょうけどせめて広告選んでくれとは思います。広告をごタップ誘導もやめろぉ…"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "ホント‼︎うっかりでも踏みたくないの流れてくるのストレス…‼︎😭\nそういえば自分のポストRPしたら優先度低くなるって話も聞いて…なんなんそれ…つら…って…イベント前はRPさせてくれよ…って。"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3lcpapwwajs23",
+            "label": [
+                0.0017644697800278664,
+                0.7503546476364136,
+                0.001875547575764358,
+                0.0019968899432569742,
+                0.004904858767986298,
+                0.003113608807325363,
+                0.2355862408876419,
+                0.00040367431938648224
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 1,
+                    "utter": "ホント‼︎うっかりでも踏みたくないの流れてくるのストレス…‼︎😭\nそういえば自分のポストRPしたら優先度低くなるって話も聞いて…なんなんそれ…つら…って…イベント前はRPさせてくれよ…って。"
+                },
+                {
+                    "author": "did:plc:nxoez2r7rms5jyoljxzm3u5g",
+                    "type": 2,
+                    "utter": "人の‪👍🏻押した後にすぐ「こっちもおにゃしゃーす！」みたいに広告がギュンって上がってくんのクソ仕様すぎて😭(そしてスクロールし直し)\nマジですか。イミフですね。宣伝必要なのにどうしたいんすかね？毎回新規であげるのとか無理すぎる！金払えって事ですかヾ(=д= ；)"
+                },
+                {
+                    "author": "did:plc:mmgkexdehipbvbbvzdsfuph2",
+                    "type": 3,
+                    "utter": "ね‼︎あと、おススメにあげてくれてるのなら見せてくれ‼︎一瞬で消えないでって‼︎😭\nちなみに課金してもエロ広告消えないって課金した人が言ってた( 'ㅅ'){マジイーロン…)"
+                }
+            ],
+            "uri": "at://did:plc:mmgkexdehipbvbbvzdsfuph2/app.bsky.feed.post/3lcpdvdq44s23",
+            "label": [
+                0.010516410693526268,
+                0.5677226781845093,
+                0.05834745988249779,
+                0.0900399386882782,
+                0.15871715545654297,
+                0.042515069246292114,
+                0.06741262227296829,
+                0.004728707950562239
+            ]
+        }
+    ]
+}

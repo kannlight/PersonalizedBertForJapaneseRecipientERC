@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "具材は家によって違うかなぁ🤔\nうちのお雑煮はシンプル🙈"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "うちは鶏肉、かまぼこ、大根、にんじん、三つ葉で味はしょうゆとだし汁！"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "色々入ってるのね🙈\n届けに来て🙄"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3leopxzf4x222",
+            "label": [
+                0.04627368599176407,
+                0.0008246658835560083,
+                0.9516749978065491,
+                0.0004884434747509658,
+                0.00013357040006667376,
+                0.00022286298917606473,
+                0.00017478324298281223,
+                0.00020688891527242959
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "色々入ってるのね🙈\n届けに来て🙄"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "やだ🫣"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "😤😤😤"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3leqqtws6ss2o",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "😤😤😤"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "🙄🙄"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "🤯"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3lesyikrkn22y",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "🤯"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "😴"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "🐸"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3letd6txfa22y",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "😤😤"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "🙄"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "😮‍💨"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3leeocah2h22b",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "😮‍💨"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "俺の本垢🧊になったの知ってる？笑"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "(*°ㅁ°)ﾊｯ‼\nそうなの😳"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3lefre2dnsk2b",
+            "label": [
+                0.0017177833942696452,
+                0.0006590395933017135,
+                0.0006573012797161937,
+                0.9962867498397827,
+                0.00012591120321303606,
+                0.00025620663654990494,
+                0.00018917398119810969,
+                0.00010778891009977087
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "(*°ㅁ°)ﾊｯ‼\nそうなの😳"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "🫣🫣🫣"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "😐😐"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3legap7bel22u",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 1,
+                    "utter": "😐😐"
+                },
+                {
+                    "author": "did:plc:szyqvnftlwkbqlpkzt2omons",
+                    "type": 2,
+                    "utter": "😤😤"
+                },
+                {
+                    "author": "did:plc:pjfhve6j25hz4a5226vkojba",
+                    "type": 3,
+                    "utter": "😩😩"
+                }
+            ],
+            "uri": "at://did:plc:pjfhve6j25hz4a5226vkojba/app.bsky.feed.post/3legk2z6bsc2u",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        }
+    ]
+}

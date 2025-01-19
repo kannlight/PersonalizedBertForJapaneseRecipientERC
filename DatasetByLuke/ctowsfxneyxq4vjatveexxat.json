@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "近畿地方映画になるんか\n読んだけどどんなだったか忘れちゃったな"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "柿がぁぁあるよぉ～～"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "あーなんか！思い出せそうで…！"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcyt7vwb222k",
+            "label": [
+                0.07292422652244568,
+                0.03223583102226257,
+                0.8858291506767273,
+                0.0012895972467958927,
+                0.00022926533711142838,
+                0.00520329549908638,
+                0.0015523626934736967,
+                0.0007363216718658805
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "あーなんか！思い出せそうで…！"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "こっちにおいでぇー\n　かきがぁぁあるよー\n\nどんな言い方なのか映画化に伴い決定しちゃうの、ちょっとアレだけども"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "もっかい読んでみようかなあ\n読んだら呪われる系だったっけこれ"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcyth3ciqc2j",
+            "label": [
+                0.0006727982545271516,
+                0.0001756912679411471,
+                0.9985291957855225,
+                0.00014256204303819686,
+                4.10609609389212e-05,
+                0.00032415345776826143,
+                5.263334242044948e-05,
+                6.196171307237819e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "もっかい読んでみようかなあ\n読んだら呪われる系だったっけこれ"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "最近のホラーは読んだら呪われる系が多いので、再度呪われよう！"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "ツイッターに10年以上常駐していたワタクシの呪い耐性を試す時がきたな"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcytmot2vs2j",
+            "label": [
+                0.01608048751950264,
+                0.0019310546340420842,
+                0.9473206996917725,
+                0.0011671916581690311,
+                0.00032879668287932873,
+                0.032217349857091904,
+                0.0003909456718247384,
+                0.0005634478875435889
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "ツイッターに10年以上常駐していたワタクシの呪い耐性を試す時がきたな"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "呪いのせいでTwitterから去ることになったのダ！"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "呪詛渦巻くツイッターが時々懐かしくなるのよ"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcyx3mpjt22j",
+            "label": [
+                0.9981439113616943,
+                0.0005212735268287361,
+                0.0001817707234295085,
+                0.00036561244633048773,
+                3.021196971531026e-05,
+                0.000411048938985914,
+                0.0002280420158058405,
+                0.00011813639139290899
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "呪詛渦巻くツイッターが時々懐かしくなるのよ"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "普通にAV流れてきてギョッとする\n２ちゃんみたい"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "ねーびっくりしちゃった\nツイッターて未成年ユーザいるんじゃなかったっけ\n同人界隈が成人向けコンテンツ垂れ流しとかで大騒ぎしてたのなんだったんだよって感じ"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcz7grpphk2j",
+            "label": [
+                0.00039578828727826476,
+                0.00032835043384693563,
+                0.0004039195191580802,
+                0.9978193044662476,
+                0.0002826225245371461,
+                0.00035124775604344904,
+                0.0003042951866518706,
+                0.00011451492173364386
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "元彦に投票したひとたちって立花と組んでる時点でオワだなって思わない人たちだからなあ"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "組んでるわけじゃないただの偶然だよ派と、立花さんもマスゴミとキトクケンエキと戦ってるんだよ派と、利用してるだけで組んでるわけじゃない派で分かれてる"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "ただの偶然は厳しくないか"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcc5tu4b3y2p",
+            "label": [
+                0.018028145655989647,
+                0.019780678674578667,
+                0.03432348370552063,
+                0.07018188387155533,
+                0.006660873536020517,
+                0.8421438932418823,
+                0.005193772725760937,
+                0.0036872082855552435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "ただの偶然は厳しくないか"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "肌感覚では少なくない\nおそらく斎藤元彦は善人で被害者なので立花に目をつけられた、なんの関係もないのに可哀想派もいる"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "逆に何でそんなに元彦に心酔したんだ…？？？SNSでフォロー返しでもしてもらったのかな"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcc74znsgf2r",
+            "label": [
+                0.0005189868388697505,
+                0.00024156116705853492,
+                0.0008391409064643085,
+                0.9976381063461304,
+                0.00017523224232718349,
+                0.00028912301058880985,
+                0.00019074231386184692,
+                0.000107209911220707
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "逆に何でそんなに元彦に心酔したんだ…？？？SNSでフォロー返しでもしてもらったのかな"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "元が維新だし、顔面がそこそこ良いので"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "維新の宣伝力ってすごいんだね"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcc7sd34ns2p",
+            "label": [
+                0.0006250491132959723,
+                0.0002605684276204556,
+                0.0007750560180284083,
+                0.9974555373191833,
+                0.00025543381343595684,
+                0.0002553836675360799,
+                0.00022536881442647427,
+                0.00014763396757189184
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "維新の宣伝力ってすごいんだね"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "ずーーーっとテレビでてるからね"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "仕事してねーな？"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lcca32nzfy2g",
+            "label": [
+                0.004695189651101828,
+                0.019762033596634865,
+                0.001976094441488385,
+                0.011844739317893982,
+                0.20347943902015686,
+                0.006294832099229097,
+                0.7500190734863281,
+                0.0019286328461021185
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "仕事してねーな？"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "上沼恵美子が「東京は小池百合子やでwww、大阪には吉村サンがいてくれてよかったーーー！ネットではいろんなこと言うひといてるみたいですけどね！みんな大阪に嫉妬してるんですよぉぉぉ」だって\n\n嫉妬せんといてな"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "これが目くそ鼻くそってやつか\nえみちゃんが言うなら間違いないって人いっぱい居そうだなあ"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lccaemzoci2p",
+            "label": [
+                0.12064217776060104,
+                0.02383795566856861,
+                0.08914778381586075,
+                0.16420726478099823,
+                0.007797659374773502,
+                0.06272482872009277,
+                0.5146126747131348,
+                0.017029650509357452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "三体を読んでるんだけど、締め切りが4世紀後？の仕事って大変そうだなぁと思う\nモチベ上がらんよな"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "章北海、最高やぞ"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "あーあのメンタルっょっょ君！"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lbdysewoio2w",
+            "label": [
+                0.00021737442875746638,
+                0.9986172914505005,
+                0.00016287469770759344,
+                0.00021213067520875484,
+                9.02408646652475e-05,
+                0.00027078058337792754,
+                0.00040588504634797573,
+                2.339184720767662e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "あーあのメンタルっょっょ君！"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "三体Ⅱが邦訳発売された日、中国の方に中国語で「章北海最高！」ってツイートがきた懐かしい日々"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "大人気…ってこと？読んだとこまでではまだそんなに活躍してない\nルオジーパートが長え"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lbdz3gepcr2x",
+            "label": [
+                0.0020999140106141567,
+                0.0006481734453700483,
+                0.0018769712187349796,
+                0.9945928454399109,
+                0.0001222667924594134,
+                0.00027521964511834085,
+                0.00022942695068195462,
+                0.00015517380961682647
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "大人気…ってこと？読んだとこまでではまだそんなに活躍してない\nルオジーパートが長え"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "羅輯は超重要キャラだけどクソ\n章北海はワイが見たかったスティーブ・ロジャース"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "あいつクソのまま話進むんか！\n章北海に期待しよう…\n\nちょいちょい出てくる日本人キャラクターの名前が日本人が書く小説よりもよっぽどその辺にいる日本人ぽい名前でおもろい"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lbdzdj7rqr2m",
+            "label": [
+                0.09205440431833267,
+                0.014839615672826767,
+                0.00502425990998745,
+                0.21398520469665527,
+                0.020294373854994774,
+                0.014362302608788013,
+                0.6351626515388489,
+                0.004277105443179607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "あいつクソのまま話進むんか！\n章北海に期待しよう…\n\nちょいちょい出てくる日本人キャラクターの名前が日本人が書く小説よりもよっぽどその辺にいる日本人ぽい名前でおもろい"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "羅輯からぷんぷん匂う作者のお気に入り感"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "なんかラノベの主人公みたいだな…と思うなどした"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lbec3cmokw2x",
+            "label": [
+                0.11640976369380951,
+                0.004690860398113728,
+                0.09032700210809708,
+                0.7690711617469788,
+                0.0004923493252135813,
+                0.013391243293881416,
+                0.0026618465781211853,
+                0.002955774310976267
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "なんかラノベの主人公みたいだな…と思うなどした"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "なるほど\nラノベの知見ないけど、なんかわかるわ"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "平凡なオレが志もなくただただ受け身でいたらなんか勝手に才能を見出されて大役に抜擢されて嫌だけどやらざるを得ないぜやれやれみたいな感じとか、自然に振る舞うだけで周りが勝手に一目置いてくれるみたいな感じがローティーン向けエンタメ主人公の鉄板モデルだなと思う"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lbeldbup4p2i",
+            "label": [
+                0.004662360530346632,
+                0.00037218417855910957,
+                0.9938896894454956,
+                0.0005649771774187684,
+                9.175396553473547e-05,
+                0.00014364764501806349,
+                8.345876267412677e-05,
+                0.00019193565822206438
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "在阪メディアはすでに汚染ひどいんだから松本が加わったところであんま変わんねーだろ"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "ひどいこと言われた！\nマジでそうだけど！\n.˚‧º·(ฅωฅ*)‧º·˚."
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "大阪で引き取ってください"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3laixgup36b2l",
+            "label": [
+                0.00028008007211610675,
+                0.0006196107715368271,
+                0.9985954165458679,
+                7.124874537112191e-05,
+                8.157747652148828e-05,
+                0.00011569080379558727,
+                0.0001705124304862693,
+                6.596234743483365e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "大阪で引き取ってください"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "いらないのにーーー"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "大阪万博のために謝ったんだからあたたかく迎え入れるのが人情ってもんですよ"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3laizbm3mcb2m",
+            "label": [
+                0.5026019811630249,
+                0.006649069022387266,
+                0.473098486661911,
+                0.0008847224526107311,
+                0.004123289603739977,
+                0.0008901880355551839,
+                0.006261962931603193,
+                0.005490281619131565
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "大阪万博のために謝ったんだからあたたかく迎え入れるのが人情ってもんですよ"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "大阪はもう人情の街じゃないんで\n冷笑の街、大阪"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "お笑いの街だもんな"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lajd6mg4rm2w",
+            "label": [
+                0.9615575671195984,
+                0.0022658028174191713,
+                0.02859882079064846,
+                0.0012882433366030455,
+                0.000676807074341923,
+                0.0009080956224352121,
+                0.0018386822193861008,
+                0.002866083290427923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "お笑いの街だもんな"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "笑わせると笑われるは違うというけど、本当は同じ！とか言うてはります\n\n違うやろ"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "プライド捨てた感ある"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lakskegh3o2m",
+            "label": [
+                0.0008549757767468691,
+                0.9904995560646057,
+                0.00028615823248401284,
+                0.0004982641548849642,
+                9.200791828334332e-05,
+                0.006624286063015461,
+                0.0010803166078403592,
+                6.442284939112142e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 1,
+                    "utter": "プライド捨てた感ある"
+                },
+                {
+                    "author": "did:plc:fumozjkq7qp5dt5k7waqyh6d",
+                    "type": 2,
+                    "utter": "昔は在阪オリジナルの番組って面白かったけど、最近はｼﾞｪﾝｼﾞｪﾝなんだよねぇ\n吉本タレントがじゃれあってるだけ\n\n大阪のお笑いのレベルの低下がすごい"
+                },
+                {
+                    "author": "did:plc:ctowsfxneyxq4vjatveexxat",
+                    "type": 3,
+                    "utter": "芸人が芸しないでただ喋ってるだけでおもろいわけないよなってバラエティ見てて思ったりする\n漫画家の日常ツイートみたいなもんだし\n喋るだけで面白い人は希少なんだよな…"
+                }
+            ],
+            "uri": "at://did:plc:ctowsfxneyxq4vjatveexxat/app.bsky.feed.post/3lakwklkf3y26",
+            "label": [
+                0.08244747668504715,
+                0.7527381181716919,
+                0.002791522303596139,
+                0.014222933910787106,
+                0.0015359108801931143,
+                0.06293665617704391,
+                0.08031861484050751,
+                0.003008711850270629
+            ]
+        }
+    ]
+}

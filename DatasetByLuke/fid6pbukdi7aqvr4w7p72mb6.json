@@ -1,0 +1,324 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "There are First Amendment-supported responses, such as, “In response to speech used on campus recently, we understand its usage in protest to events and decisions you disagree with.  However, if this speech creates an atmosphere of oppression against any student group, there will be consequences.”"
+                },
+                {
+                    "author": "did:plc:s6j27rxb3ic2rxw73ixgqv2p",
+                    "type": 2,
+                    "utter": "Aren’t some people claiming it automatically creates an atmosphere of oppression, along with saying “Free Palestine” or accusing Israel of genocide or apartheid or colonialism?"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "When it creates a clear situation of harassment, I would call that “oppressive.” Some people might claim oppression, that doesn’t necessarily make it so."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7avsehjr2m",
+            "label": [
+                0.5481733679771423,
+                0.03238797187805176,
+                0.2952316999435425,
+                0.06342194974422455,
+                0.00947253406047821,
+                0.006893528625369072,
+                0.023790981620550156,
+                0.020627915859222412
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "When it creates a clear situation of harassment, I would call that “oppressive.” Some people might claim oppression, that doesn’t necessarily make it so."
+                },
+                {
+                    "author": "did:plc:s6j27rxb3ic2rxw73ixgqv2p",
+                    "type": 2,
+                    "utter": "OK.  So, like, if it’s directed at a particular person, repeatedly?"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "There are ways of speaking. \nOne way is to state your views in such a way that they are understood and respected. \nAnother is to say specific things that are intended to elicit a response simply for the sake of being volatile.\n\nI prefer the first method."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7ctpyber2z",
+            "label": [
+                0.8249526619911194,
+                0.020067725330591202,
+                0.1045982614159584,
+                0.016802003607153893,
+                0.0035380497574806213,
+                0.007598348893225193,
+                0.011116954497992992,
+                0.011325977742671967
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "There are ways of speaking. \nOne way is to state your views in such a way that they are understood and respected. \nAnother is to say specific things that are intended to elicit a response simply for the sake of being volatile.\n\nI prefer the first method."
+                },
+                {
+                    "author": "did:plc:s6j27rxb3ic2rxw73ixgqv2p",
+                    "type": 2,
+                    "utter": "Depending on my mood, I do as well.  But being provocative, vivid, even incendiary is absolutely part of our political speech heritage, and framing a speech code to exclude it makes speech watery and dull, as well as being ambiguous and easily abused."
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "You can be provocative without being volatile/incendiary. It’s all in the delivery.\n\nYou may want a response from your opponent. But do you want an incendiary response, or a respectful response?"
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7d5sonmx2s",
+            "label": [
+                0.04361005499958992,
+                0.004428887274116278,
+                0.9349159598350525,
+                0.007502203807234764,
+                0.002453496214002371,
+                0.0010667592287063599,
+                0.002628266578540206,
+                0.0033944277092814445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "You can be provocative without being volatile/incendiary. It’s all in the delivery.\n\nYou may want a response from your opponent. But do you want an incendiary response, or a respectful response?"
+                },
+                {
+                    "author": "did:plc:whiihbqtwdzxkzsohl2gi3bt",
+                    "type": 2,
+                    "utter": "What behavior specifically would you propose banning? What is the rule you would like to see enacted? “Don’t be volatile,” is pretty vague."
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "I didn’t propose to ban anything. I ultimately suggested that anyone can speak, but some speech will elicit a response. Newton’s Third Law of Vocaldynamics."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7ffwzsom2d",
+            "label": [
+                0.6981917023658752,
+                0.03300154209136963,
+                0.148173525929451,
+                0.04877416044473648,
+                0.009315173141658306,
+                0.013699470087885857,
+                0.026940491050481796,
+                0.02190382406115532
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "If the legal definition of harassment can only be used to explain a situation between singular individuals, that’s never what I have been referring to."
+                },
+                {
+                    "author": "did:plc:76ahqapcojnivrabrjtohb7v",
+                    "type": 2,
+                    "utter": "Well, you’re the one who said “creates a clear situation of harassment.” I don’t imagine anybody was holding a gun to your head and forcing you to type those words."
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "More than one person can be harassed by the same event in a singular moment."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7oeax4h42h",
+            "label": [
+                0.8353006839752197,
+                0.01922590844333172,
+                0.09839285910129547,
+                0.01591406762599945,
+                0.002719148760661483,
+                0.007874848321080208,
+                0.008039809763431549,
+                0.012532765977084637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "When it creates a clear situation of harassment, I would call that “oppressive.” Some people might claim oppression, that doesn’t necessarily make it so."
+                },
+                {
+                    "author": "did:plc:s6j27rxb3ic2rxw73ixgqv2p",
+                    "type": 2,
+                    "utter": "OK.  So, like, if it’s directed at a particular person, repeatedly?"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "It’s nearly impossible to draw a line. But when anyone’s physical safety is in jeopardy, that situation must be dealt with promptly. Hurt feelings are one thing. An entire racial or religious community afraid to step on campus is a problem. How it’s resolved? I haven’t a clue…"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "In an academic atmosphere, parties must be willing to engage in a respectful discussion with those holding an opposing opinion. Those who aren’t willing to do this shouldn’t be taken seriously. Until they threaten actual harm. Such as a group of 10 people surrounding one Jewish person."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7bcnvcwh2y",
+            "label": [
+                0.5452454090118408,
+                0.06458023935556412,
+                0.21608228981494904,
+                0.07927849143743515,
+                0.014756130054593086,
+                0.020609084516763687,
+                0.03238743171095848,
+                0.0270609799772501
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "It’s nearly impossible to draw a line. But when anyone’s physical safety is in jeopardy, that situation must be dealt with promptly. Hurt feelings are one thing. An entire racial or religious community afraid to step on campus is a problem. How it’s resolved? I haven’t a clue…"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "In an academic atmosphere, parties must be willing to engage in a respectful discussion with those holding an opposing opinion. Those who aren’t willing to do this shouldn’t be taken seriously. Until they threaten actual harm. Such as a group of 10 people surrounding one Jewish person."
+                },
+                {
+                    "author": "did:plc:tuqbys34v3s2k7eiqgcn6kye",
+                    "type": 2,
+                    "utter": "If a group of 10 surrounded a vegan yelling angrily about the need to diversify their protein base to prevent anemia that would be assault to some, where the same words spoken calmly would not. Is it the speech which should be banned, or the method of delivery? Or the viewpoint?"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "10 people surrounding any singular person is an intent to intimidate, is an act of aggression, for any possible reason. This is not a protest."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7n6smaru2c",
+            "label": [
+                0.6587258577346802,
+                0.03316356614232063,
+                0.18114522099494934,
+                0.06730207800865173,
+                0.006021643523126841,
+                0.01248212531208992,
+                0.023469002917408943,
+                0.017690574750304222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "10 people surrounding any singular person is an intent to intimidate, is an act of aggression, for any possible reason. This is not a protest."
+                },
+                {
+                    "author": "did:plc:p6bb7ne4qmbqb46onehp6kdl",
+                    "type": 2,
+                    "utter": "Your rule would logically make some gangbangs illegal?"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "Wut?"
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kga4ti5jge2c",
+            "label": [
+                0.7265207767486572,
+                0.056397851556539536,
+                0.04902271926403046,
+                0.08783583343029022,
+                0.012368861585855484,
+                0.014780870638787746,
+                0.04160325974225998,
+                0.011469905264675617
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "10 people surrounding any singular person is an intent to intimidate, is an act of aggression, for any possible reason. This is not a protest."
+                },
+                {
+                    "author": "did:plc:46dx5vozlbdxnvseqseqvo5v",
+                    "type": 2,
+                    "utter": "Jeff, this is false. I've been surrounded by 100s of people and not one was trying to intimidate me."
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "At the mall, or on the campus of Columbia University, where this actually occurred?"
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7qormist23",
+            "label": [
+                0.24600546061992645,
+                0.011058680713176727,
+                0.6598681807518005,
+                0.05648154765367508,
+                0.006941348779946566,
+                0.003615529043599963,
+                0.006963653955608606,
+                0.009065593592822552
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "It’s nearly impossible to draw a line. But when anyone’s physical safety is in jeopardy, that situation must be dealt with promptly. Hurt feelings are one thing. An entire racial or religious community afraid to step on campus is a problem. How it’s resolved? I haven’t a clue…"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "In an academic atmosphere, parties must be willing to engage in a respectful discussion with those holding an opposing opinion. Those who aren’t willing to do this shouldn’t be taken seriously. Until they threaten actual harm. Such as a group of 10 people surrounding one Jewish person."
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 1,
+                    "utter": "That’s an idealistic viewpoint… but some ideals are worth supporting. Administrations could conceivably organize such a discussion. Those who show up and respect the opposing view can still oppose that view. And not expect agreement. But understand the opposition and respect it."
+                },
+                {
+                    "author": "did:plc:s6j27rxb3ic2rxw73ixgqv2p",
+                    "type": 2,
+                    "utter": "I appreciate the idealism. But the problem is that speech codes that are ambiguous and based on subsequent consensus are particularly rife for abuse.\n\nHow does someone who sincerely believes the Palestinians are victims of genocide decide what they’re allowed to say in your system?"
+                },
+                {
+                    "author": "did:plc:fid6pbukdi7aqvr4w7p72mb6",
+                    "type": 3,
+                    "utter": "If someone sincerely believes that the intention of Israel is genocidal erasure of the Palestinian people, they will most likely not be open to any opposing response.\n\nSo, no discussion, and thus no resolution."
+                }
+            ],
+            "uri": "at://did:plc:fid6pbukdi7aqvr4w7p72mb6/app.bsky.feed.post/3kg7dcjezze2c",
+            "label": [
+                0.696012556552887,
+                0.04932359978556633,
+                0.14964841306209564,
+                0.03361073136329651,
+                0.008009553886950016,
+                0.016540545970201492,
+                0.025804098695516586,
+                0.02105051465332508
+            ]
+        }
+    ]
+}

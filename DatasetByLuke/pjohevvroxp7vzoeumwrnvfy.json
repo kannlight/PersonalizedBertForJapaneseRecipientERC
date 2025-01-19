@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "バイト終わったー！！最近学校関係で休みとか遅れることが増えてるんだけど大丈夫かな……😢"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "おつかれさまー😶😶\n\n高校の時からバイトするだけでえらいっ👍👍\nめっちゃ大変そうだもん😌"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "ありがとう〜☺️✨️\n自分偉いぞ！！()\n大学でも大変なのはきっと変わらないよね！\n大変だけど自分の力で推し活できるし、携帯とか使えてるからやりがいも少しは感じるよ……！"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4ltdvt3722v",
+            "label": [
+                0.9996106028556824,
+                4.889184492640197e-05,
+                0.00012548475933726877,
+                5.1743409130722284e-05,
+                2.9424922104226425e-05,
+                3.381049828021787e-05,
+                4.7499139327555895e-05,
+                5.2537154260789976e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "ありがとう〜☺️✨️\n自分偉いぞ！！()\n大学でも大変なのはきっと変わらないよね！\n大変だけど自分の力で推し活できるし、携帯とか使えてるからやりがいも少しは感じるよ……！"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "大学はねー、、大変っと言うよりはめんどい、かな笑笑\n\n思ってる以上に大学は時間有り余ってるから👍👍\nできれば働きたくない笑"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "そうなのw\nだから大学生でバイト多い人いるのかな笑\n\n良いね時間あるの！！それはちょっと楽しみかも……！\nそれはそうw\nだから大学選んだのも少しあるw"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4ms3waumb2c",
+            "label": [
+                0.7028563618659973,
+                0.001151673379354179,
+                0.29090404510498047,
+                0.0019918896723538637,
+                0.00038510648300871253,
+                0.000836147170048207,
+                0.0005574212991632521,
+                0.0013174127088859677
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "そうなのw\nだから大学生でバイト多い人いるのかな笑\n\n良いね時間あるの！！それはちょっと楽しみかも……！\nそれはそうw\nだから大学選んだのも少しあるw"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "そこで大学選ぶんだ笑笑\n\nそうかー、働きたくなくて大学、、なるほど🤔🤔\nしっかり大学行く理由あってすごい！！\n周りだいたいみんな行くからーみたいな感じだったから"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "それメインじゃないよwww\nみんな行くのもあるけど選べる職種も増えるかな〜って思って\n将来の夢とかもないしさ"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4o7hax55t2b",
+            "label": [
+                0.01782054454088211,
+                0.0010285279713571072,
+                0.9793045520782471,
+                0.00037101429188624024,
+                0.00015076302224770188,
+                0.0005253747804090381,
+                0.0004775765410158783,
+                0.00032165629090741277
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "それメインじゃないよwww\nみんな行くのもあるけど選べる職種も増えるかな〜って思って\n将来の夢とかもないしさ"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "そうやねー、、みんなそんなもんよ👍👍\n自分だって法学行っとけばなんとかなるとかそんなもんだもん笑笑\n\n自分も全く夢なくて困ってるんだよねー😎😎"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "法学なんだ！\nだよね〜笑\n実際に決まってる人って多くはないよね……\n将来の夢って難しい( ˘•ω•˘ ;)"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4odpm565e2h",
+            "label": [
+                0.13248157501220703,
+                0.0618540421128273,
+                0.015725865960121155,
+                0.014121679589152336,
+                0.00046436217962764204,
+                0.7721831798553467,
+                0.0014878584770485759,
+                0.001681383466348052
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "法学なんだ！\nだよね〜笑\n実際に決まってる人って多くはないよね……\n将来の夢って難しい( ˘•ω•˘ ;)"
+                },
+                {
+                    "author": "did:plc:v5jdepdr2gidljok563zqtwq",
+                    "type": 2,
+                    "utter": "大丈夫！！\n大学入っても4年あるし👍👍\nって先輩が言ってたー笑"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "働くまでに割と時間に余裕ができるもんねw\nそれまでにある程度決めておかないとね〜\n大学頑張れ*(°̀ᗝ°́)و💓"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4pfzkr4yk2f",
+            "label": [
+                0.0005819438374601305,
+                0.00021259079221636057,
+                0.9987924098968506,
+                0.0001256953546544537,
+                7.049862324493006e-05,
+                9.105935896513984e-05,
+                5.7077635574387386e-05,
+                6.87334468238987e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "おお！！愛莉ちゃんへの愛がすごい✨"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "衝動買い笑\nゲーム内でもグッズでも愛莉愛は貫く✨"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "流石です！それは本気で見習わないとな……！\n推しじゃなくてもたまに考え無しに引いちゃうことあるからw"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4mrq6zeec2i",
+            "label": [
+                0.08624590933322906,
+                0.0038090392481535673,
+                0.09943213313817978,
+                0.7806795835494995,
+                0.0023747901432216167,
+                0.007416140288114548,
+                0.002321988344192505,
+                0.017720356583595276
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "流石です！それは本気で見習わないとな……！\n推しじゃなくてもたまに考え無しに引いちゃうことあるからw"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "愛莉の星4コンプはモチベになってるからその為にも他のガチャは有償10連までで我慢してる←\n\nでも衝動的に引きたくなるのも分かるわw\nイラストとか衣装とかどれも良過ぎるんよね～"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "コンプはすごい……！！\n\nつい引いちゃうからほんとに困るのよ！！\n(ほんとにありがとうございます)"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4o7bj55eb2f",
+            "label": [
+                0.022154873237013817,
+                0.0013047857210040092,
+                0.0007580610108561814,
+                0.9744279980659485,
+                0.00025074914447031915,
+                0.0004963492974638939,
+                0.00030951781081967056,
+                0.00029762377380393445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "コンプはすごい……！！\n\nつい引いちゃうからほんとに困るのよ！！\n(ほんとにありがとうございます)"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "フェス以外で愛莉のPU無いガチャって有償10連以外は引いた事ないんよね\n愛莉の為って言い聞かせながら苦渋の我慢を繰り返してるw\n\nそうでもしないとやっぱコンプはキツいなぁという感じw"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "我慢強すぎる……！！でもそれぐらいしないとかぁ\nめっちゃ厳しいけど推しのためなら頑張るしかないか……"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4odfwpfvn2y",
+            "label": [
+                0.06845711171627045,
+                0.5275170207023621,
+                0.2656972110271454,
+                0.007487031631171703,
+                0.0041361115872859955,
+                0.10560807585716248,
+                0.01642865687608719,
+                0.004668805748224258
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 1,
+                    "utter": "我慢強すぎる……！！でもそれぐらいしないとかぁ\nめっちゃ厳しいけど推しのためなら頑張るしかないか……"
+                },
+                {
+                    "author": "did:plc:fj3jnez6nzt4iw6ifygypyz7",
+                    "type": 2,
+                    "utter": "そうなのよ～\n泣く泣く見送るガチャが多いから忍耐力強い人にだけ勧めるw"
+                },
+                {
+                    "author": "did:plc:pjohevvroxp7vzoeumwrnvfy",
+                    "type": 3,
+                    "utter": "箱推ししてる私はもう無理かもしれんw\nそれ以外のガチャは耐えなきゃだ⎛›´ᾥ‘‹ ⎞"
+                }
+            ],
+            "uri": "at://did:plc:pjohevvroxp7vzoeumwrnvfy/app.bsky.feed.post/3l4pfs3puki2t",
+            "label": [
+                0.010478664189577103,
+                0.8021653294563293,
+                0.006006983574479818,
+                0.001544416882097721,
+                0.00038013813900761306,
+                0.17673785984516144,
+                0.002314995275810361,
+                0.00037161249201744795
+            ]
+        }
+    ]
+}

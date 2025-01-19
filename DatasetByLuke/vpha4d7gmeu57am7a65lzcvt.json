@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "嫁が泣くぞ"
+                },
+                {
+                    "author": "did:plc:ixxiaklnezxs463ap3eufmxm",
+                    "type": 2,
+                    "utter": "いぇーい✌️^_^✌️ぶいぶい"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "家族の皆さん見てるぅ〜〜？みもりんかさんは俺の隣で寝てまーす！"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfcl4rxur22r",
+            "label": [
+                0.9989829659461975,
+                9.992344712372869e-05,
+                0.0006225158576853573,
+                7.254377123899758e-05,
+                3.3464093576185405e-05,
+                5.613916800939478e-05,
+                6.232492160052061e-05,
+                7.005273801041767e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "家族の皆さん見てるぅ〜〜？みもりんかさんは俺の隣で寝てまーす！"
+                },
+                {
+                    "author": "did:plc:ixxiaklnezxs463ap3eufmxm",
+                    "type": 2,
+                    "utter": "まあ男とするのもやぶさかじゃないよ"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "やぶさかとかではなく、貞操観念の問題"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfcl7ecnb22r",
+            "label": [
+                0.06027264893054962,
+                0.1352217197418213,
+                0.0017350442940369248,
+                0.003695316845551133,
+                0.00848125759512186,
+                0.05907617509365082,
+                0.7272733449935913,
+                0.004244454205036163
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "やぶさかとかではなく、貞操観念の問題"
+                },
+                {
+                    "author": "did:plc:ixxiaklnezxs463ap3eufmxm",
+                    "type": 2,
+                    "utter": "それを私に求めるなよ\n興奮さえできれば倫理なんかクソだ"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "嫁が泣くぞ"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfcleofrwc2r",
+            "label": [
+                0.004900061991065741,
+                0.6412575244903564,
+                0.001007706392556429,
+                0.005055949557572603,
+                0.012787135317921638,
+                0.32643041014671326,
+                0.0074544078670442104,
+                0.0011069108732044697
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "嫁が泣くぞ"
+                },
+                {
+                    "author": "did:plc:ixxiaklnezxs463ap3eufmxm",
+                    "type": 2,
+                    "utter": "その台詞、今までインターネットで掃いて捨てるほど言われてきた\nこれからも言われ続ける、きっと"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "実際は泣いてないの？"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfclhlhssc2r",
+            "label": [
+                0.0008996834512799978,
+                0.0017251475946977735,
+                0.0008387492271140218,
+                0.9943220615386963,
+                0.00033412204356864095,
+                0.0011902580736204982,
+                0.0005010899039916694,
+                0.00018883045413531363
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "この文字列見ただけでdubstepってわかるもんなの？"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "なんとなくワブルベースかなと"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "とてもすごい"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfbtb3xu2s25",
+            "label": [
+                0.0006802438874728978,
+                0.00020654007676057518,
+                0.000733019842300564,
+                0.9974357485771179,
+                0.0002732857537921518,
+                0.0003004166064783931,
+                0.00020616890105884522,
+                0.00016454518481623381
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "とてもすごい"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "ただわたしはワブルベースつくれるかというと勉強しないとむり"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "今夜も残念玉砕です"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfbtcqyb7s25",
+            "label": [
+                0.00024271996517200023,
+                0.9990673661231995,
+                0.0001687866897555068,
+                0.0001096055784728378,
+                6.36419645161368e-05,
+                0.00011521411215653643,
+                0.00020002191013190895,
+                3.273084439570084e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "今夜も残念玉砕です"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "ひっくり返ってもYunomiさんにはなれない"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "つ🍵"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfbtfatevc25",
+            "label": [
+                0.9787288904190063,
+                0.00530281150713563,
+                0.005599795840680599,
+                0.0029235542751848698,
+                0.0005318615585565567,
+                0.0010470154229551554,
+                0.005039006471633911,
+                0.0008270174148492515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 1,
+                    "utter": "つ🍵"
+                },
+                {
+                    "author": "did:plc:zyb4yfeqximg43iel52cvrir",
+                    "type": 2,
+                    "utter": "まぁ、技術がついてもkawaiiはやらんかな、わたしは"
+                },
+                {
+                    "author": "did:plc:vpha4d7gmeu57am7a65lzcvt",
+                    "type": 3,
+                    "utter": "kakkoiiやって"
+                }
+            ],
+            "uri": "at://did:plc:vpha4d7gmeu57am7a65lzcvt/app.bsky.feed.post/3lfbtkxrpr225",
+            "label": [
+                0.0019550244323909283,
+                0.0002888758899644017,
+                0.9973140358924866,
+                0.00015212703146971762,
+                6.153884896775708e-05,
+                8.725147199584171e-05,
+                7.092777377692983e-05,
+                7.007230306044221e-05
+            ]
+        }
+    ]
+}

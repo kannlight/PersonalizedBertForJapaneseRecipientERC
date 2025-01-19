@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "お先にフォローありがとうございます！フォロバ失礼します☺️\nこちら呼びタメ大歓迎です✨"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 2,
+                    "utter": "フォロバありがとうございます✨\n私も呼びタメ大歓迎なので、早速タメ語でいかせて貰うね！\nなんて呼んだらいいかなー？"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "私も早速タメで失礼するね！\n\n私はゆえって読むから好きに呼んで大丈夫だよ☺️私はなんて呼んだらいいかな？"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3l7sjd5zemu2b",
+            "label": [
+                0.9272210001945496,
+                0.00034675811184570193,
+                0.06999341398477554,
+                0.00037895276909694076,
+                0.00034030471579171717,
+                0.0004417317977640778,
+                0.0005517957033589482,
+                0.0007260059355758131
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "私も早速タメで失礼するね！\n\n私はゆえって読むから好きに呼んで大丈夫だよ☺️私はなんて呼んだらいいかな？"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 2,
+                    "utter": "ゆえちゃんって呼んでもいいー？\n私は普段リジェちゃんとかりっちゃんって呼ばれることが多いけど、呼びやすい呼び方で大丈夫だよ☺"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "大丈夫だよ☺️\nではリジェちゃんって呼ばせてもらうね✨"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3l7smkl42qy25",
+            "label": [
+                0.9967111349105835,
+                0.00014528582687489688,
+                0.002658543875440955,
+                7.79577749199234e-05,
+                5.6077566114254296e-05,
+                0.00011483128764666617,
+                9.826032328419387e-05,
+                0.00013792033132631332
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "大丈夫だよ☺️\nではリジェちゃんって呼ばせてもらうね✨"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 2,
+                    "utter": "改めてよろしくね、ゆえちゃん☺\nアイナナもうたプリも推し被ってるから、たくさんお話出来たら嬉しい〜！"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "こちらこそよろしくね☺️\nそっか、推し被ってるね！たくさん話そうね💓"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3l7txfppsqe2o",
+            "label": [
+                0.8025520443916321,
+                0.0007870490662753582,
+                0.19446797668933868,
+                0.0005309907137416303,
+                0.00038589711766690016,
+                0.00037338139372877777,
+                0.00045306538231670856,
+                0.00044956000056117773
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "こちらこそよろしくね☺️\nそっか、推し被ってるね！たくさん話そうね💓"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 2,
+                    "utter": "Xのうたプリ垢消しちゃってからお話できる人いなかったから嬉しすぎる〜😭💓\n\nちなみにね、わた婚はアプリ（マンガUP）で読んでたりするから、そっちも少しお話できるくらいの知識はあるよ🥺"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "Xの垢消しちゃったんだね💦私は併用してるよー！\nライエモのガチャ、トラビの誰か来て欲しいけど来る気がしないよ😇\n\nえ！わた婚、アプリで読んでるんだ😃お話できるの嬉しい🤭💕"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3l7v5xyagbr2t",
+            "label": [
+                0.999504566192627,
+                0.00012299731315579265,
+                0.00014256064605433494,
+                9.3977534561418e-05,
+                1.8026948964688927e-05,
+                4.15088034060318e-05,
+                4.060192804899998e-05,
+                3.57831668225117e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "お先にフォローありがとうございます！フォロバ失礼しますね☺️"
+                },
+                {
+                    "author": "did:plc:dp4wcbo7uqwhore477uwi2tm",
+                    "type": 2,
+                    "utter": "フォロバありがとうございます😊"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "よろしければ、呼びタメ大歓迎ですのでお気軽にお話くださいね☺️"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3lbdvrrxqc22q",
+            "label": [
+                0.007952994666993618,
+                0.0003082217008341104,
+                0.9909572601318359,
+                0.00020624663738999516,
+                0.0001369887322653085,
+                0.0001619411923456937,
+                0.00013829758972860873,
+                0.0001380275934934616
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "よろしければ、呼びタメ大歓迎ですのでお気軽にお話くださいね☺️"
+                },
+                {
+                    "author": "did:plc:dp4wcbo7uqwhore477uwi2tm",
+                    "type": 2,
+                    "utter": "こちらも呼びタメ大歓迎なので仲良くして貰えたら嬉しいです😊"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "早速お言葉に甘えて、蓮ちゃんって呼んでもいいかな？"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3lbh6nhf5js2g",
+            "label": [
+                0.9815965294837952,
+                0.00028333498630672693,
+                0.017319591715931892,
+                0.00015131401596590877,
+                0.00010345895861973986,
+                0.0001892921281978488,
+                0.00016672581841703504,
+                0.0001897761831060052
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "早速お言葉に甘えて、蓮ちゃんって呼んでもいいかな？"
+                },
+                {
+                    "author": "did:plc:dp4wcbo7uqwhore477uwi2tm",
+                    "type": 2,
+                    "utter": "蓮ちゃん呼び大丈夫だよ😊\n\nえと、なんて呼んだらいいかな？"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "ゆえちゃん、ゆーちゃんが多いけど好きに呼んでもらって大丈夫！"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3lbjz36gsak2j",
+            "label": [
+                0.9977818131446838,
+                6.674690666841343e-05,
+                0.0016145914560183883,
+                8.528133184881881e-05,
+                7.728501077508554e-05,
+                0.00010238317190669477,
+                0.00010724877938628197,
+                0.00016462283383589238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 1,
+                    "utter": "ゆえちゃん、ゆーちゃんが多いけど好きに呼んでもらって大丈夫！"
+                },
+                {
+                    "author": "did:plc:dp4wcbo7uqwhore477uwi2tm",
+                    "type": 2,
+                    "utter": "返信遅くなってごめんね💦\n\nじゃあ、ゆーちゃんって呼ばせて貰おうかな(* ॑ᵕ  ॑*  )"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 3,
+                    "utter": "返信、大丈夫だよ！\n\nゆーちゃん呼び了解だよ😊\nこれからよろしくね✨"
+                }
+            ],
+            "uri": "at://did:plc:b5wpcjcwkkmcmalqt6d75sae/app.bsky.feed.post/3lbr7lctjq22z",
+            "label": [
+                0.9922203421592712,
+                0.0001433005672879517,
+                0.00702858529984951,
+                0.00013484866940416396,
+                9.55525683821179e-05,
+                0.00011106596502941102,
+                0.00012925572809763253,
+                0.00013697758549824357
+            ]
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "まっ、鬱陶しいいいね来そうだけど華族なら大歓迎だからここに話しかけちゃって"
+                },
+                {
+                    "author": "did:plc:l3pngqmgx2oc6ptmemsxhf56",
+                    "type": 2,
+                    "utter": "こんばんは！ぼく、ハンギョドン！よろしくね💕︎"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "うわー、ハンギョドンだ〜(なでなで"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq5p66omr2k",
+            "label": [
+                0.9981228709220886,
+                0.00027532284730114043,
+                0.0005759427440352738,
+                0.0006132989074103534,
+                4.6036697312956676e-05,
+                7.750130316708237e-05,
+                0.00016827484068926424,
+                0.00012064819020451978
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "うわー、ハンギョドンだ〜(なでなで"
+                },
+                {
+                    "author": "did:plc:l3pngqmgx2oc6ptmemsxhf56",
+                    "type": 2,
+                    "utter": "わぁ！知ってくれてるの？！(にこ"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "人気者ですから"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq6qj5vgo2q",
+            "label": [
+                0.9657574892044067,
+                0.0030695905443280935,
+                0.01697002910077572,
+                0.005391938146203756,
+                0.000528082309756428,
+                0.0037466820795089006,
+                0.0011452879989519715,
+                0.0033909957855939865
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "人気者ですから"
+                },
+                {
+                    "author": "did:plc:l3pngqmgx2oc6ptmemsxhf56",
+                    "type": 2,
+                    "utter": "人気者…人気者…ぼく、そうなの？！✨️💕"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "だって、ランキング入ってるでしょ？"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxrlzlz7cu2v",
+            "label": [
+                0.9691594243049622,
+                0.001098188804462552,
+                0.013283937238156796,
+                0.01237353216856718,
+                0.0007105522090569139,
+                0.0004406471271067858,
+                0.0009593488066457212,
+                0.001974409446120262
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "だって、ランキング入ってるでしょ？"
+                },
+                {
+                    "author": "did:plc:l3pngqmgx2oc6ptmemsxhf56",
+                    "type": 2,
+                    "utter": "うん！みんなのおかげで、ランキングに入ってるよ！！"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "流石だね？"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3ky47zyxwrd22",
+            "label": [
+                0.4348374605178833,
+                0.0023277434520423412,
+                0.01823226548731327,
+                0.537872314453125,
+                0.0008469947497360408,
+                0.0010757353156805038,
+                0.0012834146618843079,
+                0.0035241032019257545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "流石だね？"
+                },
+                {
+                    "author": "did:plc:l3pngqmgx2oc6ptmemsxhf56",
+                    "type": 2,
+                    "utter": "えへへ、ぼくがすることででみんなが幸せになるなら、ぼくはずっと心の中に居るよ💞"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "心の中か...いい事言うね。君なら出来るよ"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kyncm7fcwc2j",
+            "label": [
+                0.0024172691628336906,
+                0.00029810870182700455,
+                0.9965375661849976,
+                0.00020917135407216847,
+                9.085326746571809e-05,
+                0.00015186109521891922,
+                8.688017987878993e-05,
+                0.00020827581465709955
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "本当に久しぶりだね？元気してた？"
+                },
+                {
+                    "author": "did:plc:lhysz25fwsflfwyv354x42ay",
+                    "type": 2,
+                    "utter": "ほんっと！久しぶり！オレ様は元気だぜ(にかっ"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "そっかそっか、それはよかった(にこ"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq4enj4kc2w",
+            "label": [
+                0.9995885491371155,
+                5.5519663874292746e-05,
+                0.00012008268822683021,
+                5.992496517137624e-05,
+                2.7257656256551854e-05,
+                4.804510172107257e-05,
+                5.923218486714177e-05,
+                4.1309420339530334e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "そっかそっか、それはよかった(にこ"
+                },
+                {
+                    "author": "did:plc:lhysz25fwsflfwyv354x42ay",
+                    "type": 2,
+                    "utter": "久保ちゃんに会えてもう倍に元気出たぜ！"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "それはようござんした。まさか俺が来るとは思わなかったでしょ？古参中の古参"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq54rcmsl22",
+            "label": [
+                0.9598336219787598,
+                0.0019129955908283591,
+                0.0024514812976121902,
+                0.031222853809595108,
+                0.0005049325991421938,
+                0.0015105594648048282,
+                0.0010231869528070092,
+                0.0015404259320348501
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "それはようござんした。まさか俺が来るとは思わなかったでしょ？古参中の古参"
+                },
+                {
+                    "author": "did:plc:lhysz25fwsflfwyv354x42ay",
+                    "type": 2,
+                    "utter": "マジで、思わなかった！！古参中の古参過ぎだぜ！"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "昨日から出ようって思ってたんだよね〜"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq5nn4pb322",
+            "label": [
+                0.04159453883767128,
+                0.013558206148445606,
+                0.9425806999206543,
+                0.0005858705844730139,
+                0.00019804771000053734,
+                0.0005003318074159324,
+                0.0005804150132462382,
+                0.00040197730413638055
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "昨日から出ようって思ってたんだよね〜"
+                },
+                {
+                    "author": "did:plc:lhysz25fwsflfwyv354x42ay",
+                    "type": 2,
+                    "utter": "そうだったのか？！出て来たら良かったのに！！"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "出たじゃん？"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq6q4uxdg2p",
+            "label": [
+                0.9968934059143066,
+                0.00019410595996305346,
+                0.0007999041699804366,
+                0.001718398299999535,
+                8.773456647759303e-05,
+                5.336586036719382e-05,
+                0.0001248270709766075,
+                0.00012828997569158673
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "鵠さんも来るのかな？"
+                },
+                {
+                    "author": "did:plc:dq5ht7chl2di36fknahknyir",
+                    "type": 2,
+                    "utter": "お久しぶりです、久保田くん"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "久しぶりだね、鵠さん？まだ入院してるの？"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq6pr4gix2g",
+            "label": [
+                0.0005124520394019783,
+                0.00038623594446107745,
+                0.0007934077293612063,
+                0.9976187348365784,
+                0.00015335810894612223,
+                0.00025821139570325613,
+                0.00017933962226379663,
+                9.825585584621876e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "久しぶりだね、鵠さん？まだ入院してるの？"
+                },
+                {
+                    "author": "did:plc:dq5ht7chl2di36fknahknyir",
+                    "type": 2,
+                    "utter": "いえ、今は実家の方でのんびり中ですよ(微笑み"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "そっかそっか。よかったね？(にこ"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq7c4ofob2k",
+            "label": [
+                0.9995417594909668,
+                5.9448921092553064e-05,
+                0.00016886330558918417,
+                5.818931822432205e-05,
+                2.683372986211907e-05,
+                4.547131175058894e-05,
+                5.684380084858276e-05,
+                4.272942169336602e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "そっかそっか。よかったね？(にこ"
+                },
+                {
+                    "author": "did:plc:dq5ht7chl2di36fknahknyir",
+                    "type": 2,
+                    "utter": "知り合いの結婚式にこの間行きました(微笑み"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "結婚かぁ、俺には無縁だな〜"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxq7wjk4p32o",
+            "label": [
+                0.00496891001239419,
+                0.9920132756233215,
+                0.00042080922867171466,
+                0.0008213144028559327,
+                3.5330725950188935e-05,
+                0.0009202913497574627,
+                0.0007582193939015269,
+                6.187037797644734e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "結婚かぁ、俺には無縁だな〜"
+                },
+                {
+                    "author": "did:plc:dq5ht7chl2di36fknahknyir",
+                    "type": 2,
+                    "utter": "まぁ、時任くんさえ居れば良いのでは？"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "そだね"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3kxrlz72oqm2p",
+            "label": [
+                0.9628452062606812,
+                0.0007678312249481678,
+                0.020138004794716835,
+                0.007248707115650177,
+                0.0009015059331431985,
+                0.0006030197255313396,
+                0.0022384310141205788,
+                0.005257374607026577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 1,
+                    "utter": "そだね"
+                },
+                {
+                    "author": "did:plc:dq5ht7chl2di36fknahknyir",
+                    "type": 2,
+                    "utter": "時任くんとは、本当に長いですね…"
+                },
+                {
+                    "author": "did:plc:pmt2mbiqtbk5mpcpq24helgw",
+                    "type": 3,
+                    "utter": "長いね？15年は余裕"
+                }
+            ],
+            "uri": "at://did:plc:pmt2mbiqtbk5mpcpq24helgw/app.bsky.feed.post/3ky4a2hkens2k",
+            "label": [
+                0.774677038192749,
+                0.002012840239331126,
+                0.007192835211753845,
+                0.20768432319164276,
+                0.0008198688738048077,
+                0.0017217546701431274,
+                0.0023712327238172293,
+                0.0035200498532503843
+            ]
+        }
+    ]
+}

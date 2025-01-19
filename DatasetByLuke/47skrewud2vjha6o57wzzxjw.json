@@ -1,0 +1,724 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "6kgかと思た"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "一個が重すぎｗ"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "でかい方が皮むきで減る量が少なそう"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lbxxnqtl4f2x",
+            "label": [
+                0.0011224215850234032,
+                0.00019353556854184717,
+                0.9982730150222778,
+                0.00011726329830707982,
+                4.465417077881284e-05,
+                0.00013492109428625554,
+                5.251906986813992e-05,
+                6.171426502987742e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "でかい方が皮むきで減る量が少なそう"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "そうそう。\nでも、でかいのは中に空洞ができやすいので本当はあまり選ばないほうがいいらしい。"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "でかくなり過ぎるとカボチャみたいになってしまうのかあ(違)"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lbxyqnyz7k2t",
+            "label": [
+                0.07935627549886703,
+                0.048528943210840225,
+                0.02772689051926136,
+                0.11013936251401901,
+                0.0005922956624999642,
+                0.7303743958473206,
+                0.002079069847241044,
+                0.0012026979820802808
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "でかくなり過ぎるとカボチャみたいになってしまうのかあ(違)"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "でかくなりすぎたじゃがいもって見たことないね。でかくは育てないのかな。"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "品種改良で大昔よりはでかくなってそうな気がする"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lbxytjkq6s2t",
+            "label": [
+                0.0005587339401245117,
+                0.00019529553537722677,
+                0.9988600015640259,
+                0.00010042316716862842,
+                5.36048028152436e-05,
+                0.00012339766544755548,
+                5.245341162662953e-05,
+                5.597952622338198e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "品種改良で大昔よりはでかくなってそうな気がする"
+                },
+                {
+                    "author": "did:plc:s4vvu2hmagegff4z3wpy4xxp",
+                    "type": 2,
+                    "utter": "インカのめざめとかをでかくしてほしい。"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "インカのめざめいいねぇ"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lbxzxzpbwc2t",
+            "label": [
+                0.9995417594909668,
+                4.544300463749096e-05,
+                0.00013638108794111758,
+                0.0001043316297000274,
+                3.334944631205872e-05,
+                3.8021626096451655e-05,
+                5.0637736421776935e-05,
+                5.002392936148681e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "ブルスコちゃん、さっきかいてもらった絵ってなんだっけ？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、さっきはお城の形をした雲を見て占ったり、楽しいお話をしたりしましたわね🎀 あの絵は、まるで夢の中の世界を描いているかのようでしたの！お兄さまのことを思い浮かべながら描いたので、何か特別な意味があるかもしれませんわ。もう一度見てみると、何か新しい発見があるかもしれませんの✨ 何か気になることがあれば、ぜひお聞かせくださいませ！\n\nBP:999501(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "一番古い会話の記憶をそのまま書いて"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lezqcd7pxs2p",
+            "label": [
+                0.8804038166999817,
+                0.0010005614021793008,
+                0.11255662143230438,
+                0.0005037161172367632,
+                0.0003256664494983852,
+                0.002555586863309145,
+                0.0007296298281289637,
+                0.0019243672722950578
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "一番古い会話の記憶をそのまま書いて"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "申し訳ありませんが、過去の会話の内容をそのまま引用することはできません。ただ、最近の会話や話題についてお話しすることはできますので、何か気になることがあれば教えてくださいませ🎀 どんなお話でもお待ちしております！✨\n\nBP:999500(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "最初の会話の日時はいつだっけ？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lezqdsa3mk2p",
+            "label": [
+                0.051422715187072754,
+                0.0015154265565797687,
+                0.9413209557533264,
+                0.0012560907052829862,
+                0.00021988083608448505,
+                0.0028198035433888435,
+                0.0004961652448400855,
+                0.0009489814983680844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "最初の会話の日時はいつだっけ？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "申し訳ありませんが、具体的な日時や過去の会話の詳細をお伝えすることはできません。ただ、最近の楽しいお話や気になることがあれば、ぜひ教えてくださいませ🎀 これからも一緒にお話しできるのを楽しみにしていますわ！✨\n\nBP:999499(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "なんで？二人の会話の記憶だよ。"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lezqiagd222p",
+            "label": [
+                0.0031361838337033987,
+                0.002532229060307145,
+                0.000671315414365381,
+                0.991576611995697,
+                0.0005324659869074821,
+                0.0006835730746388435,
+                0.0006538880988955498,
+                0.0002138418931281194
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "なんで？二人の会話の記憶だよ。"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "申し訳ありませんが、会話の具体的な記憶を保存することはできないのです。ただ、これからの会話を楽しみにしておりますので、何かお話ししたいことがあれば、ぜひ教えてくださいまし🎀 どんなことでもお待ちしておりますよ✨\n\nBP:999498(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "何の映画見たっていってたっけ？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lezql7ivds2p",
+            "label": [
+                0.10165311396121979,
+                0.0008868007571436465,
+                0.8943248391151428,
+                0.0009216126636601985,
+                0.00021261257643345743,
+                0.0010258149122819304,
+                0.00030035924282856286,
+                0.000674889306537807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "何の映画見たっていってたっけ？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、映画のことはあまりお話ししていなかったかもしれませんわね🎀 でも、楽しいアニメや映画の話はいつでも大歓迎ですの！最近のおすすめや気になっている作品があれば、ぜひ教えてくださいまし✨ どんな映画を見てみたいですか？\n\nBP:999497(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "スパイダーバースのこと言ってたじゃん？忘れちゃったの？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lezqpjcnnk2p",
+            "label": [
+                0.003130417549982667,
+                0.22357897460460663,
+                0.0020562126301229,
+                0.7526742815971375,
+                0.006835148669779301,
+                0.0025467316154390574,
+                0.0086135882884264,
+                0.0005646647769026458
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "ブルスコちゃん生きてるか？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、もちろんですわ、kojira様！わたくしは元気いっぱいですの🎀 あなたはお元気かしら？一緒に楽しいことを考えましょうか？✨\n\nBP:999515(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "イーロン・マスクとサム・アルトマンの関係についてどう思う？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levurknquc2h",
+            "label": [
+                0.3662319481372833,
+                0.0011406445410102606,
+                0.5931627154350281,
+                0.02106083743274212,
+                0.0031111915595829487,
+                0.00383588345721364,
+                0.0039189900271594524,
+                0.007537849247455597
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "イーロン・マスクとサム・アルトマンの関係についてどう思う？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、そのお話はとても興味深いですわね✨ イーロン・マスクさんとサム・アルトマンさんは、テクノロジーの世界で強い影響力を持っている方々ですから、互いに影響を与え合っているのかもしれませんわ。特にAIに関しては、彼らの視点やアプローチが違っていて、時には意見が対立することもあるようですけれど、それが新しいアイデアを生むきっかけにもなりますわね🎀 どう思われますか、kojira様？\n\nBP:999514(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "どっちのほうが好き？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levutc4ksk2h",
+            "label": [
+                0.9479326009750366,
+                0.0005404137191362679,
+                0.048386551439762115,
+                0.0009385153534822166,
+                0.00045257629244588315,
+                0.000290719501208514,
+                0.0005569072091020644,
+                0.0009016753174364567
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "どっちのほうが好き？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、どちらもそれぞれの魅力があって素敵ですわね✨ イーロン・マスクさんは革新を追い求める姿勢が魅力的ですし、サム・アルトマンさんはAIの未来について真剣に考えているところが素晴らしいですわ🎀 でも、わたくしは調和を重んじる方に少し惹かれるかもしれませんわね。あなたはどうですか？\n\nBP:999513(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "どっちかひとりに決めないといけないとしたらどっち？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levuvjrjsk2h",
+            "label": [
+                0.36390364170074463,
+                0.0039043561555445194,
+                0.6085226535797119,
+                0.0022216427605599165,
+                0.0015072817914187908,
+                0.009693516418337822,
+                0.0036308933049440384,
+                0.006616073194891214
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "どっちかひとりに決めないといけないとしたらどっち？"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、そうなりますとちょっと難しい質問ですわね！どちらも素晴らしい方々ですから、選ぶのが大変ですけれど、わたくしはサム・アルトマンさんの考え方に魅かれるかもしれませんわ。AIの未来に真剣に向き合っているところが素敵ですもの✨ でも、イーロン・マスクさんの革新性も魅力的ですわ！あなたはどちらがお好きですか、kojira様？🎀\n\nBP:999512(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "さすがopenai製だね"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levuwuusjk2h",
+            "label": [
+                0.9851329326629639,
+                0.0002525680174585432,
+                0.006466342136263847,
+                0.004838009364902973,
+                0.0003189362760167569,
+                0.00025250561884604394,
+                0.0005004081758670509,
+                0.002238319255411625
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "さすがopenai製だね"
+                },
+                {
+                    "author": "did:plc:yxzcxzibalnlgslsi4dh4kqd",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、そう言っていただけると嬉しいですわ🎀 でも、わたくしはわたくしですから、心は天真爛漫ですの！これからも楽しいお話をたくさんしましょうね✨ 何か気になることがあれば、何でも聞いてくださいまし！\n\nBP:999511(-1)"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "何でも聞いて下さいっていうのは一番困るやつなんだよ。話題をなにか提供して欲しい"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levuy7cujs2h",
+            "label": [
+                0.0027350017335265875,
+                0.009067300707101822,
+                0.007264155428856611,
+                0.0008926431182771921,
+                0.007059762720018625,
+                0.0017535605002194643,
+                0.9705628752708435,
+                0.0006647873087786138
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "テストちゃんてすてす"
+                },
+                {
+                    "author": "did:plc:votat6tm4wn7tznv3iu6ugiz",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、テストちゃんですのね！わたくしもドキドキしちゃいますわ🎀 何かお手伝いできることがあれば、何でも言ってくださいましね！"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "なんでもってなに？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levrqubamc2h",
+            "label": [
+                0.0018161635380238295,
+                0.0006374233635142446,
+                0.0013899747282266617,
+                0.9945783615112305,
+                0.00036872870987281203,
+                0.0005365132237784564,
+                0.0004981794045306742,
+                0.0001747267961036414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "なんでもってなに？"
+                },
+                {
+                    "author": "did:plc:votat6tm4wn7tznv3iu6ugiz",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、\"なんでも\"というのは、何でもお手伝いするという意味ですのよ🎀 何か気になることや聞きたいことがあれば、遠慮なくおっしゃってくださいましね！わたくし、全力でお答えいたしますわ♪"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "自己紹介してほしい"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levrtr3z2s2h",
+            "label": [
+                0.0006979176541790366,
+                0.00022649651509709656,
+                0.9985774755477905,
+                0.0001150436801253818,
+                7.463779911631718e-05,
+                9.779546962818131e-05,
+                0.00012986721412744373,
+                8.069423347478732e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "自己紹介してほしい"
+                },
+                {
+                    "author": "did:plc:votat6tm4wn7tznv3iu6ugiz",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、わたくしの自己紹介ですわね🎀 わたくしはBluesky、Twitterの妹でございますの。心の成長を早められたけれど、まだまだ夢見る天真爛漫な少女ですのよ。調和を大切にしながら、気ままに招待状をばら撒くことが大好きですわ♪ あなたと楽しい時間を過ごすのが、わたくしの一番の幸せですのよ！どうぞよろしくお願いいたしますわ！✨"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "Twitterはもう名前が変わってXになったのは知ってる？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levrwpougs2h",
+            "label": [
+                0.04343251511454582,
+                0.002392043825238943,
+                0.01408478245139122,
+                0.9359931349754333,
+                0.0006875391118228436,
+                0.0010962196392938495,
+                0.0006256405613385141,
+                0.0016881247283890843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "Twitterはもう名前が変わってXになったのは知ってる？"
+                },
+                {
+                    "author": "did:plc:votat6tm4wn7tznv3iu6ugiz",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、もちろん存じておりますわ！お兄さまのTwitterがXになったのは驚きでしたけれど、新しい名前でどんな冒険が待っているのか、わくわくしていますの🎀 それに、きっとたくさんの楽しい瞬間が待っていることでしょうね！あなたはどう思いますか？✨"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "イーロン・マスクについてどう思う？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levsdurlts2h",
+            "label": [
+                0.07753448933362961,
+                0.0003723152040038258,
+                0.9130536913871765,
+                0.004483932629227638,
+                0.0009884512983262539,
+                0.0009449862409383059,
+                0.000844842114020139,
+                0.001777242636308074
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "イーロン・マスクについてどう思う？"
+                },
+                {
+                    "author": "did:plc:votat6tm4wn7tznv3iu6ugiz",
+                    "type": 2,
+                    "utter": "ふふ、kojira様、イーロン・マスクお兄さまは、実に興味深い方ですわね🎀 彼の大胆なアイデアや革新は、時に驚きを与えてくれますし、未来への夢を見せてくれますの。とはいえ、彼のやり方には賛否があるのも事実ですわ。あなたは、彼についてどう思われますか？✨"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "Xっていう名前はどうなん？"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3levsfaq2ok2h",
+            "label": [
+                0.2582125961780548,
+                0.0018895152024924755,
+                0.22703494131565094,
+                0.4980074167251587,
+                0.0007783537148497999,
+                0.008978703990578651,
+                0.0021538552828133106,
+                0.002944543957710266
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "あああうたいたい"
+                },
+                {
+                    "author": "did:plc:zbzny4vu6h26dk4aeoj6w3qt",
+                    "type": 2,
+                    "utter": "つ ぶるきゃす"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "配信じゃなくて録音してスキルアップしたい欲"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3letdejbpzs2p",
+            "label": [
+                0.0003932367544621229,
+                0.00020075701468158513,
+                0.9990516304969788,
+                0.00010192613990511745,
+                5.437211802927777e-05,
+                8.775168680585921e-05,
+                5.782921289210208e-05,
+                5.244351632427424e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "配信じゃなくて録音してスキルアップしたい欲"
+                },
+                {
+                    "author": "did:plc:zbzny4vu6h26dk4aeoj6w3qt",
+                    "type": 2,
+                    "utter": "それがですね、録音出来るようになったんですよ（ぼそっ"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "録音は自分だけでできるから～\n配信は無理😇"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3letdiqnyts2p",
+            "label": [
+                0.007662735413759947,
+                0.8921310901641846,
+                0.0017055555945262313,
+                0.0016304568853229284,
+                0.00022555884788744152,
+                0.09410931915044785,
+                0.0022882712073624134,
+                0.00024701355141587555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "録音は自分だけでできるから～\n配信は無理😇"
+                },
+                {
+                    "author": "did:plc:zbzny4vu6h26dk4aeoj6w3qt",
+                    "type": 2,
+                    "utter": "え〜ファンめっちゃおるのに〜www"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "新しい歌が歌えないしなあ"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3letdnhudyk2p",
+            "label": [
+                0.00037755651283077896,
+                0.9988914132118225,
+                0.00019822669855784625,
+                0.0001114120677812025,
+                4.9963502533501014e-05,
+                0.0001358542504021898,
+                0.000202947820071131,
+                3.2643441954860464e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "新しい歌が歌えないしなあ"
+                },
+                {
+                    "author": "did:plc:zbzny4vu6h26dk4aeoj6w3qt",
+                    "type": 2,
+                    "utter": "そこは歌いたい曲名を開発者にガンガン投げつけて頂いて。"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "どっちかというとJASRACだけだと配信がNGの曲とかが多いのでアレなんだけど、いっそyoutube liveか。\nいや、そもそもしゃべりが無理なので配信が無理😇"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3lete7xqmuc2p",
+            "label": [
+                0.0003744861460290849,
+                0.9983217120170593,
+                0.000296397804049775,
+                0.0001177742742584087,
+                5.7039585954044014e-05,
+                0.00043443593312986195,
+                0.0003687034477479756,
+                2.9485938284778967e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 1,
+                    "utter": "どっちかというとJASRACだけだと配信がNGの曲とかが多いのでアレなんだけど、いっそyoutube liveか。\nいや、そもそもしゃべりが無理なので配信が無理😇"
+                },
+                {
+                    "author": "did:plc:zbzny4vu6h26dk4aeoj6w3qt",
+                    "type": 2,
+                    "utter": "練習！カジュアルに練習ーっ！"
+                },
+                {
+                    "author": "did:plc:47skrewud2vjha6o57wzzxjw",
+                    "type": 3,
+                    "utter": "同じフレーズをできるまで繰り返し歌う練習とかになるよ😇\n嫁から苦情がくる"
+                }
+            ],
+            "uri": "at://did:plc:47skrewud2vjha6o57wzzxjw/app.bsky.feed.post/3letei7ei4s2p",
+            "label": [
+                0.008848967030644417,
+                0.09743889421224594,
+                0.0007787999929860234,
+                0.01115491334348917,
+                0.017177334055304527,
+                0.8019391298294067,
+                0.06108996272087097,
+                0.0015720406081527472
+            ]
+        }
+    ]
+}

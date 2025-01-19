@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "倍水飲め"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "飲んどる\n水分補給に緑茶、休憩中に紅茶、薬飲むのに水を常備しておる"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "緑茶も紅茶もカフェイン！！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lbqs5dqo4c2k",
+            "label": [
+                0.0036247665993869305,
+                0.0007938225171528757,
+                0.0011917504016309977,
+                0.9934915900230408,
+                0.00022864397033117712,
+                0.00022196868667379022,
+                0.0002685677900444716,
+                0.0001788651425158605
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "緑茶も紅茶もカフェイン！！！！！！！"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "黒豆茶を買うしかないか……"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "お水を飲めよ…………なんだ…BRITA送り付けるぞ…………金ねえけど……………"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lbqskwdnkc2k",
+            "label": [
+                0.002697785384953022,
+                0.48823991417884827,
+                0.008013099431991577,
+                0.006644189357757568,
+                0.4448595345020294,
+                0.010640529915690422,
+                0.037246763706207275,
+                0.0016581809613853693
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "お水を飲めよ…………なんだ…BRITA送り付けるぞ…………金ねえけど……………"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "BRITA持ってんだよなぁ……"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "じゃあ尚更純粋に水を飲めよ…………"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lbqt5fwhok2k",
+            "label": [
+                0.002415915485471487,
+                0.08508218824863434,
+                0.01359919086098671,
+                0.008329815231263638,
+                0.8409389853477478,
+                0.004439495038241148,
+                0.04348864033818245,
+                0.00170586456079036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "じゃあ尚更純粋に水を飲めよ…………"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "ノンカフェイン茶じゃ駄目ですか姉御"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "ならば私にゼロカロリーの炭酸飲料の許可をくれ"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lbqt743frs2o",
+            "label": [
+                0.00017887313151732087,
+                0.000386773725040257,
+                0.9989829659461975,
+                0.00011007943976437673,
+                7.683485455345362e-05,
+                0.00012247746053617448,
+                9.215366299031302e-05,
+                4.983682811143808e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "そう、躁です"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "躁こわすぎ……今朝の謎のやる気も軽躁と言われたら納得する……"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "でもアデハデの時もあるから私はよく分かってない"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lc7zn7m4pc2a",
+            "label": [
+                0.1808621734380722,
+                0.018255574628710747,
+                0.0036478827241808176,
+                0.002067033899948001,
+                0.000685290724504739,
+                0.7894071340560913,
+                0.0034267837181687355,
+                0.0016481040511280298
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "でもアデハデの時もあるから私はよく分かってない"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "私もわからん、ADHDの衝動性もガタ落ち鬱になるケースってあるんかな"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "あり得るとは思う"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lc7zttsshk27",
+            "label": [
+                0.02120879665017128,
+                0.00044505324331112206,
+                0.9741873145103455,
+                0.0003053690888918936,
+                0.00026015241746790707,
+                0.002814158098772168,
+                0.000322312000207603,
+                0.00045689838589169085
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "あり得るとは思う"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "脳内多動と躁状態のざわざわも区別つかんよね"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "区別つかん"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lca2u4q3k22p",
+            "label": [
+                0.5223780870437622,
+                0.06226861849427223,
+                0.0020260619930922985,
+                0.01861117221415043,
+                0.005028501618653536,
+                0.23200538754463196,
+                0.15213248133659363,
+                0.0055496846325695515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 1,
+                    "utter": "区別つかん"
+                },
+                {
+                    "author": "did:plc:k3mugoo4ydlcu3oujd4atb2p",
+                    "type": 2,
+                    "utter": "実際併発例もあるもんな……"
+                },
+                {
+                    "author": "did:plc:s7xr7366yjg6kwiyyhrsyvei",
+                    "type": 3,
+                    "utter": "私が併発だしなあ"
+                }
+            ],
+            "uri": "at://did:plc:s7xr7366yjg6kwiyyhrsyvei/app.bsky.feed.post/3lca3prlff227",
+            "label": [
+                0.014970307238399982,
+                0.719118595123291,
+                0.0010080367792397738,
+                0.0032594113145023584,
+                0.0007216755766421556,
+                0.2545475959777832,
+                0.005956717766821384,
+                0.0004176588845439255
+            ]
+        }
+    ]
+}

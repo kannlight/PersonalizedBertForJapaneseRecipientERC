@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "抑えこみます😣"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "無理はいくないのだよ！！！！！"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "篝火は...！"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3lbwgcs72jc2k",
+            "label": [
+                0.0022886781953275204,
+                0.0007192276534624398,
+                0.003237813478335738,
+                0.9928489923477173,
+                0.0001371576072415337,
+                0.0004608446324709803,
+                0.00014003177057020366,
+                0.00016735281678847969
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "篝火は...！"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "みます。あれですか？マイクミュート再生会ですか？？？？？"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "うるさかったらとこじろうをミュートしていただいて...！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3lbwgiyq2g22k",
+            "label": [
+                0.9685320258140564,
+                0.003947523422539234,
+                0.02322927862405777,
+                0.0028347766492515802,
+                0.0002676973235793412,
+                0.0003067901125177741,
+                0.0003857901319861412,
+                0.0004959945217706263
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "うるさかったらとこじろうをミュートしていただいて...！！！！！"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "うるさくないから垂れ流してもろて！！！"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "へい！"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3lbwhwkgd3c2f",
+            "label": [
+                0.00383718591183424,
+                0.0007328836945816875,
+                0.0015440317802131176,
+                0.9929988384246826,
+                0.00023201806470751762,
+                0.00014316265878733248,
+                0.0003395724925212562,
+                0.00017220131121575832
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "へい！"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "ゆうて私も出ますからね！お互い様様SUMMERwithWINTER（？）"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "🤔"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3lbwiqii2o22f",
+            "label": [
+                0.9546816349029541,
+                0.011772162280976772,
+                0.016648154705762863,
+                0.0019300330895930529,
+                0.0008721541380509734,
+                0.003194314194843173,
+                0.009581319987773895,
+                0.001320292241871357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "翻訳使った日本語みたいな文で笑うのですが！"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "ピンクのドーナツは彼の髪の毛の一部と同等の要素を含んでいます。"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "翻訳文章上手すぎない？？？"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3latfld76uk2m",
+            "label": [
+                0.12665437161922455,
+                0.000724182405974716,
+                0.002728712512180209,
+                0.8665242195129395,
+                0.0007881610072217882,
+                0.0004875290615018457,
+                0.001118309679441154,
+                0.0009744692943058908
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "翻訳文章上手すぎない？？？"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "いいえ、違います。そう思いません。\n\n発言する事を得意ではありません。"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "実は翻訳かけてるんだ...きっとそうだ..."
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3latly67gyk27",
+            "label": [
+                0.6525261998176575,
+                0.08267054706811905,
+                0.06674041599035263,
+                0.010688729584217072,
+                0.003365300828590989,
+                0.13854511082172394,
+                0.03210020065307617,
+                0.013363450765609741
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "実は翻訳かけてるんだ...きっとそうだ..."
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "床次郎さんは通訳を使うことに疑問を感じています。\nそこで実際に翻訳機を使ってみました。"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "使ってたww"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3latmhgg7pc27",
+            "label": [
+                0.9978147745132446,
+                9.177565516438335e-05,
+                0.0004360587045084685,
+                0.0012980051105841994,
+                4.792153413291089e-05,
+                8.710027759661898e-05,
+                9.965393837774172e-05,
+                0.00012465869076550007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 1,
+                    "utter": "使ってたww"
+                },
+                {
+                    "author": "did:plc:pwptx6hcylmzbifkk6hjze7f",
+                    "type": 2,
+                    "utter": "言うから…"
+                },
+                {
+                    "author": "did:plc:xm6d5pni2k6xhiy2kolxzhsb",
+                    "type": 3,
+                    "utter": "んふふ😊"
+                }
+            ],
+            "uri": "at://did:plc:xm6d5pni2k6xhiy2kolxzhsb/app.bsky.feed.post/3latn6xtkq227",
+            "label": [
+                0.9995655417442322,
+                6.0310288972686976e-05,
+                0.00015208896365948021,
+                6.245160329854116e-05,
+                2.41312609432498e-05,
+                4.4807224185205996e-05,
+                5.379635695135221e-05,
+                3.6778445064555854e-05
+            ]
+        }
+    ]
+}

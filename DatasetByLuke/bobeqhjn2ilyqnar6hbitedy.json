@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "寝不足なの？大丈夫？"
+                },
+                {
+                    "author": "did:plc:muggdey6y2djyzguhwlzqix2",
+                    "type": 2,
+                    "utter": "めちゃくちゃ寝不足～😭\n精神を安定させる方法がおもいつかないよぉー😭"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "一緒に寝るかぁ"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lbjtbeh4v22x",
+            "label": [
+                0.3060825765132904,
+                0.004649369511753321,
+                0.6867769360542297,
+                0.00045204570051282644,
+                0.0002455113863106817,
+                0.0006695130141451955,
+                0.0006991101545281708,
+                0.00042504313751123846
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "一緒に寝るかぁ"
+                },
+                {
+                    "author": "did:plc:uxm7ykw6fbfylk7xwfjbcjko",
+                    "type": 2,
+                    "utter": "ソフレだ！"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "確実に私の方が寝るの早い自信がある"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lbk4psg3622q",
+            "label": [
+                0.8749443888664246,
+                0.0006406160537153482,
+                0.09247756004333496,
+                0.010519808158278465,
+                0.00453220447525382,
+                0.0013153855688869953,
+                0.0020413834135979414,
+                0.013528612442314625
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "確実に私の方が寝るの早い自信がある"
+                },
+                {
+                    "author": "did:plc:muggdey6y2djyzguhwlzqix2",
+                    "type": 2,
+                    "utter": "ソフレほしー！多分、あたし寝れないけどソフレしてー！笑"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "お泊まり会じゃん"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lbk5bhewm22l",
+            "label": [
+                0.5289372801780701,
+                0.007961850613355637,
+                0.007984493859112263,
+                0.4474482238292694,
+                0.001169883762486279,
+                0.0015102503821253777,
+                0.003925183787941933,
+                0.0010628056479617953
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "お泊まり会じゃん"
+                },
+                {
+                    "author": "did:plc:muggdey6y2djyzguhwlzqix2",
+                    "type": 2,
+                    "utter": "お泊まり会いいね。\n旅館のセミダブル部屋にとまって合法的添い寝しよ。"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "寝相酷いからクイーンにして🥺"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lbkavtmqlc2l",
+            "label": [
+                0.00224008085206151,
+                0.004651547409594059,
+                0.9921020865440369,
+                0.0002825688570737839,
+                0.00012157226592535153,
+                0.00016092287842184305,
+                0.00032362432102672756,
+                0.00011766309762606397
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "赤から行ってみたい"
+                },
+                {
+                    "author": "did:plc:uxm7ykw6fbfylk7xwfjbcjko",
+                    "type": 2,
+                    "utter": "行ってみたい🍲"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "行こいこ！"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lcjmtduig222",
+            "label": [
+                0.0007199204992502928,
+                0.00033995011472143233,
+                0.9981880784034729,
+                0.00019943977531511337,
+                0.0002099750709021464,
+                0.00015883219020906836,
+                9.171775309368968e-05,
+                9.19595840969123e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "行こいこ！"
+                },
+                {
+                    "author": "did:plc:uxm7ykw6fbfylk7xwfjbcjko",
+                    "type": 2,
+                    "utter": "いちがつ！"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "6,7,9,31なら！"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lckmjjjjdk2q",
+            "label": [
+                0.0006129791727289557,
+                0.0003065689525101334,
+                0.9986934065818787,
+                0.00011614182585617527,
+                6.604913505725563e-05,
+                9.010404028231278e-05,
+                6.448085332522169e-05,
+                5.0234935770276934e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "6,7,9,31なら！"
+                },
+                {
+                    "author": "did:plc:uxm7ykw6fbfylk7xwfjbcjko",
+                    "type": 2,
+                    "utter": "6.7.9行ける！\n6.7ならビタンくんも行けるやも？"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "早いうちなら6かな？ビタンくんに合わせます！"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lckuvshwls2a",
+            "label": [
+                0.002886959118768573,
+                0.00030995524139143527,
+                0.9963282942771912,
+                0.00013191816105972975,
+                6.73183094477281e-05,
+                0.0001368537195958197,
+                6.797738024033606e-05,
+                7.066587568260729e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 1,
+                    "utter": "早いうちなら6かな？ビタンくんに合わせます！"
+                },
+                {
+                    "author": "did:plc:uxm7ykw6fbfylk7xwfjbcjko",
+                    "type": 2,
+                    "utter": "いいよ！6日いこ〜"
+                },
+                {
+                    "author": "did:plc:bobeqhjn2ilyqnar6hbitedy",
+                    "type": 3,
+                    "utter": "わーい！ありがと！"
+                }
+            ],
+            "uri": "at://did:plc:bobeqhjn2ilyqnar6hbitedy/app.bsky.feed.post/3lckvkmwyg22a",
+            "label": [
+                0.9996020197868347,
+                4.4851181883132085e-05,
+                0.0001157958249677904,
+                7.993055623956025e-05,
+                2.9180990168242715e-05,
+                3.802489663939923e-05,
+                4.963843821315095e-05,
+                4.060027276864275e-05
+            ]
+        }
+    ]
+}

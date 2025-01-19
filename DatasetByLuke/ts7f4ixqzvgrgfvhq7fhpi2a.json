@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "働きたくなくない？？？"
+                },
+                {
+                    "author": "did:plc:k7bupiers7hvvcqd257iptjh",
+                    "type": 2,
+                    "utter": "え、働きたくない\n無限に仕事辞めたい"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "道に迷ってる石油王を探しに行こうか"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3lconyru3tc27",
+            "label": [
+                0.0006845973548479378,
+                0.00014990681665949523,
+                0.9987834095954895,
+                0.00011604832980083302,
+                5.347156911739148e-05,
+                0.00010741326696006581,
+                4.64465883851517e-05,
+                5.866137507837266e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "道に迷ってる石油王を探しに行こうか"
+                },
+                {
+                    "author": "did:plc:k7bupiers7hvvcqd257iptjh",
+                    "type": 2,
+                    "utter": "をんたくん石油王になる予定ない？？"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "直近の予定ではありませんね"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3lcos2jiysc2f",
+            "label": [
+                0.9777435064315796,
+                0.003306114813312888,
+                0.002197034889832139,
+                0.003760481020435691,
+                0.00018596576410345733,
+                0.009165090508759022,
+                0.001526201725937426,
+                0.0021154724527150393
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "直近の予定ではありませんね"
+                },
+                {
+                    "author": "did:plc:k7bupiers7hvvcqd257iptjh",
+                    "type": 2,
+                    "utter": "養ってもらう計画が早速頓挫してしまった"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "逆に石油を掘り当てる予定とかないの？"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3lcoz6zp7d22f",
+            "label": [
+                0.0002612210519146174,
+                0.0002373464230913669,
+                0.9989528656005859,
+                0.00020558103278744966,
+                7.441966590704396e-05,
+                0.0001308628125116229,
+                8.839105430524796e-05,
+                4.922007428831421e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "逆に石油を掘り当てる予定とかないの？"
+                },
+                {
+                    "author": "did:plc:k7bupiers7hvvcqd257iptjh",
+                    "type": 2,
+                    "utter": "そろそろ掘り当てたいと思ってるから今のうちに媚び売っとくのありだよ"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "ちゅき❤️ちゅき❤️"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3lcrakmde7s2x",
+            "label": [
+                0.9996229410171509,
+                4.780378731084056e-05,
+                0.00012359608081169426,
+                6.0724974900949746e-05,
+                2.4233337171608582e-05,
+                3.910691157216206e-05,
+                4.51002961199265e-05,
+                3.652535087894648e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "ピンポン玉を掬ってたこ焼き機に落として振ってある番号に入ればその景品が貰える運ゲーだよ"
+                },
+                {
+                    "author": "did:plc:pa6k3kde54d22onpdpkjeo4y",
+                    "type": 2,
+                    "utter": "それ一点狙い成功するんか…？"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "しないから下手な鉄砲数うちゃ当たるだよ"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3le23z6pjik2m",
+            "label": [
+                0.011009981855750084,
+                0.01953865960240364,
+                0.9540133476257324,
+                0.0011958028189837933,
+                0.0019494786392897367,
+                0.007289318833500147,
+                0.002858437830582261,
+                0.0021450065542012453
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "しないから下手な鉄砲数うちゃ当たるだよ"
+                },
+                {
+                    "author": "did:plc:pa6k3kde54d22onpdpkjeo4y",
+                    "type": 2,
+                    "utter": "それなら買わせてほしいまである"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "4000円くらいで取れたから全然アドだよ"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3le24tjrej22m",
+            "label": [
+                0.9987183809280396,
+                8.334486483363435e-05,
+                0.0006489487132057548,
+                8.479900861857459e-05,
+                6.042680615792051e-05,
+                9.410334314452484e-05,
+                0.00014843679673504084,
+                0.0001614424108993262
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "4000円くらいで取れたから全然アドだよ"
+                },
+                {
+                    "author": "did:plc:pa6k3kde54d22onpdpkjeo4y",
+                    "type": 2,
+                    "utter": "おお、すごい\n諭吉吹き飛ぶんかと思ったわw"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "そこはほら、どっかのうなぎとは違うってワケ"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3le26xm3ry22m",
+            "label": [
+                0.9294775128364563,
+                0.00655478797852993,
+                0.013444814831018448,
+                0.010815123096108437,
+                0.003914705477654934,
+                0.012378036975860596,
+                0.01311587356030941,
+                0.010299117304384708
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 1,
+                    "utter": "そこはほら、どっかのうなぎとは違うってワケ"
+                },
+                {
+                    "author": "did:plc:m62jnvn3gxi5e2pyyn3tlezv",
+                    "type": 2,
+                    "utter": "ウナギ系彼女"
+                },
+                {
+                    "author": "did:plc:ts7f4ixqzvgrgfvhq7fhpi2a",
+                    "type": 3,
+                    "utter": "ヌルヌルしてそう"
+                }
+            ],
+            "uri": "at://did:plc:ts7f4ixqzvgrgfvhq7fhpi2a/app.bsky.feed.post/3le2hosrvys2m",
+            "label": [
+                0.003022492863237858,
+                0.00015707073907833546,
+                0.9960980415344238,
+                0.0002705981314647943,
+                6.512856634799391e-05,
+                0.0001805076899472624,
+                0.00010226589074591175,
+                0.00010397000005468726
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "いいんですか"
+                },
+                {
+                    "author": "did:plc:7rimpnjwoac7uwryreapdzsb",
+                    "type": 2,
+                    "utter": "いいでしょう笑"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "一生ついて行かせていただきます兄貴"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lc3dnxio522g",
+            "label": [
+                0.575984001159668,
+                0.002906781854107976,
+                0.4125773012638092,
+                0.0007257686811499298,
+                0.0010108486749231815,
+                0.0018986130598932505,
+                0.0014424043474718928,
+                0.003454310819506645
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "一生ついて行かせていただきます兄貴"
+                },
+                {
+                    "author": "did:plc:7rimpnjwoac7uwryreapdzsb",
+                    "type": 2,
+                    "utter": "あなたが前や私がうしろ"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "キャリー待ってます"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lc3ds56vhc2g",
+            "label": [
+                0.0008933503995649517,
+                0.0004056392644997686,
+                0.9983295798301697,
+                8.947678725235164e-05,
+                5.720062836189754e-05,
+                0.0001046004836098291,
+                6.219731585588306e-05,
+                5.794165554107167e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "キャリー待ってます"
+                },
+                {
+                    "author": "did:plc:7rimpnjwoac7uwryreapdzsb",
+                    "type": 2,
+                    "utter": "何時スタート？"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "いつでも行けちゃいます"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lc3dwwppg22g",
+            "label": [
+                0.1032332330942154,
+                0.0016027180245146155,
+                0.8929279446601868,
+                0.0003273915790487081,
+                0.00034345241147093475,
+                0.0005431207246147096,
+                0.00047103987890295684,
+                0.0005511364433914423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "いつでも行けちゃいます"
+                },
+                {
+                    "author": "did:plc:7rimpnjwoac7uwryreapdzsb",
+                    "type": 2,
+                    "utter": "8時目安で！"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "おけ！"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lc3ebl3tbc2g",
+            "label": [
+                0.0669248104095459,
+                0.007054717745631933,
+                0.7948393225669861,
+                0.05684005841612816,
+                0.05409763380885124,
+                0.006206825841218233,
+                0.005052255466580391,
+                0.008984263055026531
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "今週は1ヶ月ぶりにゲーム出来ます\n嬉しくて飛びそうです🕊️"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "みんなで神経衰弱でもやろっか😊"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "ふざけるな笑笑\nランクやるぞ笑"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lf2z72o5lk2m",
+            "label": [
+                0.0051820953376591206,
+                0.0010541608789935708,
+                0.9864773750305176,
+                0.001815623720176518,
+                0.003423531074076891,
+                0.00071813038084656,
+                0.0007625854341313243,
+                0.0005664827185682952
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "ふざけるな笑笑\nランクやるぞ笑"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "でへへ"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "ダイヤ行くよーん"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lf2zemkqoc2m",
+            "label": [
+                0.0005460187676362693,
+                0.00020742219930980355,
+                0.9988588094711304,
+                0.00012394417717587203,
+                6.20326682110317e-05,
+                8.505067671649158e-05,
+                6.223835225682706e-05,
+                5.4448893934022635e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "ダイヤ行くよーん"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "ぼくまだいってないよーん\nみんなつよすぎるよーん"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "スプ1行けたから行けるでしょ"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lf2zywjwvc2m",
+            "label": [
+                0.01664598472416401,
+                0.0004785759374499321,
+                0.9819203019142151,
+                0.0001660666021052748,
+                0.00013667265011463314,
+                0.00033221289049834013,
+                0.00014954328071326017,
+                0.00017066429427359253
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "スプ1行けたから行けるでしょ"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "なんかむずかしいんだよね。\nE-地区のせい？"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "あーあのクソマップあんのか\n今ローテなに？"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lf32di4jj22m",
+            "label": [
+                0.004586039576679468,
+                0.01643442176282406,
+                0.0012725726701319218,
+                0.41908806562423706,
+                0.03929553180932999,
+                0.015661170706152916,
+                0.5022009015083313,
+                0.0014612635131925344
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "あーあのクソマップあんのか\n今ローテなに？"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "ストポ、エッジ、みんなのE-地区"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "いーちくほんと嫌い"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3lf32ucutws2g",
+            "label": [
+                0.004040173254907131,
+                0.002390193520113826,
+                0.001866280217655003,
+                0.0014436206547543406,
+                0.003549953456968069,
+                0.0023336559534072876,
+                0.9834677577018738,
+                0.000908397720195353
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "流し切りましょう"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "コンディショナーの成分はそのぬるぬるにこそあるのでは？という意見もあります"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "美容師の嫁が言ってました"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3ldyuyrvuas24",
+            "label": [
+                0.7264880537986755,
+                0.002015944803133607,
+                0.007032488472759724,
+                0.251787394285202,
+                0.001010053907521069,
+                0.004262811038643122,
+                0.0019682373385876417,
+                0.005434985272586346
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "美容師の嫁が言ってました"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "ちなみにどういう理由ですた？"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "それが汚れになりハゲるんだって"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3ldyvp2ezik2y",
+            "label": [
+                0.008435102179646492,
+                0.6439924240112305,
+                0.001448649330995977,
+                0.28296029567718506,
+                0.0015707252314314246,
+                0.04795199632644653,
+                0.012873517349362373,
+                0.000767288263887167
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "それが汚れになりハゲるんだって"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "それが本当なら女性の方がハゲてる人多いハズでは？"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "知らないよ笑"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3ldyw6fw5jk24",
+            "label": [
+                0.11346448957920074,
+                0.009862157516181469,
+                0.000691345427185297,
+                0.8608098030090332,
+                0.0016859712777659297,
+                0.0034942314960062504,
+                0.008976522833108902,
+                0.001015501213259995
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 1,
+                    "utter": "知らないよ笑"
+                },
+                {
+                    "author": "did:plc:7jcyc2uoi54de7ajo4bu34ze",
+                    "type": 2,
+                    "utter": "😳"
+                },
+                {
+                    "author": "did:plc:jaqmp7eaafxahqolkqrgg2sz",
+                    "type": 3,
+                    "utter": "ちゃんと洗い流さなくてもいいやつもあるらしい笑"
+                }
+            ],
+            "uri": "at://did:plc:jaqmp7eaafxahqolkqrgg2sz/app.bsky.feed.post/3ldywejhro22w",
+            "label": [
+                0.0033653159625828266,
+                0.000363256927812472,
+                0.0007742374436929822,
+                0.9946115016937256,
+                0.00013913332077208906,
+                0.00040117182652466,
+                0.00020898041839245707,
+                0.00013647075684275478
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "眠い"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "寝よ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "ねる( ^ᵕ^)"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3lbz2yvgq6c2z",
+            "label": [
+                0.9978957176208496,
+                0.00017540993576403707,
+                0.0014908023877069354,
+                6.347470480250195e-05,
+                5.323460209183395e-05,
+                8.729911496629938e-05,
+                0.000139637355459854,
+                9.430709906155244e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "ねる( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "( ˘ω˘)ｸｿﾈﾐ"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "寝よ"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3lcaq7z6gds2j",
+            "label": [
+                0.022376153618097305,
+                0.0031260442920029163,
+                0.973084568977356,
+                0.00012674237950704992,
+                0.00010370004747528583,
+                0.0004279334971215576,
+                0.0005456851213239133,
+                0.00020912195031996816
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "寝よ"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "おやみこ〜( ˘ω˘)ｽﾔｧ\n\nあっ、コバフィギュアのメール返信ちゃんとやったぁ〜🥺🫶"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "おはみこー( ^ᵕ^)\n偉すぎか？🥺"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3lcmx6gu6t225",
+            "label": [
+                0.7502464652061462,
+                0.034394048154354095,
+                0.014868468977510929,
+                0.169233039021492,
+                0.0032767257653176785,
+                0.011946805752813816,
+                0.00949418917298317,
+                0.006540228147059679
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "おはみこー( ^ᵕ^)\n偉すぎか？🥺"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "褒められた( ^ᵕ^)w"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "褒めるぞ( ^ᵕ^)\nなでなでもするぞ( ^ᵕ^)"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3lcoif56fds2f",
+            "label": [
+                0.024521006271243095,
+                0.0006757855298928916,
+                0.9736831188201904,
+                0.00027317434432916343,
+                0.00022503906802739948,
+                0.00019102351507171988,
+                0.00020453902834560722,
+                0.00022625683050137013
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "褒めるぞ( ^ᵕ^)\nなでなでもするぞ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:o27yurc3zwsr4vgka3ohueyo",
+                    "type": 2,
+                    "utter": "なでなで( ^ᵕ^)🩷🩷"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "( *ˊᵕˋ)ﾉˊᵕˋ*) ﾅﾃﾞﾅﾃﾞ"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3lcp2gp2cts2x",
+            "label": [
+                0.9993636012077332,
+                6.58261269563809e-05,
+                0.0003148221003357321,
+                5.28962082171347e-05,
+                3.406579708098434e-05,
+                4.5703956857323647e-05,
+                7.047539838822559e-05,
+                5.264829087536782e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "ﾌｫﾛ-ありがとう( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:5qlye6j5es4wmswqs4oetktl",
+                    "type": 2,
+                    "utter": "うへはうへは( ^ᵕ^)b\nこちらこそ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "うへうへ( ^ᵕ^)\n嬉しいねぇ( ^ᵕ^)"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3l6rjxrwped2z",
+            "label": [
+                0.999618411064148,
+                4.930719660478644e-05,
+                0.00012563541531562805,
+                5.831089220009744e-05,
+                2.5259900212404318e-05,
+                4.060589708387852e-05,
+                4.563702896120958e-05,
+                3.686530180857517e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "うへうへ( ^ᵕ^)\n嬉しいねぇ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:5qlye6j5es4wmswqs4oetktl",
+                    "type": 2,
+                    "utter": "イッショニウヘウヘシヨウネェ(???)"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "うへうへしよしよ( ^ᵕ^)"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3l72k6mpy222s",
+            "label": [
+                0.9920085668563843,
+                0.0005781251238659024,
+                0.006418456789106131,
+                0.00011516314407344908,
+                0.00012981859617866576,
+                0.00015395974332932383,
+                0.0004186704754829407,
+                0.0001772118266671896
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "うへうへしよしよ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:5qlye6j5es4wmswqs4oetktl",
+                    "type": 2,
+                    "utter": "うへうへ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "可愛い( *ˊᵕˋ)ﾉˊᵕˋ*) ﾅﾃﾞﾅﾃﾞ"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3l7f4ig72s42z",
+            "label": [
+                0.9996304512023926,
+                4.1910952859325334e-05,
+                0.00011705133510986343,
+                6.068999937269837e-05,
+                2.6888730644714087e-05,
+                3.9315345929935575e-05,
+                4.371178147266619e-05,
+                3.995161023340188e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 1,
+                    "utter": "可愛い( *ˊᵕˋ)ﾉˊᵕˋ*) ﾅﾃﾞﾅﾃﾞ"
+                },
+                {
+                    "author": "did:plc:5qlye6j5es4wmswqs4oetktl",
+                    "type": 2,
+                    "utter": "そなたもぞ( ^ᵕ^)"
+                },
+                {
+                    "author": "did:plc:6eptgpb2rohpmbruqxxjjfej",
+                    "type": 3,
+                    "utter": "嬉しくて爆破するよ‹:)"
+                }
+            ],
+            "uri": "at://did:plc:6eptgpb2rohpmbruqxxjjfej/app.bsky.feed.post/3l7ns5ya2a52e",
+            "label": [
+                0.9996298551559448,
+                5.740149936173111e-05,
+                8.086035813903436e-05,
+                6.0566926549654454e-05,
+                2.7372934710001573e-05,
+                5.7602428569225594e-05,
+                4.890193304163404e-05,
+                3.7345314922276884e-05
+            ]
+        }
+    ]
+}

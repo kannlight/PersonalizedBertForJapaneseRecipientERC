@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "スマホの電池死んでて目覚ましならんかった　クソすぎる　普通に遅刻"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "ドンマイすぎる、置き時計の方が安心感あるな🕰️"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "本当にそう思う"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lbxxnzox5k2w",
+            "label": [
+                0.3038947880268097,
+                0.006740396376699209,
+                0.4110184609889984,
+                0.015627892687916756,
+                0.06522586196660995,
+                0.007991233840584755,
+                0.047658469527959824,
+                0.1418428272008896
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "本当にそう思う"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "僕がモニコしてやろうか？"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "優しすぎんか　でも朝早いぞ"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lbxxqxqujs2q",
+            "label": [
+                0.043607234954833984,
+                0.3726496994495392,
+                0.01000367570668459,
+                0.21236808598041534,
+                0.04207395389676094,
+                0.27475476264953613,
+                0.03845084086060524,
+                0.006091725081205368
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "優しすぎんか　でも朝早いぞ"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "僕のモニコは8時の固定や、ちなみに何時起きなんだ？"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "6時起きなんだよね"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lbxxt7gc6k2m",
+            "label": [
+                0.006718329153954983,
+                0.9237145185470581,
+                0.0022726147435605526,
+                0.002738362178206444,
+                0.00041777422302402556,
+                0.06056853383779526,
+                0.003346086014062166,
+                0.00022383082250598818
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "6時起きなんだよね"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "はっや、僕のモニコは8時固定だけどそれでもよければ毎日やったる"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "優しい　一回は受けてみたいね"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lbxy5skshc22",
+            "label": [
+                0.001507265493273735,
+                0.00024285976542159915,
+                0.9978092312812805,
+                0.0001255116512766108,
+                5.1305090892128646e-05,
+                0.00010353441757615656,
+                8.305034862132743e-05,
+                7.724226452410221e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "優しい　一回は受けてみたいね"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "受けたくなったら僕に番号送っといてくれw"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "そう聞くとだいぶ勇気いるなw"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lbxygsdm3s2e",
+            "label": [
+                0.0253037977963686,
+                0.0008682647021487355,
+                0.16014790534973145,
+                0.7844369411468506,
+                0.000890295603312552,
+                0.025702329352498055,
+                0.0006325212307274342,
+                0.0020179792772978544
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "ああいうファンタジー系はあまり期待してないというのもある　スタレはSF系だと思っていたので…"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "僕もSF系だと思ってるけど、変わっちゃったのかスタレ…"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "なんか次のストーリーがギリシャ神話って感じだった　俺たちの知ってるスタレはもういない…"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lepx2ixp2c2x",
+            "label": [
+                0.0002827728749252856,
+                0.9988709092140198,
+                0.0001252217189176008,
+                0.00030764922848902643,
+                4.258943226886913e-05,
+                0.00018211975111626089,
+                0.0001606359874131158,
+                2.8159320208942518e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "なんか次のストーリーがギリシャ神話って感じだった　俺たちの知ってるスタレはもういない…"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "まじかよ、スタレ復帰は見送ろうかな"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "そらのの推しは誰なの？"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3lepydakf622t",
+            "label": [
+                0.1096484512090683,
+                0.0012265898985788226,
+                0.8832921385765076,
+                0.003079370828345418,
+                0.0004578529915306717,
+                0.0007710373611189425,
+                0.000551489763893187,
+                0.0009731213212944567
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "そらのの推しは誰なの？"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "飛び抜けて好きなキャラはいないかもなぁ、ホタルの性格は好きかもw こめ子は？"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "ホタルかわいいけどなかなか面白いよねw 私は刃が好き！"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leqeoumbkk2d",
+            "label": [
+                0.999622106552124,
+                3.454594479990192e-05,
+                0.0001108366996049881,
+                6.906808266649023e-05,
+                3.1834508263273165e-05,
+                3.7696117942687124e-05,
+                4.57813948742114e-05,
+                4.815828287974e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "ホタルかわいいけどなかなか面白いよねw 私は刃が好き！"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "刃かww どんなとこが好きなん？"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "声と性格が落ち着いてて好きなんだよなぁ　最近は使えてないから復刻来てほしいw"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leqr5iyesk2o",
+            "label": [
+                0.014515982009470463,
+                0.0005446374998427927,
+                0.9841587543487549,
+                0.00016240986587945372,
+                0.0001447157555958256,
+                0.00015217717736959457,
+                0.00015847042959649116,
+                0.00016290036728605628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "声と性格が落ち着いてて好きなんだよなぁ　最近は使えてないから復刻来てほしいw"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "落ち着いた男が好きなの把握したww"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "そこww そらのみたいな陽キャも好きだぜ😎"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leqscpso6c2r",
+            "label": [
+                0.9995647072792053,
+                4.045656169182621e-05,
+                0.00014344972441904247,
+                5.7153705711243674e-05,
+                3.809225745499134e-05,
+                3.676021515275352e-05,
+                5.8670659200288355e-05,
+                6.063960972824134e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "前に一番くじやってて当たった✌️"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "一番くじってそーゆーのも当たるんだな、アニメ関係ばっかりだと思ってたわww"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "最近吉野家とか明治とか見たよ、思わず回したくなるw"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leeibay4pk2e",
+            "label": [
+                0.9985837936401367,
+                5.2433355449466035e-05,
+                0.0007979117217473686,
+                0.00030652564601041377,
+                4.081987572135404e-05,
+                6.74274779157713e-05,
+                6.413237861124799e-05,
+                8.691406401339918e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "最近吉野家とか明治とか見たよ、思わず回したくなるw"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "まじかww 結構色んなのやってるんだ！！！　吉野家とか全然惹かれないんだけどどんぶりでも当たるの？w"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "景品あんまり覚えてないけどロゴの入ったハンカチとかそんなんだったwwほろよいはグラスほしかったから当たって嬉しい✌️"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leej2fomdk23",
+            "label": [
+                0.9996053576469421,
+                4.137733776587993e-05,
+                0.00012461103324312717,
+                6.123484490672126e-05,
+                3.357847890583798e-05,
+                4.1941286326618865e-05,
+                4.8301528295269236e-05,
+                4.364029518910684e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "景品あんまり覚えてないけどロゴの入ったハンカチとかそんなんだったwwほろよいはグラスほしかったから当たって嬉しい✌️"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "狙ったもんが当たるってのはすごいね、グラス当てるのにいくらくらいかかったん！？"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "2回で当たったw"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leejmr5tjs2y",
+            "label": [
+                0.999123752117157,
+                5.670148311764933e-05,
+                0.00011328109394526109,
+                0.0004978999495506287,
+                3.841341094812378e-05,
+                5.041840995545499e-05,
+                6.369340553646907e-05,
+                5.58068131795153e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 1,
+                    "utter": "2回で当たったw"
+                },
+                {
+                    "author": "did:plc:pni5yv4kx5ooip35qvl7sa7v",
+                    "type": 2,
+                    "utter": "すごいなww 強運じゃんw"
+                },
+                {
+                    "author": "did:plc:cbcufycakanvdnzwfqmkwbbi",
+                    "type": 3,
+                    "utter": "おかげで運使い果たした気がするよwありがとうなw"
+                }
+            ],
+            "uri": "at://did:plc:cbcufycakanvdnzwfqmkwbbi/app.bsky.feed.post/3leek6eze4c2g",
+            "label": [
+                0.9996470212936401,
+                5.133898594067432e-05,
+                8.001377864275128e-05,
+                5.3113333706278354e-05,
+                2.590389340184629e-05,
+                4.291476943762973e-05,
+                5.253591371001676e-05,
+                4.724308382719755e-05
+            ]
+        }
+    ]
+}

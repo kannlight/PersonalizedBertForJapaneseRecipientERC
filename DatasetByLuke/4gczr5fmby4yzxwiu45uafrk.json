@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "ネットで今死んでるちくないがオフ会に唐突にきてこんちく〜って来たらいいよなぁ！"
+                },
+                {
+                    "author": "did:plc:o4hz5ywjwng75dauvvceqmsa",
+                    "type": 2,
+                    "utter": "なんか知らんけど消えたからな\nなんかVTuberの挨拶みたい、みんなこんちく〜！！俺だ！ちくないだ！ってか？"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "ほんとになんでかわからんけど消えたわね\n両手振りながらこんちく〜っつってアヒル口で来れば面白いのにな"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3l6onzpkc6m2p",
+            "label": [
+                0.00396320316940546,
+                0.9913561344146729,
+                0.0026176595129072666,
+                0.0007910087588243186,
+                8.41518267407082e-05,
+                0.00023330874682869762,
+                0.0008426735294051468,
+                0.00011191394150955603
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "ほんとになんでかわからんけど消えたわね\n両手振りながらこんちく〜っつってアヒル口で来れば面白いのにな"
+                },
+                {
+                    "author": "did:plc:o4hz5ywjwng75dauvvceqmsa",
+                    "type": 2,
+                    "utter": "なんかDMではU2界隈でヤベーやつになったから話題出さない方がいいって言われたけどなんなんやろな\nホンマそれでオフ会来ないかな、絶対おもろいわ"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "あれに関してはおれが10-0で余計なことしてたからな〜\nまあツイートしたのはちくないだからなんともなんだけどさ〜"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3l6ooc7p6s22g",
+            "label": [
+                0.020299216732382774,
+                0.9142548441886902,
+                0.0009842461440712214,
+                0.0011223877081647515,
+                0.0030209894757717848,
+                0.02058013342320919,
+                0.038904447108507156,
+                0.0008336858008988202
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "あれに関してはおれが10-0で余計なことしてたからな〜\nまあツイートしたのはちくないだからなんともなんだけどさ〜"
+                },
+                {
+                    "author": "did:plc:o4hz5ywjwng75dauvvceqmsa",
+                    "type": 2,
+                    "utter": "それなら2人して謹慎的なことすれば良かったのかも？\n私なんとも言えんけどさ…？"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "わしとちくが？謹慎的なこと？無理では?"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3l6ooqmemrv2x",
+            "label": [
+                0.0023065931163728237,
+                0.008451985195279121,
+                0.0008907325100153685,
+                0.9718912243843079,
+                0.0015706229023635387,
+                0.01049936842173338,
+                0.0038513951003551483,
+                0.0005381820956245065
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "わしとちくが？謹慎的なこと？無理では?"
+                },
+                {
+                    "author": "did:plc:o4hz5ywjwng75dauvvceqmsa",
+                    "type": 2,
+                    "utter": "無理ではじゃないじゃーーん\nまぁ戻ってきたら迎えてやろうや"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "まあちくないは割と普通であろうとすれば普通にあれるけど俺は無理だからなぁ\nまあかれこれ3ヶ月チャットしてないからどうだかなぁ"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3l6oozvdsfz2s",
+            "label": [
+                0.002538139931857586,
+                0.9855868816375732,
+                0.0007356639252975583,
+                0.00042330758878961205,
+                7.43727941880934e-05,
+                0.009273511357605457,
+                0.0012751648901030421,
+                9.294321353081614e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "ちゃす！"
+                },
+                {
+                    "author": "did:plc:wnhqoqkn434k3iw6mb7q66cw",
+                    "type": 2,
+                    "utter": "プレイヤーレベル結構上がってるねぇ"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "石集めしてたら上がってってる！\nSPガチャは天井しようかと"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3le7zoo7gt22r",
+            "label": [
+                0.9770939946174622,
+                0.000252593366894871,
+                0.012587758712470531,
+                0.009136398322880268,
+                0.0002542059519328177,
+                0.00017372296133544296,
+                0.0001646246382733807,
+                0.00033665774390101433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "石集めしてたら上がってってる！\nSPガチャは天井しようかと"
+                },
+                {
+                    "author": "did:plc:wnhqoqkn434k3iw6mb7q66cw",
+                    "type": 2,
+                    "utter": "一気に上級者になっちゃう"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "どうも、上級プリコネラーです"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3lea2b3fvls2v",
+            "label": [
+                0.9984760880470276,
+                9.411694918526337e-05,
+                0.0007537179626524448,
+                9.967662481358275e-05,
+                7.688080222578719e-05,
+                9.675401088315994e-05,
+                0.0001632214116398245,
+                0.000239484928897582
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "どうも、上級プリコネラーです"
+                },
+                {
+                    "author": "did:plc:wnhqoqkn434k3iw6mb7q66cw",
+                    "type": 2,
+                    "utter": "お試しにふぁぶれクラン入る？"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "どこ入ろうか悩んでたし入れさせていただくわね。ありがたい"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3lea33wcpbc24",
+            "label": [
+                0.9995755553245544,
+                4.448730396688916e-05,
+                0.00014939680113457143,
+                5.4172884119907394e-05,
+                3.028616265510209e-05,
+                4.014737351099029e-05,
+                5.3846633818466216e-05,
+                5.208721631788649e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 1,
+                    "utter": "どこ入ろうか悩んでたし入れさせていただくわね。ありがたい"
+                },
+                {
+                    "author": "did:plc:wnhqoqkn434k3iw6mb7q66cw",
+                    "type": 2,
+                    "utter": "勧誘送っといたよ\nうちはかなりまったりしたクランだから上を目指すなら準備ができたらもっと強いクランがいいわね"
+                },
+                {
+                    "author": "did:plc:4gczr5fmby4yzxwiu45uafrk",
+                    "type": 3,
+                    "utter": "まあやり込みはしないと思うから大丈夫だと思う！"
+                }
+            ],
+            "uri": "at://did:plc:4gczr5fmby4yzxwiu45uafrk/app.bsky.feed.post/3lea3hrqfh224",
+            "label": [
+                0.254690945148468,
+                0.0008687155786901712,
+                0.7381364703178406,
+                0.0005043652490712702,
+                0.0006134578143246472,
+                0.002740598050877452,
+                0.0007734294049441814,
+                0.0016719901468604803
+            ]
+        }
+    ]
+}

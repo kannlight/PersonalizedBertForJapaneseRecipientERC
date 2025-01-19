@@ -1,0 +1,259 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "懲りて学ぶみたいな…？"
+                },
+                {
+                    "author": "did:plc:3edgzfiuqbkqmnwva3kroims",
+                    "type": 2,
+                    "utter": "羹(あつもの)：熱い食べ物。お吸い物とか\n膾(なます)：魚や肉を使った酢の物\nってのを踏まえてもう一度考えてみて！"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "火傷して心配しすぎて冷たいものも冷まして食べる、、"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "石橋を叩いて渡るに似たような…？"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lbhuhjnu5s2u",
+            "label": [
+                0.00443393737077713,
+                0.23535050451755524,
+                0.0021093033719807863,
+                0.004527200944721699,
+                0.0004505140532273799,
+                0.7513930201530457,
+                0.001411483041010797,
+                0.0003239516809117049
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "火傷して心配しすぎて冷たいものも冷まして食べる、、"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "石橋を叩いて渡るに似たような…？"
+                },
+                {
+                    "author": "did:plc:3edgzfiuqbkqmnwva3kroims",
+                    "type": 2,
+                    "utter": "おおー、正解！"
+                },
+                {
+                    "author": "did:plc:3edgzfiuqbkqmnwva3kroims",
+                    "type": 2,
+                    "utter": "正解とか言ったけど正確には｢失敗した結果用心しないでいいところでまで過剰に用心する｣だから、ニュアンスは近いけどどちらかというとネガティブな感じで使うかな\n石橋はポジティブ寄りだし"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "そうなんですね、自分でも調べてみました\n知らなかった言葉を知れて勉強になりました！！"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lbjw3ltmf22u",
+            "label": [
+                0.9983417987823486,
+                5.872016117791645e-05,
+                0.0009175223531201482,
+                0.0003698926593642682,
+                7.59630129323341e-05,
+                4.47471538791433e-05,
+                6.582419882761315e-05,
+                0.0001255609095096588
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "そうなんですね、自分でも調べてみました\n知らなかった言葉を知れて勉強になりました！！"
+                },
+                {
+                    "author": "did:plc:3edgzfiuqbkqmnwva3kroims",
+                    "type": 2,
+                    "utter": "使う機会中々ないけどねえ…w\n勤勉！偉い！"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "ですよね、、聞いたことないなと思って…笑\nことわざとか結構好きなので、知れてよかったです！！"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lbjwnzsq7s2u",
+            "label": [
+                0.9995812773704529,
+                4.110747977392748e-05,
+                0.00013974560715723783,
+                8.024127600947395e-05,
+                3.0371866159839556e-05,
+                3.502400795696303e-05,
+                4.412090129335411e-05,
+                4.8063633585115895e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "深夜3時に何やってんだ（急に我に返る）"
+                },
+                {
+                    "author": "did:plc:h7zaezda7f4vrc7zqb23glhr",
+                    "type": 2,
+                    "utter": "たまに深夜にお菓子作りするからその気持ちが分かるwww"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "理解者がいてくれた…！！✨😊\nたまにいきなり思い立って作りたくなりますよね…笑"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lfkuhbgfc22i",
+            "label": [
+                0.9995892643928528,
+                6.0429225413827226e-05,
+                0.0001523525861557573,
+                5.8262328821001574e-05,
+                2.0434979887795635e-05,
+                4.140888631809503e-05,
+                3.635716711869463e-05,
+                4.147413346800022e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "理解者がいてくれた…！！✨😊\nたまにいきなり思い立って作りたくなりますよね…笑"
+                },
+                {
+                    "author": "did:plc:h7zaezda7f4vrc7zqb23glhr",
+                    "type": 2,
+                    "utter": "料理とか製菓がストレス発散だったのでwww"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "私も精神的に限界が来たときに作りたくなることが多いですね…（今回はそんなことない）\n急に創作料理しだしたりとかw"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lfkuus4z3k2i",
+            "label": [
+                0.42564934492111206,
+                0.006903105415403843,
+                0.41663306951522827,
+                0.10570240765810013,
+                0.0009493702673353255,
+                0.036994095891714096,
+                0.0016554248286411166,
+                0.005513194017112255
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "私も精神的に限界が来たときに作りたくなることが多いですね…（今回はそんなことない）\n急に創作料理しだしたりとかw"
+                },
+                {
+                    "author": "did:plc:h7zaezda7f4vrc7zqb23glhr",
+                    "type": 2,
+                    "utter": "私はなんだ、大量生産して満足するまで作りますね……スコーン40個以上とかクッキーも100枚超とか、量産て感じです。\n肉まんとかベーグルとかも量産、結果作りすぎてしばらくそれしか食べるものがないってなります"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "わぁ、すごい量…😳\n私は「おし、作ったぞ！……んで、これどうすんだ？」ってなって親や会った友人にひたすら配って回るお菓子配りマンと化してます…"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lfkvcokmv22i",
+            "label": [
+                0.37820667028427124,
+                0.031996190547943115,
+                0.010269924998283386,
+                0.5423743724822998,
+                0.0007197421509772539,
+                0.031572818756103516,
+                0.002900616265833378,
+                0.001959639135748148
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "わぁ、すごい量…😳\n私は「おし、作ったぞ！……んで、これどうすんだ？」ってなって親や会った友人にひたすら配って回るお菓子配りマンと化してます…"
+                },
+                {
+                    "author": "did:plc:h7zaezda7f4vrc7zqb23glhr",
+                    "type": 2,
+                    "utter": "無心で作るので気がついたらあれ？量おかしくね？みたいな。\n配ろうにも配る相手いないから自分で消費するしかないという"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "人に会う予定が無いときはお菓子の山がキッチンの一角に積み上がります（）\nストレス発散のためなのでほんとに何も考えてないとそうなっちゃいますね…危ない危ない…"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lfkvphumms2i",
+            "label": [
+                0.004223427269607782,
+                0.0024564082268625498,
+                0.0007873312570154667,
+                0.004888966213911772,
+                0.0002381061640335247,
+                0.9867924451828003,
+                0.00037289911415427923,
+                0.00024038388801272959
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 1,
+                    "utter": "人に会う予定が無いときはお菓子の山がキッチンの一角に積み上がります（）\nストレス発散のためなのでほんとに何も考えてないとそうなっちゃいますね…危ない危ない…"
+                },
+                {
+                    "author": "did:plc:h7zaezda7f4vrc7zqb23glhr",
+                    "type": 2,
+                    "utter": "仕事であんな感じのをずっと作ってたから家でしなかったというのに……閉店したからまた家でお菓子作りしたくなってしまう危ない"
+                },
+                {
+                    "author": "did:plc:7b6gicywabcze4naaim3flmi",
+                    "type": 3,
+                    "utter": "趣味で作るのと仕事で作るのではちょっと違ってきますもんね…\n美味しいものも食べれて良いストレスの発散方法ではあるのかもしれない……"
+                }
+            ],
+            "uri": "at://did:plc:7b6gicywabcze4naaim3flmi/app.bsky.feed.post/3lfkw5jqwbc2i",
+            "label": [
+                0.9978888630867004,
+                0.0002166004414903,
+                0.0012098147999495268,
+                8.569691999582574e-05,
+                3.977827145718038e-05,
+                0.00020970223704352975,
+                0.0001515501644462347,
+                0.00019803925533778965
+            ]
+        }
+    ]
+}

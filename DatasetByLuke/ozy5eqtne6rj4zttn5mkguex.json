@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "ぷるすか欲＞アイス欲"
+                },
+                {
+                    "author": "did:plc:5x6cmf6j4zfhabyx5qpnmd47",
+                    "type": 2,
+                    "utter": "みんなも試そうブルスカ式ダイエット"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "ぶるすかで2キロ太りました\n主にスタバのせいです"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3lbrronwgzk27",
+            "label": [
+                0.005424115806818008,
+                0.9751898050308228,
+                0.00040421338053420186,
+                0.006680887658149004,
+                0.00018907412595581263,
+                0.010407907888293266,
+                0.0015783376293256879,
+                0.00012563381460495293
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "ぶるすかで2キロ太りました\n主にスタバのせいです"
+                },
+                {
+                    "author": "did:plc:5x6cmf6j4zfhabyx5qpnmd47",
+                    "type": 2,
+                    "utter": "かわいそう"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "ラーメンが美味しそうなのが悪い"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3lbrrzcdwt227",
+            "label": [
+                0.04459981620311737,
+                0.024937553331255913,
+                0.0026357562746852636,
+                0.008613644167780876,
+                0.10942304879426956,
+                0.028184300288558006,
+                0.7782889008522034,
+                0.0033169451635330915
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "ラーメンが美味しそうなのが悪い"
+                },
+                {
+                    "author": "did:plc:5x6cmf6j4zfhabyx5qpnmd47",
+                    "type": 2,
+                    "utter": "ラーメンのことスタバって呼ぶ人？\nだいたいカロリーは一緒だよねみたいな？"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "そうそうそういうやつね"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3lbrszfb6fc27",
+            "label": [
+                0.02437654696404934,
+                0.010144141502678394,
+                0.0027431503403931856,
+                0.0014032189501449466,
+                0.008001811802387238,
+                0.0041816141456365585,
+                0.9477787613868713,
+                0.0013706943718716502
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "そうそうそういうやつね"
+                },
+                {
+                    "author": "did:plc:5x6cmf6j4zfhabyx5qpnmd47",
+                    "type": 2,
+                    "utter": "もう寝るよ　おやすみ\nスタバはほどほどに"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "おやすー"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3lbrtgbtxnk27",
+            "label": [
+                0.9995670914649963,
+                5.7064742577495053e-05,
+                9.634492744226009e-05,
+                7.576507778139785e-05,
+                2.5168288630084135e-05,
+                3.906409983756021e-05,
+                9.035615948960185e-05,
+                4.919006460113451e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "何それほしいほしい！！！！！！（お目々キラキラカプ厨錠剤）"
+                },
+                {
+                    "author": "did:plc:tdzpgfnkzoynenofti7fvh2v",
+                    "type": 2,
+                    "utter": "かいましょ！セット販売もありますよ！\n\ntwitter.com/medicos_et_0..."
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "待って予算と相談するマジでほしい"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3legls6alfc27",
+            "label": [
+                0.0003433653328102082,
+                0.00026965129654854536,
+                0.9989410042762756,
+                0.00012731559399981052,
+                5.5040422012098134e-05,
+                0.00014779744378756732,
+                6.996527372393757e-05,
+                4.5724511437583715e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "待って予算と相談するマジでほしい"
+                },
+                {
+                    "author": "did:plc:tdzpgfnkzoynenofti7fvh2v",
+                    "type": 2,
+                    "utter": "最高すぎますよねこれ"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "いやほんとにそう。マジでほしい、、え、、どうしよ、、"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3leglyn4o6227",
+            "label": [
+                0.00046072181430645287,
+                0.000907854235265404,
+                0.9978891015052795,
+                0.00016746943583711982,
+                5.1972761866636574e-05,
+                0.0003602309734560549,
+                0.00010368687799200416,
+                5.893966226722114e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "いやほんとにそう。マジでほしい、、え、、どうしよ、、"
+                },
+                {
+                    "author": "did:plc:tdzpgfnkzoynenofti7fvh2v",
+                    "type": 2,
+                    "utter": "買おう…(３つほど)買うしかないんだよ…！"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "買えませんでした！（金欠）"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3leyjln23rs27",
+            "label": [
+                0.0002646732027642429,
+                0.9990068078041077,
+                0.00012743950355798006,
+                0.0001882753276731819,
+                8.360141509911045e-05,
+                0.00012820112169720232,
+                0.00017258191655855626,
+                2.8426324206520803e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 1,
+                    "utter": "買えませんでした！（金欠）"
+                },
+                {
+                    "author": "did:plc:tdzpgfnkzoynenofti7fvh2v",
+                    "type": 2,
+                    "utter": "な、なんだってーー！！！"
+                },
+                {
+                    "author": "did:plc:ozy5eqtne6rj4zttn5mkguex",
+                    "type": 3,
+                    "utter": "お金なんかねーよ！！！！"
+                }
+            ],
+            "uri": "at://did:plc:ozy5eqtne6rj4zttn5mkguex/app.bsky.feed.post/3leyk62nz7s27",
+            "label": [
+                0.0016545436810702085,
+                0.9592533111572266,
+                0.0010161803802475333,
+                0.005497659090906382,
+                0.02433891035616398,
+                0.001683538663201034,
+                0.006255376152694225,
+                0.0003005465550813824
+            ]
+        }
+    ]
+}

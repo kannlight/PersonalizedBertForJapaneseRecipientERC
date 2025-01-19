@@ -1,0 +1,694 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "皆んな天使のような悪魔の笑顔だったんだ…\nやさしい人ばかりだと思ったのに.°(ಗдಗ。)°."
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "そうですね、赤い悪魔さん😈"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "( ´・д・)ｴｯ\n(ｏﾟДﾟ)ｴｴｯ!!\n(；ﾟдﾟ)ｴｴｴｴｴｴｴｴｰｯ!!!"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbypmgkfas2n",
+            "label": [
+                0.0026619257405400276,
+                0.020076347514986992,
+                0.001252228976227343,
+                0.9666114449501038,
+                0.0027749319560825825,
+                0.003909304738044739,
+                0.0023680715821683407,
+                0.00034580411738716066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "( ´・д・)ｴｯ\n(ｏﾟДﾟ)ｴｴｯ!!\n(；ﾟдﾟ)ｴｴｴｴｴｴｴｴｰｯ!!!"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "気がついてなかったですか(⃔ * -᷄ ᴗ -᷅ * )⃕↝ ｲﾋﾋ"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "思い当たる節がまったく…ｷﾆﾅﾙ"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbyt6exf6c2u",
+            "label": [
+                0.03156004846096039,
+                0.13675753772258759,
+                0.04241181164979935,
+                0.00443816464394331,
+                0.0018279490759596229,
+                0.7707223892211914,
+                0.010277253575623035,
+                0.0020048292353749275
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "思い当たる節がまったく…ｷﾆﾅﾙ"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "ꉂ🤭"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "そんな1人で…\nわたし、きになります！"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbyvqlhb422u",
+            "label": [
+                0.5167483687400818,
+                0.15055343508720398,
+                0.20677196979522705,
+                0.034064874053001404,
+                0.0019298134138807654,
+                0.06149131804704666,
+                0.023166796192526817,
+                0.005273426882922649
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "そんな1人で…\nわたし、きになります！"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "気になったままで(⃔ * -᷄ ᴗ -᷅ * )⃕↝ ｲﾋﾋ"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "さすがは、元祖黄色い悪魔さん👿\nうーん、超絶気になる\nどっかで答え合わせはあるのかしら？"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbyw7nifls2u",
+            "label": [
+                0.00598500482738018,
+                0.00026089177117682993,
+                0.99284428358078,
+                0.00048745900858193636,
+                6.623248918913305e-05,
+                0.0001436877209926024,
+                7.399994501611218e-05,
+                0.00013847836817149073
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "周りに面白い人ばかりいる"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "よちゃんもですよ❤️"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "もちろん、たいたまさんもですよ💛"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lb7xbmxsts2r",
+            "label": [
+                0.9979889392852783,
+                0.00010869534162338823,
+                0.001409618416801095,
+                7.851792906876653e-05,
+                7.971562445163727e-05,
+                7.155113416956738e-05,
+                0.00011039556557079777,
+                0.00015260341751854867
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "もちろん、たいたまさんもですよ💛"
+                },
+                {
+                    "author": "did:plc:pysljnff7kst2eszyy4rof3d",
+                    "type": 2,
+                    "utter": "お二方共、一見真面目そうなのに面白くて好きです♪"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "既にご存知かと思いますが、あたくし真面目ですよ🥸"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbcb3yakg223",
+            "label": [
+                0.9871604442596436,
+                0.0005198797443881631,
+                0.004932228475809097,
+                0.0003923265030607581,
+                0.0005461077089421451,
+                0.001604414195753634,
+                0.0016687080496922135,
+                0.003175866324454546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "既にご存知かと思いますが、あたくし真面目ですよ🥸"
+                },
+                {
+                    "author": "did:plc:pysljnff7kst2eszyy4rof3d",
+                    "type": 2,
+                    "utter": "よちゃんが1番真面目なイメージですが、たまーに「！？！？」って事しますよねw"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "「！？！？」Σ（ﾟдﾟlll）"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbdcejbuxc2k",
+            "label": [
+                0.0006109920796006918,
+                0.0002615203848108649,
+                0.0006316055660136044,
+                0.9976578950881958,
+                0.0002630845701787621,
+                0.000261010805843398,
+                0.00018093422113452107,
+                0.00013280344137456268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "「！？！？」Σ（ﾟдﾟlll）"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "maiさん たまにじゃないですよ🤣🤣🤣\nかなり高確率です😂😂😂"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "maさん、目の前のモノだけを信じてくださいね\nって、たいたまさんの目の前のあたくしは、どう映ってるんだろ🤔"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbdzybtt6s2v",
+            "label": [
+                0.0808081105351448,
+                0.008199884556233883,
+                0.8946933150291443,
+                0.0011576743563637137,
+                0.00019491456623654813,
+                0.013432467356324196,
+                0.0004436200833879411,
+                0.0010700190905481577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "maさん、目の前のモノだけを信じてくださいね\nって、たいたまさんの目の前のあたくしは、どう映ってるんだろ🤔"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "集合写真を自撮りで撮ろうとしてインカメラになってなくて自爆してる人📸"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "そういえばそんな人もいましたねwww\nスマホの角度変えちゃったりしてましたから\nレンズの向きが悪いのかなって🥴"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3lbeydwn7p22w",
+            "label": [
+                0.11676657199859619,
+                0.0018743524560704827,
+                0.02929614670574665,
+                0.8436955809593201,
+                0.0003994067956227809,
+                0.004803062416613102,
+                0.0014873844338580966,
+                0.001677424763329327
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "夏菜子ちゃんのお渡し会に当たらなかったらと思うだけでツライ"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "詩織ちゃんお渡し会当たらなくて実は結構へこんでましたよ当時"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "ハズレたらつらいですよね…当然ですよね"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3laoekvhzsk2n",
+            "label": [
+                0.00014900376845616847,
+                0.9990684390068054,
+                0.00015829468611627817,
+                0.00010462130740052089,
+                7.22955956007354e-05,
+                0.00015645063831470907,
+                0.00025811526575125754,
+                3.280325108789839e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "ハズレたらつらいですよね…当然ですよね"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "当たらないと思ってたけどほんとに当たらなかったぁ😭って…\n\n当たらなかった仲間がいたからなんとか大丈夫でしたが…"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "今からハズレる事を考えるバカいるかよ〜なんだけど…\nせめて詩織ちゃんの時のとらさんのようにお知り合いの方が当選してくれればねぇ"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3laofctixuk2n",
+            "label": [
+                0.002877651946619153,
+                0.12440325319766998,
+                0.824364423751831,
+                0.0008044132846407592,
+                0.004355473909527063,
+                0.01075770240277052,
+                0.031735844910144806,
+                0.0007012993446551263
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "今からハズレる事を考えるバカいるかよ〜なんだけど…\nせめて詩織ちゃんの時のとらさんのようにお知り合いの方が当選してくれればねぇ"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "とらまるさんとあまゆきさんとenzouさんとか当たってたし、それを見て感動して自分の中で納得というか消化した感じでしたね🙂"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "今は当たる事を信じて…ですかね\n\n現状どれくらい応募があるか判れば手の打ちようもあるんですけどね\n傷口を拡げる結果になるかもですが"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3laogdhtu622n",
+            "label": [
+                0.00022566968982573599,
+                0.0008523389114998281,
+                0.9983919262886047,
+                8.507288293913007e-05,
+                5.9972186136292294e-05,
+                0.0002436499489704147,
+                7.917839684523642e-05,
+                6.22476072749123e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "今は当たる事を信じて…ですかね\n\n現状どれくらい応募があるか判れば手の打ちようもあるんですけどね\n傷口を拡げる結果になるかもですが"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "詩織ちゃんの時より夏菜子ちゃんの方が全然読めない応募数🫠🫠🫠"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "全く読めないし情報も出てこない😢\n当選数は名古屋と大阪が100名だから池袋も同様かな\n池袋はまだ購入できるんだよ〜(誘惑)"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3laohlqd7ic2n",
+            "label": [
+                0.0020533751230686903,
+                0.004692637361586094,
+                0.9918518662452698,
+                0.0001239176344824955,
+                8.071499178186059e-05,
+                0.000983303296379745,
+                0.00012510755914263427,
+                8.911461191019043e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "全く読めないし情報も出てこない😢\n当選数は名古屋と大阪が100名だから池袋も同様かな\n池袋はまだ購入できるんだよ〜(誘惑)"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "トークショーとお渡し会2部構成なのも誘惑が多い😅"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "お渡し会一択で申し込んだけどトークショーの方が当選確率は高いのかな\nん〜でも夏菜子ちゃんにお名前書いて欲しい\n目の前でお名前書いて欲しい😊"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3laoirskajc2n",
+            "label": [
+                0.0007141515961848199,
+                0.0002531043719500303,
+                0.9986734390258789,
+                9.549166134092957e-05,
+                6.112970731919631e-05,
+                8.280429756268859e-05,
+                6.156532617751509e-05,
+                5.84184963372536e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "((´∀｀))wwwこっちとは‼︎\n楽しかったですよう\nこちらこそありがとうございました😁"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "こっちならバレないかと(*´罒`*)ｲﾋﾋ"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "maiさんに見つかってるYO\nイイねされてる〜www(°▽°)"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kxxb5o54b52l",
+            "label": [
+                0.9996001124382019,
+                4.3240535887889564e-05,
+                0.00010645233851391822,
+                0.00010423617641208693,
+                2.8051736080669798e-05,
+                3.653719977592118e-05,
+                4.306324990466237e-05,
+                3.83844344469253e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "maiさんに見つかってるYO\nイイねされてる〜www(°▽°)"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "今の所、現場にいなかったmaiさんのみ✨"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "それじゃOK👌🏻…かな"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kxxboj42pw2d",
+            "label": [
+                0.6112932562828064,
+                0.0022847303189337254,
+                0.382915735244751,
+                0.0005371533916331828,
+                0.000376269337721169,
+                0.0008308882242999971,
+                0.0009149831021204591,
+                0.0008470034226775169
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "それじゃOK👌🏻…かな"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "紫のよちゃんと記念撮影するの忘れた(￣▽￣;)💜"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "また今度ね💜\nって、次はいつになるのやら😓"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kxxct37key2l",
+            "label": [
+                0.2444770783185959,
+                0.22500601410865784,
+                0.4705377519130707,
+                0.002651835558936,
+                0.0006888831849209964,
+                0.051583800464868546,
+                0.0035612713545560837,
+                0.0014934076461941004
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "また今度ね💜\nって、次はいつになるのやら😓"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "次回楽しみにしてますが…\n💜たいたま💜も来月は行かないからしばらく出番がなさそう😅"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "💜たいたま💜さんも、紫のよちゃんも、きっとまた、いつかどこかでお会いできることを信じて\n(´∀｀)ﾉｼ"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kxxdkuo2lm2e",
+            "label": [
+                0.0014917537337169051,
+                0.00027284238603897393,
+                0.9978233575820923,
+                0.00010120579099748284,
+                6.986460357438773e-05,
+                9.722800314193591e-05,
+                6.868437776574865e-05,
+                7.51776242395863e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "相方氏にBlueskyのアカウント名、分かるっちゃ分かるんじゃない？って聞いたら「わかんねぇよ」と\nぶった斬られましたとさ\n真っ二つです"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "🤣🤣🤣\n何気に探してる方いるよᕙ( ͡° ͜ʖ ͡°)ᕗ"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "Pたろぉくんに、「これっ」て画面を見せたら鼻で笑われたのち「分かんねぇよ」と…\n早く皆んなに見つけて欲しいものですわぁ(*´∇｀*)"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kuzqrczjo22h",
+            "label": [
+                0.006836021784693003,
+                0.02749907225370407,
+                0.9635193943977356,
+                0.0007195119396783412,
+                0.00011378568888176233,
+                0.0008292430429719388,
+                0.00025584697141312063,
+                0.0002271647099405527
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "Pたろぉくんに、「これっ」て画面を見せたら鼻で笑われたのち「分かんねぇよ」と…\n早く皆んなに見つけて欲しいものですわぁ(*´∇｀*)"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "特にネオさん✨"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "ネオさんに早く気づいてくれないかな〜って想いも込めてたいたまさんに見つかった後フォローしたんですけどね\nアプリの存在自体忘れ去られているのかも…"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kuzzmtfd532c",
+            "label": [
+                0.00026247533969581127,
+                0.9990260601043701,
+                0.00018931151134893298,
+                0.00011029697634512559,
+                4.0523515053791925e-05,
+                0.00019906010129489005,
+                0.00014354247832670808,
+                2.8783966627088375e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "ネオさんに早く気づいてくれないかな〜って想いも込めてたいたまさんに見つかった後フォローしたんですけどね\nアプリの存在自体忘れ去られているのかも…"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "そろそろ出張するからお忙しいのかも💦"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "そうかも、そうかも\n近頃随分と忙しそうですものね\n出張先で気付いてくれたら嬉しいかな\nそして「なんですか、あのアカウント名は⁉︎」って言ってもらえたら最高です😆"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kv23s5wxz22h",
+            "label": [
+                0.011924888007342815,
+                0.000474494241643697,
+                0.9868446588516235,
+                0.00021356658544391394,
+                0.00012175751180620864,
+                0.0001508505520178005,
+                0.00012011484068352729,
+                0.00014968047617003322
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "そうかも、そうかも\n近頃随分と忙しそうですものね\n出張先で気付いてくれたら嬉しいかな\nそして「なんですか、あのアカウント名は⁉︎」って言ってもらえたら最高です😆"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "飛行機の中で気付くとよいですね😆"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "一、無事に帰ってきてもらうこと\n一、フォローに気づいてもらうこと\nこの二点を主にネオさんの出張の無事を祈っていますよ🍀"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kv244rpivs2z",
+            "label": [
+                0.0002519924018997699,
+                0.00023378660262096673,
+                0.9991156458854675,
+                9.595982555765659e-05,
+                7.934815221233293e-05,
+                9.489769581705332e-05,
+                6.762952398275957e-05,
+                6.076064528315328e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 1,
+                    "utter": "一、無事に帰ってきてもらうこと\n一、フォローに気づいてもらうこと\nこの二点を主にネオさんの出張の無事を祈っていますよ🍀"
+                },
+                {
+                    "author": "did:plc:ckgyzxdsbivwch2hclojdrc7",
+                    "type": 2,
+                    "utter": "無事に行って帰ってきて夏菜子ちゃんB.Dコンでなんなんですかあれは🤣❤️\nとツッコミ入れて欲しい😍"
+                },
+                {
+                    "author": "did:plc:h6hozblgrypfqschv7hujojs",
+                    "type": 3,
+                    "utter": "最高ですね\nもう満面の笑顔で受けますよ\n乞うご期待です❤️"
+                }
+            ],
+            "uri": "at://did:plc:h6hozblgrypfqschv7hujojs/app.bsky.feed.post/3kv25vimon22l",
+            "label": [
+                0.5537329316139221,
+                0.0010515281464904547,
+                0.44259992241859436,
+                0.0006634356104768813,
+                0.0004566508287098259,
+                0.0005855460767634213,
+                0.00038691770168952644,
+                0.0005230509559623897
+            ]
+        }
+    ]
+}

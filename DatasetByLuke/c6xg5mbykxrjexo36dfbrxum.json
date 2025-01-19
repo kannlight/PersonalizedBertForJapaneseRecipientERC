@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "スク水かなたそかわええ"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "やはりスク水は最強"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "同志よ🤝\n\n来年のホロサマはスク水キボンヌ！"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lbu5wcvh2c2t",
+            "label": [
+                0.000697063107509166,
+                0.0003502762701828033,
+                0.9985463619232178,
+                0.00012709657312370837,
+                6.825357559137046e-05,
+                8.31780707812868e-05,
+                6.898512219777331e-05,
+                5.881082688574679e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "同志よ🤝\n\n来年のホロサマはスク水キボンヌ！"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "団長とワミィとしゃかまたとリリカしゃちょーのを…おっとこれ以上は…"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "はち切れそうw\n\nわいはあえてかなたそとかシオンちゃんのが見たいですw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lbu7wisecs2t",
+            "label": [
+                0.006302474532276392,
+                0.0005634169792756438,
+                0.9925776124000549,
+                0.0001491528091719374,
+                7.979555812198669e-05,
+                0.0001366559008602053,
+                0.00010653038043528795,
+                8.433123002760112e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "はち切れそうw\n\nわいはあえてかなたそとかシオンちゃんのが見たいですw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "何故か犯罪臭がしますそれ（笑）"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "ぐらちゃんとかも似合いそうですw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lbwgwanae22a",
+            "label": [
+                0.06221635267138481,
+                0.0006103309569880366,
+                0.9357596635818481,
+                0.0004375017888378352,
+                0.000173899854416959,
+                0.00034849546500481665,
+                0.00021098347497172654,
+                0.00024277938064187765
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "ぐらちゃんとかも似合いそうですw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "そしたらあくたんにも…(小声)"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "がおうぱっぱの描いた白スクやばいですよね😍"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lbyw5qz7ss2q",
+            "label": [
+                0.9972656965255737,
+                8.61466905917041e-05,
+                0.000967523199506104,
+                0.0013326887274160981,
+                6.054088589735329e-05,
+                7.439749606419355e-05,
+                7.469295087503269e-05,
+                0.00013835854770150036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "これこそがオタクでござる(・ω・)ノ"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "我々のことでござるな😏"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "同士よ👍"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lfcvfmfhnk27",
+            "label": [
+                0.09648488461971283,
+                0.1854282170534134,
+                0.6882336139678955,
+                0.0012295697815716267,
+                0.004700974095612764,
+                0.005250220652669668,
+                0.014466493390500546,
+                0.004206072073429823
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "同士よ👍"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "わしもメガネクイッしなければ\n(つけたことないけど)"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "それは羨ましいですw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lfeytproc22c",
+            "label": [
+                0.4841194450855255,
+                0.05045449361205101,
+                0.07952214777469635,
+                0.36074429750442505,
+                0.0012787921587005258,
+                0.013087070547044277,
+                0.005163056775927544,
+                0.005630711559206247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "何気に初のナース衣装のアクスタなので(多分)これは絶対欲しかったですw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "は！ま、まさかナース好き？！(確信)"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "たその衣装だと1、2番目くらいに好きですw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lf5v34rgtc2m",
+            "label": [
+                0.9996228218078613,
+                3.451337033766322e-05,
+                9.42851766012609e-05,
+                6.524332275148481e-05,
+                3.5515644412953407e-05,
+                4.111310772714205e-05,
+                5.274085560813546e-05,
+                5.370358485379256e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "たその衣装だと1、2番目くらいに好きですw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "ちなみに一番は？"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "ナースか堕天使かで悩みますね🤔"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lf7iuhwcwc2u",
+            "label": [
+                0.7863295674324036,
+                0.002294219797477126,
+                0.1337009221315384,
+                0.0019598936196416616,
+                0.000526268151588738,
+                0.07162157446146011,
+                0.0009976518340408802,
+                0.0025699115358293056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "ナースか堕天使かで悩みますね🤔"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "と言いつつ実は水着ですな(人の話を聞いてない)"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "水着もえちえちで捨てがたいですな😍"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lf7zdashb223",
+            "label": [
+                0.813084065914154,
+                0.0008386132540181279,
+                0.18400156497955322,
+                0.0003826064639724791,
+                0.00027950925868935883,
+                0.0004885459784418344,
+                0.00044044115929864347,
+                0.00048458416131325066
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "たそのイラスト多めで満足感やばいです😍"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "そんな多かったんすか？！"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "5ページくらいですね\n\nあと最後のページで意外な人のイラストがありますよ👍"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3letpjkc7zk2r",
+            "label": [
+                0.9953402280807495,
+                0.00012728676665574312,
+                0.003704383037984371,
+                0.00044720713049173355,
+                6.196708272909746e-05,
+                0.00011033876944566146,
+                7.075324538163841e-05,
+                0.0001379262248519808
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "5ページくらいですね\n\nあと最後のページで意外な人のイラストがありますよ👍"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "くぅぅぅ。ま、まにーがぁ"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "世知辛いのじゃ…😭"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3levwbxbznc2g",
+            "label": [
+                0.0002064953587250784,
+                0.9988045692443848,
+                0.00012576054723467678,
+                0.0001712251250864938,
+                6.359598046401516e-05,
+                0.00030374107882380486,
+                0.00029973324853926897,
+                2.4888138796086423e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "誰が言ったか忘れたけどフブさんがいたらなんとかなるってのはマジなんだなぁって"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "なんとかしてくれるフブキング〜🎵"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "でぇベテランのvtuberですからねw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3ler5hgl7u22p",
+            "label": [
+                0.996215283870697,
+                0.00018724265100900084,
+                0.0013836006401106715,
+                0.0003186198591720313,
+                0.00015555342542938888,
+                0.00048388869618065655,
+                0.0003105387440882623,
+                0.0009453440434299409
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "でぇベテランのvtuberですからねw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "これがリアルガチなでぇベテラン…！"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "自分がv見始めてからずっといましたからねw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3ler6gy4eis2p",
+            "label": [
+                0.9991932511329651,
+                6.901895540067926e-05,
+                0.00015227639232762158,
+                9.24034757190384e-05,
+                5.0205420848215e-05,
+                0.00011730917321983725,
+                0.00012327991134952754,
+                0.00020237376156728715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "自分がv見始めてからずっといましたからねw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "自分もちゃんと見始めた時には既にいました（笑）"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "昔から人気でしたね\n\n当時は追ってなかったですけどw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3ler6zsremk2p",
+            "label": [
+                0.9931558966636658,
+                0.00019924862135667354,
+                0.0010708614718168974,
+                0.004270080476999283,
+                0.00011994846863672137,
+                0.00027947351918555796,
+                0.00027922308072447777,
+                0.0006253015017136931
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "昔から人気でしたね\n\n当時は追ってなかったですけどw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "こんこんキツネにおとされたわけですな😏"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "当時はほとんど興味なかったのに今となっては完全にすこん部ですよw"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lerch3rbgc2p",
+            "label": [
+                0.9151124358177185,
+                0.01362837478518486,
+                0.002513658022508025,
+                0.05918562412261963,
+                0.0004272696969565004,
+                0.0061172861605882645,
+                0.0014599263668060303,
+                0.0015553348930552602
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 1,
+                    "utter": "当時はほとんど興味なかったのに今となっては完全にすこん部ですよw"
+                },
+                {
+                    "author": "did:plc:ar24kzcyhr6ulswkvzihxugr",
+                    "type": 2,
+                    "utter": "これがこんこんキツネの魅力魔力不可抗力〜"
+                },
+                {
+                    "author": "did:plc:c6xg5mbykxrjexo36dfbrxum",
+                    "type": 3,
+                    "utter": "この可愛さには抗うことはできない…😍"
+                }
+            ],
+            "uri": "at://did:plc:c6xg5mbykxrjexo36dfbrxum/app.bsky.feed.post/3lesb4xekbk27",
+            "label": [
+                0.9996702671051025,
+                4.8497659008717164e-05,
+                7.943794480524957e-05,
+                5.986052201478742e-05,
+                2.1124291379237548e-05,
+                4.37536473327782e-05,
+                3.792290226556361e-05,
+                3.909802398993634e-05
+            ]
+        }
+    ]
+}

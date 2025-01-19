@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "言いたいこと分かる気がする"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "ほんま？！うれC"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "早くてびっくりした"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3lbwp4ywp3c22",
+            "label": [
+                0.0005053529166616499,
+                0.00029497986542992294,
+                0.0004909937269985676,
+                0.9978445768356323,
+                0.0002771838044282049,
+                0.00022602958779316396,
+                0.0002367658744333312,
+                0.00012402705033309758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "早くてびっくりした"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "笑笑笑笑笑笑"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "クリスマスなにするの"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3lbwpsy5pr222",
+            "label": [
+                0.1476626843214035,
+                0.004284501541405916,
+                0.840598464012146,
+                0.0016176594654098153,
+                0.00039246759843081236,
+                0.003727398347109556,
+                0.0009641272481530905,
+                0.0007526571862399578
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "クリスマスなにするの"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "んーーーーーーーー、なんか美味しいもの食べるかな！家出"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "なんか色めき立つイベントないの？"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3lbwpwdsaek22",
+            "label": [
+                0.0005760254571214318,
+                0.0003240974619984627,
+                0.9987338185310364,
+                0.00010589137673377991,
+                4.705260289483704e-05,
+                0.00011159097630297765,
+                5.635203706333414e-05,
+                4.5222262997413054e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "なんか色めき立つイベントないの？"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "ないんだなぁこれが、\nごましおさんは？"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "そう！聞いてよ！！！！\nごましお家ね、冬になるとレスするの！！！！！！\nなんとかしたい、、"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3lbwq4jc6nk22",
+            "label": [
+                0.0036735974717885256,
+                0.7501729130744934,
+                0.004851761739701033,
+                0.19684210419654846,
+                0.011491356417536736,
+                0.018071942031383514,
+                0.014150913804769516,
+                0.0007454306469298899
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "じゅ、12…"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "不服そうだな"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "インサートまでしてるんだぜ？\n体勢変えて2人でそのまま寝たけど"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3ldrpck3pks2y",
+            "label": [
+                0.0009580495534464717,
+                0.0009743800037540495,
+                0.00034457299625501037,
+                0.9957309365272522,
+                0.00042794313048943877,
+                0.000798860564827919,
+                0.0006678287754766643,
+                9.746481373440474e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "インサートまでしてるんだぜ？\n体勢変えて2人でそのまま寝たけど"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "だめだ！ノーカウント！それはせっ久と言えるのか！！！！"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "ではどこに到達したらカウントされるのですか！！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3ldszhpmsrs26",
+            "label": [
+                0.06992264091968536,
+                0.0067418888211250305,
+                0.8078055381774902,
+                0.10013715922832489,
+                0.006823754869401455,
+                0.0030564991757273674,
+                0.002357857534661889,
+                0.0031547080725431442
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "ではどこに到達したらカウントされるのですか！！！！！！"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "満足しておわったら！ダッ！"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "お互いが？どちらかだけでも？？"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3ldszmfjors26",
+            "label": [
+                0.0012181706260889769,
+                0.061075806617736816,
+                0.9315891265869141,
+                0.001060442766174674,
+                0.0009735281346365809,
+                0.0014227046631276608,
+                0.0023330773692578077,
+                0.0003271832247264683
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "お互いが？どちらかだけでも？？"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "むずかしいですね……とても"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "せくろすってむずかしいよね\nいつもおもう"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3ldt4hp5mxs2e",
+            "label": [
+                0.2077150046825409,
+                0.522839367389679,
+                0.008011352270841599,
+                0.013405604287981987,
+                0.0008121869759634137,
+                0.24221760034561157,
+                0.0024899763520807028,
+                0.0025089490227401257
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 1,
+                    "utter": "せくろすってむずかしいよね\nいつもおもう"
+                },
+                {
+                    "author": "did:plc:odnogd5rvpzr5tqzbcj5sjid",
+                    "type": 2,
+                    "utter": "どっちも満足ってわかんないよね"
+                },
+                {
+                    "author": "did:plc:dxg224jlsmxp4uecje4jdmgx",
+                    "type": 3,
+                    "utter": "ほんとにね\nあなたはまず試合するところからだけどね"
+                }
+            ],
+            "uri": "at://did:plc:dxg224jlsmxp4uecje4jdmgx/app.bsky.feed.post/3ldui3xona22d",
+            "label": [
+                0.00031025815405882895,
+                0.00020713367848657072,
+                0.9990449547767639,
+                0.0001273907837457955,
+                7.931235450087115e-05,
+                8.751743007451296e-05,
+                7.789166556904092e-05,
+                6.548373494297266e-05
+            ]
+        }
+    ]
+}

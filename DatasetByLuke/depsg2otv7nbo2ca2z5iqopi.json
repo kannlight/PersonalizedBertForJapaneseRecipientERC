@@ -1,0 +1,329 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "Is it ok if I ask about what the \"listen to spoken japanese\" is??\n\nBc I want to do more listening but I don't really know where to start"
+                },
+                {
+                    "author": "did:plc:knkltoiapkt336rr335ztt3p",
+                    "type": 2,
+                    "utter": "You can start with anything you like really!!! Your fave games, movies, anime, shows in japanese are good. You probably won't understand a lot of it or any of it at first but that is FINE and NORMAL 🙏 It made me think back to when I was a tiny baby and didn't understand english yet"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "When watching for listening should I watch without subs?? \n\nBecause I tried watching anime that I like and was very hit or miss, maybe bc it was a little too hard haha \n\nBut once I tried watching Blue Box with japanese subs and it was great. Also first time seeing, but I only saw one episode"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3lfcopq3qbc2d",
+            "label": [
+                0.890710175037384,
+                0.022401273250579834,
+                0.04962019994854927,
+                0.013926747255027294,
+                0.0027514644898474216,
+                0.0056539177894592285,
+                0.007925529964268208,
+                0.0070107304491102695
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "When watching for listening should I watch without subs?? \n\nBecause I tried watching anime that I like and was very hit or miss, maybe bc it was a little too hard haha \n\nBut once I tried watching Blue Box with japanese subs and it was great. Also first time seeing, but I only saw one episode"
+                },
+                {
+                    "author": "did:plc:knkltoiapkt336rr335ztt3p",
+                    "type": 2,
+                    "utter": "Personally I think yeah, without subs. It'll be really hard to understand at first, for like months to a year, but if you do it every day your brain will pick up on it like how it did your native language!!! \n\nEEE YES good it's awesome you've found something you're enjoying this way!!!!!!"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "I'll try to practice listening everyday, though I kinda struggle with consistency\n\nThanks for the advice :)"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3lfcpduv3ts2d",
+            "label": [
+                0.9983586668968201,
+                0.00030738121131435037,
+                0.0006881995941512287,
+                0.000126460479805246,
+                5.758889892604202e-05,
+                7.687572360737249e-05,
+                0.0001714665995677933,
+                0.0002133948728442192
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "não esperava que eu ia entrar no Blue Sky e conversar com um japonês (ou uma japonesa??) mas foi mt good vibes"
+                },
+                {
+                    "author": "did:plc:t6ruu4ojutubxgmvj3lgipzs",
+                    "type": 2,
+                    "utter": "acabei de ver isso na timeline achei um amor"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "Mano o cara é mt gente boa e eu gastando o meu japonês, eu disse que evangelion era complicado pra assistir em japonês (pra tentar aprender a ouvir) e ele disse que nem os japoneses entendem totalmente Eva ahauahauhaua"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "Mas dps de dar uma desenferrujada começou a fluir bem até, as vezes nem eu tenho noção do quanto eu sei e que as vezes só falta um empurrãozinho"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kpmmo3bvsa23",
+            "label": [
+                0.7901070713996887,
+                0.043035753071308136,
+                0.09711244702339172,
+                0.018790103495121002,
+                0.007428398821502924,
+                0.012920981273055077,
+                0.016575563699007034,
+                0.014029625803232193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "Mano o cara é mt gente boa e eu gastando o meu japonês, eu disse que evangelion era complicado pra assistir em japonês (pra tentar aprender a ouvir) e ele disse que nem os japoneses entendem totalmente Eva ahauahauhaua"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "Mas dps de dar uma desenferrujada começou a fluir bem até, as vezes nem eu tenho noção do quanto eu sei e que as vezes só falta um empurrãozinho"
+                },
+                {
+                    "author": "did:plc:t6ruu4ojutubxgmvj3lgipzs",
+                    "type": 2,
+                    "utter": "as vezes é questao so de treinar pra ir puxando da memória, eu mesmo preciso urgente fazer isso, mesmo que eu seja bem mais iniciante.\n\neu tenho estudado mtas palavras mas na hora de falar eu só nao lembro de nenhuma dkjwdkqjk é triste"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "AMIGO e eu que sei ler quase uns 2000 kanji mas na hora de ver escrito em hiragana ou ouvir eu me perco todo pq n tem o kanji pra me guiar ahauahauahua juro"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kpmmviybdr2b",
+            "label": [
+                0.9028990864753723,
+                0.025805560871958733,
+                0.04072374477982521,
+                0.00828910619020462,
+                0.002856801962479949,
+                0.006782552693039179,
+                0.006838695611804724,
+                0.005804371554404497
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "AMIGO e eu que sei ler quase uns 2000 kanji mas na hora de ver escrito em hiragana ou ouvir eu me perco todo pq n tem o kanji pra me guiar ahauahauahua juro"
+                },
+                {
+                    "author": "did:plc:t6ruu4ojutubxgmvj3lgipzs",
+                    "type": 2,
+                    "utter": "surpreendentemente kanji é oq eu me dou melhor, no renshu eu ja tava com uns quase 300 termos, eu decoro mt rapido as coisas\n\nsó que aprender e decorar sao diferentes qkjdkqwkjqwdk"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "Em questão de palavra eu parei em 5500 no anki, mas eu sei além disso pcausa de videogame e coisa q eu sabia de anime, menus de jogos eu leio até que bem tranquilo hj em dia"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kpmn3lacl72p",
+            "label": [
+                0.8271157741546631,
+                0.04207037389278412,
+                0.07235819101333618,
+                0.01742892898619175,
+                0.006480439566075802,
+                0.012070422060787678,
+                0.012922371737658978,
+                0.00955352745950222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "Em questão de palavra eu parei em 5500 no anki, mas eu sei além disso pcausa de videogame e coisa q eu sabia de anime, menus de jogos eu leio até que bem tranquilo hj em dia"
+                },
+                {
+                    "author": "did:plc:t6ruu4ojutubxgmvj3lgipzs",
+                    "type": 2,
+                    "utter": "eu qria conseguir usar anki mas nao rolou infelizmente"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "Ele n é obrigatório mas me ajudou mt pra adquirir vocabulário só q ele sozinho n te leva a fluência (sou um pouco culpado de usar ele sozinho por um bom tempo)"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "Se tu pegar um tempinho pra aprender a mexer nele n é tão complexo assim"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kpmn6fe63k2d",
+            "label": [
+                0.8966549634933472,
+                0.017826352268457413,
+                0.05334539711475372,
+                0.008589653298258781,
+                0.003486559959128499,
+                0.005932170897722244,
+                0.007757637184113264,
+                0.006407318636775017
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "はい、友達が欲しいです！！でも日本語がまだ完璧じゃない"
+                },
+                {
+                    "author": "did:plc:kz2qqkx35gq6f2djlbcpg6g2",
+                    "type": 2,
+                    "utter": "Eu só entendo japonês também! Eu estou usando Google Tradutor!"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "うん\nだが日本語読むできるwww 書いて難しい 不安感じwww\nだけど、書き練習が必要です"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kplsqwp45f2y",
+            "label": [
+                0.8843077421188354,
+                0.0017744525102898479,
+                0.10361272841691971,
+                0.0014056344516575336,
+                0.0002461860131006688,
+                0.007087639532983303,
+                0.0006338875973597169,
+                0.0009317814838141203
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "うん\nだが日本語読むできるwww 書いて難しい 不安感じwww\nだけど、書き練習が必要です"
+                },
+                {
+                    "author": "did:plc:kz2qqkx35gq6f2djlbcpg6g2",
+                    "type": 2,
+                    "utter": "ひらがな、カタカナ、漢字があるから難しいですね！\n書くのも　ひらがなか、カタカナ書けたら意思疎通は大丈夫ですよ！"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "うん、カタカナの言葉がよく英語みたいな\nポルトガル語と英語が完璧分かるんです。"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kplt4opykd2k",
+            "label": [
+                0.7336333990097046,
+                0.002678972901776433,
+                0.0022675981745123863,
+                0.2500135004520416,
+                0.001163592911325395,
+                0.003413526341319084,
+                0.0026869724970310926,
+                0.004142459947615862
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "うん、カタカナの言葉がよく英語みたいな\nポルトガル語と英語が完璧分かるんです。"
+                },
+                {
+                    "author": "did:plc:kz2qqkx35gq6f2djlbcpg6g2",
+                    "type": 2,
+                    "utter": "カタカナわかれば大丈夫。\nリスニングならアニメ好きなら覚えられそうですね。\nすごいよ。"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "リスニングも難しい　ポケモンコンシェルジュだけ全然日本語見た 字幕も　でも本当に優しいセリフでした"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "ジョジョのアニメが大好き！いつか日本語だけ見てみる"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kpltjgig5p24",
+            "label": [
+                0.9878996014595032,
+                0.00033789750887081027,
+                0.011052613146603107,
+                0.00019377100397832692,
+                9.284607949666679e-05,
+                9.572711860528216e-05,
+                0.00011618141434155405,
+                0.00021150712564121932
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "リスニングも難しい　ポケモンコンシェルジュだけ全然日本語見た 字幕も　でも本当に優しいセリフでした"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 1,
+                    "utter": "ジョジョのアニメが大好き！いつか日本語だけ見てみる"
+                },
+                {
+                    "author": "did:plc:kz2qqkx35gq6f2djlbcpg6g2",
+                    "type": 2,
+                    "utter": "ジョジョか！セリフ多いからね！\n頑張って！"
+                },
+                {
+                    "author": "did:plc:depsg2otv7nbo2ca2z5iqopi",
+                    "type": 3,
+                    "utter": "ありがとうございます！！"
+                }
+            ],
+            "uri": "at://did:plc:depsg2otv7nbo2ca2z5iqopi/app.bsky.feed.post/3kpltwfkiop2w",
+            "label": [
+                0.9996320009231567,
+                4.0000850276555866e-05,
+                9.492925892118365e-05,
+                7.406344229821116e-05,
+                3.0442135539487936e-05,
+                3.9188504160847515e-05,
+                4.539837391348556e-05,
+                4.3951120460405946e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "ダウンロードは終わったけど操作わっからん"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "スイッチ全くわからん( ･´ｰ･｀)どや"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "なんでや！！なんで分からんのや！！！"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3le7bsuhde22m",
+            "label": [
+                0.0010768914362415671,
+                0.9785308241844177,
+                0.0004482935764826834,
+                0.006068591494113207,
+                0.00966537743806839,
+                0.0010375286219641566,
+                0.0029814541339874268,
+                0.00019103656813967973
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "なんでや！！なんで分からんのや！！！"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "スイッチで触ったことないんよ！！！"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "Switchでもエペ触って教えてよ！！！！"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3le7dq4fsks2e",
+            "label": [
+                0.0004626440641004592,
+                0.000544973008800298,
+                0.9984115362167358,
+                0.000192256600712426,
+                0.00014112726785242558,
+                8.176166738849133e-05,
+                0.0001048314807121642,
+                6.0793438024120405e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "ねぇ！いつ私とエペやってくれるの！！！"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "むしろこっちが聞きたいんだが！！"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "いつログインしてるの！！！！ねぇ！！！"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lfeug2v2p22k",
+            "label": [
+                0.0017725856741890311,
+                0.004171520005911589,
+                0.0018706530099734664,
+                0.9727898240089417,
+                0.014966494403779507,
+                0.0012694637989625335,
+                0.0027802137192338705,
+                0.0003791775379795581
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "いつログインしてるの！！！！ねぇ！！！"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "風のむくまま気の向くままに！！！"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "くぅそ！！！！wwwww"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lfevay64sc2a",
+            "label": [
+                0.8016291260719299,
+                0.01563948579132557,
+                0.0014702043263241649,
+                0.13566084206104279,
+                0.008923773653805256,
+                0.0027415163349360228,
+                0.032511208206415176,
+                0.0014238948933780193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "くぅそ！！！！wwwww"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "しかたないだろ！！色々手を出して積みゲー増やしちまってんだ！！！"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "自業自得だろ！！！！私と遊べよ！！！もっと私と！！遊んでよ！！！！"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lfevuqb6gc2z",
+            "label": [
+                0.002676282310858369,
+                0.6503146290779114,
+                0.020714495331048965,
+                0.006200473755598068,
+                0.2871994078159332,
+                0.0028242908883839846,
+                0.02870362624526024,
+                0.0013668402098119259
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "自業自得だろ！！！！私と遊べよ！！！もっと私と！！遊んでよ！！！！"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "いつ遊んでくれるんだ！？"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "いつなら良いんだ？！"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lfeycflqws2p",
+            "label": [
+                0.007603723090142012,
+                0.007679407950490713,
+                0.9795817136764526,
+                0.0009889710927382112,
+                0.0003170897834934294,
+                0.0032871996518224478,
+                0.00029742438346147537,
+                0.00024442002177238464
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "おぢさんが趣味…？？三(((((´ω`；)ｽｽｽｰ"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "おぢさんを名乗ることによってセクハラ発言が許されると思ってる…\nいわば免罪符的な…"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "おまわりさん！！！！こっちです！！！"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lcmsteyhqc2s",
+            "label": [
+                0.9171503186225891,
+                0.0013819740852341056,
+                0.06887248903512955,
+                0.0074881152249872684,
+                0.001499671721830964,
+                0.0004755000991281122,
+                0.001307753729633987,
+                0.0018241440411657095
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "おまわりさん！！！！こっちです！！！"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "おまわりさん！！！あっちに行きました！！！"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "つか、セクハラは許されねぇのよwwww"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lcmx6s7cws2q",
+            "label": [
+                0.0040771132335066795,
+                0.007704501040279865,
+                0.001870819367468357,
+                0.009223191067576408,
+                0.8921964168548584,
+                0.009961488656699657,
+                0.07194184511899948,
+                0.00302462768740952
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "つか、セクハラは許されねぇのよwwww"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "え、なんで？"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "え……？？マジで……？？？"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lcmy3eyoyc2z",
+            "label": [
+                0.0003661996452137828,
+                0.0003497185534797609,
+                0.00048392461030744016,
+                0.9978867173194885,
+                0.00027384667191654444,
+                0.0003073308616876602,
+                0.00021706940606236458,
+                0.00011524972069310024
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 1,
+                    "utter": "え……？？マジで……？？？"
+                },
+                {
+                    "author": "did:plc:v6gk3jwnubdminsdhyyyyzb2",
+                    "type": 2,
+                    "utter": "可愛い子にはセクハラさせろだろ？"
+                },
+                {
+                    "author": "did:plc:ycxxlvjuuy544rw3aroxrjri",
+                    "type": 3,
+                    "utter": "お前は可愛い子にはセクハラしようだろうwww"
+                }
+            ],
+            "uri": "at://did:plc:ycxxlvjuuy544rw3aroxrjri/app.bsky.feed.post/3lcn45gbmfk22",
+            "label": [
+                0.6571174263954163,
+                0.005955190863460302,
+                0.05433069169521332,
+                0.04990715906023979,
+                0.14040426909923553,
+                0.028534265235066414,
+                0.049582939594984055,
+                0.01416809856891632
+            ]
+        }
+    ]
+}

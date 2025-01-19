@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "数年ぶりのラブホらしい"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 2,
+                    "utter": "あらあら"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "時にはゆったり時には激しくでいい夜だった"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3le3tvij3bc22",
+            "label": [
+                0.9996165037155151,
+                4.175717549514957e-05,
+                0.0001067778212018311,
+                5.707148011424579e-05,
+                3.257428033975884e-05,
+                4.7424684453289956e-05,
+                5.03522896906361e-05,
+                4.7529822040814906e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "時にはゆったり時には激しくでいい夜だった"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 2,
+                    "utter": "相手誰よw\n彼氏とか？"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "実は彼氏じゃない(ﾎﾞｿｯ)"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3le43dj6tqc2d",
+            "label": [
+                0.9227842688560486,
+                0.013178793713450432,
+                0.0037293077912181616,
+                0.007275907788425684,
+                0.0008167080231942236,
+                0.038519054651260376,
+                0.00949398148804903,
+                0.004202056676149368
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "実は彼氏じゃない(ﾎﾞｿｯ)"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 2,
+                    "utter": "せふれ？"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "セフレではないよ！"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3le43lhqnqs2j",
+            "label": [
+                0.7261152267456055,
+                0.01997632533311844,
+                0.02328299917280674,
+                0.08222469687461853,
+                0.019576184451580048,
+                0.04241373389959335,
+                0.06079057231545448,
+                0.025620242580771446
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "セフレではないよ！"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 2,
+                    "utter": "じゃーなにものw"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "とあるアプリで知り合った人よんよん"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3le476j4q7s2k",
+            "label": [
+                0.99924635887146,
+                6.408674380509183e-05,
+                0.0003633842570707202,
+                7.710773206781596e-05,
+                4.0078957681544125e-05,
+                4.812787665287033e-05,
+                7.443165668519214e-05,
+                8.661291212774813e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "とあるアプリで知り合った人よんよん"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 2,
+                    "utter": "ワンナイトか"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "そそ！\n\n共通の趣味とかあったからワンナイトからの友人が出来た🤣"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3le4dge7zss2g",
+            "label": [
+                0.9996020197868347,
+                4.626828740583733e-05,
+                0.00011680557508952916,
+                7.595249189762399e-05,
+                3.00622486975044e-05,
+                3.7409434298751876e-05,
+                4.701143552665599e-05,
+                4.454872396308929e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "好きな人にケツイキさせられたい2024"
+                },
+                {
+                    "author": "did:plc:eejcz3smwj3zh7sxkut6aleo",
+                    "type": 2,
+                    "utter": "ほもざー"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "なぁに"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3l56omos56x2f",
+            "label": [
+                0.25083503127098083,
+                0.09263567626476288,
+                0.004318736959248781,
+                0.0472920797765255,
+                0.053634244948625565,
+                0.013604824431240559,
+                0.5322068929672241,
+                0.005472434684634209
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "なぁに"
+                },
+                {
+                    "author": "did:plc:eejcz3smwj3zh7sxkut6aleo",
+                    "type": 2,
+                    "utter": "ほられたいのほもざーじゃん"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "女性を性的な目で見れないからほもだよ"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3l56oqtdwmm2a",
+            "label": [
+                0.9983252882957458,
+                0.0007006446830928326,
+                0.000255337858106941,
+                0.00011349149281159043,
+                3.167113027302548e-05,
+                0.0002548398624639958,
+                0.00022323890880215913,
+                9.550582035444677e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "女性を性的な目で見れないからほもだよ"
+                },
+                {
+                    "author": "did:plc:eejcz3smwj3zh7sxkut6aleo",
+                    "type": 2,
+                    "utter": "ほられざーよろしく☺️"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "よろしくってどゆことwwwwww"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3l56oswgeas2z",
+            "label": [
+                0.0014736264711245894,
+                0.00033360018278472126,
+                0.00037853672984056175,
+                0.9966793060302734,
+                0.0002888071467168629,
+                0.00037839580909349024,
+                0.0003567926469258964,
+                0.00011087258462794125
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "よろしくってどゆことwwwwww"
+                },
+                {
+                    "author": "did:plc:eejcz3smwj3zh7sxkut6aleo",
+                    "type": 2,
+                    "utter": "掘られ事後報告よろしくってこと☺️"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "ひみつだよ(？？？)"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3l56owcxw6k2y",
+            "label": [
+                0.9480311274528503,
+                0.010917745530605316,
+                0.022778267040848732,
+                0.001453434699214995,
+                0.00035413308069109917,
+                0.011724100448191166,
+                0.0032669086940586567,
+                0.0014742892235517502
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 1,
+                    "utter": "ひみつだよ(？？？)"
+                },
+                {
+                    "author": "did:plc:eejcz3smwj3zh7sxkut6aleo",
+                    "type": 2,
+                    "utter": "やだ"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 3,
+                    "utter": "おじさんの性情報なんて得ないでそ"
+                }
+            ],
+            "uri": "at://did:plc:mcrbtjf7rtniig2rq2dyfiqp/app.bsky.feed.post/3l56q6uciet2r",
+            "label": [
+                0.012376716360449791,
+                0.0540129616856575,
+                0.0018161156913265586,
+                0.009697498753666878,
+                0.007448315154761076,
+                0.011262231506407261,
+                0.9020068049430847,
+                0.0013793352991342545
+            ]
+        }
+    ]
+}

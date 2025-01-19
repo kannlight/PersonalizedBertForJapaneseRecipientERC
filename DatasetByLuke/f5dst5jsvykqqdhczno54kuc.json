@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "仮ラベル外れる気配は未だなし。\n最悪こっちメインになるかもなぁ…やだなぁ…"
+                },
+                {
+                    "author": "did:plc:sokezt7bhzhpixvfkgwssq63",
+                    "type": 2,
+                    "utter": "私3日かかりました😭"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "3日なら短い方ですね✨でも3日でも長く感じますよね〜💦\n私は日曜日の夜あたりに貼られたので、今日で3日目ですが、全く気配ないです🤦🏼‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lbvnlht27k2e",
+            "label": [
+                0.0015268474817276,
+                0.9501782655715942,
+                0.0007781469030305743,
+                0.0016969317803159356,
+                0.0006750565371476114,
+                0.04145112633705139,
+                0.0035124190617352724,
+                0.00018125554197467864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "3日なら短い方ですね✨でも3日でも長く感じますよね〜💦\n私は日曜日の夜あたりに貼られたので、今日で3日目ですが、全く気配ないです🤦🏼‍♀️"
+                },
+                {
+                    "author": "did:plc:sokezt7bhzhpixvfkgwssq63",
+                    "type": 2,
+                    "utter": "長く感じました😭\nしかもなんの連絡もなく急に検索できるようになった感じです…😫"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "長いですよねやっぱ🤦🏼‍♀️\n急にfrom検索で自分が出てきた感じですか？"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lbwabik64k2i",
+            "label": [
+                0.001354422071017325,
+                0.00034748046891763806,
+                0.00112427887506783,
+                0.9962131977081299,
+                0.00014212317182682455,
+                0.00040014670230448246,
+                0.0002746639947872609,
+                0.00014380602806340903
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "長いですよねやっぱ🤦🏼‍♀️\n急にfrom検索で自分が出てきた感じですか？"
+                },
+                {
+                    "author": "did:plc:sokezt7bhzhpixvfkgwssq63",
+                    "type": 2,
+                    "utter": "そうです！急に出てきた感じです"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "なるほど🤔\n今週末どうなるか待ってみます🫡"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lbxzrxv56c2c",
+            "label": [
+                0.0007526783156208694,
+                0.00019059947226196527,
+                0.9986714124679565,
+                0.0001334545959252864,
+                5.1354563765926287e-05,
+                9.553792915539816e-05,
+                4.942697341903113e-05,
+                5.555019379244186e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "なるほど🤔\n今週末どうなるか待ってみます🫡"
+                },
+                {
+                    "author": "did:plc:sokezt7bhzhpixvfkgwssq63",
+                    "type": 2,
+                    "utter": "早く仮ラベルとれることマジで祈ってます😭"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "ありがとうございます😭\nこのままでは企画が頓挫してしまうので早く外れて欲しいです😭"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lby6isalm22r",
+            "label": [
+                0.4225649833679199,
+                0.03661038354039192,
+                0.513842761516571,
+                0.000418107898440212,
+                0.0005791938747279346,
+                0.021914836019277573,
+                0.002596148056909442,
+                0.0014735859585925937
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "ありがとうございます😭\nこのままでは企画が頓挫してしまうので早く外れて欲しいです😭"
+                },
+                {
+                    "author": "did:plc:sokezt7bhzhpixvfkgwssq63",
+                    "type": 2,
+                    "utter": "何も悪いことしてないんだからこそ早くしろって思います🤬"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "ですよね！動かせないとほんと不便すぎます🤦🏼‍♀️\nあっちオンリーのフォロワーさんと全然絡めないですし😭"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lbycolzmjk2v",
+            "label": [
+                0.0001958043285412714,
+                0.9985364675521851,
+                0.00011913317575817928,
+                0.0002082053542835638,
+                0.00018237641779705882,
+                0.00027070133364759386,
+                0.0004551925230771303,
+                3.211680814274587e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "はい、本日もえっくすのラベルは外れておりませんでした。\nキエェェッ‼️(猿叫)"
+                },
+                {
+                    "author": "did:plc:cmzvburtduenb2ojnsieheu3",
+                    "type": 2,
+                    "utter": "えっ😭1週間くらい経ってますかね？"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "ですね…😭戻れない可能性も出てきてるので辛いです…"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lcc5awfvss2n",
+            "label": [
+                0.0001981659297598526,
+                0.9975173473358154,
+                0.00019047438399866223,
+                0.00018776830984279513,
+                9.434058301849291e-05,
+                0.0014280281029641628,
+                0.0003394203376956284,
+                4.4431319111026824e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "ですね…😭戻れない可能性も出てきてるので辛いです…"
+                },
+                {
+                    "author": "did:plc:cmzvburtduenb2ojnsieheu3",
+                    "type": 2,
+                    "utter": "まだ検索かけても名前出てこない感じですかね🥲"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "はい、毎日別垢から検索しているのですが全く出ません😭"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lcc7diimts2e",
+            "label": [
+                0.00022810543305240571,
+                0.9988777041435242,
+                0.00013476947788149118,
+                0.0001360724272672087,
+                0.00011006679415004328,
+                0.00014814056339673698,
+                0.0003338943643029779,
+                3.11714356939774e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "はい、毎日別垢から検索しているのですが全く出ません😭"
+                },
+                {
+                    "author": "did:plc:cmzvburtduenb2ojnsieheu3",
+                    "type": 2,
+                    "utter": "そうなんですか😭PSYCHEさんのツイート内容で検索かけたら出てきたので不思議です🤔（勝手にすみません(・・;）"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "え⁉︎そうなんですか⁉︎\n他の方からは見れるんですかね？🤔寧ろ検索して下さってありがとうございます😭非常に助かります😭\nfrom検索とかでも私出ますかね？"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lcc7sq3tlc2e",
+            "label": [
+                0.9982115030288696,
+                0.00010954166646115482,
+                0.0005403051618486643,
+                0.0008456046925857663,
+                5.062829586677253e-05,
+                6.283733091549948e-05,
+                6.923374894540757e-05,
+                0.00011048559827031568
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "え⁉︎そうなんですか⁉︎\n他の方からは見れるんですかね？🤔寧ろ検索して下さってありがとうございます😭非常に助かります😭\nfrom検索とかでも私出ますかね？"
+                },
+                {
+                    "author": "did:plc:cmzvburtduenb2ojnsieheu3",
+                    "type": 2,
+                    "utter": "from検索はまだでした😭😭　\nツイート内容で検索かけたら出るんですけどね🫠naze"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "オーノー…🤷\nやはりまだラベルついたままなんですね…\n確認して下さってありがとうございます😭🙏🏻✨\nでもツイート内容の検索で出るってのは謎ですね🤔"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lcca5wjmrs2e",
+            "label": [
+                0.2731478810310364,
+                0.004616042599081993,
+                0.0014177291886880994,
+                0.7146760821342468,
+                0.0003685479168780148,
+                0.0037690282333642244,
+                0.0011495588114485145,
+                0.0008550689672119915
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 1,
+                    "utter": "オーノー…🤷\nやはりまだラベルついたままなんですね…\n確認して下さってありがとうございます😭🙏🏻✨\nでもツイート内容の検索で出るってのは謎ですね🤔"
+                },
+                {
+                    "author": "did:plc:cmzvburtduenb2ojnsieheu3",
+                    "type": 2,
+                    "utter": "早く直りますように😭\nそうなんですよね…私はツイート内容の検索で出るかどうかでラベルが外れたのか確認していたんですけどラベル中は出てこなかったので🥲"
+                },
+                {
+                    "author": "did:plc:f5dst5jsvykqqdhczno54kuc",
+                    "type": 3,
+                    "utter": "そうなんですね🤔人によって現象様々とか対応に困りますよね🤦🏼‍♀️\nほんと不便なので早く使用出来るようになって欲しいです😭"
+                }
+            ],
+            "uri": "at://did:plc:f5dst5jsvykqqdhczno54kuc/app.bsky.feed.post/3lcchy5k5e22z",
+            "label": [
+                0.0005531517090275884,
+                0.958527684211731,
+                0.028342612087726593,
+                0.00041067993151955307,
+                0.0022050573024898767,
+                0.0008278638706542552,
+                0.00891968421638012,
+                0.00021319046209100634
+            ]
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "これもう最高傑作です😭😭😭😭"
+                },
+                {
+                    "author": "did:plc:xtgy5oodlzy4ys4uue3frabq",
+                    "type": 2,
+                    "utter": "岡裏さんも読みましたか🥳\n買う時も400pが知っているけど、実際持って、凄いと思うた😂"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "わたしは、イベントに行けなかったので\n友人に代わりに買ってもらったんですが\n友人も買ったのでむちゃくちゃ重たかったみたい😂😂😂"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3lf5snc7mqs2z",
+            "label": [
+                0.24877618253231049,
+                0.006415942218154669,
+                0.004411634057760239,
+                0.7345581650733948,
+                0.0004039220220874995,
+                0.0031392881646752357,
+                0.0008755109738558531,
+                0.001419327687472105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "このさん🩷"
+                },
+                {
+                    "author": "did:plc:sm22sfbbrhnhgwbl5sndlsiv",
+                    "type": 2,
+                    "utter": "代行いつでも💪🏻"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "ありがとう😭"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3lfag5wxars2s",
+            "label": [
+                0.9996434450149536,
+                4.961077502230182e-05,
+                8.299585897475481e-05,
+                6.427646439988166e-05,
+                2.6357611204730347e-05,
+                4.131637615500949e-05,
+                4.718055424746126e-05,
+                4.493575761443935e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "ありがとう😭"
+                },
+                {
+                    "author": "did:plc:sm22sfbbrhnhgwbl5sndlsiv",
+                    "type": 2,
+                    "utter": "そんなに大変じゃなかったよ💪🏻"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "このさんとこのさんの上腕二頭筋に感謝✨✨"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3lfbb5amlfk2l",
+            "label": [
+                0.9996004700660706,
+                5.5331041949102655e-05,
+                9.302392572863027e-05,
+                6.664453394478187e-05,
+                3.3557284041307867e-05,
+                3.8823392969788983e-05,
+                4.739769792649895e-05,
+                6.472482345998287e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "チビになっちゃいました🙏💦💦"
+                },
+                {
+                    "author": "did:plc:jyopwbkgp5kamtzjtd63hgwl",
+                    "type": 2,
+                    "utter": "おチビ絵可愛い😚"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "えへへありがとうございます😆"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3letufgyzgk2e",
+            "label": [
+                0.999634861946106,
+                5.466378934215754e-05,
+                9.685244731372222e-05,
+                6.044109250069596e-05,
+                2.2803671527071856e-05,
+                4.438137329998426e-05,
+                4.980209996574558e-05,
+                3.61511338269338e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "えへへありがとうございます😆"
+                },
+                {
+                    "author": "did:plc:jyopwbkgp5kamtzjtd63hgwl",
+                    "type": 2,
+                    "utter": "ころころ感がたまらんのです😍"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "今回、多すぎて\nそこら中にコロコロしてます😂"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3levhaxvpd224",
+            "label": [
+                0.9178637266159058,
+                0.013835141435265541,
+                0.005597771145403385,
+                0.022620772942900658,
+                0.0005913493223488331,
+                0.033210691064596176,
+                0.004899632651358843,
+                0.001380806672386825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "今回、多すぎて\nそこら中にコロコロしてます😂"
+                },
+                {
+                    "author": "did:plc:jyopwbkgp5kamtzjtd63hgwl",
+                    "type": 2,
+                    "utter": "わーい🙌\n楽しみー！😆"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "出来やしたあ_(┐「ε:)_"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3lexn2r3qms2v",
+            "label": [
+                0.9995878338813782,
+                7.433527207467705e-05,
+                0.00011618709686445072,
+                5.390643491409719e-05,
+                2.3607766706845723e-05,
+                4.769519000547007e-05,
+                5.916963709751144e-05,
+                3.71965543308761e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "出来やしたあ_(┐「ε:)_"
+                },
+                {
+                    "author": "did:plc:jyopwbkgp5kamtzjtd63hgwl",
+                    "type": 2,
+                    "utter": "おつかれーでした！\nいい仕事をなさる！！グッーーージョーーーブ！！😍"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "ありがとうございまーーーーす"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3leyvjthf3s2o",
+            "label": [
+                0.9996278285980225,
+                4.844438444706611e-05,
+                8.723948121769354e-05,
+                6.6111191699747e-05,
+                2.9317143344087526e-05,
+                4.108462599106133e-05,
+                5.7308941904921085e-05,
+                4.268153861630708e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "アジアツアーしてほしいですよね✨"
+                },
+                {
+                    "author": "did:plc:xtgy5oodlzy4ys4uue3frabq",
+                    "type": 2,
+                    "utter": "絶対満席になります🤩"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "多分、日本からもいっぱい行く😆"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3letveda4v22a",
+            "label": [
+                0.08985403925180435,
+                0.0008140064892359078,
+                0.9073241949081421,
+                0.0004397324228193611,
+                0.0002483600110281259,
+                0.0005027843872085214,
+                0.0003718957304954529,
+                0.0004449723637662828
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "多分、日本からもいっぱい行く😆"
+                },
+                {
+                    "author": "did:plc:xtgy5oodlzy4ys4uue3frabq",
+                    "type": 2,
+                    "utter": "そうですね！多いな日本の方もニューヨークに行きました😂あの時結構びっくり😂"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "わたしも、あんなにたくさん\n日本から行くのを見てビックリしました😂😂"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3levhd6mbo224",
+            "label": [
+                0.0006264456314966083,
+                0.00028926951927132905,
+                0.0005909547908231616,
+                0.9976716637611389,
+                0.0002369027934037149,
+                0.00024304453108925372,
+                0.0002098390250466764,
+                0.0001318411814281717
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "わたしも、あんなにたくさん\n日本から行くのを見てビックリしました😂😂"
+                },
+                {
+                    "author": "did:plc:xtgy5oodlzy4ys4uue3frabq",
+                    "type": 2,
+                    "utter": "日本アーティストの香港コンサートも多いな日本ファンが来る😂凄い😂😂"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "熱狂的ですね😳😳😳"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3levmvmolwc26",
+            "label": [
+                0.0011411726009100676,
+                0.0004425610532052815,
+                0.0004589735181070864,
+                0.996648371219635,
+                0.0001303199678659439,
+                0.0008167291525751352,
+                0.000242923095356673,
+                0.00011895236821146682
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 1,
+                    "utter": "熱狂的ですね😳😳😳"
+                },
+                {
+                    "author": "did:plc:xtgy5oodlzy4ys4uue3frabq",
+                    "type": 2,
+                    "utter": "本当だね😂香港のチケットを購入できるも凄い😂日本みたいの抽選じゃないから😦"
+                },
+                {
+                    "author": "did:plc:pizx5yx2qniun4zggimhmrpu",
+                    "type": 3,
+                    "utter": "そうなの⁉️😳\n先着ですか？（早く取った人が勝ち？？）"
+                }
+            ],
+            "uri": "at://did:plc:pizx5yx2qniun4zggimhmrpu/app.bsky.feed.post/3lexn4ovipk2v",
+            "label": [
+                0.001230499125085771,
+                0.00032970981555990875,
+                0.001469787792302668,
+                0.9962905645370483,
+                0.0002001901448238641,
+                0.000160790907102637,
+                0.00017152540385723114,
+                0.00014688257942907512
+            ]
+        }
+    ]
+}

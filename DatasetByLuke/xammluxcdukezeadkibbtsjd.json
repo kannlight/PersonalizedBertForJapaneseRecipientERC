@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "ほにょちゃんお疲れ様でしたー！しごできです👏\n準備もほんとありがとう〜！\nゆっくり休んでね😭"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "りっちゃんもお疲れ、さんきゅー！いつも眠い俺は今日も爆睡するぜ！！！！！\nまあギリギリになってから準備する俺が悪いんだけどなｗ"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "人間そんなものだよ…\n間に合わせてるだけえらい😉"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lbmpppill225",
+            "label": [
+                0.881791889667511,
+                0.04658754542469978,
+                0.020114125683903694,
+                0.008030705153942108,
+                0.0014519203687086701,
+                0.019825469702482224,
+                0.01516858208924532,
+                0.0070297750644385815
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "人間そんなものだよ…\n間に合わせてるだけえらい😉"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "なるほど…確かに一理あるな。こうして俺がまたサボる理由ができたってこと……(こら)"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "でもほんとほにょちゃんが色々計画して準備してくれてるからこそ、楽しく遊べてるので無理せず程々にねって思うよ🥺"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lbwfqfevcc2m",
+            "label": [
+                0.9995284080505371,
+                6.841171853011474e-05,
+                0.00016163931286428124,
+                3.9170990930870175e-05,
+                3.407541225897148e-05,
+                3.9765694964444265e-05,
+                5.875049464520998e-05,
+                6.977932207519189e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "でもほんとほにょちゃんが色々計画して準備してくれてるからこそ、楽しく遊べてるので無理せず程々にねって思うよ🥺"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "むしろ計画性なさすぎていつもギリギリになってるだけだが、みんなが楽しめてこそだから俺のことは気にするな！俺の屍を越えてゆけ(？)"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "越えてゆけなんて！\n一緒にいこうよ連れてくよ（どこへ）"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lckfont4bk2f",
+            "label": [
+                0.007346566300839186,
+                0.0015830665361136198,
+                0.9902247786521912,
+                0.0002294723963132128,
+                0.00014439498772844672,
+                0.00016113957099150866,
+                0.0001599233946762979,
+                0.00015060178702697158
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "越えてゆけなんて！\n一緒にいこうよ連れてくよ（どこへ）"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "りっちゃんとならどこへでも(？)"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "へへへほにょちゃん優しいから変なノリでもついてきてくれる嬉しい"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lcunnn2p6k2g",
+            "label": [
+                0.9996534585952759,
+                4.817738590645604e-05,
+                9.423421579413116e-05,
+                5.469453026307747e-05,
+                2.4634706278447993e-05,
+                4.1409253753954545e-05,
+                4.421068661031313e-05,
+                3.910460145561956e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "モンモモ終わっててショック\n1回も開いてないのに…"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "俺も！！\nフォロワーさんの見てやっべって思ったのにその後結局忘れてたｗ"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "私も日付変わる前にやらないと…って朝思ってたのに夜爆睡してしまった（）\n衣装は最低限欲しかったよね🤣"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lazvmenu7c2k",
+            "label": [
+                0.000402753590606153,
+                0.9987940788269043,
+                0.0001826245425036177,
+                0.0002307503018528223,
+                4.858847023569979e-05,
+                0.00017893638869281858,
+                0.00013698583643417805,
+                2.5208808438037522e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "私も日付変わる前にやらないと…って朝思ってたのに夜爆睡してしまった（）\n衣装は最低限欲しかったよね🤣"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "全員揃ったらぷちななホール変えようと思ってた時期が俺にもありました……。"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "揃えたかったよねぇ……\nしょうがない…時は戻せぬ…"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lbwfjyykbs2m",
+            "label": [
+                0.0003101834445260465,
+                0.9989824891090393,
+                0.00021409116743598133,
+                0.00012031413643853739,
+                4.562365575111471e-05,
+                0.000146667065564543,
+                0.00015161673945840448,
+                2.8892469345009886e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "揃えたかったよねぇ……\nしょうがない…時は戻せぬ…"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "モントマはちゃんとやった……初めて開いたの今日だけど………。"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "間に合えばいいんだ……\nえらい！"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lckfpud62k2f",
+            "label": [
+                0.999271810054779,
+                0.0001163217457360588,
+                0.00028094789013266563,
+                0.00011431702296249568,
+                2.6914944101008587e-05,
+                4.745262049254961e-05,
+                6.852473597973585e-05,
+                7.371076935669407e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "間に合えばいいんだ……\nえらい！"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "モンはる開いてません11月から怒涛すぎるぜ"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "ほんと忙しすぎるよね〜！\n気づいたら千の誕生日もきて1年終わっちゃうんだよきっと😱"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3lcunjaqzb22g",
+            "label": [
+                0.025629878044128418,
+                0.498035192489624,
+                0.002172361360862851,
+                0.4384442865848541,
+                0.000659562589135021,
+                0.03234674036502838,
+                0.0021697464399039745,
+                0.0005422490648925304
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "ほんと忙しすぎるよね〜！\n気づいたら千の誕生日もきて1年終わっちゃうんだよきっと😱"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "モンはる終わったし気づいたらモンユキも目の前だな……()"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "そうだよ……年とってから余計月日がすぎるの早いと思う……"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3ldcypf6ev22f",
+            "label": [
+                0.0017541261622682214,
+                0.8967559933662415,
+                0.0003507366927806288,
+                0.0874309167265892,
+                0.0004836853186134249,
+                0.009161021560430527,
+                0.0038731025997549295,
+                0.00019037697347812355
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "お迎えありがとうございます☺\nぜひ繋がりたいです！\nお先にフォロー失礼いたします。"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 2,
+                    "utter": "お先にフォローありがとうございます！フォロバ失礼します☺️\nこちら呼びタメ大歓迎です✨"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "フォロバありがとうございます✨\n私も呼びタメ大歓迎なので、早速タメ語でいかせて貰うね！\nなんて呼んだらいいかなー？"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l7sg5ocv7a2q",
+            "label": [
+                0.9993131160736084,
+                4.6524299250449985e-05,
+                0.00037042860640212893,
+                6.461779412347823e-05,
+                4.172268745605834e-05,
+                4.4475113099906594e-05,
+                5.55156402697321e-05,
+                6.353067874442786e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "フォロバありがとうございます✨\n私も呼びタメ大歓迎なので、早速タメ語でいかせて貰うね！\nなんて呼んだらいいかなー？"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 2,
+                    "utter": "私も早速タメで失礼するね！\n\n私はゆえって読むから好きに呼んで大丈夫だよ☺️私はなんて呼んだらいいかな？"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "ゆえちゃんって呼んでもいいー？\n私は普段リジェちゃんとかりっちゃんって呼ばれることが多いけど、呼びやすい呼び方で大丈夫だよ☺"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l7sk7kew2w26",
+            "label": [
+                0.9932528138160706,
+                0.00012446589244063944,
+                0.00591864250600338,
+                0.00013727777695748955,
+                9.576133743394166e-05,
+                0.0001272402296308428,
+                0.0001391470868838951,
+                0.00020452750322874635
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "ゆえちゃんって呼んでもいいー？\n私は普段リジェちゃんとかりっちゃんって呼ばれることが多いけど、呼びやすい呼び方で大丈夫だよ☺"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 2,
+                    "utter": "大丈夫だよ☺️\nではリジェちゃんって呼ばせてもらうね✨"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "改めてよろしくね、ゆえちゃん☺\nアイナナもうたプリも推し被ってるから、たくさんお話出来たら嬉しい〜！"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l7tqcwx64c24",
+            "label": [
+                0.9995610117912292,
+                4.794381311512552e-05,
+                0.00017584716260898858,
+                5.541821155929938e-05,
+                3.095160718658008e-05,
+                3.964460483985022e-05,
+                4.5273274736246094e-05,
+                4.386738874018192e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "改めてよろしくね、ゆえちゃん☺\nアイナナもうたプリも推し被ってるから、たくさんお話出来たら嬉しい〜！"
+                },
+                {
+                    "author": "did:plc:b5wpcjcwkkmcmalqt6d75sae",
+                    "type": 2,
+                    "utter": "こちらこそよろしくね☺️\nそっか、推し被ってるね！たくさん話そうね💓"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "Xのうたプリ垢消しちゃってからお話できる人いなかったから嬉しすぎる〜😭💓\n\nちなみにね、わた婚はアプリ（マンガUP）で読んでたりするから、そっちも少しお話できるくらいの知識はあるよ🥺"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l7uvlwtjjs2b",
+            "label": [
+                0.9996057152748108,
+                4.7953730245353654e-05,
+                0.00013582699466496706,
+                5.0144542910857126e-05,
+                2.7596139261731878e-05,
+                4.2808511352632195e-05,
+                4.438405449036509e-05,
+                4.556068961392157e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "もーちょいで9周年………\n出会ってもう9年経つの感慨深い……\n出もどりだし空白期間もあるけど思い出いっぱいだよ🥺"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "分かるぜりっちゃん……特に出戻りした後の思い入れのレベルが違うｗ"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "ほにょちゃんわかるよおおお\nやっぱ好きだ！！ってなって\n特にここ2年くらいは毎日ログイン&イベント欠かさず参加してる笑"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l23dkt3h5i26",
+            "label": [
+                0.9996330738067627,
+                3.768050009966828e-05,
+                9.887362830340862e-05,
+                5.9625497669912875e-05,
+                3.3984568290179595e-05,
+                3.6564688343787566e-05,
+                4.520491711446084e-05,
+                5.495583172887564e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "ほにょちゃんわかるよおおお\nやっぱ好きだ！！ってなって\n特にここ2年くらいは毎日ログイン&イベント欠かさず参加してる笑"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "なー。一旦アンストした頃の自分が見たらどした？？？ってなると思うｗ\nちなみに今の俺はなんで前ハマらんかったん？？？ってなってるｗ"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "それなwww\n私離れたときはね…パクリだなんだ言われてたり、具体的なこと一切覚えてないけど運営に嫌気が差して疲れちゃった記憶が（苦笑）\n今は気にせず楽しんでる笑\nストーリーは最高だし😉"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l23edvaefs2i",
+            "label": [
+                0.9992050528526306,
+                0.0001502366503700614,
+                0.00015430524945259094,
+                6.443690654123202e-05,
+                4.0725510189076886e-05,
+                0.00013895744632463902,
+                0.00013587501598522067,
+                0.00011048824671888724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "それなwww\n私離れたときはね…パクリだなんだ言われてたり、具体的なこと一切覚えてないけど運営に嫌気が差して疲れちゃった記憶が（苦笑）\n今は気にせず楽しんでる笑\nストーリーは最高だし😉"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "あ～、相当前か？それ。\n俺その頃SNSしてなかったから全然知らんかったわｗ\n正直アイドルものってジャンルな以上ある程度設定被るのは仕方なくね？　完　だと思うんだが()\n楽しめてんのが一番だよな～！"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "ほんと初期だった気が！\nそれは同意なんだけど、ありなっちが同人誌だしてるもんだから余計言われちゃうよねって😂\n\n設定だけじゃなくてね、スチルもトレス疑惑出てたんよ笑\nそっちは庇えないくらい笑"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l23fafgkdr2n",
+            "label": [
+                0.10837356746196747,
+                0.03820570558309555,
+                0.003973419312387705,
+                0.7399269342422485,
+                0.002945840358734131,
+                0.08226633816957474,
+                0.019628778100013733,
+                0.004679348319768906
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "ほんと初期だった気が！\nそれは同意なんだけど、ありなっちが同人誌だしてるもんだから余計言われちゃうよねって😂\n\n設定だけじゃなくてね、スチルもトレス疑惑出てたんよ笑\nそっちは庇えないくらい笑"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "あー、そうなんだ。全然知らねえわｗ\nスチルってアイマスとだっけ？同じバンダム系列なら同じカード用ポーズ集あってもおかしくねえと思うけどな。グループ会社同士にどのくらい関係があるか知らんから知らんけど()"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "そうそう！\nそっか、同じバンダイなんだっけ🤔\nまあ言いたいこと言うやつはどこにでもいるからね〜\n今は大人になったのでスルーできるけど、当時はまだ受け流せなかった笑\n\nダム建築はわろたww"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l23gpk455u2n",
+            "label": [
+                0.06301833689212799,
+                0.00818191934376955,
+                0.001421209191903472,
+                0.8639398217201233,
+                0.0022712808568030596,
+                0.012479144148528576,
+                0.046013183891773224,
+                0.002675056690350175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 1,
+                    "utter": "そうそう！\nそっか、同じバンダイなんだっけ🤔\nまあ言いたいこと言うやつはどこにでもいるからね〜\n今は大人になったのでスルーできるけど、当時はまだ受け流せなかった笑\n\nダム建築はわろたww"
+                },
+                {
+                    "author": "did:plc:fkrakx2mxiwzr54uplruzvg7",
+                    "type": 2,
+                    "utter": "そそ、そういうときこそシャットダウンとスルースキル大事だよな〜\n\nダムもできたし9周年の祭り楽しもうな！(？？？)"
+                },
+                {
+                    "author": "did:plc:xammluxcdukezeadkibbtsjd",
+                    "type": 3,
+                    "utter": "これからもシャットダウンとスルースキル駆使してこ💪\n\nそうだね！ダムと共に祭り楽しも！笑"
+                }
+            ],
+            "uri": "at://did:plc:xammluxcdukezeadkibbtsjd/app.bsky.feed.post/3l23h7qxjto2b",
+            "label": [
+                0.008649692870676517,
+                0.0003640251816250384,
+                0.9902949333190918,
+                0.0001899798953672871,
+                0.00011814685421995819,
+                0.00014945391740184277,
+                0.00010790972737595439,
+                0.00012582978524733335
+            ]
+        }
+    ]
+}

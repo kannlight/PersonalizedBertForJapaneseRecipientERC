@@ -1,0 +1,369 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "SNS原始人すぎる 気持ちいい"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "大吉"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "いやリプしたらおみくじになるbotのやつかい"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "クスッ‼️"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le7viexwns2d",
+            "label": [
+                0.999419093132019,
+                7.609518797835335e-05,
+                9.082161705009639e-05,
+                0.00019381745369173586,
+                3.449442738201469e-05,
+                4.7195208026096225e-05,
+                8.452742622466758e-05,
+                5.387431156123057e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "クスッ‼️"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "セが足りないね"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "セクスッ‼️やん"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le7vjn2rgs2d",
+            "label": [
+                0.4947431683540344,
+                0.008827339857816696,
+                0.006070909556001425,
+                0.4843175411224365,
+                0.0012750038877129555,
+                0.0012376561062410474,
+                0.0025292972568422556,
+                0.0009991221595555544
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "セクスッ‼️やん"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww\nwww\nwww\nwwwwwww"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "改行必要かな\n\nその改行本当に必要なのかな"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le7vlhtizs2d",
+            "label": [
+                0.10513811558485031,
+                0.0037448990624397993,
+                0.10472195595502853,
+                0.00874949898570776,
+                0.000990679138340056,
+                0.763562023639679,
+                0.008632856421172619,
+                0.004459944553673267
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "改行必要かな\n\nその改行本当に必要なのかな"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "救急車を呼ぶ必要がないくらい些細なケガで119番に電話かける人に呼びかけるやつじゃん"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "おや？"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le7vppisvs2d",
+            "label": [
+                0.0008556267712265253,
+                0.00026836025062948465,
+                0.001554663060232997,
+                0.9965236783027649,
+                0.00019854937272612005,
+                0.00030148247606121004,
+                0.00016382848843932152,
+                0.00013374414993450046
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "地球の希望だった人？"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "なぜそうなる？"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "かつて\n\nね"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le2t53u3zk24",
+            "label": [
+                0.93733149766922,
+                0.02396295964717865,
+                0.008873404935002327,
+                0.007290096953511238,
+                0.0009961948962882161,
+                0.01034593302756548,
+                0.008094370365142822,
+                0.0031056643929332495
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "かつて\n\nね"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "かっこいい"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "全てを過去にした男\n\n珍獣のぽてす\n\nいやそれ前やないかい笑\n\nパールの前やないかい笑"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le2thpnahc24",
+            "label": [
+                0.27132225036621094,
+                0.014036466367542744,
+                0.00944910291582346,
+                0.6830187439918518,
+                0.002270917408168316,
+                0.011135575361549854,
+                0.005250082351267338,
+                0.003516864962875843
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "全てを過去にした男\n\n珍獣のぽてす\n\nいやそれ前やないかい笑\n\nパールの前やないかい笑"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "全てを過去にした男\n\nマルカート恵比寿\n\nいやそれ前やないかい笑\n\n夜湾の前やないかい笑"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "無いですよそんな過去ね"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le2tokvc4s24",
+            "label": [
+                0.6017488241195679,
+                0.06736475229263306,
+                0.009810883551836014,
+                0.019673800095915794,
+                0.003518247278407216,
+                0.22496791183948517,
+                0.062362056225538254,
+                0.010553494095802307
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "無いですよそんな過去ね"
+                },
+                {
+                    "author": "did:plc:pjulkcr7hcnf3elmjbc7uvzo",
+                    "type": 2,
+                    "utter": "自分でも気付かないうちに封印した過去の記憶は、黒いサイコ・ロックとなってあらわれるよ"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "絶対宝島Z"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3le2trdcp5c24",
+            "label": [
+                0.5769988894462585,
+                0.006672298070043325,
+                0.40789279341697693,
+                0.002706382656469941,
+                0.0008539147675037384,
+                0.0013237502425909042,
+                0.0015691284788772464,
+                0.0019827906507998705
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "わんぷつければ成り立つんだから幅が広すぎるのよこれ 俺が言いだしましたが…………"
+                },
+                {
+                    "author": "did:plc:ztmiwapfbdw7geej7xdvkqtm",
+                    "type": 2,
+                    "utter": "それでは回答をどうぞ"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "たいすいぷ\nごしゅうしょうさまんぷ\nたいほんぷ"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3ldsfqbr63s23",
+            "label": [
+                0.9937270879745483,
+                0.0024147750809788704,
+                0.0015456939581781626,
+                0.0006782978889532387,
+                0.0001760748855303973,
+                0.0003247286658734083,
+                0.0007897558389231563,
+                0.00034353407681919634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "たいすいぷ\nごしゅうしょうさまんぷ\nたいほんぷ"
+                },
+                {
+                    "author": "did:plc:ztmiwapfbdw7geej7xdvkqtm",
+                    "type": 2,
+                    "utter": "破門です"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "本家なのに😭😭😭😭😭😭😭😭😭😭😭😭😭"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3ldshfkcyvc2m",
+            "label": [
+                0.021412460133433342,
+                0.2770237922668457,
+                0.002323848195374012,
+                0.5877369046211243,
+                0.0042348336428403854,
+                0.025733206421136856,
+                0.0801476463675499,
+                0.0013873360585421324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "本家なのに😭😭😭😭😭😭😭😭😭😭😭😭😭"
+                },
+                {
+                    "author": "did:plc:ztmiwapfbdw7geej7xdvkqtm",
+                    "type": 2,
+                    "utter": "全然見てなかったごめんなさい❗️❗️❗️❗️❗️😱😱😱😱"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "許さないぷよわんぷ\n\n⬇️"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3ldspjeroqs25",
+            "label": [
+                0.006820153910666704,
+                0.016713259741663933,
+                0.005607489962130785,
+                0.009364512749016285,
+                0.9322081208229065,
+                0.009480790235102177,
+                0.01711164228618145,
+                0.002694123424589634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 1,
+                    "utter": "許さないぷよわんぷ\n\n⬇️"
+                },
+                {
+                    "author": "did:plc:ztmiwapfbdw7geej7xdvkqtm",
+                    "type": 2,
+                    "utter": "問答無用わんぷ"
+                },
+                {
+                    "author": "did:plc:cwkogqhzaabj6hrnech7kx4l",
+                    "type": 3,
+                    "utter": "（ゆるさんぷよりクオリティ高いの出てきたな……どうしよかな……）"
+                }
+            ],
+            "uri": "at://did:plc:cwkogqhzaabj6hrnech7kx4l/app.bsky.feed.post/3ldsptw5gmk25",
+            "label": [
+                0.3051534593105316,
+                0.00516444630920887,
+                0.646257758140564,
+                0.0037493451964110136,
+                0.0003747858281712979,
+                0.03752001374959946,
+                0.0007199349929578602,
+                0.0010601941030472517
+            ]
+        }
+    ]
+}

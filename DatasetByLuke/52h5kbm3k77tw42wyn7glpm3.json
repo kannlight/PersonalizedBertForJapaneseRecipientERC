@@ -1,0 +1,429 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "なんかブルスカ見慣れたメンツ多いからちょうど1年前のTwitterに戻ってきた気分になる"
+                },
+                {
+                    "author": "did:plc:y6l2vbtahmlfoowko7ghj65w",
+                    "type": 2,
+                    "utter": "よかたね"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "みんな仲良くしてて笑顔になるのじゃ"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lbu3ovdmvc2q",
+            "label": [
+                0.9995869994163513,
+                5.330946805770509e-05,
+                0.00012879888527095318,
+                6.423999002436176e-05,
+                2.7845126169268042e-05,
+                4.2442308767931536e-05,
+                5.055004294263199e-05,
+                4.585642818710767e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "みんな仲良くしてて笑顔になるのじゃ"
+                },
+                {
+                    "author": "did:plc:y6l2vbtahmlfoowko7ghj65w",
+                    "type": 2,
+                    "utter": "お兄さんも人間と仲良くしてみたいよ"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "人間じゃない人と仲良いの…？"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lbu3rskxos2q",
+            "label": [
+                0.0006613725563511252,
+                0.00020459936058614403,
+                0.0008638235740363598,
+                0.9971644282341003,
+                0.0001523992686998099,
+                0.0005904361605644226,
+                0.00023708379012532532,
+                0.00012593022256623954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "人間じゃない人と仲良いの…？"
+                },
+                {
+                    "author": "did:plc:y6l2vbtahmlfoowko7ghj65w",
+                    "type": 2,
+                    "utter": "弁当とか豆とか犬とか…？\nうちゲームしてる相手大体これ"
+                },
+                {
+                    "author": "did:plc:y6l2vbtahmlfoowko7ghj65w",
+                    "type": 2,
+                    "utter": "待ってこれだけ見たらやばいやつみたいだめかも"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "まぁ…うん…頑張って…"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lbu46soiek2q",
+            "label": [
+                0.00046678248327225447,
+                0.001595874666236341,
+                0.9973713159561157,
+                0.00010656603990355507,
+                6.616741302423179e-05,
+                0.00018968088261317462,
+                0.00014240840391721576,
+                6.116597796790302e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "まぁ…うん…頑張って…"
+                },
+                {
+                    "author": "did:plc:y6l2vbtahmlfoowko7ghj65w",
+                    "type": 2,
+                    "utter": "なんか引かれてる？？気のせい？？？"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "き、きのせいだよ！！！\n僕は友達だからね…！！！！"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lbu4blco6k2q",
+            "label": [
+                0.00372548820450902,
+                0.8125730156898499,
+                0.0027103102765977383,
+                0.010227199643850327,
+                0.10444267839193344,
+                0.010155477561056614,
+                0.05444316193461418,
+                0.0017227295320481062
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "なんか布団が違うせいですぐ目が覚めちゃう"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "おはよ"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "おーはよ"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lep774s2vk2d",
+            "label": [
+                0.38121068477630615,
+                0.02249816060066223,
+                0.5801276564598083,
+                0.0019408451626077294,
+                0.0020520389080047607,
+                0.002181056421250105,
+                0.00823315978050232,
+                0.001756366342306137
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "おーはよ"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "旅に出よう"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "神戸来てくれたら一緒に旅に行けるよ"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lepgaakpzs2d",
+            "label": [
+                0.0010966738918796182,
+                0.00023851150763221085,
+                0.9982640147209167,
+                0.00011241746688028798,
+                6.766893056919798e-05,
+                8.505557343596593e-05,
+                7.06047285348177e-05,
+                6.517477595480159e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "神戸来てくれたら一緒に旅に行けるよ"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "今から新潟行こうスキーしよう"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "新潟とおw\nもっと近場絶対ある"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lepgfjzkck2d",
+            "label": [
+                0.0009872129885479808,
+                0.0002760474744718522,
+                0.9981430768966675,
+                0.00016094093734864146,
+                0.00012428428453858942,
+                8.69397699716501e-05,
+                0.00010036629828391597,
+                0.00012125263310736045
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "新潟とおw\nもっと近場絶対ある"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "がおさんスキーとかスノボとかできるの？"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "スキーもスノボーも1回しかやったことない！\nけど普通に滑るだけなら出来ると思うよ！って言おうと思ったけど最後にやったのが5,6年前とかだから無理かも"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lepl3dow4s2d",
+            "label": [
+                0.009133805520832539,
+                0.6882736086845398,
+                0.0019997218623757362,
+                0.005300893448293209,
+                0.00036277633626013994,
+                0.29306578636169434,
+                0.0014912873739376664,
+                0.0003721055400092155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "スキーもスノボーも1回しかやったことない！\nけど普通に滑るだけなら出来ると思うよ！って言おうと思ったけど最後にやったのが5,6年前とかだから無理かも"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "いつか行こうね\nがおさんが死ぬ前に"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "いきましょ〜！！！！\nお酒のせいで死ぬかもなぁ"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lepld2t4ms2d",
+            "label": [
+                0.005015420727431774,
+                0.003783182008191943,
+                0.7318183779716492,
+                0.002157733077183366,
+                0.0004946713452227414,
+                0.2555082440376282,
+                0.0006343656568787992,
+                0.0005879972595721483
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "あけお〜め"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "おめ"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "この時間のリプは確実に初日の出見る人の起きる時間だ！！！！"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lemtpgkojk2q",
+            "label": [
+                0.6704428791999817,
+                0.0023805489763617516,
+                0.17739035189151764,
+                0.13768011331558228,
+                0.002297778148204088,
+                0.0010206291917711496,
+                0.0015386940212920308,
+                0.007248984184116125
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "この時間のリプは確実に初日の出見る人の起きる時間だ！！！！"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "全然寝落ちしこの時間に起きた人類"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "なんでやねん\nせっかく起きたなら初日の出見に行こう\n外寒いから暖かくしていくんやで"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lemu2dalb22q",
+            "label": [
+                0.0035210049245506525,
+                0.09418154507875443,
+                0.008254114538431168,
+                0.009056245908141136,
+                0.8528848886489868,
+                0.0031783883459866047,
+                0.027459662407636642,
+                0.001464173779822886
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "なんでやねん\nせっかく起きたなら初日の出見に行こう\n外寒いから暖かくしていくんやで"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "お布団から出られないや"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "わかる！！！！\n現在僕もそれでもがき苦しんでる"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lemu7dzgys2q",
+            "label": [
+                0.2381514608860016,
+                0.6306448578834534,
+                0.060559988021850586,
+                0.0034962508361786604,
+                0.0018144167261198163,
+                0.049948763102293015,
+                0.009785247966647148,
+                0.0055990684777498245
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "わかる！！！！\n現在僕もそれでもがき苦しんでる"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "明日の日の出見るからそれで許して欲しい"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "僕はお布団から出ました\nさぁあなたも起きていきましょ"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lemum5uho22q",
+            "label": [
+                0.0020582913421094418,
+                0.0002749834966380149,
+                0.9971389770507812,
+                0.00012652672012336552,
+                8.948111644713208e-05,
+                0.00011380105570424348,
+                0.00010116762859979644,
+                9.670179133536294e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 1,
+                    "utter": "僕はお布団から出ました\nさぁあなたも起きていきましょ"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 2,
+                    "utter": "ﾔ!\n一人で行くの寂しくない？"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 3,
+                    "utter": "彼女と行くでも弟叩き起して行くでも出来るでしょ！！！\nせっかく実家戻ってるんだから家族を朝だよーーー！って言って全員叩き起して行くしかない"
+                }
+            ],
+            "uri": "at://did:plc:52h5kbm3k77tw42wyn7glpm3/app.bsky.feed.post/3lemuu5ew5k2q",
+            "label": [
+                0.000494929205160588,
+                0.0004158776137046516,
+                0.9981092214584351,
+                0.00028777180705219507,
+                0.0003054365224670619,
+                0.00016189232701435685,
+                0.00012218246411066502,
+                0.0001026746685965918
+            ]
+        }
+    ]
+}

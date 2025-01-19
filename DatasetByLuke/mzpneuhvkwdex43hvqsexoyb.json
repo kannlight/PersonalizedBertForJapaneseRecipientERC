@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "いくらハイエンド系だからと言ってビデオカードに10万は突っ込めねぇなぁとGeForce50系のお値段を見て思う。\nまぁ実際そんなのが必要な用途がヲイラの場合ないしなぁ。高性能を要求するゲームはやらないし。\nあえて今PC関連で欲しいと言えば、DeskMiniの新しいのはちょっと欲しいけど、今のDeskMiniをどうすんじゃいって問題もあるのではてさて気分である。\n仮想環境の土台にするにしても、AMD環境だと限界あるしなぁ…うーん…ディスク抜いた部分をごろっとそれなりの値段で引き取ってくれる人がいれば考えるけど、さて。\n"
+                },
+                {
+                    "author": "did:plc:uk3w4oxkluabayjf5hjjyoxv",
+                    "type": 2,
+                    "utter": "CPUとグラボの配分もあるけど、個人的には今のところ合わせて10万までかなあ… 今時のOSは動かしてるだけでグラボ結構使ってるし、4K×3+WQHDにウィンドウ並べまくってるとある程度はグラボに金かけた方がいいかなあと思うようになってきた\nゲームしたり強烈に負荷かけたりしなきゃ、ミドルローくらいで十分かなあと思ってる（3060の8GBでまあ満足してる）"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "ヲイラもそれなりに性能のいいビデオカードはあるに越した事はないのは分かってるけど、お金の問題はどうしてもねぇ。あと、マシンの置き場所が取れなくなってるから正直でかい筐体のマシンは欲しくないというのもあるし。妥協するならDeskMeetあたりかしらね。"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lf5ly5jvo22h",
+            "label": [
+                0.0034269827883690596,
+                0.004959676414728165,
+                0.989194393157959,
+                8.448190783383325e-05,
+                9.196023165713996e-05,
+                0.0016679400578141212,
+                0.00041611341293901205,
+                0.00015851571515668184
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "ヲイラもそれなりに性能のいいビデオカードはあるに越した事はないのは分かってるけど、お金の問題はどうしてもねぇ。あと、マシンの置き場所が取れなくなってるから正直でかい筐体のマシンは欲しくないというのもあるし。妥協するならDeskMeetあたりかしらね。"
+                },
+                {
+                    "author": "did:plc:uk3w4oxkluabayjf5hjjyoxv",
+                    "type": 2,
+                    "utter": "一世代前のミドルレンジが安くなったらそれを買うでいいんじゃねって気がする。今のミドルレンジって一昔前のハイエンドよりも巨大なので、箱はそれなりに選ぶのよね…\nあとは、何が必要かを割り切ることかなあ… うちは幸い、デスク周りの配置換えでフルタワーを押し込むスペースできたけど、前面アクセスが遮断されたので、怪しいUSB-A(10Gbps)のハブを背面から生やして何とかしてるｗ"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "まぁそういう対応しかできなさそうだしね。"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lf5relrcp22z",
+            "label": [
+                0.0018038033740594983,
+                0.9943283200263977,
+                0.0004603397683240473,
+                0.00016292066720779985,
+                6.842715083621442e-05,
+                0.0014247557846829295,
+                0.001690937438979745,
+                6.0474696510937065e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "まぁそういう対応しかできなさそうだしね。"
+                },
+                {
+                    "author": "did:plc:uj2abxfrkjmounar5ucpalfa",
+                    "type": 2,
+                    "utter": "40万円のビデオカードとか、もう車のパーツとかと同じぐらいの扱いって感じですね、\n”全て突っ込んでるからですよ”ってやつw"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "必要な人には必要なのはわかってはいますけど、ヲイラにはどんどん縁のない世界になっていくなぁという感じですねぇ。"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lf5ubnrytk2y",
+            "label": [
+                0.0018956585554406047,
+                0.9962319731712341,
+                0.000200692200451158,
+                0.00035034437314607203,
+                3.4705764846876264e-05,
+                0.000654578790999949,
+                0.00058954325504601,
+                4.25428370363079e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "明日は今年初外出かー。\n…例によってまた横浜だが。\nまぁ今はリアイベに参加できるのもこのくらいだしなぁ。相応に楽しんでこよう。"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 2,
+                    "utter": "親方に整理券渡せばよかった"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "何があったのｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lesf7tkghs2v",
+            "label": [
+                0.0009274558979086578,
+                0.0002647585642989725,
+                0.0008874423219822347,
+                0.9970310926437378,
+                0.00020894550834782422,
+                0.0003925254859495908,
+                0.0001756471610860899,
+                0.00011213043035240844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "何があったのｗ"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 2,
+                    "utter": "いや、親方に並んでもらえば時間短縮できたなとw"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "ああ、そりゃそうだｗ 全然考えてなかったねｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lesfivk2pk2p",
+            "label": [
+                0.018293792381882668,
+                0.000873569049872458,
+                0.0013896593591198325,
+                0.9779704213142395,
+                0.000228167133172974,
+                0.00042614268022589386,
+                0.00043451134115457535,
+                0.00038384782965295017
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "ああ、そりゃそうだｗ 全然考えてなかったねｗ"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 2,
+                    "utter": "探照灯はゲッツ"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "あざす！さすがに他は厳しかったかぁ。それでもそれがゲットできれば十分よ。"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lesjf7sltc2i",
+            "label": [
+                0.9995741248130798,
+                7.252691284520552e-05,
+                0.00014601167640648782,
+                5.9663387219188735e-05,
+                2.4765318812569603e-05,
+                3.539155295584351e-05,
+                4.409054963616654e-05,
+                4.341494422988035e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "あざす！さすがに他は厳しかったかぁ。それでもそれがゲットできれば十分よ。"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 2,
+                    "utter": "とりあえず忍者と市役所で集まるのでそっちに行きます。\n探照灯とBのマフラーかぼくかわうそね"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "お疲れ様ー。あれ？そっちも買えたのね。どちらかと言うとボクカワウソの方が希望だけどそこはお任せでっすー。"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lesjri6juk27",
+            "label": [
+                0.9826128482818604,
+                0.00046439425204880536,
+                0.014952380210161209,
+                0.0013159799855202436,
+                8.447353320661932e-05,
+                0.00013833254342898726,
+                0.00015382064157165587,
+                0.0002778821508400142
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "お疲れ様ー。あれ？そっちも買えたのね。どちらかと言うとボクカワウソの方が希望だけどそこはお任せでっすー。"
+                },
+                {
+                    "author": "did:plc:nvpprjkpgogjhizpr7hcdeav",
+                    "type": 2,
+                    "utter": "ぼくかわうそアピールするととあるかんむすが嫌な顔してくれるご褒美が"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "でもさっきボクカワウソ2つ持って歩いてたねｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3lesjwrbr2c27",
+            "label": [
+                0.6574760675430298,
+                0.0009169341647066176,
+                0.002950680907815695,
+                0.3359961211681366,
+                0.00037923926720395684,
+                0.0007445249939337373,
+                0.0007181924884207547,
+                0.0008182175806723535
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "「やばい。人の数がやばい」なのか「やばい人がやばいくらいたくさんいる」のかどっちなんだろう…(どっちもの可能性があるのがアレだか)"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "りょうほうであってるw"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "やっぱりそうかーｗｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3leg7noz66s24",
+            "label": [
+                0.9923845529556274,
+                0.0002497222740203142,
+                0.0009009489440359175,
+                0.005831813905388117,
+                9.584247163729742e-05,
+                0.00011051281762775034,
+                0.00018088311480823904,
+                0.0002456957590766251
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "やっぱりそうかーｗｗｗ"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "もう酔っ払いがかなりいるぞwww"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "発走まで2時間近くあるのにどうしようもねえなぁまったくｗｗｗ\n……ヒゲちゃんはどうなの？"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3leg7wybmys2e",
+            "label": [
+                0.003872691188007593,
+                0.9898765683174133,
+                0.0009866057662293315,
+                0.0015724980039522052,
+                0.00021810943144373596,
+                0.0016491459682583809,
+                0.0017380587523803115,
+                8.620658627478406e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "発走まで2時間近くあるのにどうしようもねえなぁまったくｗｗｗ\n……ヒゲちゃんはどうなの？"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "まだきょうは呑んでないw\nゴール前に来られたからもう移動しないw"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "んじゃ飲むのは終わってからかｗ 応援馬券以外の勝負馬券はもう買ったの？"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3legbcozeyh26",
+            "label": [
+                0.18473459780216217,
+                0.005171183031052351,
+                0.757540225982666,
+                0.041195303201675415,
+                0.0014796906616538763,
+                0.003344670170918107,
+                0.0024041044525802135,
+                0.004130179528146982
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "んじゃ飲むのは終わってからかｗ 応援馬券以外の勝負馬券はもう買ったの？"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "イモノソーダワリデの複勝がハズれますたwww"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "あんた相変わらず過ぎてｗｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3legcytzqs22p",
+            "label": [
+                0.875089704990387,
+                0.0012149190297350287,
+                0.0007285889587365091,
+                0.11944541335105896,
+                0.000300185609376058,
+                0.0009610497509129345,
+                0.001767531386576593,
+                0.0004926025867462158
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "メンツから考えるとドウデュースがいなくなるとは言え、基本的にスローの流れは変わらないと思うんで、普通に考えると「前の内」を中心に考えるのが無難かなぁと考えるとベラジオオペラあたりが中心かなって気はしてる。あとシャフリヤールが逃げ宣言してるって話があるからこれをどう見るかだねぇ。"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "おドウ撹乱のための逃げなんじゃないかなと思ってるので、おドウがいなかったら逃げないんじゃないかなあ。と。\nで、ダノンデザイルが逃げるんじゃね？とか思ってる。"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "ちなみに今なら有馬記念の入場券買えるんじゃないの？ｗ キャンセルいっぱい出てそうだからｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3ldpvcaax7t2m",
+            "label": [
+                0.0006407995824702084,
+                0.00019901712948922068,
+                0.9987847208976746,
+                0.00010233743523713201,
+                5.525446977117099e-05,
+                0.00010748329805210233,
+                5.731152123189531e-05,
+                5.316761235008016e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "ちなみに今なら有馬記念の入場券買えるんじゃないの？ｗ キャンセルいっぱい出てそうだからｗ"
+                },
+                {
+                    "author": "did:plc:etb25uc5z7jsee3cocghuson",
+                    "type": 2,
+                    "utter": "それがみんな考えてること同じみたいで、アクセス集中なのよwww"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "まぁそりゃそうだろうなぁｗ ヲイラですら思いつく話だもんなｗ"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3ldpwgcz2qd2y",
+            "label": [
+                0.9479199647903442,
+                0.0032943435944616795,
+                0.0097200283780694,
+                0.017504222691059113,
+                0.0017222805181518197,
+                0.007347275037318468,
+                0.007000145502388477,
+                0.00549177173525095
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 1,
+                    "utter": "まぁそりゃそうだろうなぁｗ ヲイラですら思いつく話だもんなｗ"
+                },
+                {
+                    "author": "did:plc:ahk345zpxveilsm3i2frto3g",
+                    "type": 2,
+                    "utter": "しかしこのあと18時にはホープフルと金杯の指定席一般抽選結果が出るのでさらに地獄…"
+                },
+                {
+                    "author": "did:plc:mzpneuhvkwdex43hvqsexoyb",
+                    "type": 3,
+                    "utter": "またCDNで蹴っ飛ばされるのかやってらんねぇなぁ…"
+                }
+            ],
+            "uri": "at://did:plc:mzpneuhvkwdex43hvqsexoyb/app.bsky.feed.post/3ldpwvrvtxu2x",
+            "label": [
+                0.0017679508309811354,
+                0.8410710692405701,
+                0.002254677703604102,
+                0.001084942021407187,
+                0.0211720559746027,
+                0.0031580105423927307,
+                0.1290198117494583,
+                0.0004715630493592471
+            ]
+        }
+    ]
+}

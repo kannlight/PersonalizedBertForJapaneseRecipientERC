@@ -1,0 +1,844 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "生姜あれからハマったんだw\nなんかいいレシピある？"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "うどんか、鍋か、炒め物に入れてる！\n合いそうって思ったものには、全て生姜を入れちゃいます🫚"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "確かに何でも入れちゃっていいのかもね\n生姜余りがちだから知見たすかる"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lbhgcdi7nc2j",
+            "label": [
+                0.092800572514534,
+                0.0014475806383416057,
+                0.9031733274459839,
+                0.0005743845249526203,
+                0.0002322897780686617,
+                0.0005760506028309464,
+                0.0003374658990651369,
+                0.0008584306924603879
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "確かに何でも入れちゃっていいのかもね\n生姜余りがちだから知見たすかる"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "昔は赤城も🫚あまりガチだったけど、今はすぐ無くなるのでしょっちゅう買い足してます🫚"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "英気養うために🧄🫚🍯大量に送らないと😇"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lbk6ipzjdk2j",
+            "label": [
+                0.000959770695772022,
+                0.00033301321673206985,
+                0.9982549548149109,
+                9.048875654116273e-05,
+                4.7966226702556014e-05,
+                0.00016841494652908295,
+                7.4317904363852e-05,
+                7.108167483238503e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "英気養うために🧄🫚🍯大量に送らないと😇"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "元気になりすぎちゃう🤪🤪🤪🤪"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "いっぱい元気でいてー！🥰\nそろそろうなぎが旬だからうなぎも食べよ💕(冬が旬"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lbkfvrrqrc2j",
+            "label": [
+                0.0021625240333378315,
+                0.0003568579559214413,
+                0.9970234036445618,
+                0.00012205793609609827,
+                7.500719220843166e-05,
+                9.841294377110898e-05,
+                7.925935642560944e-05,
+                8.238085138145834e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "いっぱい元気でいてー！🥰\nそろそろうなぎが旬だからうなぎも食べよ💕(冬が旬"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "うなぎあんま好きじゃないです🤣"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "あっ\nソースカツ丼的な理由？🤔"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lblln2qea22z",
+            "label": [
+                0.2514890730381012,
+                0.011458225548267365,
+                0.02183188870549202,
+                0.7018793821334839,
+                0.001231410657055676,
+                0.004546942189335823,
+                0.003991557750850916,
+                0.0035714705009013414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "とうとう新しく・・・！"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "サブモニなのに240Hzです🤪"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "いいやつじゃーん！\nメインの予備になるからいいと思うよw"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lcopgotvtc2y",
+            "label": [
+                0.9994854927062988,
+                4.431671914062463e-05,
+                0.00020240187586750835,
+                6.494881381513551e-05,
+                3.986034789704718e-05,
+                3.941400063922629e-05,
+                5.9420075558591634e-05,
+                6.41188962617889e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "いいやつじゃーん！\nメインの予備になるからいいと思うよw"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "そう思っていいのにした✌️✨"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "できる女"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lcpktoijpc2e",
+            "label": [
+                0.982155978679657,
+                0.0008991079521365464,
+                0.01023941021412611,
+                0.0029480194207280874,
+                0.00029790098778903484,
+                0.00037804991006851196,
+                0.0012097388971596956,
+                0.0018718763021752238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "できる女"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "😤😤😤😤😤"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "かわいい"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lcplxt2ba22e",
+            "label": [
+                0.9996134638786316,
+                4.241502392687835e-05,
+                0.00011507476301630959,
+                6.314747588476166e-05,
+                2.8770858989446424e-05,
+                4.613927012542263e-05,
+                4.956762495567091e-05,
+                4.143587648286484e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "かわいい"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "知ってる😤❤️"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "知っててえらくてかわいい"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lcpmh6pe7k2e",
+            "label": [
+                0.9996441602706909,
+                4.745839032693766e-05,
+                7.649428880540654e-05,
+                6.517449946841225e-05,
+                2.8266606022953056e-05,
+                4.216534580336884e-05,
+                5.068423706688918e-05,
+                4.559748413157649e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "新作だ！口に合ったようでなにより\nおでも来週あたりに飲んでみる予定～"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "めちゃくちゃ甘い物求めてる時に良過ぎる🍓"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "こないだの正解は新作だったんだねw"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lch2osfa7s2t",
+            "label": [
+                0.3972148597240448,
+                0.0013050248380750418,
+                0.0044118729420006275,
+                0.5940698385238647,
+                0.0006124528008513153,
+                0.0006052089738659561,
+                0.0007310389191843569,
+                0.001049775630235672
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "こないだの正解は新作だったんだねw"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "うんw\nでも寒かったもん🥹"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "ジョイフルはあったかい時に飲んだ方が美味しいしねw\nおではまだ冷たい飲み物でいけます🤪"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lchqmp3wt22t",
+            "label": [
+                0.6275498867034912,
+                0.0016216294607147574,
+                0.36741703748703003,
+                0.0004864382790401578,
+                0.0004034603771287948,
+                0.0009048251667991281,
+                0.0007298996206372976,
+                0.0008868733420968056
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "ジョイフルはあったかい時に飲んだ方が美味しいしねw\nおではまだ冷たい飲み物でいけます🤪"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "🦍は冬でも汗かいてそう(笑)"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "太ってても動く筋肉あるから通勤の時に早歩きして汗かくねw"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lcjszvco722t",
+            "label": [
+                0.9994131326675415,
+                4.117749631404877e-05,
+                0.0001541364472359419,
+                0.00019313213124405593,
+                3.3406904549337924e-05,
+                3.886805279762484e-05,
+                6.0988404584350064e-05,
+                6.51427180855535e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "太ってても動く筋肉あるから通勤の時に早歩きして汗かくねw"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "想像できました笑🦍💦"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "しないで🫣\nフゴフゴ言うとこまで行ってないからギリギリセーフ😇ギリギリね"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lckchaofuk2t",
+            "label": [
+                0.031399648636579514,
+                0.0081798005849123,
+                0.016768326982855797,
+                0.0016381951281800866,
+                0.0005434982012957335,
+                0.9388443231582642,
+                0.0016294694505631924,
+                0.0009967071237042546
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "待ってるよ"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "あと10年は待ってね❤️"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "いくらでも待つよ"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb7dtmdsvs25",
+            "label": [
+                0.001351744867861271,
+                0.0009133899002335966,
+                0.996557891368866,
+                7.565608393633738e-05,
+                0.0002859929227270186,
+                0.0003476118145044893,
+                0.0002772213192656636,
+                0.00019033692660741508
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "いくらでも待つよ"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "👴❤️👵"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "✨🪦💕"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb7mu4uv622q",
+            "label": [
+                0.9995455145835876,
+                5.803170643048361e-05,
+                0.00017204249161295593,
+                5.935595982009545e-05,
+                2.8826165362261236e-05,
+                3.687748539960012e-05,
+                5.674728163285181e-05,
+                4.263754453859292e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "✨🪦💕"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "🧟‍♂️❤️🧟‍♀️"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "死後も仲良くしてくれるってこと？🥰💕🫶"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb7shlhcms2q",
+            "label": [
+                0.9965662956237793,
+                0.0001851617416832596,
+                0.002831035293638706,
+                0.00010654077777871862,
+                4.546268246485852e-05,
+                8.198663999792188e-05,
+                7.412875129375607e-05,
+                0.00010929627751465887
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "死後も仲良くしてくれるってこと？🥰💕🫶"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "いっぱい噛みつきに行こうね🧟‍♀️"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "ファミリー増やすぞー！💪"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb7slnhgnk2q",
+            "label": [
+                0.0016794054536148906,
+                0.00023500125098507851,
+                0.9975988268852234,
+                0.00014780860510654747,
+                9.30016758502461e-05,
+                9.57695665420033e-05,
+                7.544229447375983e-05,
+                7.481907960027456e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "余裕できた時でいいのよ\nこれ以上無理したら大変よ😇"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "落ち着いたらまた朝活するー！！"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "朝の女また楽しみにしてるね！"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb6sugfnjs25",
+            "label": [
+                0.014841100201010704,
+                0.000482081959489733,
+                0.983851969242096,
+                0.0002252594131277874,
+                0.00013958360068500042,
+                0.00018755905330181122,
+                0.00013205429422669113,
+                0.00014041429676581174
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "朝の女また楽しみにしてるね！"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "朝の女復活の頃には、6時とかになってるかもよ(笑)"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "それは夜配信しなw"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb6ydgguyc25",
+            "label": [
+                0.002983889076858759,
+                0.00028872027178294957,
+                0.9960716962814331,
+                0.00021725062106270343,
+                0.00011147824989166111,
+                0.00011535771045600995,
+                0.00011933256610063836,
+                9.229189163306728e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "それは夜配信しなw"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "夜は眠たいです👶"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "生活リズム壊れかけてる？😇"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb76ermylc25",
+            "label": [
+                0.0012317297514528036,
+                0.89601069688797,
+                0.000484925985801965,
+                0.0030346254352480173,
+                0.0008016417268663645,
+                0.0956517904996872,
+                0.0025952074211090803,
+                0.00018934006220661104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "生活リズム壊れかけてる？😇"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "壊れてはない‥！\n毎日疲労がすごいだけ😇"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "そっかそっか\n\nじゃあ睡眠と食事は摂ってるだろうから栄養とりなー！\nビタミンとか亜鉛とかいろいろ！"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3lb7duy4h7s25",
+            "label": [
+                0.00047511179582215846,
+                0.00020639064314309508,
+                0.9988866448402405,
+                0.00013535314064938575,
+                7.310059299925342e-05,
+                8.452058682451025e-05,
+                6.641022628173232e-05,
+                7.246735185617581e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "あんしん🥴"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "出会い求めてないんで🥹"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "毎日王国民に出会ってるもんね"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labankuinq2b",
+            "label": [
+                0.9970473647117615,
+                0.00026264286134392023,
+                0.00034822177258320153,
+                0.001556045957840979,
+                7.748877396807075e-05,
+                0.0001659541594563052,
+                0.000148912105942145,
+                0.0003933388798031956
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "毎日王国民に出会ってるもんね"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "うんうん🥰\n最終的に王国民にもらってもらえばいいよね(笑)"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "餌を前にしたピラニアのようにバシャバシャ待ち構えてます🤤"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labegtr5te27",
+            "label": [
+                0.9921717643737793,
+                0.00015443540178239346,
+                0.006060976069420576,
+                0.0008130877395160496,
+                0.00011642818571999669,
+                0.0002638378064148128,
+                0.00015333620831370354,
+                0.00026618162519298494
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "餌を前にしたピラニアのようにバシャバシャ待ち構えてます🤤"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "バンカズの池やんけ🐟"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "🦈かも？🥴"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labh7jwh3e27",
+            "label": [
+                0.005587352905422449,
+                0.0004529082798399031,
+                0.9932247996330261,
+                0.00020959718676749617,
+                5.168634015717544e-05,
+                0.00029021117370575666,
+                8.769149280851707e-05,
+                9.570350084686652e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "🦈かも？🥴"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "🐖💦💨　　🌊🦈🌊"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "🌊🦈✨🌊　🐷❓❓"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labllubvyj2w",
+            "label": [
+                0.9994656443595886,
+                6.322333501884714e-05,
+                0.00021976993593852967,
+                5.692643389920704e-05,
+                3.660168295027688e-05,
+                3.8602200220339e-05,
+                6.705609848722816e-05,
+                5.2248196880100295e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "アレルギー？"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "わかんないいいいい🤧"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "風邪か‥？\n原因特定の意味でも体温計で測っておくんだよー！"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3laaqdrgc3u2p",
+            "label": [
+                0.0084756501019001,
+                0.07831884920597076,
+                0.4967895746231079,
+                0.09268591552972794,
+                0.12429456412792206,
+                0.17314855754375458,
+                0.016050688922405243,
+                0.010236155241727829
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "風邪か‥？\n原因特定の意味でも体温計で測っておくんだよー！"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "風邪かも🤧\nそう言えば最近使ってないなぁー！！"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "怪しい時に飲んでおくと本格化する前に治ったりするわよ！"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labamgp2js2n",
+            "label": [
+                0.001410002587363124,
+                0.0002981849538628012,
+                0.9976170659065247,
+                0.00014762929640710354,
+                6.765932630514726e-05,
+                0.0002818047651089728,
+                6.882056914037094e-05,
+                0.00010873311111936346
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "怪しい時に飲んでおくと本格化する前に治ったりするわよ！"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "葛根湯キメておくわ！！！"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "ぶちきめててえらい！！👏\n大事な時だもんね"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labehrggpx2v",
+            "label": [
+                0.9610297679901123,
+                0.0005205414490774274,
+                0.011128058657050133,
+                0.021233249455690384,
+                0.0011619852157309651,
+                0.00035332603147253394,
+                0.0006569901597686112,
+                0.003915972542017698
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 1,
+                    "utter": "ぶちきめててえらい！！👏\n大事な時だもんね"
+                },
+                {
+                    "author": "did:plc:hwxzdntrheeiiwqzsi4jsviv",
+                    "type": 2,
+                    "utter": "今1番大事な時期！\nなにかは言えないけど🥹🥹🥹"
+                },
+                {
+                    "author": "did:plc:aalyzwjaknww5dlylr6pmi6u",
+                    "type": 3,
+                    "utter": "例の言えないやつそんなにデカいやつなんだ！\n気になりすぎる🥴🥴🥴"
+                }
+            ],
+            "uri": "at://did:plc:aalyzwjaknww5dlylr6pmi6u/app.bsky.feed.post/3labgzxya6a2b",
+            "label": [
+                0.028732405975461006,
+                0.0007569611188955605,
+                0.3170730471611023,
+                0.6499947905540466,
+                0.0007055747555568814,
+                0.0011521228589117527,
+                0.0005407141870819032,
+                0.001044452772475779
+            ]
+        }
+    ]
+}

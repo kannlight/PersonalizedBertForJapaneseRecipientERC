@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "名古屋は普通に行けますって。ノールックで車線変更してくるおばさんがいるくらいで"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "真面目に言うと、運転始めた頃に付き合ってた元カノが岐阜の人で運転教えてもらったの元カノだから名古屋以外と運転できる。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "よし名古屋は運転出来る。"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfwt2xa7fc2g",
+            "label": [
+                0.9987778067588806,
+                9.13272742764093e-05,
+                0.0007956790504977107,
+                6.900729931658134e-05,
+                3.8931317249080166e-05,
+                6.95408380124718e-05,
+                7.709378405706957e-05,
+                8.066040027188137e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "よし名古屋は運転出来る。"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "車線多過ぎるのがこわいぐらいか。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "浜松と比べたらすべてマシである"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfwvmdvh6c2j",
+            "label": [
+                0.8086625933647156,
+                0.029265835881233215,
+                0.08717281371355057,
+                0.005143212154507637,
+                0.0031778106931596994,
+                0.012016825377941132,
+                0.03386223316192627,
+                0.020698625594377518
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "浜松と比べたらすべてマシである"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "同じぐらいやばい尾張小牧ナンバーの友達の運転マジキチガイだからこわい。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "練馬/多摩ナンバーはウィンカー入れると入れてくれる。\n尾張小牧は車間を更に詰めてくる。浜松もだ。"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfwvwt76qc2j",
+            "label": [
+                0.005726988893002272,
+                0.0008033595513552427,
+                0.0005174448597244918,
+                0.9896161556243896,
+                0.00032251831726171076,
+                0.000653883907943964,
+                0.0020143098663538694,
+                0.0003452650271356106
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "練馬/多摩ナンバーはウィンカー入れると入れてくれる。\n尾張小牧は車間を更に詰めてくる。浜松もだ。"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "多摩ナンバーワイニッコリ。\n尾張小牧は車間距離が10センチ。\n怖すぎる。"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "ワイも多摩ナンバー。運転が楽すぎる。"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfwwc6r2w224",
+            "label": [
+                0.9996346235275269,
+                3.98295815102756e-05,
+                7.148256554501131e-05,
+                7.697514956817031e-05,
+                3.0638082535006106e-05,
+                4.36264272138942e-05,
+                5.48519310541451e-05,
+                4.80130547657609e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "築60年くらいの平屋ならこういうのあったなぁ\n本来はトイレは別小屋みたいな"
+                },
+                {
+                    "author": "did:plc:u75yjiiujo56o5hivrwy4ole",
+                    "type": 2,
+                    "utter": "何が恐ろしいってこれ2025年新築なんすよ\n賃貸とはいえ"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "住民のことを考えない設計を吊るせ！"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfcqjw6at22d",
+            "label": [
+                0.0020709207747131586,
+                0.006799035239964724,
+                0.012095470912754536,
+                0.006035275757312775,
+                0.9519152045249939,
+                0.005868865177035332,
+                0.013273561373353004,
+                0.001941557857207954
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "住民のことを考えない設計を吊るせ！"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "検索する時に間取りを考慮しない検索エンジンを吊るせ！！"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "これAIが考えた間取りなの？！"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfcqzaunf22p",
+            "label": [
+                0.0005722591886296868,
+                0.00022730381169822067,
+                0.0008554909145459533,
+                0.997546374797821,
+                0.00020816083997488022,
+                0.0002726360980886966,
+                0.0001818038581404835,
+                0.0001359369489364326
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "これAIが考えた間取りなの？！"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "いや、不動産投資の人からするとスーモで検索時に3ldkで検索引っかかるように無理やり間取り作った方が客付けが楽という"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "いらねー\nむしろ欲しいのは1LDKですよ"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfcrcg6xos2p",
+            "label": [
+                0.14025886356830597,
+                0.03338612616062164,
+                0.12075913697481155,
+                0.007947116158902645,
+                0.014932682737708092,
+                0.008687006309628487,
+                0.6673001646995544,
+                0.0067289466969668865
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 1,
+                    "utter": "いらねー\nむしろ欲しいのは1LDKですよ"
+                },
+                {
+                    "author": "did:plc:ccv3mjmw5ff2udiwdccjiiv6",
+                    "type": 2,
+                    "utter": "それはそう。\nなんか、話に聞くとファミリー向けが足りて無いって話なんだけど、どうなんだろ？"
+                },
+                {
+                    "author": "did:plc:7bbkatcl3o4si5agfimyms3x",
+                    "type": 3,
+                    "utter": "かいてる途中で何度も消えるんだけど！\nまず玄関の部屋は住めないな。\n2LDK以上は高く出るから困るー。\n西東京市くらいで1LDKないかなって考えてます。"
+                }
+            ],
+            "uri": "at://did:plc:7bbkatcl3o4si5agfimyms3x/app.bsky.feed.post/3lfcspxrbfk2p",
+            "label": [
+                0.0013523820089176297,
+                0.6533976793289185,
+                0.3366589844226837,
+                0.0008949907496571541,
+                0.0008440869860351086,
+                0.0034317129757255316,
+                0.0031445848289877176,
+                0.00027562136529013515
+            ]
+        }
+    ]
+}

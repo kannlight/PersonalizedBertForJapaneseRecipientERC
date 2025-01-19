@@ -1,0 +1,504 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "ゼノビアさんの幕間突然追加されたからPU来たかと思った……(来てなかった)"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "え？！マジで！\nワンチャンピックアップあるかな？"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "マジマジ。スキル強化もあるぞ！\nピックアップ今は来てないけどそのうち来そう……というかもしかしたらクリスマスイベで出てきたりするのかな🤔"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3lbw7l4osxk2m",
+            "label": [
+                0.02400350198149681,
+                0.0004204221477266401,
+                0.9743589758872986,
+                0.000567640527151525,
+                0.00016195197531487793,
+                0.00018578211893327534,
+                0.00013124605175107718,
+                0.00017054913041647524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "マジマジ。スキル強化もあるぞ！\nピックアップ今は来てないけどそのうち来そう……というかもしかしたらクリスマスイベで出てきたりするのかな🤔"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "スキル強化も…！？\nクリスマスイベで？！ということはサンタゼノビア！！！"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "なんかガッツのところが強化されるっぽいよ〜\nちょっと可能性ありそうだな〜って……🤔\n次のイベント参加条件確か2部6章クリアだったはずだから、サンタモルガンの可能性も……？？"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3lbw7pnyvp22m",
+            "label": [
+                0.0008282503695227206,
+                0.0002130529610440135,
+                0.9985631108283997,
+                0.00011676766735035926,
+                5.4829670261824504e-05,
+                0.00011614250252023339,
+                5.4412841564044356e-05,
+                5.3472729632630944e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "なんかガッツのところが強化されるっぽいよ〜\nちょっと可能性ありそうだな〜って……🤔\n次のイベント参加条件確か2部6章クリアだったはずだから、サンタモルガンの可能性も……？？"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "なんかガッツ発動したら味方にNP配るよって感じみたいだね🤔\nちょっと使いにくい気が😇\n\nやべぇ…サンタモルガンにしろ、サンタゼノビアにしろ欲しいぃ…\n石ねぇよぉぉ😭"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "あー、なるほど……周回で使える感じじゃないのか……高難易度とかで使う感じの🤔\n\nサンタは毎年星4配布だから安心して……！(それはそれとして新規星5のPUはあったりするけど)"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3lbwaizuw2c2m",
+            "label": [
+                0.7678011059761047,
+                0.009150879457592964,
+                0.20607313513755798,
+                0.0028196340426802635,
+                0.0009719948284327984,
+                0.0060235001146793365,
+                0.002624842803925276,
+                0.004534852225333452
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "あー、なるほど……周回で使える感じじゃないのか……高難易度とかで使う感じの🤔\n\nサンタは毎年星4配布だから安心して……！(それはそれとして新規星5のPUはあったりするけど)"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "多分高難易度だね😇\n\n星4なら配布なんですか！？\nゼノビアさん星5でてほしい気持ちもあるけど、確定でもらえるなら星4でも…\nうーん…推しとしては迷いまする…"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "配布で確実に欲しい気持ちとつよつよ高レアで来て欲しい気持ちあるよねわかる〜😇"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3lbwbp2ryck2j",
+            "label": [
+                0.12159706652164459,
+                0.0013647183077409863,
+                0.8753609657287598,
+                0.0003330497711431235,
+                0.00023981400590855628,
+                0.0004024602530989796,
+                0.0003314673085696995,
+                0.0003705277922563255
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "配布で確実に欲しい気持ちとつよつよ高レアで来て欲しい気持ちあるよねわかる〜😇"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "そうなんだよ…\n確実で星4最強クラスになってもいいんですよ？！w"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "配布の良いところはイベントさえちゃんとやってれば確定で宝具5に出来るところ！！最強クラスにいくらでもできちゃう！\nそしてダメなところはコイン大抵足りなくて完全体にできないところ……😇"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3lbwbz2hssc2j",
+            "label": [
+                0.9973581433296204,
+                0.0001619281101739034,
+                0.0020557979587465525,
+                7.72914063418284e-05,
+                6.984301580814645e-05,
+                8.31271245260723e-05,
+                7.424335490213707e-05,
+                0.00011966698366450146
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "20億っぽい！\n99億とかじゃないのかという気持ちww"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "20億！！！！！\nすげぇQPだwwさすがになかなか尽きなそうだね！(フラグ)\n確かになんで99億やないんやろねww\n基本どんなゲームでも99(桁)がMAXやのにね🤔"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "これでしばらくは持つかなぁ……😇\n不思議よね！50億とかでもなく20億なの🤔"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3le4tykcem22y",
+            "label": [
+                0.002060885773971677,
+                0.0015760994283482432,
+                0.002775490051135421,
+                0.9916999936103821,
+                0.0001180411854875274,
+                0.001388008939102292,
+                0.00021514114632736892,
+                0.00016638966917525977
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "これでしばらくは持つかなぁ……😇\n不思議よね！50億とかでもなく20億なの🤔"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "流石に持ってほしいよねww\nんねー！\nにしても20億ってすごいな🤔陛下あの時20億くれたら良かったのに…"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "陛下とイドモンから10億QPずつ貰おう……ww\n多分あの二人だったらくれるでしょww"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3le4xcxoc622d",
+            "label": [
+                0.0006948308437131345,
+                0.00020208701607771218,
+                0.9987265467643738,
+                0.00011149368219776079,
+                6.183009827509522e-05,
+                8.793052256805822e-05,
+                6.043081884854473e-05,
+                5.479243191075511e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "陛下とイドモンから10億QPずつ貰おう……ww\n多分あの二人だったらくれるでしょww"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "たしかにくれそうwwwww\nいいぞ共犯者！！とか言ってくれそうだもんwww"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "軽い気持ちで「共犯者！お年玉ちょーだい！」とか言おうものなら！ぽんと10億くらい手渡ししてきて「これで足りるか？」とか言ってくる多分ww"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3le4zwbrtt227",
+            "label": [
+                0.001149405143223703,
+                0.00044788967352360487,
+                0.0002457816735841334,
+                0.9959537982940674,
+                0.00019032495038118213,
+                0.0015147434314712882,
+                0.0003952759725507349,
+                0.00010266263416269794
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "軽い気持ちで「共犯者！お年玉ちょーだい！」とか言おうものなら！ぽんと10億くらい手渡ししてきて「これで足りるか？」とか言ってくる多分ww"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "wwwww\nもっと！！ってねばってみるかwww"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "「強欲だな。だが良い、それでこそ共犯者よ！」的なこと言って追加してくるし額デカすぎるしでさすがに怖くなってきそうww"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3le54cnczhk27",
+            "label": [
+                0.011457168497145176,
+                0.0018796654185280204,
+                0.0021499416325241327,
+                0.6952663660049438,
+                0.0010264053707942367,
+                0.2854363024234772,
+                0.0021275400649756193,
+                0.0006565974908880889
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "今日のハイライト:居酒屋の入口で上着脱ぐみたいにして岩を脱ぐイシュワルダ"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "イシュワルダさん「はァ〜〜〜外めっちゃ寒かったわぁ(岩ﾎﾞﾛﾎﾞﾛ)」\n\nアルバさん「ちゃんと……片付けてくれよ……？」"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "イシュワルダさん、めちゃくちゃ落ち着きのある僧侶みたいな口調か京都訛りの関西弁かどっちかのイメージあるな……\n岩ボロッボロ落とすのは絶対関西弁の方だと思う(？)"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "「死ねどす」って言ってるイシュワルダさん想像してじわじわきてる\n絶対言わない"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "イシュワルダ「死ねどす(入滅蓮華功珠砲)」"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "死ねどすwwwwwwww"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "絶対言わないだろと思いつつも……ww"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldppdak4ks2g",
+            "label": [
+                0.7721141576766968,
+                0.011653322726488113,
+                0.031127605587244034,
+                0.016654418781399727,
+                0.0013938099145889282,
+                0.15716241300106049,
+                0.00594211183488369,
+                0.003952125087380409
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "絶対言わないだろと思いつつも……ww"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "でも目ガン開きで「死ねどすえ」って言いながら、ビーム撃ち始めたら怖いwww"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "怖すぎるwwwww即死しそうwwwwww"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldq2ecnchs2d",
+            "label": [
+                0.010009672492742538,
+                0.002563422080129385,
+                0.0033664533402770758,
+                0.7083814740180969,
+                0.0010692348005250096,
+                0.27256864309310913,
+                0.0012453431263566017,
+                0.0007957451744005084
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "怖すぎるwwwww即死しそうwwwwww"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "www\nアレじゃん　　fgoで言う即死周回されるwww"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "？？「顕光殿、お目覚めを！」"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldq67oeaf22p",
+            "label": [
+                0.9975571632385254,
+                9.995549771701917e-05,
+                0.0012036996195092797,
+                0.0006939597078599036,
+                9.08092042664066e-05,
+                4.827593875234015e-05,
+                0.0001285368634853512,
+                0.0001774756092345342
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "アペ2かアペ5だったらどっちでもいい気がする🤔\n自分はとりあえず2と5開けて、2の方だけ10にしたよ〜(NP50礼装持たせてるとスキル1使えば宝具撃てるなーと思って……)"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "あーなるほどね？！\nそういうのもありなのか🤔\nまぁ120にはするつもりないし、アペ両方ってのは手だなって思った！！\nアドバイスありがとう！！！"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "2つ開けるのにコインが240枚必要になるからちょっと重いけど……120とかにする気が無いなら全然使っちゃってもいいと思う！👍"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldlatrvosk2h",
+            "label": [
+                0.627913236618042,
+                0.0006217170157469809,
+                0.3661689758300781,
+                0.0008204345358535647,
+                0.001169308670796454,
+                0.0007683821022510529,
+                0.00100281264167279,
+                0.0015352070331573486
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "2つ開けるのにコインが240枚必要になるからちょっと重いけど……120とかにする気が無いなら全然使っちゃってもいいと思う！👍"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "20コイン足らなかったわww\n絆11にだけしようかなぁ…それか宝具2か…\n11にするのに夢火使うのって勿体無いかな…？"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "ありゃま〜……\nんー……どうだろう……何だかんだで夢火貰えることあるけど……🤔\nそこまでしてキャストリアのアペンド開けたいかどうかって感じかな〜"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldlbh3dzfs2h",
+            "label": [
+                0.815243661403656,
+                0.03308681771159172,
+                0.04154695197939873,
+                0.0027509029023349285,
+                0.0005996743566356599,
+                0.08603465557098389,
+                0.017556454986333847,
+                0.0031808712519705296
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "ありゃま〜……\nんー……どうだろう……何だかんだで夢火貰えることあるけど……🤔\nそこまでしてキャストリアのアペンド開けたいかどうかって感じかな〜"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "あーなるほどね🤔\nとりあえず今はアペンド切り替えもあるし、一旦魔力装填開けろって感じであけて強化済ませてきたww\nなお1億ぐらいQP飛びました😇"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "ああ、そうだね！いざって時は切り替えれるようになったの有難いよねぇ……\nQPめっちゃ飛ぶのわかるwww\nっていうか放免の小鐘めっちゃ食われるの焦らない？？😇"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldlcksgsvc2h",
+            "label": [
+                0.999521017074585,
+                5.29996286786627e-05,
+                0.00012013596278848127,
+                0.0001313501998083666,
+                2.4273629605886526e-05,
+                4.974796320311725e-05,
+                4.004621951025911e-05,
+                6.049694638932124e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 1,
+                    "utter": "ああ、そうだね！いざって時は切り替えれるようになったの有難いよねぇ……\nQPめっちゃ飛ぶのわかるwww\nっていうか放免の小鐘めっちゃ食われるの焦らない？？😇"
+                },
+                {
+                    "author": "did:plc:v53bxaksbjmtb3pbdqutpo4r",
+                    "type": 2,
+                    "utter": "放免の小鐘さん、めちゃくちゃ食われたねww\n54だかなんだか逝かれて、「ゲッ！」ってなったww"
+                },
+                {
+                    "author": "did:plc:zyb3d5vm6eywh3bmqkwuchcd",
+                    "type": 3,
+                    "utter": "自分もそうなったわwww\nアペ5も10にしようと思ってたけど鐘持っていかれすぎて今回は諦めた……😇"
+                }
+            ],
+            "uri": "at://did:plc:zyb3d5vm6eywh3bmqkwuchcd/app.bsky.feed.post/3ldmbeur3vc2i",
+            "label": [
+                0.006830255966633558,
+                0.98817378282547,
+                0.0004391866095829755,
+                0.0023353227879852057,
+                8.371481817448512e-05,
+                0.0017443066462874413,
+                0.00029935946804471314,
+                9.41243561101146e-05
+            ]
+        }
+    ]
+}

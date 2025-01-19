@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "いつでしたっけ...！？来月なのは確か🤔"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "12/2🥲すぐです…！"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "うわ...！割と早かった...\n祈っておきますね、すぐ来てくれる事をっ🎂🏹"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lbrpxejpqk2j",
+            "label": [
+                0.04465850815176964,
+                0.002864136127755046,
+                0.9489634037017822,
+                0.0025323359295725822,
+                0.00016726691683288664,
+                0.00020146997121628374,
+                0.0002295091253472492,
+                0.0003832765796687454
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "皆で遊ぶ姿を見たら違う発作が出ちゃわないですか...？大丈夫...？？\nですよね！外ってやっぱり違いますよね☺️\n次は昼間、人がいない時に道路で撮りたいなと。\nお洒落な場所ではなく道路"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "発作出る……私が死したら、どうか赤ちゃんふろちゃんをよろしくお願いします…🙏\nお昼の外のふたごちゃん✨今からとっても楽しみです☺️お洒落な場所に行くとおすまししてビシッとしてそうですね。"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "💩帽が3人分必要になっちゃうので発作に抗って生きてください🥹\nお洒落な場所で写真は夢のまた夢ですね...まずは道路から...\n(しつこい🛣️)"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lbrvfuk33k2e",
+            "label": [
+                0.001069993362762034,
+                0.9912828207015991,
+                0.0022467230446636677,
+                0.00018074625404551625,
+                0.00011011127207893878,
+                0.004242353606969118,
+                0.0007977841887623072,
+                6.948506779735908e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "「野生のプリンセス」凄く良いです。いい言葉😊"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "野生なので強いです💪☺️"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "喧嘩の強さもNo.2でしたよね...！？るくぬちゃんのキャラ、ほんと魅力的..."
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lfp62apgt22d",
+            "label": [
+                0.9996057152748108,
+                4.460964191821404e-05,
+                0.00012067621719324961,
+                6.592859426746145e-05,
+                3.1472798582399264e-05,
+                3.569611726561561e-05,
+                3.947840741602704e-05,
+                5.6466134992660955e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "喧嘩の強さもNo.2でしたよね...！？るくぬちゃんのキャラ、ほんと魅力的..."
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "あずぬが来たことによって、ちょっと分からなくなりましたね🤔ちなみに赤ちゃんふろちゃんは戦闘力が2です👶"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "あずぬちゃんは未知数ですね。絶対強いのは間違いない...🐙\n赤ちゃんふろちゃんの2で吹き出しましたが、うちのふたごも同じようなものかもしれません😂"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lfp72fn7t22j",
+            "label": [
+                0.11287369579076767,
+                0.0029597999528050423,
+                0.8723487257957458,
+                0.0054591353982687,
+                0.00027224249788559973,
+                0.004561008885502815,
+                0.0004188481252640486,
+                0.001106462674215436
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "あずぬちゃんは未知数ですね。絶対強いのは間違いない...🐙\n赤ちゃんふろちゃんの2で吹き出しましたが、うちのふたごも同じようなものかもしれません😂"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "ふたごちゃんと赤ちゃんふろちゃんは、きっとピックを持ったら戦闘力が1上がりますね✨蝶のように舞い蜂のように刺します🐝"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "さんにん合わせても戦闘力10いかなさそうですが、泣きながら華麗に頑張りそう...チクチクっと🫣"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lfpaxtm5ac2k",
+            "label": [
+                0.0028561356011778116,
+                0.0013416516594588757,
+                0.9950698614120483,
+                0.00011717967572622001,
+                4.994704795535654e-05,
+                0.0003807441098615527,
+                9.236759797204286e-05,
+                9.205998503603041e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "さんにん合わせても戦闘力10いかなさそうですが、泣きながら華麗に頑張りそう...チクチクっと🫣"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "ぜんぜん効いてないあずぬが手をぶんっ💪と振っただけで、さんにんは「うわー！」と倒れてしまいそう😣"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "そして喜んじゃってまた向かって行きそう☺️\nあずぬちゃん...ほんと計り知れませんね...😂"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lfpbl43qgs2q",
+            "label": [
+                0.9994543194770813,
+                0.00010090784780913964,
+                0.00022207869915291667,
+                5.470689939102158e-05,
+                2.5242365154554136e-05,
+                4.5621698518516496e-05,
+                3.805802407441661e-05,
+                5.9069057897431776e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "そして喜んじゃってまた向かって行きそう☺️\nあずぬちゃん...ほんと計り知れませんね...😂"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "アトラクションになってる🐙結果的にうんざりしたあずぬが降参するのかもな🤔"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "はいはい負けましたよ、終わりですって🐙\nそして3ぬいにおやつを出してくれますね。間違いない...！"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3lfpcde64n22j",
+            "label": [
+                0.6089913845062256,
+                0.06930486857891083,
+                0.3009837865829468,
+                0.003972936887294054,
+                0.0013758111745119095,
+                0.007192142307758331,
+                0.0044470555149018764,
+                0.003732020501047373
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "すぐ食べようとする🙂😮"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "スマホ見るたび、ジェちゃんの肉まんほっぺをうっとり見てます🥟"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "スマホ舐めちゃだめですからね...🙅🏻👅"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3leg2bu47gk25",
+            "label": [
+                0.0008163992897607386,
+                0.002911562332883477,
+                0.0005726768868044019,
+                0.002086728811264038,
+                0.001373368431814015,
+                0.9910624027252197,
+                0.000770489452406764,
+                0.00040639209328219295
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "スマホ舐めちゃだめですからね...🙅🏻👅"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "本物を齧りにいきます🏃（おフロちゃんが泣いちゃいそう…）"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "赤ちゃんふろちゃんも齧られ、ジェも齧られ...🤦🏻\nおフロちゃんはいざとなったら頑張るタイプっなので🐙ピックで風さんに立ち向かうかも...！"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3leg34n2dak2c",
+            "label": [
+                0.0022718284744769335,
+                0.7365899682044983,
+                0.2513275146484375,
+                0.0013143037213012576,
+                0.0004878966719843447,
+                0.007167920935899019,
+                0.0005061409901827574,
+                0.00033440705738030374
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "赤ちゃんふろちゃんも齧られ、ジェも齧られ...🤦🏻\nおフロちゃんはいざとなったら頑張るタイプっなので🐙ピックで風さんに立ち向かうかも...！"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "闘う勇ましいおフロちゃんを、欠けた頭で観戦するジェちゃんと赤ちゃんふろちゃん🌔🌔"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "見てるだけのふたり😂\n欠けて力が出ないですもんね"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3leg6zrie6226",
+            "label": [
+                0.3435027599334717,
+                0.621863603591919,
+                0.014271918684244156,
+                0.0012507055653259158,
+                0.00031006091739982367,
+                0.015195866115391254,
+                0.002235123887658119,
+                0.0013700394192710519
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 1,
+                    "utter": "見てるだけのふたり😂\n欠けて力が出ないですもんね"
+                },
+                {
+                    "author": "did:plc:azk762vs4tqisvjwtsluyim4",
+                    "type": 2,
+                    "utter": "元気はいつもよりないけど、Fマークの旗を振ってます🚩"
+                },
+                {
+                    "author": "did:plc:pqnpsyx7xoomqfuaa6oiavds",
+                    "type": 3,
+                    "utter": "お互いの頭を見て「ちょっとなくなってるねぇ😂」って爆笑してそう🚩\n2人はダメだ！頑張れおフロちゃん！！"
+                }
+            ],
+            "uri": "at://did:plc:pqnpsyx7xoomqfuaa6oiavds/app.bsky.feed.post/3leg7gagaxc2x",
+            "label": [
+                0.003157150698825717,
+                0.0003888547944370657,
+                0.9958343505859375,
+                0.00025157115305773914,
+                7.73256688262336e-05,
+                0.00013064267113804817,
+                7.263256702572107e-05,
+                8.749771222937852e-05
+            ]
+        }
+    ]
+}

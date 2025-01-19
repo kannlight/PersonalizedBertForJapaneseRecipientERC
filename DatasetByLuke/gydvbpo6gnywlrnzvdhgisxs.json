@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "です！ティックだけ見てパチンコ出来るのは20代までw"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "もしかして20代の時、ティックだけでいけてたんですか…？"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "20代の時は株で爆散w"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa5r5yqsk26",
+            "label": [
+                0.011042498983442783,
+                0.9764190316200256,
+                0.0004878215549979359,
+                0.006152253597974777,
+                0.00010467745596542954,
+                0.005193744786083698,
+                0.0004457480972632766,
+                0.00015428276674356312
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "20代の時は株で爆散w"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "闘争さんって株やってたんですか！？\n為替のイメージしかありませんでした。"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "最初株で爆損→海外FX（為替・メタル）でトントン→一昨年ぐらいから国内FX一本（ドル円のみ）にしましたｗ"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa624ok6i22",
+            "label": [
+                0.9982611536979675,
+                0.00011527020978974178,
+                0.000997308176010847,
+                0.00017945408762898296,
+                3.762232881854288e-05,
+                0.000169728635228239,
+                8.501428965246305e-05,
+                0.00015445055032614619
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "ばかさん\n\nティックはスピード重視でなくてパターン重視が良いです、老眼中年はスピードではついていけませんｗ"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "なんか営業されている気がしてグヌヌっとなっているうちに名指しｗｗ\nなるほど、確かにパターンがキレイです…"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "そこで逆指ししとくと精神安定しますｗｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa34pfsri22",
+            "label": [
+                0.999464213848114,
+                4.193476706859656e-05,
+                0.00024393535568378866,
+                5.1838112995028496e-05,
+                3.0456072636297904e-05,
+                5.634594344883226e-05,
+                5.1763272495009005e-05,
+                5.941733252257109e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "そこで逆指ししとくと精神安定しますｗｗｗ"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "こんなんおもしろそうなの見せられたら、監視し続けるしかないじゃないですか！！📈"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "チャートでティックトックしましょｗ"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa3ep5zz523",
+            "label": [
+                0.004160190001130104,
+                0.0002992553054355085,
+                0.9949577450752258,
+                0.0001704723108559847,
+                8.785336831351742e-05,
+                0.00013879961625207216,
+                9.90559856290929e-05,
+                8.66660411702469e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "チャートでティックトックしましょｗ"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "チャートでティックトックｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "騙されたと思って一日見続けてみてください　流れというか動きが見えてきます\n騙されてもいいんですよ！！信心してればｗｗプラセボｗｗ"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa3n37gqu2b",
+            "label": [
+                0.000738940027076751,
+                0.00019822348258458078,
+                0.9985780715942383,
+                0.00012791180051863194,
+                7.361071766354144e-05,
+                0.00012022048031212762,
+                7.35010762582533e-05,
+                8.950426854426041e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "騙されたと思って一日見続けてみてください　流れというか動きが見えてきます\n騙されてもいいんですよ！！信心してればｗｗプラセボｗｗ"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "ティックの沼に片足突っ込んだ感ありますｗｗ"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "100枚で、ティックチャート見ててここや‼️で1pip取って、それ10回成功したら10万円\nﾜｲ50枚なので日当5万目標です‼️ｺﾂｺﾂ\nでも、ガチでティックチャートには三尊系が多発します、後はトレンドを見極めるだけ！"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa3ya3wtc26",
+            "label": [
+                0.0005193252000026405,
+                0.0001780311285983771,
+                0.9988947510719299,
+                0.0001218944089487195,
+                7.266039028763771e-05,
+                8.919371612137184e-05,
+                6.09550770604983e-05,
+                6.324153946479782e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "100枚で、ティックチャート見ててここや‼️で1pip取って、それ10回成功したら10万円\nﾜｲ50枚なので日当5万目標です‼️ｺﾂｺﾂ\nでも、ガチでティックチャートには三尊系が多発します、後はトレンドを見極めるだけ！"
+                },
+                {
+                    "author": "did:plc:rdnwmlekitxx5ofdrk5vo3qw",
+                    "type": 2,
+                    "utter": "実はパターン見るが苦手でローソク足に逃げた過去なので、そろそろパターンも見ないとだよなぁ…と思っている時に的確なこの勧誘…闘争さん営業上手すぎませんか…？\n\n集中して三尊を探す旅に出ます！！"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "スモール起業しては潰す凶腕ですｗｗｗｗｗ口八丁の半生～ｗｗｗ\n\nご武運を👏"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa4dcctnj2b",
+            "label": [
+                0.12133823335170746,
+                0.03946106135845184,
+                0.389133483171463,
+                0.18407060205936432,
+                0.0022952582221478224,
+                0.24881094694137573,
+                0.0075054410845041275,
+                0.007384916301816702
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 1,
+                    "utter": "100枚で、ティックチャート見ててここや‼️で1pip取って、それ10回成功したら10万円\nﾜｲ50枚なので日当5万目標です‼️ｺﾂｺﾂ\nでも、ガチでティックチャートには三尊系が多発します、後はトレンドを見極めるだけ！"
+                },
+                {
+                    "author": "did:plc:4jeh3qtvqycczhd4djzbqare",
+                    "type": 2,
+                    "utter": "本当にいいこと書いてくださってるのにXだと見分けが付かない\n誰が言ったかだけじゃなく何処で言ったかも重要なのか！"
+                },
+                {
+                    "author": "did:plc:gydvbpo6gnywlrnzvdhgisxs",
+                    "type": 3,
+                    "utter": "X凍結されて鍵垢復帰厨だから(´；ω；｀)爆"
+                }
+            ],
+            "uri": "at://did:plc:gydvbpo6gnywlrnzvdhgisxs/app.bsky.feed.post/3lfa47giuip2q",
+            "label": [
+                0.0011233011027798057,
+                0.9958252906799316,
+                0.00022163178073242307,
+                0.00037648624856956303,
+                8.525984594598413e-05,
+                0.0018855470698326826,
+                0.00044257735135033727,
+                3.9907321479404345e-05
+            ]
+        }
+    ]
+}

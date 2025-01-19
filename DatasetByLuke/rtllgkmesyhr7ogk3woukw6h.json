@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "ペンもったままモニター前でよだれたらして寝落ちしてた。"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 2,
+                    "utter": "くそうける\nでぶじゃん"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "おい！！デブにデブ言われくねぇよ！！！デブ！！！！"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lbhlbcbvf224",
+            "label": [
+                0.003096999367699027,
+                0.013801852241158485,
+                0.0024299242068082094,
+                0.00940184947103262,
+                0.9504691958427429,
+                0.0035919707734137774,
+                0.015915343537926674,
+                0.0012928757350891829
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "おい！！デブにデブ言われくねぇよ！！！デブ！！！！"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 2,
+                    "utter": "痩せてるわボケェ\n噛みついてやるからな"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "今何キロ"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lbhlurepes24",
+            "label": [
+                0.8295513391494751,
+                0.004369840491563082,
+                0.13894930481910706,
+                0.005550991743803024,
+                0.0014346379321068525,
+                0.015657253563404083,
+                0.0014485502615571022,
+                0.0030381048563867807
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "今何キロ"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 2,
+                    "utter": "68！！！"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "嘘は駄目だよ！！イカクのXL着れます詐欺も駄目！認めろ！デブ！"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lbhmh624as24",
+            "label": [
+                0.001953532686457038,
+                0.022833772003650665,
+                0.0042998711578547955,
+                0.007337595801800489,
+                0.8292508721351624,
+                0.01203953381627798,
+                0.1200789287686348,
+                0.0022058705799281597
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "嘘は駄目だよ！！イカクのXL着れます詐欺も駄目！認めろ！デブ！"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 2,
+                    "utter": "イカクは流石に着れるわ！w\n96ちゃん今何キロ"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "108"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lbhnuq3xz223",
+            "label": [
+                0.9838373064994812,
+                0.003619314171373844,
+                0.0048377905040979385,
+                0.0015267424751073122,
+                0.00043705524876713753,
+                0.0010117805795744061,
+                0.003951603081077337,
+                0.0007783954497426748
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "108"
+                },
+                {
+                    "author": "did:plc:xud5aegv2jlzldhl26wxnnr4",
+                    "type": 2,
+                    "utter": "くそでぶじゃんw"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "体重同じやろ❤"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lbhtgq4ydk2e",
+            "label": [
+                0.999355137348175,
+                7.375855057034642e-05,
+                0.00020316115114837885,
+                0.00018330519378650934,
+                2.5071760319406167e-05,
+                3.628537888289429e-05,
+                6.398336699930951e-05,
+                5.9436522860778496e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "褌はじめ"
+                },
+                {
+                    "author": "did:plc:ccsgixk5visw2brroxrbjwn2",
+                    "type": 2,
+                    "utter": "よきかな"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "いれみさんも一緒に締めましょ？？"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lffluauojs26",
+            "label": [
+                0.06556686013936996,
+                0.0012958229053765535,
+                0.931721031665802,
+                0.0003826337633654475,
+                0.00021642117644660175,
+                0.00027788447914645076,
+                0.0002854578197002411,
+                0.00025380574516020715
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "いれみさんも一緒に締めましょ？？"
+                },
+                {
+                    "author": "did:plc:ccsgixk5visw2brroxrbjwn2",
+                    "type": 2,
+                    "utter": "持ってはいる！"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "いい子！！"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lffmjs35p226",
+            "label": [
+                0.9995342493057251,
+                6.555317668244243e-05,
+                0.00010601516260067001,
+                0.0001113789840019308,
+                3.174064477207139e-05,
+                3.6888610338792205e-05,
+                5.7297020248370245e-05,
+                5.694728315575048e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "いい子！！"
+                },
+                {
+                    "author": "did:plc:ccsgixk5visw2brroxrbjwn2",
+                    "type": 2,
+                    "utter": "せやで！！"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "褌締めさせるからパンツ脱いでー！"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lffo423wv226",
+            "label": [
+                0.03947342559695244,
+                0.03568769618868828,
+                0.10612156242132187,
+                0.6262182593345642,
+                0.13477085530757904,
+                0.009772765450179577,
+                0.04371694102883339,
+                0.004238548222929239
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "褌締めさせるからパンツ脱いでー！"
+                },
+                {
+                    "author": "did:plc:ccsgixk5visw2brroxrbjwn2",
+                    "type": 2,
+                    "utter": "ふふふ、残念1人で締められるのだ！！"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "チッ！"
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lffq5lrx4c26",
+            "label": [
+                0.08518784493207932,
+                0.22809427976608276,
+                0.03137771412730217,
+                0.4645756781101227,
+                0.09775484353303909,
+                0.014894440770149231,
+                0.0716758444905281,
+                0.006439287681132555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 1,
+                    "utter": "チッ！"
+                },
+                {
+                    "author": "did:plc:ccsgixk5visw2brroxrbjwn2",
+                    "type": 2,
+                    "utter": "悪い子だ！！"
+                },
+                {
+                    "author": "did:plc:rtllgkmesyhr7ogk3woukw6h",
+                    "type": 3,
+                    "utter": "えへー！("
+                }
+            ],
+            "uri": "at://did:plc:rtllgkmesyhr7ogk3woukw6h/app.bsky.feed.post/3lffs3wvo522g",
+            "label": [
+                0.9992460012435913,
+                0.00019626626453828067,
+                0.00016139820218086243,
+                0.00014559976989403367,
+                2.33866048802156e-05,
+                6.357744132401422e-05,
+                0.00011857231584144756,
+                4.527817145572044e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "すごい お疲れ様"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "なんかすごい時間かかるなって3日かけて終わったやつ 最後だったみたい"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "最後の大仕事"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3lbqn2lhgys22",
+            "label": [
+                0.15257428586483002,
+                0.021113011986017227,
+                0.7717996835708618,
+                0.0009821613784879446,
+                0.0008941303240135312,
+                0.047660697251558304,
+                0.002314734272658825,
+                0.0026612412184476852
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "最後の大仕事"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "まだボーナス作業とか終わってないから引き続きやるで"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "無料のコラボもあるやで！"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3lbqn74v6wc22",
+            "label": [
+                0.9925647974014282,
+                0.0001427988026989624,
+                0.0064684320241212845,
+                0.0004188337188679725,
+                8.880389214027673e-05,
+                8.762819925323129e-05,
+                9.337880328530446e-05,
+                0.00013518164632841945
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "無料のコラボもあるやで！"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "そういやそうだ スポンジボブとかな"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "ボブ有料じゃない？でも気になってる\nFFとか！"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3lbqndo4mp222",
+            "label": [
+                0.0009020703728310764,
+                0.00017725791258271784,
+                0.9985270500183105,
+                0.00013178469089325517,
+                4.753882240038365e-05,
+                0.00010662463319022208,
+                5.3644766012439504e-05,
+                5.393043102230877e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "ボブ有料じゃない？でも気になってる\nFFとか！"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "ほんまや 有料や"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "でもボブ気になるから終わったりセール来たら買うと思う"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3lbqnnyiqcs22",
+            "label": [
+                0.001203879015520215,
+                0.00019612416508607566,
+                0.9981712102890015,
+                0.00011382655065972358,
+                7.147165160859004e-05,
+                0.00010524334356887266,
+                6.552898412337527e-05,
+                7.27157894289121e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "( ・∀・)ｲｲ!!"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "現パロエリチャの職業を考える会したい"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "全然想像つかない… 教授くらいしか…"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3laarspxjxj2g",
+            "label": [
+                0.029943007975816727,
+                0.8393473029136658,
+                0.006331959273666143,
+                0.001938631059601903,
+                0.0001999833039008081,
+                0.12010794878005981,
+                0.0017156664980575442,
+                0.0004155436181463301
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "全然想像つかない… 教授くらいしか…"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "まぁチャールズは教職が安パイよな"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "だよねぇ エリック難しい"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3laasdt4d6v2y",
+            "label": [
+                0.07565078139305115,
+                0.022128017619252205,
+                0.0029467714484781027,
+                0.010599221102893353,
+                0.0006185637321323156,
+                0.8851969838142395,
+                0.0016236273804679513,
+                0.0012360543478280306
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "だよねぇ エリック難しい"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "アポカリプスは製鉄所で働いてたからブルーカラーなイメージ強い"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "制服だけでいうと警察とかは見たい(ただの好み)"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3laasirck2a2v",
+            "label": [
+                0.000908339861780405,
+                0.00019027058442588896,
+                0.9985153079032898,
+                0.00010319352441001683,
+                5.822526873089373e-05,
+                9.939254232449457e-05,
+                6.522544572362676e-05,
+                6.006150579196401e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "制服だけでいうと警察とかは見たい(ただの好み)"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "国家権力に逆らうキャラだからな…"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "そうよな〜 難しい"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3laau3yitcp2l",
+            "label": [
+                0.017107291147112846,
+                0.0028383000753819942,
+                0.001537245698273182,
+                0.001900523784570396,
+                0.00038060566294007003,
+                0.9747469425201416,
+                0.0008602410671301186,
+                0.0006289313896559179
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "まだ終わってない…！？怖い？"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "メールの返信が1日ずつって感じ 進みが遅い"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "なるほど 1日ずつ"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3l5do7fhc7e2r",
+            "label": [
+                0.523920476436615,
+                0.004536075983196497,
+                0.4441761374473572,
+                0.020846925675868988,
+                0.0006755386129952967,
+                0.0012386663584038615,
+                0.0016335739055648446,
+                0.002972619142383337
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "なるほど 1日ずつ"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "ていうかうちが昨日返信忘れてたから1日遅れて進行してる…"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "最前手前 怖そうだから人がいる時にやりてぃだな"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3l5dog3xu7s2t",
+            "label": [
+                0.000561422377359122,
+                0.00023839999630581588,
+                0.9982989430427551,
+                0.00015811937919352204,
+                5.554028393817134e-05,
+                0.0005614705150946975,
+                6.094150012359023e-05,
+                6.519712769659236e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "最前手前 怖そうだから人がいる時にやりてぃだな"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "15日までだから早めにやると良いよ！"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "！？ 期間限定！？何日かかるの！？"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3l5dohltqq22t",
+            "label": [
+                0.0007427121745422482,
+                0.0003075230051763356,
+                0.0011510055046528578,
+                0.9970908164978027,
+                0.00020588898041751236,
+                0.00022894068388268352,
+                0.00014992991054896265,
+                0.0001231764181284234
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 1,
+                    "utter": "！？ 期間限定！？何日かかるの！？"
+                },
+                {
+                    "author": "did:plc:43ldvsrloritnzn7jorqhiua",
+                    "type": 2,
+                    "utter": "たぶん5日か6日はかかると思う… 始めちゃえば15日すぎてもできるらしいけど"
+                },
+                {
+                    "author": "did:plc:gqp2v6kgspew3dqreefngxbf",
+                    "type": 3,
+                    "utter": "なるほど 情報ありがとう！全然知らなかった💦💦"
+                }
+            ],
+            "uri": "at://did:plc:gqp2v6kgspew3dqreefngxbf/app.bsky.feed.post/3l5dol63gyt2n",
+            "label": [
+                0.04416123032569885,
+                0.0009638274204917252,
+                0.0029175044037401676,
+                0.9503070116043091,
+                0.0004501576768234372,
+                0.00027021890855394304,
+                0.0004114252224098891,
+                0.0005185791524127126
+            ]
+        }
+    ]
+}

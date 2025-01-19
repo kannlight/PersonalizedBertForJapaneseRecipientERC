@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "おはようございます。\n\nなんか今日は一段と冷え込むね"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "おはよおはよ！\n週末にかけて今年一番の冷え込みになるってよー！\nあったかくしてこ！"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "1枚増やしたー！"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf4ap2n4dk2e",
+            "label": [
+                0.9994373917579651,
+                5.632949250866659e-05,
+                0.0002513677754905075,
+                9.344430873170495e-05,
+                3.32689996866975e-05,
+                3.191104769939557e-05,
+                5.091324055683799e-05,
+                4.538667781162076e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "1枚増やしたー！"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "いいぞー！毛皮も生やそう！"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "生やしたい！温かいだろうね"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf4bcktiys2e",
+            "label": [
+                0.0003424083406571299,
+                0.00020794633019249886,
+                0.999101996421814,
+                0.00010063129593618214,
+                5.329391933628358e-05,
+                8.32731748232618e-05,
+                5.970969868940301e-05,
+                5.088829493615776e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "生やしたい！温かいだろうね"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "マイナス気温でも大丈夫な毛皮…✨"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "髭だけ生える↓"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf4btff6k22e",
+            "label": [
+                0.09374129772186279,
+                0.015850555151700974,
+                0.007185341790318489,
+                0.8585944771766663,
+                0.0007725139148533344,
+                0.017491362988948822,
+                0.00470780860632658,
+                0.0016566752456128597
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "少しだけ地震が怖いかも"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "2005年以降は大きいの来てないから…ら…"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "落ちて怪我だけしませんように！"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf2vctjir22o",
+            "label": [
+                0.0008275669533759356,
+                0.0014641586458310485,
+                0.0058957054279744625,
+                0.001918379100970924,
+                0.000603674678131938,
+                0.9885839223861694,
+                0.0003884432080667466,
+                0.00031816400587558746
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "でしょうね怖"
+                },
+                {
+                    "author": "did:plc:tplezi56uidqb2chc4bfgwzv",
+                    "type": 2,
+                    "utter": "カリッカリに焦げてるのかもね。"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "美味しそうに表現すなｗ"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf2vajafes2o",
+            "label": [
+                0.9970857501029968,
+                7.495453610317782e-05,
+                0.0007351635140366852,
+                0.0017285366775467992,
+                5.616694761556573e-05,
+                8.850335143506527e-05,
+                9.94412403088063e-05,
+                0.00013137377391103655
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "美味しそうに表現すなｗ"
+                },
+                {
+                    "author": "did:plc:tplezi56uidqb2chc4bfgwzv",
+                    "type": 2,
+                    "utter": "いい感じに脂も落ちて。"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "海綿体が焼くとどうなるかだな"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf2vg6w2ic2o",
+            "label": [
+                0.011076092720031738,
+                0.0005394312902353704,
+                0.981234610080719,
+                0.0013701379066333175,
+                0.00013481196947395802,
+                0.0053130644373595715,
+                0.00011704348435159773,
+                0.00021477002883329988
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "海綿体が焼くとどうなるかだな"
+                },
+                {
+                    "author": "did:plc:tplezi56uidqb2chc4bfgwzv",
+                    "type": 2,
+                    "utter": "多分跡形も無いから性別わからないんだろうね。"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "怖いねー、やっぱり火事が一番嫌かなぁ"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf2vuqqegs2o",
+            "label": [
+                0.0005447861040011048,
+                0.0012044747127220035,
+                0.0007622357807122171,
+                0.0011428352445363998,
+                0.0007776576676405966,
+                0.9946739673614502,
+                0.0006434978567995131,
+                0.00025049824034795165
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "怖いねー、やっぱり火事が一番嫌かなぁ"
+                },
+                {
+                    "author": "did:plc:tplezi56uidqb2chc4bfgwzv",
+                    "type": 2,
+                    "utter": "やっぱりその後火葬もするのかな。"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "ちゃんと焼かないとだからするんやとおもうけど、、\n\nそういえば、白内障、手術しました？\nわしゃ眼内レンズが濁ったので近々再度処置します"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3lf2w5z22is2o",
+            "label": [
+                0.10582084208726883,
+                0.1455235779285431,
+                0.10773266851902008,
+                0.4860295057296753,
+                0.007695462554693222,
+                0.10134697705507278,
+                0.03420867770910263,
+                0.011642275378108025
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "あけおめあけおめ！"
+                },
+                {
+                    "author": "did:plc:zsdhduo2ahpdhfa73uynnbf2",
+                    "type": 2,
+                    "utter": "あけおめことよろ！よろ！"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "よろよろ。今年も色々やろうね"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3leyecvetwc2o",
+            "label": [
+                0.004606208298355341,
+                0.0002920172119047493,
+                0.9944772124290466,
+                0.00014697236474603415,
+                0.00011956052185269073,
+                0.0001257683616131544,
+                0.00013006248627789319,
+                0.00010224466677755117
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "何でワクワクしていたかも忘れそう\n\n田舎に帰る\nいとこに会える\nお年玉\n\nそんなとこ？"
+                },
+                {
+                    "author": "did:plc:2nskjdqskvoe5hmlzyxy2cnr",
+                    "type": 2,
+                    "utter": "子どもの頃は、餅つき機で餅を作る大人たち、お節の手伝い、大掃除の後の澄んだ空気、石油ストーブの匂いとか、非日常が楽しかったんだなと思いました。今はお節も作らないし石油ストーブもないし大掃除も早めに少しずつやるし...実家を離れてから年末年始の手仕事、みたいなのが減ったからかもしれないです"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "そういえば餅ついてた！"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3ldz7x5vle22u",
+            "label": [
+                0.014976738952100277,
+                0.0004802868643309921,
+                0.0029726484790444374,
+                0.9803587198257446,
+                0.0002519074478186667,
+                0.0003407020994927734,
+                0.00031367794144898653,
+                0.00030528107890859246
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "そういえば餅ついてた！"
+                },
+                {
+                    "author": "did:plc:2nskjdqskvoe5hmlzyxy2cnr",
+                    "type": 2,
+                    "utter": "祖母が毎年年末になると餅つき機の前に正座して水かけて餅を作ってたんですよね。暴れる餅見るのが好きだしつきたてのお餅美味しかったなあ"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "うちは昔は親戚集まって杵と臼で餅ついてた。後半は餅つき機だったなぁ"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3ldzijlfxvs2u",
+            "label": [
+                0.7744520902633667,
+                0.004265655297785997,
+                0.017876021564006805,
+                0.1919923573732376,
+                0.000536021776497364,
+                0.005208420101553202,
+                0.0019240129040554166,
+                0.003745444817468524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "うちは昔は親戚集まって杵と臼で餅ついてた。後半は餅つき機だったなぁ"
+                },
+                {
+                    "author": "did:plc:2nskjdqskvoe5hmlzyxy2cnr",
+                    "type": 2,
+                    "utter": "杵と臼！むかーーーし町内会でやってましたね。もう高齢化が進み誰も扱えなくなってしまいましたが...... 平成の最初の頃くらいまではやってたかも"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "出来たてを大根おろしで食べたなぁ"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3ldzjqmctv22u",
+            "label": [
+                0.9993509650230408,
+                8.602200978202745e-05,
+                0.0002681721234694123,
+                9.442373993806541e-05,
+                2.7418534955359064e-05,
+                5.102948489366099e-05,
+                5.6783599575283006e-05,
+                6.520075839944184e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 1,
+                    "utter": "出来たてを大根おろしで食べたなぁ"
+                },
+                {
+                    "author": "did:plc:2nskjdqskvoe5hmlzyxy2cnr",
+                    "type": 2,
+                    "utter": "大根おろし食べましたね。私はそこにさらに納豆をプラスしてました"
+                },
+                {
+                    "author": "did:plc:5e44ypvdatwje5jxjwgnde66",
+                    "type": 3,
+                    "utter": "餅つきやりたなった"
+                }
+            ],
+            "uri": "at://did:plc:5e44ypvdatwje5jxjwgnde66/app.bsky.feed.post/3ldztlbetmc2u",
+            "label": [
+                0.0004715865070465952,
+                0.00023765291552990675,
+                0.9989253878593445,
+                0.00011738515604520217,
+                5.10881764057558e-05,
+                8.314562728628516e-05,
+                6.506741920020431e-05,
+                4.872948557022028e-05
+            ]
+        }
+    ]
+}

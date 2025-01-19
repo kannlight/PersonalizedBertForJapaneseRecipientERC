@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "あたしたち体調不良仲間だね♥"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "マジでカス"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "一生鼻水生成されてしんどい"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lexgnhxat227",
+            "label": [
+                0.004372823983430862,
+                0.565940260887146,
+                0.0028140053618699312,
+                0.002445938065648079,
+                0.001992955105379224,
+                0.0034605725668370724,
+                0.4184800386428833,
+                0.000493417086545378
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "一生鼻水生成されてしんどい"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "俺は喉鼻熱筋肉痛でもうヤダ"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "満身創痍じゃん。病院いけたらいけよな"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lexgrhbevc27",
+            "label": [
+                0.0008616526029072702,
+                0.0210579801350832,
+                0.0005695893196389079,
+                0.003504893509671092,
+                0.0012636227766051888,
+                0.9705900549888611,
+                0.001901201088912785,
+                0.00025098404148593545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "満身創痍じゃん。病院いけたらいけよな"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "一応休日診療所が有るんだけどさ、電話繋がらないんだよ…"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "うちの近所の診療所昨日通ったときは大行列だったぜ"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lexgtxwdpk27",
+            "label": [
+                0.0004979691002517939,
+                0.0015230522258207202,
+                0.00024987454526126385,
+                0.9950419664382935,
+                0.0005901562399230897,
+                0.001521908794529736,
+                0.0004595952923409641,
+                0.00011555155651876703
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "うちの近所の診療所昨日通ったときは大行列だったぜ"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "青梅市休日夜間診療所で調べりゃ分かるけど行列以前の問題なんだよなぁ…"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "機能してないじゃん"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lexhappzkk27",
+            "label": [
+                0.002328852890059352,
+                0.9269653558731079,
+                0.00036314225872047246,
+                0.024950195103883743,
+                0.015156961977481842,
+                0.002971794456243515,
+                0.026960333809256554,
+                0.00030344261904247105
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "ちょっと見通しのいいコーナーでラインカットする下手くそなんなん？"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "イン差しに行っていいよってことだよ"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "昨日一瞬イン刺してあげたけど譲られんかったわ"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lccpbuosuc27",
+            "label": [
+                0.0004750046646222472,
+                0.9988228678703308,
+                0.00015602604253217578,
+                0.00017386203398928046,
+                5.11844627908431e-05,
+                0.00011527691094670445,
+                0.0001753764518070966,
+                3.0447967219515704e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "昨日一瞬イン刺してあげたけど譲られんかったわ"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "いつもそれで最高にイラつくんよな"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "まじで横浜川崎足立多摩相模湘南ナンバーカスばっか"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lccpnvswwk27",
+            "label": [
+                0.004233754239976406,
+                0.003375956555828452,
+                0.002024858258664608,
+                0.0013896090677008033,
+                0.010794781148433685,
+                0.002047803020104766,
+                0.9752132892608643,
+                0.0009199798223562539
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "まじで横浜川崎足立多摩相模湘南ナンバーカスばっか"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "品川も追加で"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "品川はまじでプライド高いやつしかおらん。この前珍しくクラクション鳴らしたぐらいにはカス"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lccpu6ipys27",
+            "label": [
+                0.003243796294555068,
+                0.0023925520945340395,
+                0.0031697992235422134,
+                0.0023984427098184824,
+                0.022745229303836823,
+                0.003435315564274788,
+                0.9614709615707397,
+                0.0011439007939770818
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 1,
+                    "utter": "品川はまじでプライド高いやつしかおらん。この前珍しくクラクション鳴らしたぐらいにはカス"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "アクセルがクラクション鳴らすって相当ヤベーやつじゃん"
+                },
+                {
+                    "author": "did:plc:2jmnldkb5nkiaaohb35fjanc",
+                    "type": 3,
+                    "utter": "角にセブンがある交差点のとこで周り見ないで出てきたアホにぶつかりかけたわ"
+                }
+            ],
+            "uri": "at://did:plc:2jmnldkb5nkiaaohb35fjanc/app.bsky.feed.post/3lccq3uqjd227",
+            "label": [
+                0.004178701899945736,
+                0.06258675456047058,
+                0.0013030404224991798,
+                0.04095034673810005,
+                0.23030881583690643,
+                0.18345175683498383,
+                0.47430557012557983,
+                0.002914966782554984
+            ]
+        }
+    ]
+}

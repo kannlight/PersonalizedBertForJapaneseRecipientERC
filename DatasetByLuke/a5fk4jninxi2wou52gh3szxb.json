@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "話してくれるじいちゃん、ばあちゃん、待ってる…"
+                },
+                {
+                    "author": "did:plc:ug3jacqyuv4dsdv4vu5s5yd4",
+                    "type": 2,
+                    "utter": "我の名前は魈。旅人とよく話しているな？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "僕はオロルン…。じいちゃんはよく話し相手になってくれるから、好き…"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3l7nlycnb462m",
+            "label": [
+                0.9996126294136047,
+                9.045813203556463e-05,
+                6.117482553236187e-05,
+                5.590444925474003e-05,
+                2.2262462152866647e-05,
+                4.642533167498186e-05,
+                6.416565156541765e-05,
+                4.7025696403579786e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "僕はオロルン…。じいちゃんはよく話し相手になってくれるから、好き…"
+                },
+                {
+                    "author": "did:plc:ug3jacqyuv4dsdv4vu5s5yd4",
+                    "type": 2,
+                    "utter": "旅人は優しいからな。我の事もじいちゃんなのか？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "んー、じいちゃん…かな？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3l7qrvj5ncx2k",
+            "label": [
+                0.7795205116271973,
+                0.004160849843174219,
+                0.17203332483768463,
+                0.02811579778790474,
+                0.0007669174228794873,
+                0.007063777185976505,
+                0.0028840333689004183,
+                0.005454774480313063
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "んー、じいちゃん…かな？"
+                },
+                {
+                    "author": "did:plc:ug3jacqyuv4dsdv4vu5s5yd4",
+                    "type": 2,
+                    "utter": "そうか...我は仙人なんだが？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "じいちゃん…じゃない？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lalbsepvoc2t",
+            "label": [
+                0.45851314067840576,
+                0.0512629859149456,
+                0.038785193115472794,
+                0.40474459528923035,
+                0.0036732086446136236,
+                0.018055614084005356,
+                0.016639793291687965,
+                0.008325490169227123
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "じいちゃん…じゃない？"
+                },
+                {
+                    "author": "did:plc:ug3jacqyuv4dsdv4vu5s5yd4",
+                    "type": 2,
+                    "utter": "まぁ歳的にはじいちゃんか…"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "うん、だね…"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lb5v4o4vvk2v",
+            "label": [
+                0.6120020747184753,
+                0.24273966252803802,
+                0.009188610129058361,
+                0.010127043351531029,
+                0.0017096583032980561,
+                0.07293801009654999,
+                0.04660235345363617,
+                0.004692563321441412
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "うん、だね…"
+                },
+                {
+                    "author": "did:plc:ug3jacqyuv4dsdv4vu5s5yd4",
+                    "type": 2,
+                    "utter": "じゃあ、じいちゃんで構わないか…なんとも言えない気持ちになるが…"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "じいちゃん…(ぽわぽわ"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lbxk7dh5l22y",
+            "label": [
+                0.9981086254119873,
+                0.0007916857721284032,
+                0.0002622825850266963,
+                0.0001961853849934414,
+                3.8482859963551164e-05,
+                0.0002448536397423595,
+                0.0002558261330705136,
+                0.00010219641262665391
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "話してくれるじいちゃん、ばあちゃん、待ってる…"
+                },
+                {
+                    "author": "did:plc:t4mvt5kxnrpluf5twfaspzbd",
+                    "type": 2,
+                    "utter": "ばあちゃんだよ〜"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "ばあちゃん…！(とてて"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3l7qrw7mibq2u",
+            "label": [
+                0.32059648633003235,
+                0.2517198324203491,
+                0.036676276475191116,
+                0.33128300309181213,
+                0.005258812103420496,
+                0.03248797357082367,
+                0.015845738351345062,
+                0.006131831556558609
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "ばあちゃん…！(とてて"
+                },
+                {
+                    "author": "did:plc:t4mvt5kxnrpluf5twfaspzbd",
+                    "type": 2,
+                    "utter": "可愛い...😭"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "僕は可愛くないよ？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3laeuefuyzi2t",
+            "label": [
+                0.000583934597671032,
+                0.9972724318504333,
+                0.00019290637283120304,
+                0.00017468557052779943,
+                6.703342660330236e-05,
+                0.00039979591383598745,
+                0.0012731706956401467,
+                3.601338903536089e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "僕は可愛くないよ？"
+                },
+                {
+                    "author": "did:plc:t4mvt5kxnrpluf5twfaspzbd",
+                    "type": 2,
+                    "utter": "可愛いんです！"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "そうかな？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lalbrw6i4k2t",
+            "label": [
+                0.5919585227966309,
+                0.010780945420265198,
+                0.24761076271533966,
+                0.10308099538087845,
+                0.0015371603658422828,
+                0.032659318298101425,
+                0.005291452165693045,
+                0.0070808506570756435
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "そうかな？"
+                },
+                {
+                    "author": "did:plc:t4mvt5kxnrpluf5twfaspzbd",
+                    "type": 2,
+                    "utter": "そりゃそうだべや！"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "だべや？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lb5uzzjpzc2v",
+            "label": [
+                0.5225686430931091,
+                0.22639113664627075,
+                0.051476337015628815,
+                0.02792024426162243,
+                0.02880146913230419,
+                0.03535794839262962,
+                0.0951673835515976,
+                0.012316816486418247
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "だべや？"
+                },
+                {
+                    "author": "did:plc:t4mvt5kxnrpluf5twfaspzbd",
+                    "type": 2,
+                    "utter": "あ？分かんない？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "方言？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lbxk7rlbds2y",
+            "label": [
+                0.03497752547264099,
+                0.0010001176269724965,
+                0.00587151013314724,
+                0.9532933831214905,
+                0.0002486084995325655,
+                0.00209455075673759,
+                0.0018164613284170628,
+                0.0006978590972721577
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "話してくれるじいちゃん、ばあちゃん、待ってる…"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "孫だ！おいでー"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "じいちゃん(とてて"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3l7nlz5ifcd22",
+            "label": [
+                0.9632512927055359,
+                0.017551740631461143,
+                0.0033173097763210535,
+                0.004588617943227291,
+                0.0007531514274887741,
+                0.00368112581782043,
+                0.004658074583858252,
+                0.002198631875216961
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "じいちゃん(とてて"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "あー、可愛いね！"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "可愛い…？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3l7qrv26q5v2u",
+            "label": [
+                0.9995748400688171,
+                4.280445500626229e-05,
+                0.00013982789823785424,
+                9.257929923478514e-05,
+                2.57188639807282e-05,
+                4.224622171022929e-05,
+                4.2530522478045896e-05,
+                3.9445578295271844e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "可愛い…？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "可愛いぞ？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "じいちゃんは綺麗だよ？"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3laeufvx74i2e",
+            "label": [
+                0.9969280362129211,
+                0.00031285762088373303,
+                0.0007366447243839502,
+                0.0007089278660714626,
+                9.8082069598604e-05,
+                0.00024326183483935893,
+                0.00033787928987294436,
+                0.0006342563428916037
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "じいちゃんは綺麗だよ？"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "え？綺麗かな？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "うん、綺麗…"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lalbsoqt7c2t",
+            "label": [
+                0.9996310472488403,
+                5.2378789405338466e-05,
+                8.519399125361815e-05,
+                7.389404345303774e-05,
+                2.3156306269811466e-05,
+                4.215856097289361e-05,
+                5.080770642962307e-05,
+                4.139430893701501e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 1,
+                    "utter": "うん、綺麗…"
+                },
+                {
+                    "author": "did:plc:g2tvvpo324nyyzxxevwg7f6t",
+                    "type": 2,
+                    "utter": "ありがとー。君はやっぱり可愛いな？"
+                },
+                {
+                    "author": "did:plc:a5fk4jninxi2wou52gh3szxb",
+                    "type": 3,
+                    "utter": "可愛い…？…うーん、えっと、ありがとう"
+                }
+            ],
+            "uri": "at://did:plc:a5fk4jninxi2wou52gh3szxb/app.bsky.feed.post/3lb5v43d52s2v",
+            "label": [
+                0.9994576573371887,
+                0.00010075230966322124,
+                7.030774577287957e-05,
+                0.0001449484989279881,
+                2.121137731592171e-05,
+                6.769236642867327e-05,
+                8.322079520439729e-05,
+                5.4179050493985415e-05
+            ]
+        }
+    ]
+}

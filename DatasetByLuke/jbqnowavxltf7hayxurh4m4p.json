@@ -1,0 +1,634 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "ふた…って言う人、どんな方だったかわからんかった。そもそも確認しようとも思ってなかったけどね"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "初日の中打ち上げで私に挨拶してきた赤シャツです！"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "そうなんですか〜？😲\n\nその方、バスツアーじゃなく次の日、和歌山❄🍑や白浜行ってるので、、中打ち上げにはいないかと。\n\nねこたん楽しんできてくださいね🥳"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lbgh33k2fs2h",
+            "label": [
+                0.05178813263773918,
+                0.0007515413453802466,
+                0.9461445212364197,
+                0.0005344474921002984,
+                0.00016137077182065696,
+                0.00023223235621117055,
+                0.00014208538050297648,
+                0.0002456645597703755
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "そうなんですか〜？😲\n\nその方、バスツアーじゃなく次の日、和歌山❄🍑や白浜行ってるので、、中打ち上げにはいないかと。\n\nねこたん楽しんできてくださいね🥳"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "中打ち上げ前に階段辺りで挨拶してきた人です！\n中打ち上げにはいないですね😅\n\nありがとうございます！\n楽しんできました！"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "そうなんですね！\n(全くスルーしてた笑)\n\nお疲れ様でしたー！！\n楽しまれたみたいで何よりです😌✨✨"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lbhdopkzu22g",
+            "label": [
+                0.9995100498199463,
+                4.7529611038044095e-05,
+                0.00015956808056216687,
+                0.00012424768647179008,
+                2.9202634323155507e-05,
+                3.5410859709372744e-05,
+                4.6641784138046205e-05,
+                4.7317633288912475e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "そうなんですね！\n(全くスルーしてた笑)\n\nお疲れ様でしたー！！\n楽しまれたみたいで何よりです😌✨✨"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "ふた…何かありましたか？笑\n\n痛みを抑えながら見てました！\n明後日は、もえしなので確実になくなります()"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "いえいえ巷で会話に出てくる方が、どんな人なんだろうと思いまして笑\n\n明後日もえし！！\nカラダの方も早期に完治しますように。。"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lbhej2mn2k24",
+            "label": [
+                0.0004341477470006794,
+                0.00031862559262663126,
+                0.9988493919372559,
+                9.61022888077423e-05,
+                4.126010026084259e-05,
+                0.00014439228107221425,
+                5.7187142374459654e-05,
+                5.888087616767734e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "いえいえ巷で会話に出てくる方が、どんな人なんだろうと思いまして笑\n\n明後日もえし！！\nカラダの方も早期に完治しますように。。"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "会話に出てくるのですか？笑\nあらま！陸さんのところにですか〜珍しいですね！\n\n明後日は私死ぬかもです🤣"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "TLにも良くお邪魔してくるので笑\n\nえーー😂\nそのくらいめっちゃ楽しみだということが伝わってくるので😌👌✨\n本命しっかり楽しんできてくださいね♪♪"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lbhmbzhc6227",
+            "label": [
+                0.10054869204759598,
+                0.0008118674159049988,
+                0.8967171907424927,
+                0.0005529721383936703,
+                0.0002766356337815523,
+                0.00037228409200906754,
+                0.00024109979858621955,
+                0.00047925356193445623
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "TLにも良くお邪魔してくるので笑\n\nえーー😂\nそのくらいめっちゃ楽しみだということが伝わってくるので😌👌✨\n本命しっかり楽しんできてくださいね♪♪"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "お邪魔して来られるのですね？\n良い意味として捉えていない自分が居ますww\n\nほ、本命！？\nいや、本命違いますww"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "笑笑\nそう解釈しましたか笑\n\nいやいやいやいや、\nわかってますって🥳😌👌\nそういうことにしときますね笑"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lbhmm2ltrk2e",
+            "label": [
+                0.9815723896026611,
+                0.0019776399713009596,
+                0.0030998827423900366,
+                0.006737259682267904,
+                0.0004888275871053338,
+                0.00222532800398767,
+                0.002778080990538001,
+                0.0011204418260604143
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "焼肉行きたい人〜？✋️🎸✨"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "もちろんです😌😌😌👌✨"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lethk7jprc2u",
+            "label": [
+                0.9987506866455078,
+                7.083073433022946e-05,
+                0.0007863030186854303,
+                6.062195825506933e-05,
+                7.339343574130908e-05,
+                6.520989700220525e-05,
+                9.324136772193015e-05,
+                9.983981726691127e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "もちろんです😌😌😌👌✨"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "馬場か新宿あたりですか？"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "ですです！！\nイベ会場から近場で考えてます！！福音サンの帰りの時間もあるそうなので、19:45〜20時までには入りたいかなと🐂🔥"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3levmzq5e522b",
+            "label": [
+                0.0012901779264211655,
+                0.00018780723621603101,
+                0.998094379901886,
+                0.00010715240932768211,
+                6.719439988955855e-05,
+                0.00011953795910812914,
+                6.319714157143608e-05,
+                7.056062895571813e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "ですです！！\nイベ会場から近場で考えてます！！福音サンの帰りの時間もあるそうなので、19:45〜20時までには入りたいかなと🐂🔥"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "福ちゃん⁉︎\nかしこまりました！"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "昼夜参加だそうです✨🎸\nで、福音サンの21時55分新宿発で帰るそうなので、、\n\nとりあえず帰りやすい場所とわかりやすい場所で検討します💪"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3levnaqnugk2b",
+            "label": [
+                0.052543915808200836,
+                0.0006270005833357573,
+                0.9455814957618713,
+                0.0003309423918835819,
+                0.00016809324733912945,
+                0.00031165333348326385,
+                0.0001946057309396565,
+                0.00024229656264651567
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "昼夜参加だそうです✨🎸\nで、福音サンの21時55分新宿発で帰るそうなので、、\n\nとりあえず帰りやすい場所とわかりやすい場所で検討します💪"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "マジですかい！\nかしこまりました🫡\n\n馬場、焼肉屋少ないですよね？\nやはり新宿ですかね🤔"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "新大久保(韓国焼肉)っていう手もありますが、新宿かまた代々木駅前で笑\n「肉たらし」っていう店が美味しいですが、「安安」でワイワイやるのもありかなと♪♪\n\nとりま馬場で探してみます！👌✨"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3levoegy5qc2x",
+            "label": [
+                0.0022285571321845055,
+                0.000230099365580827,
+                0.9970598816871643,
+                0.00013498390035238117,
+                8.08141558081843e-05,
+                0.00011487322626635432,
+                7.431194535456598e-05,
+                7.638185343239456e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "新大久保(韓国焼肉)っていう手もありますが、新宿かまた代々木駅前で笑\n「肉たらし」っていう店が美味しいですが、「安安」でワイワイやるのもありかなと♪♪\n\nとりま馬場で探してみます！👌✨"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "新大久保の存在を忘れてました笑\n良いですね!"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "あとは、焼肉ホルモン「閻魔」ってお店が、高田馬場だと評価も高いですし、人気店で肉の写真も良さげだったので、こちらもオススメですね。\n\n立地的にはマニト(食べ放題のみだと2500円という破格値w)"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3levtd5bzac23",
+            "label": [
+                0.0016732802614569664,
+                0.00018221023492515087,
+                0.9975970387458801,
+                0.00013827759539708495,
+                9.807183232624084e-05,
+                0.00012891655205748975,
+                8.065967995207757e-05,
+                0.00010157265205634758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "新大久保(韓国焼肉)っていう手もありますが、新宿かまた代々木駅前で笑\n「肉たらし」っていう店が美味しいですが、「安安」でワイワイやるのもありかなと♪♪\n\nとりま馬場で探してみます！👌✨"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "新大久保の存在を忘れてました笑\n良いですね!"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "BSホールの目の前に、韓国焼肉「マニト」高田馬場店のお店が、食べ飲み放題120分3500円(税込)で、肉も良さげで飲み放題なのでありかもです♪♪\n\nほんとにイベント会場の道路挟んで目の前ww"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3levswekyw223",
+            "label": [
+                0.9919499158859253,
+                0.0001385954237775877,
+                0.007156455423682928,
+                0.0003269470762461424,
+                8.892425103113055e-05,
+                9.635115566197783e-05,
+                9.066445636563003e-05,
+                0.000152083215652965
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "🎸推しFFさん推しヤメた訳ではなくて相方さんとの絡み(束縛)の兼ね合いで…やはり何かあるんでしょうね笑\n\n惹きつける魅力というものが😇"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "🎸入り直したみたいで、来年 LIVE復帰するようです。\n\n打ち上げで音楽の感想を話したいとのことでした😆"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "ライブ2DAYSお疲れ様でした！！西帰りお気をつけて😌✨\n\nそうだったんですね！！🎸\n来年3/16に期待しましょ笑☺️"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lddq67dixs2b",
+            "label": [
+                0.9822189807891846,
+                0.0002567962510511279,
+                0.016755586490035057,
+                0.00019102066289633512,
+                0.00013645552098751068,
+                0.00011246577196288854,
+                0.0001511618320364505,
+                0.0001774658157955855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "ライブ2DAYSお疲れ様でした！！西帰りお気をつけて😌✨\n\nそうだったんですね！！🎸\n来年3/16に期待しましょ笑☺️"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "ありがとうございます！\n2DAY続けてデタミ、アッセム回収できて良かったです😆\n\nはい🎸\n🎸の音楽について語り合いたいそうです！\n期待しましょう😀"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "☺️✨👌🎸"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lddqyvotek2v",
+            "label": [
+                0.9995156526565552,
+                5.652591789839789e-05,
+                0.00019788520876318216,
+                5.796940240543336e-05,
+                3.117498636129312e-05,
+                3.4747179597616196e-05,
+                5.8969675592379645e-05,
+                4.701920988736674e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "☺️✨👌🎸"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "アーティスト🎸を是非✨"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "🎤🎸👈✨\nアーティストメインなので😂"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lddro4ua4k22",
+            "label": [
+                0.9946708083152771,
+                0.00024335956550203264,
+                0.004283381626009941,
+                9.861041326075792e-05,
+                0.0001247094478458166,
+                0.00012087762297596782,
+                0.0002375519397901371,
+                0.00022059505863580853
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "🎤🎸👈✨\nアーティストメインなので😂"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "あの方も同じでした！"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "色々と人それぞれ推し方があって良きと思いますし😌👌✨✨"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lddsc4a3ws25",
+            "label": [
+                0.9901933073997498,
+                0.00017466543067712337,
+                0.008489051833748817,
+                0.00014096223458182067,
+                0.00022935352171771228,
+                0.00017155193199869245,
+                0.0002807192213367671,
+                0.00032031815499067307
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "色々と人それぞれ推し方があって良きと思いますし😌👌✨✨"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "偶にはそっち系の話をゆっくり聞きたいですね、私は😆"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "あら✨✨いつでもお待ちしてます🥳👌✨"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lddvx6akv22n",
+            "label": [
+                0.038028355687856674,
+                0.000889097573235631,
+                0.9597814679145813,
+                0.00020880767260678113,
+                0.00022851974063087255,
+                0.0003085015341639519,
+                0.0003120088658761233,
+                0.00024321391538251191
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "有識者様へ\n🎸心斎橋のライブ前後のホールのステージ写真、SNS等にアップしても良さげ？？"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "誰も上げてないですよね！"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "それなんですよねー笑😂"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lcs4xbcuas24",
+            "label": [
+                0.9993119239807129,
+                6.190787826199085e-05,
+                0.00020587036851793528,
+                0.0001675971143413335,
+                3.4790424251696095e-05,
+                6.477622082456946e-05,
+                8.412064198637381e-05,
+                6.901069718878716e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "それなんですよねー笑😂"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "ステージはスルーなんでしょうね、みなさん！"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "ご回答ありがとうございます✨\nネタ用にあたためておきますわ笑😌"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lcs5l7nkkc2r",
+            "label": [
+                0.9983335137367249,
+                8.122370491037145e-05,
+                0.0012610768899321556,
+                9.404214506503195e-05,
+                3.9023962017381564e-05,
+                6.127007509348914e-05,
+                5.9698773839045316e-05,
+                7.010500121396035e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "ご回答ありがとうございます✨\nネタ用にあたためておきますわ笑😌"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "とんでもないです！\nRoseliaLIVEの終わりの店ですが、時間変えた方が良さそうですかね？"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "🌹何時くらいに終わりますかね？？迷子の時は、早かったですよね。\n\n17時開演なんですね。\n2時間半くらいになっちゃうかなぁ。。"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lcsbn4evr224",
+            "label": [
+                0.021087825298309326,
+                0.011682860553264618,
+                0.8059017658233643,
+                0.0027791596949100494,
+                0.0002651411050464958,
+                0.15718065202236176,
+                0.00048307544784620404,
+                0.0006196078029461205
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "🌹何時くらいに終わりますかね？？迷子の時は、早かったですよね。\n\n17時開演なんですね。\n2時間半くらいになっちゃうかなぁ。。"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "迷子は早かったですが、Roseliaなので…読めないですよね😓"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "キャラくずあると。。\n迷子は2時間くらいで19時前くらいには終わってた記憶あるんですがね。"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lcscjofdxc2l",
+            "label": [
+                0.0013314783573150635,
+                0.9892183542251587,
+                0.00038200351991690695,
+                0.000607954163569957,
+                0.00031649216543883085,
+                0.004043854307383299,
+                0.004003216978162527,
+                9.664458048064262e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 1,
+                    "utter": "キャラくずあると。。\n迷子は2時間くらいで19時前くらいには終わってた記憶あるんですがね。"
+                },
+                {
+                    "author": "did:plc:le5obooqi4lfp7odsgm2p2zc",
+                    "type": 2,
+                    "utter": "幕間が地味に長いので基本伸びますね、Roseliaは😅"
+                },
+                {
+                    "author": "did:plc:jbqnowavxltf7hayxurh4m4p",
+                    "type": 3,
+                    "utter": "幕間は以前は好きだったんですが、、最近長いような。。\n休憩が長いとライブ熱が冷めるので、いまいちですね笑🌹🔥\n\n客席の配置にもよりますが、みんなでライブ終演後に集合して行くより、各自現地集合で早めに行くのもありかもです。(はやめに店に入って待ってるのも)\n\n時間指定変更や集合しての移動等はお任せします😌"
+                }
+            ],
+            "uri": "at://did:plc:jbqnowavxltf7hayxurh4m4p/app.bsky.feed.post/3lcsdwj3c4k2m",
+            "label": [
+                0.04339098185300827,
+                0.0009951351676136255,
+                0.9527445435523987,
+                0.00023965978471096605,
+                0.0002603663597255945,
+                0.0007422164781019092,
+                0.0010878487955778837,
+                0.0005392535240389407
+            ]
+        }
+    ]
+}

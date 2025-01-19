@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "えら。。。国連加盟国覚えてるの、流石に超人すぎる"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "へへへ、やったぜ☺️"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "えらいからアポロチョコあげます（？）"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lbqvbosl4c23",
+            "label": [
+                0.0032443914096802473,
+                0.00035686299088411033,
+                0.9958680868148804,
+                0.0001786740613169968,
+                7.002858183113858e-05,
+                0.000113069181679748,
+                8.840260124998167e-05,
+                8.045302820391953e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "えらいからアポロチョコあげます（？）"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "やったー！チョコすき🍫"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "冬はね、チョコが美味しい季節だから。。。　ココアとか？はすきですか？"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lbqw3ke2dk23",
+            "label": [
+                0.057963114231824875,
+                0.001159351202659309,
+                0.9394785761833191,
+                0.00026431577862240374,
+                0.00018039286078419536,
+                0.0003292567562311888,
+                0.0002953797811642289,
+                0.0003296512004453689
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "冬はね、チョコが美味しい季節だから。。。　ココアとか？はすきですか？"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "メルティキッスとかおいしいですよね〜\nココアも好きですよ！家にもうないから後で買いに行かなきゃ"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "メルキス！！僕はお抹茶のがすき（すき）　業スーにジェネリック版みたいなのが売ってて、それも結構おいしいので試してみてください🥳　\nちょっとお手間かかるけど、ココアパウダーから練って作るとおいしいんですよね。。。"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lbqwvhi3q22h",
+            "label": [
+                0.40173986554145813,
+                0.0014958606334403157,
+                0.5938447713851929,
+                0.0006287593860179186,
+                0.0004977061180397868,
+                0.0004891136195510626,
+                0.0005513406940735877,
+                0.0007526484550908208
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "メルキス！！僕はお抹茶のがすき（すき）　業スーにジェネリック版みたいなのが売ってて、それも結構おいしいので試してみてください🥳　\nちょっとお手間かかるけど、ココアパウダーから練って作るとおいしいんですよね。。。"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "抹茶味食べられるの大人ですね〜わたしはちょっと苦手でｗ\n業スーですか、今度覗いてみよう…|˙꒳​˙）\n\nココアパウダーから作るんですか！？香りは確かに良さそう"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "メルティキッスと同じ値段で倍入ってるので、食べてる間は富豪になれる！（なれない）\n\nお砂糖と混ぜてお鍋でゆっくり練るから、コロッケ作るくらいめんどくさいけどうまいよ！暇を極めたら試してみてくださいや🐕"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lbr63pr7qs2i",
+            "label": [
+                0.12619340419769287,
+                0.0010383869521319866,
+                0.8703134059906006,
+                0.0008591331425122917,
+                0.0003075815620832145,
+                0.00042038611718453467,
+                0.0003287346917204559,
+                0.0005389114958234131
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "ワイも昨日から片側だけ調子悪いわ　世界に毒電波流れてる？"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "アルミホイルかぶらなきゃ😇"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "一番いいやつ買ってくるわ\n\n最近あんま見ないけど、元気してる？"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3leelz47wqs2o",
+            "label": [
+                0.0015560296596959233,
+                0.00023838673951104283,
+                0.9977778792381287,
+                0.00012132345727877691,
+                5.403034811024554e-05,
+                0.0001320918381679803,
+                5.19277855346445e-05,
+                6.829686026321724e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "一番いいやつ買ってくるわ\n\n最近あんま見ないけど、元気してる？"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "元気ない😇"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "元気出して、シンプルに心配だから。。。"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lees37a52s2q",
+            "label": [
+                0.0021201367489993572,
+                0.7464262843132019,
+                0.15300185978412628,
+                0.0011517424136400223,
+                0.0014894736232236028,
+                0.0854349359869957,
+                0.009459326975047588,
+                0.0009161742636933923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "元気出して、シンプルに心配だから。。。"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "ごめんね……"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "あやまることないよ。。。うまいの食べて好きなだけ寝てな　ゆりさんの心身の健康を心から願ってます🥺"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3leestqge4s23",
+            "label": [
+                0.0004991766763851047,
+                0.001455227960832417,
+                0.9972477555274963,
+                6.898021820234135e-05,
+                8.046007133089006e-05,
+                0.0003721124376170337,
+                0.000164770579431206,
+                0.00011149062629556283
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "あやまることないよ。。。うまいの食べて好きなだけ寝てな　ゆりさんの心身の健康を心から願ってます🥺"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "ありがとう……幸せになりたいね🥲"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "幸せにしてあげたい。。。。。（？）　身の回りの人みんな𝓗𝓪𝓹𝓹𝔂になればいいなって最近思ってる、それ以外は地に落ちればいいよ"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3leeths2les2w",
+            "label": [
+                0.0003097468870691955,
+                0.0008224450866691768,
+                0.9984159469604492,
+                8.89160146471113e-05,
+                6.274025508901104e-05,
+                0.00012512315879575908,
+                0.00010649682371877134,
+                6.845742609584704e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "冬はあったかけりゃなんでもうまい、みたいなとこはある　おすすめはとり天のおそばだよ、一番うまかった！"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "いいな〜おそば\n鴨出汁だったらもう最高"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "かもそばおいし〜よね！鴨蕎麦が一番好きだ、手軽にたんぱく質いっぱい摂れるしさいこう🍜"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3ldoa72ux5s26",
+            "label": [
+                0.9996232986450195,
+                3.938231384381652e-05,
+                0.00011418340727686882,
+                5.4181728046387434e-05,
+                3.356025990797207e-05,
+                3.857310366583988e-05,
+                4.786246790899895e-05,
+                4.88491277792491e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "かもそばおいし〜よね！鴨蕎麦が一番好きだ、手軽にたんぱく質いっぱい摂れるしさいこう🍜"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "わかる〜最高よね……\n最近お蕎麦食べてないな〜食べたい"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "次お出かけする時はおそば食べることにしよ、そうしたらお出かけが楽しみになるかもせん"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3ldobetb4yk2z",
+            "label": [
+                0.003907456062734127,
+                0.0003071518149226904,
+                0.9952379465103149,
+                0.0001631943159736693,
+                8.176600385922939e-05,
+                0.00013141425733920187,
+                7.831150287529454e-05,
+                9.28033550735563e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "次お出かけする時はおそば食べることにしよ、そうしたらお出かけが楽しみになるかもせん"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "そうね、おいしいお蕎麦ありそうなとこ調べとこ〜"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "どこに住んでるのか知らないけど、南関東だったらおいしいお店紹介できるよ〜🐕"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3ldoc76agxc2z",
+            "label": [
+                0.002238749759271741,
+                0.00033180121681652963,
+                0.9969294667243958,
+                0.00010794642730616033,
+                8.889225864550099e-05,
+                0.00011188005737494677,
+                9.65937360888347e-05,
+                9.46615036809817e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "買っchina"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "おかねない(⸝⸝◜~◝⸝⸝)♡"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "涙　いくらくらいのやつなの？"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lczucpfexs2r",
+            "label": [
+                0.737036943435669,
+                0.0762104019522667,
+                0.03919905796647072,
+                0.11999644339084625,
+                0.0012349020689725876,
+                0.015903320163488388,
+                0.003640030277892947,
+                0.0067788902670145035
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "涙　いくらくらいのやつなの？"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "25,000円って書いてある😭"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "絶妙に買えそうな値段のやつを。。。"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lczwads3ds2r",
+            "label": [
+                0.00055307726142928,
+                0.0002787249395623803,
+                0.9988014698028564,
+                8.60021827975288e-05,
+                4.5879511162638664e-05,
+                0.000128612169646658,
+                5.3306095651350915e-05,
+                5.2882791351294145e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "絶妙に買えそうな値段のやつを。。。"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "他にも買いたいものいっぱいあるからほんと迷う"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "自分へのクリスマスプレゼントにね、なんか一個いいの買っちゃえ！！！"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lczx2lpsb22r",
+            "label": [
+                0.008958222344517708,
+                0.0003871472436003387,
+                0.9899563789367676,
+                0.00019826096831820905,
+                0.00010801006283145398,
+                0.0001660499256104231,
+                0.00010379076411481947,
+                0.00012218861957080662
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "自分へのクリスマスプレゼントにね、なんか一個いいの買っちゃえ！！！"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "家賃もギリギリな状況だからちょっときついかなｗｗ"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "ウケる　あんま勝手なことは言えないけど、袖振れる範囲で頑張ろね。。。この時期は特に金吹っ飛ぶからきついね〜😇"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lczzy2eyqc2m",
+            "label": [
+                0.0005329427658580244,
+                0.9967522621154785,
+                0.00043816669494844973,
+                0.0001489743881393224,
+                7.053230365272611e-05,
+                0.0015469022328034043,
+                0.0004712223308160901,
+                3.9051916246535257e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "えらいね。。。"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "えらいかな……えらいかも"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "かもじゃなくてえらいよ、セルフコントロールできてんだもん　誇るべき，其方は素晴らしい"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lcg5ersbyc2h",
+            "label": [
+                0.9980940222740173,
+                0.00016665934526827186,
+                0.00024112226674333215,
+                0.0006661381339654326,
+                0.00012402799620758742,
+                7.094926695572212e-05,
+                0.0001891767606139183,
+                0.0004479020135477185
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "かもじゃなくてえらいよ、セルフコントロールできてんだもん　誇るべき，其方は素晴らしい"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "へへ、ありがとう"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "明日からもがんばんないでたらたらやってこ　疲れちゃったらチョコ食べても良い"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lcg5u5il2k2h",
+            "label": [
+                0.013880597427487373,
+                0.0030421162955462933,
+                0.9820408821105957,
+                0.00013564238906838,
+                9.405929449712858e-05,
+                0.0003043913748115301,
+                0.000333577481796965,
+                0.00016869606042746454
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "明日からもがんばんないでたらたらやってこ　疲れちゃったらチョコ食べても良い"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "そうする……甘いのたべるか"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "クリスマスだし、ホールケーキ食べても怒られない気がする！"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lcg6biwncc24",
+            "label": [
+                0.24894461035728455,
+                0.0013236713130027056,
+                0.7453590631484985,
+                0.0005771755240857601,
+                0.0002693748101592064,
+                0.002452575834468007,
+                0.00036497804103419185,
+                0.0007085010292939842
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 1,
+                    "utter": "クリスマスだし、ホールケーキ食べても怒られない気がする！"
+                },
+                {
+                    "author": "did:plc:erfd6za67koixbzosf6eaflt",
+                    "type": 2,
+                    "utter": "ホールケーキ、食べたい……！"
+                },
+                {
+                    "author": "did:plc:aemcvemmosv3cbhgek2q2qzm",
+                    "type": 3,
+                    "utter": "食べよ〜！！！　何味がいいかな、やっぱチョコ？"
+                }
+            ],
+            "uri": "at://did:plc:aemcvemmosv3cbhgek2q2qzm/app.bsky.feed.post/3lcg6f774ss24",
+            "label": [
+                0.006595366634428501,
+                0.0003653932944871485,
+                0.9924395084381104,
+                0.00017471924365963787,
+                8.621608139947057e-05,
+                0.00015354192873928696,
+                9.239663631888106e-05,
+                9.285625128541142e-05
+            ]
+        }
+    ]
+}

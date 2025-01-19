@@ -1,0 +1,869 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "なんだこれ‼️‼️鉛筆型だし使いやすそう😲🌟"
+                },
+                {
+                    "author": "did:plc:jheg63zqqnkjd7ybkxyj6572",
+                    "type": 2,
+                    "utter": "なんか18キロ分書き続けられるらしいよ🙌"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "18キロが多いのか少ないのか分からないけどきっとすごいんだろうね🤔‼️"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lbyfmyufgs24",
+            "label": [
+                0.08631665259599686,
+                0.0012678686762228608,
+                0.6444386839866638,
+                0.26238542795181274,
+                0.0006413179798983037,
+                0.002026776084676385,
+                0.0005065198056399822,
+                0.0024167958181351423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "ちゃんと話し合えないっていうのが問題ってゲッターズ飯田先生は言うてますがその辺りはどうなんでしょうか🙄"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "話し合えてないのは分かってるので、ちょっと体調を万全にしてまた挑みたいと思います。旦那を変えようとしないように、でも意見のすり合わせを少しずつでもするように🙄\n一気にやりすぎないよう、気をつけまする🙄"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "挑むっていう単語がいいよね🤣諦めずに根気強くだね✨"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfhkt6pcdk2s",
+            "label": [
+                0.9983273148536682,
+                6.785456935176626e-05,
+                0.0011636617127805948,
+                9.624103404348716e-05,
+                7.02532779541798e-05,
+                5.4039384849602357e-05,
+                8.01979549578391e-05,
+                0.0001404581416863948
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "挑むっていう単語がいいよね🤣諦めずに根気強くだね✨"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "旦那の楽天ペイの引き落とし（毎月10万単位）を旦那のお小遣い口座に移そって私が無理やり持っていったり、生活費減らそうとか、そこら辺から急に病気の嵐やったので（結局今回の病気で節約どころではなく有耶無耶にされている）、怪我と病気の危険性を考慮しつつ旦那と話し合いわせなあかん。\n\n…………🤔"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "もしかしたら、まず話し合う所がお金じゃない可能性があるなーと私は感じるなー"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "なんだろ………んー？\nお金で解決するんじゃなくて夫婦としての根本的なところ？なんやまともな営みすら出来ない私が言うのも変な話やけどな🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfhlmzuupc2h",
+            "label": [
+                0.0010413469281047583,
+                0.029755854979157448,
+                0.9612107276916504,
+                0.0003348539466969669,
+                0.0006089870003052056,
+                0.003647794481366873,
+                0.0028582706581801176,
+                0.0005421952228061855
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "もしかしたら、まず話し合う所がお金じゃない可能性があるなーと私は感じるなー"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "なんだろ………んー？\nお金で解決するんじゃなくて夫婦としての根本的なところ？なんやまともな営みすら出来ない私が言うのも変な話やけどな🤣🤣"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "そもそも話し合いができないってところから問題かもしれない🤔\n旦那短気だから自分が不利になるとすぐキレる🙄私は怒鳴られるのが嫌いなので怒られると感情が高ぶって泣く🙄泣いたら旦那が「そうやって女は涙で解決しようとする」っていう🙄\nみたいなのを結婚初期に何回かして、話し合いあんませんくなったかな〜。提案か決定事項報告、みたいな🙄\n\nうーむ、夫婦として根本的なとこね〜。まじで挑むレベルだな🙄"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "自分の気持ちを素直に話すってめちゃくちゃむずいやんなー🤮🤮私もめちゃくちゃ不得意や、結局受け入れられなかったらどうしよう、というナイーブな気持ちがつきまとうからなー\nもしかしたら、前振りみたいなの入れたら真剣に冷静に聞いてくれたりせんやろか🙄\n(私、今からすごく大事な話するから真剣にきいてな)の空気感"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "あとは、話すときに「私は将来こうなりたい＆こんな家族にしていきたい、そのために今必要なことはこれとこれとこれだと考えるんだけど、旦那さんはどんな将来を描いてるんか聞かせてもらってもいいかい？」みたいな意識のすり合わせかな～🙄？"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfhnnpnjzc2i",
+            "label": [
+                0.0003377209650352597,
+                0.0002577784180175513,
+                0.9989223480224609,
+                9.592735295882449e-05,
+                4.791331593878567e-05,
+                0.00022477848688140512,
+                5.67372735531535e-05,
+                5.693407729268074e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "んーー、やっぱり頑張りすぎた、お腹いたい🙄🙄"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "ここまでなら大丈夫！の加減がわからん、眠気？眠気きたらやめどき？途中で物凄く眠くなる😪"
+                },
+                {
+                    "author": "did:plc:hn2ia2syggop4plphbwqrysf",
+                    "type": 2,
+                    "utter": "ついついやりすぎてまう癖をコントロールが課題の巻_φ(･_･"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "判断できないよ〜😬😬😬"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfcuzec3zk2r",
+            "label": [
+                0.011699805967509747,
+                0.6617761850357056,
+                0.0009989738464355469,
+                0.005859395023435354,
+                0.0007085140096023679,
+                0.3160897493362427,
+                0.0025428759399801493,
+                0.00032444432144984603
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "判断できないよ〜😬😬😬"
+                },
+                {
+                    "author": "did:plc:hn2ia2syggop4plphbwqrysf",
+                    "type": 2,
+                    "utter": "眠氣くるのは、エネルギー使い切り、普通の人だったら電池切れのお知らせのような氣もするけど違うのかな🤔\n目安として、眠氣で休憩or終了がわかりやすくないかな😪？"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "そうなのかもしれない、赤ちゃんみたいな強烈な眠気がくるんだよ。でも、2.3時間しかたってなかったからやり過ごしちゃった"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfeaf7vmck24",
+            "label": [
+                0.08747009187936783,
+                0.7462258338928223,
+                0.004916500300168991,
+                0.03480463847517967,
+                0.0007257687393575907,
+                0.11962107568979263,
+                0.0045824418775737286,
+                0.0016536539187654853
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "そうなのかもしれない、赤ちゃんみたいな強烈な眠気がくるんだよ。でも、2.3時間しかたってなかったからやり過ごしちゃった"
+                },
+                {
+                    "author": "did:plc:hn2ia2syggop4plphbwqrysf",
+                    "type": 2,
+                    "utter": "体調とエネルギーは時間じゃないからねぇ🤔\n次サイン来たとき、身体の声に従ってみたらわかるかも☺️\n\nそれにしても、ご先祖サマーズお知らせの仕方がほんと優しいね🥰"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "ご先祖さまーずのお知らせなのかな🤔なんかよーわからん🤔🤔"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfefdzfgis2h",
+            "label": [
+                0.5871443152427673,
+                0.03476112335920334,
+                0.05816370248794556,
+                0.11392742395401001,
+                0.0008064181311056018,
+                0.19482745230197906,
+                0.006893375422805548,
+                0.003476227167993784
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "ご先祖さまーずのお知らせなのかな🤔なんかよーわからん🤔🤔"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "さま～ず🤔"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "ゆるくていいやろ🤣‼️"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfehc62bfs2t",
+            "label": [
+                0.9954100251197815,
+                0.0001442762732040137,
+                0.003811995266005397,
+                0.00011228438233956695,
+                0.00010887055395869538,
+                8.596712723374367e-05,
+                0.00019407497893553227,
+                0.0001326326746493578
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "あ、ごめんこっちが増えてるわ🥹"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "おっと、こっちが減ったらそっちが増える仕組みか？？\nはよ私が増やさねば🍜"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "🤣そうだよ、お願いだよみっちゃん、早くもりもり食べられるようになって🤣‼️"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfcptnfe2k2r",
+            "label": [
+                0.0004156695504207164,
+                0.0007057690527290106,
+                0.9984512329101562,
+                0.0001237042306456715,
+                7.764585461700335e-05,
+                8.660996536491439e-05,
+                8.25400638859719e-05,
+                5.676895671058446e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "私だって吸い取りたくて吸い取ってるんとちゃうで"
+                },
+                {
+                    "author": "did:plc:spbn36w2zu37zwkbq72m5hdt",
+                    "type": 2,
+                    "utter": "なんかエネルギー保存の法則みたいね。\n\n羅針盤とイルカ間における養分保存の法則🧐"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "イルカは寒い海にいるから脂肪蓄えるの上手だよたぶん"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfcw7a7yjs2y",
+            "label": [
+                0.6074878573417664,
+                0.001371209742501378,
+                0.3438880443572998,
+                0.02199449948966503,
+                0.002077388344332576,
+                0.0018356058280915022,
+                0.0026306193321943283,
+                0.01871471293270588
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "犯罪者はリバイバルしちゃあかんで"
+                },
+                {
+                    "author": "did:plc:spbn36w2zu37zwkbq72m5hdt",
+                    "type": 2,
+                    "utter": "Tの方はまだ何もやってないことになってないか🤔"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "哲也は昔、詐欺罪で逮捕されてたはずやで"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfcmj3gmas2t",
+            "label": [
+                0.10644751787185669,
+                0.0205631535500288,
+                0.03784907981753349,
+                0.3621552586555481,
+                0.051924929022789,
+                0.32956039905548096,
+                0.06504587084054947,
+                0.026453793048858643
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "哲也は昔、詐欺罪で逮捕されてたはずやで"
+                },
+                {
+                    "author": "did:plc:spbn36w2zu37zwkbq72m5hdt",
+                    "type": 2,
+                    "utter": "そいえばそんなのあったなあ🤔\n〇スカと同じようなこともやってそうだけど、そっちはまだなんかな。"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "不倫相手が看護師だったからさすがに薬はないとちゃうか？"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfcnerj6wk2t",
+            "label": [
+                0.08152750879526138,
+                0.0699596032500267,
+                0.011252968572080135,
+                0.35253965854644775,
+                0.006114748306572437,
+                0.4561556279659271,
+                0.015156596899032593,
+                0.007293242961168289
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "不倫相手が看護師だったからさすがに薬はないとちゃうか？"
+                },
+                {
+                    "author": "did:plc:spbn36w2zu37zwkbq72m5hdt",
+                    "type": 2,
+                    "utter": "それより昔のはなし。"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "そんなことあったんだー知らんかった😲"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lfcv7x5b7c2r",
+            "label": [
+                0.0006608134135603905,
+                0.00042425747960805893,
+                0.0005183083121664822,
+                0.9976325035095215,
+                0.0001891271531349048,
+                0.00023930541647132486,
+                0.00022776221157982945,
+                0.00010789570660563186
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "１日様子見てみる？その人のタイミングがあるかもしれへん！"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "二日前に言うたんじゃ………"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "おっ、それは話し合いやな"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf774gdqkc2b",
+            "label": [
+                0.010152839124202728,
+                0.0003179734922014177,
+                0.9786847233772278,
+                0.009362698532640934,
+                0.0003553862334229052,
+                0.00029890937730669975,
+                0.0002631790121085942,
+                0.000564302084967494
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "おっ、それは話し合いやな"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "私は、トイレ掃除床までしてほしいんの。立ちションしてて飛び散ってるから拭いてほしいし。\nでもなぜか立ちションしてる当人が全く床も壁も拭かないの謎やな思って、床と壁も拭いてねって言ってるんやけど🙄拭いてほしい理由もね。\nうん分かった、って毎回言われて、それっきりなんだよね🙄伝わらない思い🙄もう十年掛かりそうな思いやな。"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "もう、壁にシート貼るしかないやん、ワンちゃんと同じに"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf7ahblb3c2b",
+            "label": [
+                0.005220874212682247,
+                0.014686021022498608,
+                0.9782318472862244,
+                0.0003968452219851315,
+                0.00011202130554011092,
+                0.0008294172002933919,
+                0.0003527531516738236,
+                0.0001702282897895202
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "この前、高校の時の蟹座男子の話してたからか、その人から年賀状来た🤣✨勘が鋭いww"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "え、盗撮野郎？？"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "違ったか"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "盗撮野郎を発見してくれた人ね🤣‼️"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4n46me4c2e",
+            "label": [
+                0.9994275569915771,
+                6.088844747864641e-05,
+                8.537059329682961e-05,
+                0.0001947701966855675,
+                4.539003930403851e-05,
+                3.6244357033865526e-05,
+                7.26651051081717e-05,
+                7.718581036897376e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "盗撮野郎を発見してくれた人ね🤣‼️"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "ええ方のやつ！！\nええ男子！"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "そうそう、来月数年ぶりにご飯一緒することになったー😊めちゃ楽しみや〜🐬🐬✨✨"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4ortprik2y",
+            "label": [
+                0.9860836863517761,
+                0.00019883469212800264,
+                0.012967350892722607,
+                0.0001909202546812594,
+                0.0001232387003256008,
+                0.00016688942559994757,
+                0.00012010030332021415,
+                0.00014898508379701525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "そうそう、来月数年ぶりにご飯一緒することになったー😊めちゃ楽しみや〜🐬🐬✨✨"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "あー！！\nなるほどご褒美のやつだ！！つながった！"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "なんや？ご褒美？🤔"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4pxf5ozk2y",
+            "label": [
+                0.968904972076416,
+                0.000565678405109793,
+                0.001628840691410005,
+                0.028004009276628494,
+                0.00017138785915449262,
+                0.00021375564392656088,
+                0.0002725162194110453,
+                0.00023876840714365244
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "なんや？ご褒美？🤔"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "あれ、なんか先生に色々言われてぺしょぺしょになってた時に、友達とご飯の予定入ってご褒美だー！ってなってたやつとは違ったか🤔"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "あ、それは大学の時の友達😊蟹🦀は高校の時の友達ね、新しくご褒美が増えました✨✨"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4raeqlf22y",
+            "label": [
+                0.9996137022972107,
+                4.9746307922760025e-05,
+                0.00012246143887750804,
+                5.937036621617153e-05,
+                2.7725247491616756e-05,
+                3.7928097299300134e-05,
+                4.625638757715933e-05,
+                4.276552135706879e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "子供なら入院してるレベル😲"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "今日入院進められたよ〜！家だとやることあるけど、入院したら楽やろ？みたいな。全然入院できるレベルだって🤣"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "どうするん？入院するんか？"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4h2erlh22v",
+            "label": [
+                0.0005148379714228213,
+                0.0007274160161614418,
+                0.0006804109434597194,
+                0.9965206384658813,
+                0.00025985343381762505,
+                0.000984886777587235,
+                0.00022168460418470204,
+                9.027047781273723e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "どうするん？入院するんか？"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "先週なら喜んでしたけど、もうええかな〜😂\n早く治るんですか！？って聞いたら変わらんって言われたし🙄入院めんどい………"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "変わらんのやったらまぁいっか🙄てなるねw"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4jlgrje22v",
+            "label": [
+                0.6624308228492737,
+                0.13706278800964355,
+                0.10444415360689163,
+                0.007129671052098274,
+                0.0012275498593226075,
+                0.025579221546649933,
+                0.05747861787676811,
+                0.004647194407880306
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "変わらんのやったらまぁいっか🙄てなるねw"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "四人部屋とかにされると、人の気配で寝れないのよねぇ🙄\nしんどくて寝るしかないとかならまだしも、ある程度元気になってる今、人の気配で疲れたくない😂"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "わかる、全然眠れないよね。看護士さんとかカーテンをシャってしてくるしな。"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4n3bo7fc2e",
+            "label": [
+                0.01275597419589758,
+                0.37173938751220703,
+                0.0009833439253270626,
+                0.003952168393880129,
+                0.0039956048130989075,
+                0.5513842701911926,
+                0.05435536429286003,
+                0.0008338430779986084
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "わかる、全然眠れないよね。看護士さんとかカーテンをシャってしてくるしな。"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "だよね。常に人の気配があるのがいや。\n行動パターンの読めないものが急に音を発するの警戒してしまうんよね。\n耳栓してて、かろうじて寝れるかなって感じかな。\n元気な時に入院したくねぇ😂"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "わかるわ、隣の人の咳払いとかでも嫌と思うし時々、男の先生とかきて何か検査していくのも苦痛で仕方ない。入院って大変や……"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf4ouqxb6c2y",
+            "label": [
+                0.002375170821323991,
+                0.20882636308670044,
+                0.0014444699045270681,
+                0.004523654468357563,
+                0.00290774111635983,
+                0.015031474642455578,
+                0.7642759084701538,
+                0.0006152031710371375
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "あっ忘れてた‼️‼️"
+                },
+                {
+                    "author": "did:plc:spbn36w2zu37zwkbq72m5hdt",
+                    "type": 2,
+                    "utter": "皆でワクワク\n(ﾉｼ`･ω･)ﾉｼ  ﾊﾞﾝﾊﾞﾝ!!"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "今日の勉強終わったらやるにゃん"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3leycw5mczc2l",
+            "label": [
+                0.002721350872889161,
+                0.000547331350389868,
+                0.9962427616119385,
+                0.00010603167174849659,
+                7.073309825500473e-05,
+                0.00014856844791211188,
+                8.89895818545483e-05,
+                7.42648626328446e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "今日の勉強終わったらやるにゃん"
+                },
+                {
+                    "author": "did:plc:hn2ia2syggop4plphbwqrysf",
+                    "type": 2,
+                    "utter": "ありがとー👍\nりえさんからヒントもらって、しんぶんにしたよー😘\n\nめーさんが机バンバンしまくっとる🤣"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "私なんか言ったっけ🤣全然覚えてないw"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3leyy5n6e722g",
+            "label": [
+                0.08940929174423218,
+                0.06468374282121658,
+                0.00879853218793869,
+                0.13937504589557648,
+                0.0008072297205217183,
+                0.6918038129806519,
+                0.003125770715996623,
+                0.0019966086838394403
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "結果やいかに"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "まだがっくり肺炎だそうです🤣\n炎症反応は落ち着いてる（まだ炎症反応起きてるよ。やばいわけじゃない）けど、多分かなりこじらせてるから、追加で抗菌剤（強め）を出されて、1週間更に安静にしてねっていわれた🤧"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "がっくり肺炎🤔？\n検査してもらえてよかったね〜😊強めの抗菌剤だったらイチコロに違いない😘１週間本気で安静にして早くなおしちゃおっ"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf23xnn2tc26",
+            "label": [
+                0.001977068604901433,
+                0.000277961662504822,
+                0.9968997240066528,
+                0.00031771903741173446,
+                0.00010726765322033316,
+                0.0002179136499762535,
+                6.148090324131772e-05,
+                0.00014089193427935243
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "がっくり肺炎🤔？\n検査してもらえてよかったね〜😊強めの抗菌剤だったらイチコロに違いない😘１週間本気で安静にして早くなおしちゃおっ"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "がっつりだ！\nまだまだしっかり肺炎だよ〜全く治ってないよ〜って🤣"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "あっ、そうだよね、がっくり肺炎ってうちの先生が使いそうな単語で似たような医者なのかと思った😂がっつり肺炎ね‼️"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf256oos3c26",
+            "label": [
+                0.0012996330624446273,
+                0.00037320234696380794,
+                0.0012356266379356384,
+                0.9963791966438293,
+                0.00016138037608470768,
+                0.00016886249068193138,
+                0.00020057641086168587,
+                0.00018148968229070306
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 1,
+                    "utter": "ちなみに救急車のことはピーポー車って言うで"
+                },
+                {
+                    "author": "did:plc:6s2ryibdiepvr6hnprc6knvv",
+                    "type": 2,
+                    "utter": "それは私もいってしまうわ🫣\n子育てしてた名残……"
+                },
+                {
+                    "author": "did:plc:cgkrsagsif65q5wkfjlb2jgj",
+                    "type": 3,
+                    "utter": "なるほど🤣‼️そういうことか、私はビックリしてなんやこいつ…、って思ってしもた"
+                }
+            ],
+            "uri": "at://did:plc:cgkrsagsif65q5wkfjlb2jgj/app.bsky.feed.post/3lf2clhorfc2z",
+            "label": [
+                0.0005730072152800858,
+                0.0003783817810472101,
+                0.00044982333201915026,
+                0.997744083404541,
+                0.00024206697707995772,
+                0.00026432579034008086,
+                0.00024007329193409532,
+                0.00010827123333001509
+            ]
+        }
+    ]
+}

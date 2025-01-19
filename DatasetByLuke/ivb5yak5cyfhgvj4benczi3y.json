@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "比被詐騙還可怕"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "那可不啊，防不胜防。\n\n况且，谁才是最大的诈骗集团呢（emmmmmmmmmmm"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "最怕那種接個海外電話，立馬收到短信小心詐騙\n打個facetime 網警就電話要求不准再打"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbynanuhd22c",
+            "label": [
+                0.0068854414857923985,
+                0.011523525230586529,
+                0.005417564883828163,
+                0.008052798919379711,
+                0.6854507923126221,
+                0.00636682054027915,
+                0.27368441224098206,
+                0.002618565456941724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "最怕那種接個海外電話，立馬收到短信小心詐騙\n打個facetime 網警就電話要求不准再打"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "我刚到这边还经常往中国打电话，因为微信提示有的时候会错过，打电话更直接。\n\n后来，海外电话监控越来越密集，我就不打了……\n\n对于经常是FaceTime的人来说，可真是灾难。"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "是啊 而且是即時監聽的 以前IP電話沒法監聽 現在ip電話都全部監聽"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbyno32gms2d",
+            "label": [
+                0.24113969504833221,
+                0.10883714258670807,
+                0.326256662607193,
+                0.042390160262584686,
+                0.1050884872674942,
+                0.04642222076654434,
+                0.10703109949827194,
+                0.022834476083517075
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "是啊 而且是即時監聽的 以前IP電話沒法監聽 現在ip電話都全部監聽"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "啊？监听了？\n……\n\n税都给那帮人发工资了……\n（骂大街中……"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "都自動化了。科大訊飛最初做語音識別就是用在這上面的。然後加上關鍵字過濾。十五六年前還是選擇性的監聽，10年前就基本全部監聽了。"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbyodvwwos2k",
+            "label": [
+                0.9789209961891174,
+                0.005867020692676306,
+                0.004856801591813564,
+                0.0019315817626193166,
+                0.0010157101787626743,
+                0.0015760209644213319,
+                0.003321228548884392,
+                0.0025106577668339014
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "都自動化了。科大訊飛最初做語音識別就是用在這上面的。然後加上關鍵字過濾。十五六年前還是選擇性的監聽，10年前就基本全部監聽了。"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "（再次翻白眼\n\n我看过一条科技人员的讣告，有网友评论“还是死晚了”。\n了解才知道，那位科技人员是“天眼”（好像叫这个名字）监控技术的主创。\n那个技术是监控里人面部和体态识别，主要用在“新疆维稳”上。\n我觉得网友说得对。"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "我也是盡量避免用科大訊飛的東西。但是，小語種的語音識別只有它在做，做的最好。這個肯定是賠本的。它為啥做，哪來的錢。腦子轉一秒鐘就知道了"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbyplmdjis2m",
+            "label": [
+                0.4075108766555786,
+                0.0349712148308754,
+                0.45443645119667053,
+                0.007665566634386778,
+                0.024165475741028786,
+                0.008632661774754524,
+                0.04012611135840416,
+                0.022491713985800743
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "都自動化了。科大訊飛最初做語音識別就是用在這上面的。然後加上關鍵字過濾。十五六年前還是選擇性的監聽，10年前就基本全部監聽了。"
+                },
+                {
+                    "author": "did:plc:pkxhtfg24avy446rqfi7xs7p",
+                    "type": 2,
+                    "utter": "所以我極度反感牆內那些科技公司，都是極權的幫凶，每次看到推上那些 it 行業人推薦別人用那些公司的產品我都在心裡狠狠地翻白眼"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "對啊 都是幫兇"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbyvzomihs2x",
+            "label": [
+                0.9370923638343811,
+                0.00481804832816124,
+                0.04267062619328499,
+                0.0018760417588055134,
+                0.001896979520097375,
+                0.0021698488853871822,
+                0.006288954988121986,
+                0.0031872836407274008
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "都自動化了。科大訊飛最初做語音識別就是用在這上面的。然後加上關鍵字過濾。十五六年前還是選擇性的監聽，10年前就基本全部監聽了。"
+                },
+                {
+                    "author": "did:plc:owsk5ch6uatu6koi53i6xnlz",
+                    "type": 2,
+                    "utter": "科大訊飛的語音識別技術都發展到可以做即時翻譯機了，多語言支持。"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "對呀，全球做的最好的。因為沒人權，沒隱私保護。\n最初就是給政府用的。"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbzkgagkyc2f",
+            "label": [
+                0.9529916644096375,
+                0.005406063981354237,
+                0.02469787932932377,
+                0.0016874539433047175,
+                0.002199734328314662,
+                0.0019254115177318454,
+                0.00550766009837389,
+                0.005584127269685268
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "是啊 而且是即時監聽的 以前IP電話沒法監聽 現在ip電話都全部監聽"
+                },
+                {
+                    "author": "did:plc:fa37bsuhuj44vcsnx6ez3ek6",
+                    "type": 2,
+                    "utter": "IP电话是什么？"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "以前有國際長途的ip電話卡。現在是手機撥國際電話，在國家碼之前加幾個數字，就能省電話費的那種。"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbyom4bfqc2m",
+            "label": [
+                0.8005788326263428,
+                0.07370156794786453,
+                0.03177318722009659,
+                0.02074652537703514,
+                0.008132251910865307,
+                0.027220593765378,
+                0.02769177220761776,
+                0.010155253112316132
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "以前有國際長途的ip電話卡。現在是手機撥國際電話，在國家碼之前加幾個數字，就能省電話費的那種。"
+                },
+                {
+                    "author": "did:plc:fa37bsuhuj44vcsnx6ez3ek6",
+                    "type": 2,
+                    "utter": "之前去查过，说FaceTime 是端对端的，这个是真的不会监听的对吗？"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "對。你看大陸禁掉的這種通訊軟件，都是端對端加密的。沒辦法大規模監聽。比如facetime、whatsapp、TG、signal"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbyotyydxk2m",
+            "label": [
+                0.1322704702615738,
+                0.14658895134925842,
+                0.023355254903435707,
+                0.2231772243976593,
+                0.06147032231092453,
+                0.22550491988658905,
+                0.17328090965747833,
+                0.014351986348628998
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "我家人也被社區要求填海外親屬登記表 我直接讓他們回覆說我死了\n其實他們手裡都有 來香港辦探親簽注時就有我的全部信息"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "你这个回复有种自损1200的感觉……\n他们干正事不行，给别人添堵倒是个顶个的厉害。\n\n也不让他们那么如意"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "哈哈，這是和我爸媽說的。他們肯定不會這麼回復。應該是拖，不回應。或者就是說失聯了。"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbzj4zc36k2o",
+            "label": [
+                0.21011556684970856,
+                0.6229787468910217,
+                0.037624962627887726,
+                0.010728421621024609,
+                0.011221040971577168,
+                0.02682088129222393,
+                0.07266364991664886,
+                0.00784678291529417
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "哈哈，這是和我爸媽說的。他們肯定不會這麼回復。應該是拖，不回應。或者就是說失聯了。"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "噗~~\n都有信息了，还向你家人要，算是某种服从测试？"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "社區居委會或者派出所不一定有出入境管理局的資料。上面發個指示說要排查家裡有海外關係的，他們就上門登記。老傳統了"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbzkeapymc2f",
+            "label": [
+                0.8405870199203491,
+                0.028273914009332657,
+                0.024283939972519875,
+                0.014547058381140232,
+                0.010805097408592701,
+                0.026565372943878174,
+                0.037975624203681946,
+                0.016961965709924698
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 1,
+                    "utter": "社區居委會或者派出所不一定有出入境管理局的資料。上面發個指示說要排查家裡有海外關係的，他們就上門登記。老傳統了"
+                },
+                {
+                    "author": "did:plc:vognicnhxspke7gbxzdxqjsn",
+                    "type": 2,
+                    "utter": "是的，我听人说过，身份证和护照是两个系统。\n\n我都有种猜测，省里领导想拍马屁，整来出入境资料，把资料发给各个市，市里再按照名单挨个排查。"
+                },
+                {
+                    "author": "did:plc:ivb5yak5cyfhgvj4benczi3y",
+                    "type": 3,
+                    "utter": "有這個可能\n身分證是戶籍管理發的 護照是出入境管理局發的 都屬於公安 但不同的部門\n還有個東西叫旅行證，外交部發的 類似臨時護照 公安管不到"
+                }
+            ],
+            "uri": "at://did:plc:ivb5yak5cyfhgvj4benczi3y/app.bsky.feed.post/3lbznsqdjhc2y",
+            "label": [
+                0.4050352871417999,
+                0.22977039217948914,
+                0.10465425997972488,
+                0.05392133444547653,
+                0.029774906113743782,
+                0.07833480089902878,
+                0.07702736556529999,
+                0.021481698378920555
+            ]
+        }
+    ]
+}

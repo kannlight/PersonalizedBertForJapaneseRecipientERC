@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "如何いたしまして。了解だ～"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "あぁ、ありがとうな俺は通りすがりの仮面ライダーだ、またの名を門矢士だ！"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "門矢士、宜しくな！"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3lb7ugqtxsk2s",
+            "label": [
+                0.17470860481262207,
+                0.0013801088789477944,
+                0.8211936354637146,
+                0.0006030917284078896,
+                0.000382131285732612,
+                0.0005777862970717251,
+                0.0005398152861744165,
+                0.0006149270921014249
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "門矢士、宜しくな！"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "あぁ、よろしくな！"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "此方こそ宜しくな！"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3lbc5qk6s2k2e",
+            "label": [
+                0.9983481168746948,
+                6.074767225072719e-05,
+                0.0011656414717435837,
+                9.077864524442703e-05,
+                7.37680311431177e-05,
+                5.924105062149465e-05,
+                0.0001021144344122149,
+                9.957986912922934e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "此方こそ宜しくな！"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "あぁ、こちらこそよろしくな！フォローはしていいか？"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "いいよ～！先にフォロー失礼するぞ。"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3lbc6ahzcj22x",
+            "label": [
+                0.9979484677314758,
+                9.816711099119857e-05,
+                0.00151065643876791,
+                8.362936932826415e-05,
+                6.508889782708138e-05,
+                6.882832531118765e-05,
+                0.00012069165677530691,
+                0.00010446735541336238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "いいよ～！先にフォロー失礼するぞ。"
+                },
+                {
+                    "author": "did:plc:yqluiblkffwma54ob4latfcl",
+                    "type": 2,
+                    "utter": "感謝するぞ！シャドウよ！これからよろしくな！"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "嗚呼、空亡宜しくな！（にこ）"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3lbc7fczyuk2x",
+            "label": [
+                0.9793304800987244,
+                0.0012063398025929928,
+                0.01799677684903145,
+                0.0001570242748130113,
+                0.00012130157847423106,
+                0.0004680447746068239,
+                0.00047444345545955,
+                0.00024562483304180205
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "月影、支援感謝する。有難うな！"
+                },
+                {
+                    "author": "did:plc:jus4aa54rmwdl2tfuzptw6j3",
+                    "type": 2,
+                    "utter": "嗚呼…こちらこそだ\n紅月"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "ふふ、嬉しいぞ(にこ)"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3l6hp6kdnsi2t",
+            "label": [
+                0.9996211528778076,
+                4.891731805400923e-05,
+                0.00012100284220650792,
+                5.583129677688703e-05,
+                2.5010411263792776e-05,
+                4.503436866798438e-05,
+                4.587496732710861e-05,
+                3.7201098166406155e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "ふふ、嬉しいぞ(にこ)"
+                },
+                {
+                    "author": "did:plc:jus4aa54rmwdl2tfuzptw6j3",
+                    "type": 2,
+                    "utter": "我もだ（ニコッ）"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "よかった。(微笑み)"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3l6hpcsjtwn2v",
+            "label": [
+                0.9996243715286255,
+                5.4317850299412385e-05,
+                0.00010238841059617698,
+                5.563619561144151e-05,
+                2.4189108444261365e-05,
+                4.890726268058643e-05,
+                5.101687565911561e-05,
+                3.9218299207277596e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "よかった。(微笑み)"
+                },
+                {
+                    "author": "did:plc:jus4aa54rmwdl2tfuzptw6j3",
+                    "type": 2,
+                    "utter": "嗚呼（微笑み）"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "嗚呼…。(ニコッ)"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3l6hpjuwnck2o",
+            "label": [
+                0.9994194507598877,
+                0.00010779579315567389,
+                0.00014972315693739802,
+                0.00010570891026873142,
+                2.5855746571323834e-05,
+                5.945530938333832e-05,
+                7.827806257409975e-05,
+                5.366557525121607e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 1,
+                    "utter": "嗚呼…。(ニコッ)"
+                },
+                {
+                    "author": "did:plc:jus4aa54rmwdl2tfuzptw6j3",
+                    "type": 2,
+                    "utter": "楽しいな!!"
+                },
+                {
+                    "author": "did:plc:v6h2o3n4n5nnn2ic7zavz5g3",
+                    "type": 3,
+                    "utter": "そうだな！楽しいな(にこ)"
+                }
+            ],
+            "uri": "at://did:plc:v6h2o3n4n5nnn2ic7zavz5g3/app.bsky.feed.post/3l6hprnzwww2i",
+            "label": [
+                0.9995706677436829,
+                5.1401788368821144e-05,
+                0.00015500177687499672,
+                5.257520024315454e-05,
+                2.9630322387674823e-05,
+                4.63225987914484e-05,
+                5.1545026508392766e-05,
+                4.287050251150504e-05
+            ]
+        }
+    ]
+}

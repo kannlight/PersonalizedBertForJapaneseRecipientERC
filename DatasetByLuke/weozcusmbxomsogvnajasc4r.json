@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "興味あるなら買うしか！！"
+                },
+                {
+                    "author": "did:plc:a2tkusveql3rsrhrvwxcuzup",
+                    "type": 2,
+                    "utter": "せっかくだし普段から穿けそうなのがあれば買ってみますｗ"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "いいねいいね\n\n折角なら普段履き出来そうなやつと、勝負用どっちも買いません？←"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3kfcl5bhf3s2t",
+            "label": [
+                0.060821227729320526,
+                0.0006071960087865591,
+                0.9371614456176758,
+                0.00038030397263355553,
+                0.00022841329337097704,
+                0.00027307969867251813,
+                0.00022673973580822349,
+                0.0003015929542016238
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "いいねいいね\n\n折角なら普段履き出来そうなやつと、勝負用どっちも買いません？←"
+                },
+                {
+                    "author": "did:plc:a2tkusveql3rsrhrvwxcuzup",
+                    "type": 2,
+                    "utter": "勝負用は相手がいないのでｗ"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "できる前に用意しとくんすよ！！w\n出来てから用意するよりも、ね？"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3kfclaym62726",
+            "label": [
+                0.03764193505048752,
+                0.07796217501163483,
+                0.692380964756012,
+                0.021740183234214783,
+                0.12681478261947632,
+                0.0055327462032437325,
+                0.02742014266550541,
+                0.01050707045942545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "できる前に用意しとくんすよ！！w\n出来てから用意するよりも、ね？"
+                },
+                {
+                    "author": "did:plc:a2tkusveql3rsrhrvwxcuzup",
+                    "type": 2,
+                    "utter": "確かにそれはそうですねｗ\nいざという時の備えですね！"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "その通り！\n\nどんなの買うかもう決めてるんです？←"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3kfclvreetb2w",
+            "label": [
+                0.5638684034347534,
+                0.00181389634963125,
+                0.419000506401062,
+                0.007870716974139214,
+                0.0014112116768956184,
+                0.0016148759750649333,
+                0.0011592915980145335,
+                0.0032611344940960407
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "その通り！\n\nどんなの買うかもう決めてるんです？←"
+                },
+                {
+                    "author": "did:plc:a2tkusveql3rsrhrvwxcuzup",
+                    "type": 2,
+                    "utter": "いや、全くｗ\nゆうてじっくり見る時間なくて買わなさそうな感じがしますｗ"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "そんな勿体無いwww\n良ければ良さげなの一緒に探しましょうかw"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3kfclzdtmls2f",
+            "label": [
+                0.0008652203832753003,
+                0.00017236697021871805,
+                0.9984850287437439,
+                0.0001618643436813727,
+                9.146199590759352e-05,
+                7.594746421091259e-05,
+                7.59437753004022e-05,
+                7.226619345601648e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "あらあら"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 2,
+                    "utter": "時にはゆったり時には激しくでいい夜だった"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "相手誰よw\n彼氏とか？"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3le3vg3upnk22",
+            "label": [
+                0.0014237654395401478,
+                0.00021617738821078092,
+                0.0011585700558498502,
+                0.9963929057121277,
+                0.00016692024655640125,
+                0.00027144368505105376,
+                0.00024536321870982647,
+                0.00012489594519138336
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "相手誰よw\n彼氏とか？"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 2,
+                    "utter": "実は彼氏じゃない(ﾎﾞｿｯ)"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "せふれ？"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3le43gztmbk22",
+            "label": [
+                0.37751641869544983,
+                0.44829830527305603,
+                0.009970462881028652,
+                0.03238193318247795,
+                0.005211168900132179,
+                0.014257124625146389,
+                0.11065837740898132,
+                0.0017062713159248233
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "せふれ？"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 2,
+                    "utter": "セフレではないよ！"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "じゃーなにものw"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3le43nbnoms22",
+            "label": [
+                0.0040834699757397175,
+                0.0005677823210135102,
+                0.9946476817131042,
+                0.00018972097313962877,
+                0.00011548538168426603,
+                0.00013820617459714413,
+                0.00016003218479454517,
+                9.759759996086359e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 1,
+                    "utter": "じゃーなにものw"
+                },
+                {
+                    "author": "did:plc:mcrbtjf7rtniig2rq2dyfiqp",
+                    "type": 2,
+                    "utter": "とあるアプリで知り合った人よんよん"
+                },
+                {
+                    "author": "did:plc:weozcusmbxomsogvnajasc4r",
+                    "type": 3,
+                    "utter": "ワンナイトか"
+                }
+            ],
+            "uri": "at://did:plc:weozcusmbxomsogvnajasc4r/app.bsky.feed.post/3le47kv3ru222",
+            "label": [
+                0.7803542017936707,
+                0.00550865288823843,
+                0.19993536174297333,
+                0.007934385910630226,
+                0.0003609814739320427,
+                0.002503935480490327,
+                0.002233558101579547,
+                0.001168946037068963
+            ]
+        }
+    ]
+}

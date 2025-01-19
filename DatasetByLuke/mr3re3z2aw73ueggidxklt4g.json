@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "めっちゃでかい！\nそして美味しそう！！"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "引きも強くて楽しかったし今夜家族で食って美味かったらまた釣りに行こうかな"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "ほうほう、奥多摩の方とか？"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lbggxkmyak25",
+            "label": [
+                0.23494811356067657,
+                0.002770978957414627,
+                0.6636114120483398,
+                0.09280888736248016,
+                0.0008333836449310184,
+                0.0011927178129553795,
+                0.0012934457045048475,
+                0.002541120396926999
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "ほうほう、奥多摩の方とか？"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "群馬の山奥よ"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "群馬か〜\nよく日帰りで行ったね"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lbh5yq724c2s",
+            "label": [
+                0.0020080814138054848,
+                0.0004906946560367942,
+                0.0008878290536813438,
+                0.9956592917442322,
+                0.00016949950077105314,
+                0.00030004174914211035,
+                0.0002959898265544325,
+                0.00018855123198591173
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "群馬か〜\nよく日帰りで行ったね"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "片道2時間とか散歩レベル"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "2時間でいけるの！？"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lbhjhjfois26",
+            "label": [
+                0.0009174848673865199,
+                0.00029985938454046845,
+                0.0008404015679843724,
+                0.99720299243927,
+                0.0002193828549934551,
+                0.00020289538952056319,
+                0.0001863551588030532,
+                0.0001306589983869344
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "2時間でいけるの！？"
+                },
+                {
+                    "author": "did:plc:idb6w77cyq2hcy43dqk7eg56",
+                    "type": 2,
+                    "utter": "圏央関越でいけばそんなもんよ"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "あ、高速か！\nてっきり下道で山越えしてるのかと思ったよ"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lbkjeprwt226",
+            "label": [
+                0.0007193275960162282,
+                0.0003420696593821049,
+                0.0005794679163955152,
+                0.997579038143158,
+                0.0002212883555330336,
+                0.00021164775534998626,
+                0.00022298864496406168,
+                0.00012424449960235506
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "昔東海オンエアの動画見てた時にエンディングで出てて可愛いと思ってたんですよね〜\n護刃さんは東海オンエア好きなの？"
+                },
+                {
+                    "author": "did:plc:37t3aybzcyqi5x64x7u7lkn7",
+                    "type": 2,
+                    "utter": "東海オンエアは大学生くらいから好きでみてるので中々歴が長いかも！"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "そうなんだね！\n私も一時期友達に勧められて見てたよ！\n8年前くらいだけど…w\n牛丼食べて1500m走るやつとか！"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lduanqu7s22l",
+            "label": [
+                0.9757198691368103,
+                0.0003540057805366814,
+                0.017258666455745697,
+                0.005308489315211773,
+                0.00019831825920846313,
+                0.00021255636238493025,
+                0.00027812583721242845,
+                0.0006700005033053458
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "そうなんだね！\n私も一時期友達に勧められて見てたよ！\n8年前くらいだけど…w\n牛丼食べて1500m走るやつとか！"
+                },
+                {
+                    "author": "did:plc:37t3aybzcyqi5x64x7u7lkn7",
+                    "type": 2,
+                    "utter": "ああ～懐かしい！\n東海オンエア結構下品なのが多いから最初はうわあって思ってたけど見だしたらハマっちゃったかもw"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "むしろ最近の全然みてないけどねw\nたしかに！！\n最初に見たのが牛丼マラソンで汚いなって思いつつもトークとかは面白いから見てたらいつの間にか色んな動画みてたなぁ"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3ldxv5q4emc23",
+            "label": [
+                0.9222120642662048,
+                0.001272881869226694,
+                0.003691519144922495,
+                0.06895807385444641,
+                0.00034473740379326046,
+                0.0009235691395588219,
+                0.0008282773196697235,
+                0.0017688502557575703
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "自分の行動のせいで誰かを不快にさせてしまったという事実がある以上、自分を永遠と責め続けてしまうしこんな自分に生きる価値ないやろ"
+                },
+                {
+                    "author": "did:plc:og4vzscvoluyfsnxggggaqjm",
+                    "type": 2,
+                    "utter": "どしたん？はなしきこか？"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "それ真面目？"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3layq43vtns2o",
+            "label": [
+                0.0031492700800299644,
+                0.00026625272585079074,
+                0.004718261770904064,
+                0.9896656274795532,
+                0.0003535253636073321,
+                0.0007356443093158305,
+                0.0006637662881985307,
+                0.00044762351899407804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "それ真面目？"
+                },
+                {
+                    "author": "did:plc:og4vzscvoluyfsnxggggaqjm",
+                    "type": 2,
+                    "utter": "文章送られてきたら読むと思うけど、読むだけだよ"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "本当に話聞くだけの人じゃん"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3layquhjiu22l",
+            "label": [
+                0.020476896315813065,
+                0.020885730162262917,
+                0.0015169571852311492,
+                0.09005260467529297,
+                0.0021928641945123672,
+                0.005202978849411011,
+                0.8584187626838684,
+                0.0012531467946246266
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "本当に話聞くだけの人じゃん"
+                },
+                {
+                    "author": "did:plc:og4vzscvoluyfsnxggggaqjm",
+                    "type": 2,
+                    "utter": "そうだよ()"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "おい"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lazzhuwk6k2u",
+            "label": [
+                0.004847159143537283,
+                0.010706973262131214,
+                0.0036702414508908987,
+                0.047854892909526825,
+                0.8944368958473206,
+                0.024089207872748375,
+                0.01196306198835373,
+                0.002431566594168544
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "おい"
+                },
+                {
+                    "author": "did:plc:og4vzscvoluyfsnxggggaqjm",
+                    "type": 2,
+                    "utter": "おこったぁ・・・"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "おこってないよ"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lb2uk2sxek2v",
+            "label": [
+                0.3167702257633209,
+                0.015835000202059746,
+                0.006178939715027809,
+                0.03470480069518089,
+                0.017770662903785706,
+                0.5559977293014526,
+                0.03409501165151596,
+                0.01864761859178543
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 1,
+                    "utter": "おこってないよ"
+                },
+                {
+                    "author": "did:plc:og4vzscvoluyfsnxggggaqjm",
+                    "type": 2,
+                    "utter": "まぁ何があったのか知らんけど、強く生きろよな"
+                },
+                {
+                    "author": "did:plc:mr3re3z2aw73ueggidxklt4g",
+                    "type": 3,
+                    "utter": "あいがと"
+                }
+            ],
+            "uri": "at://did:plc:mr3re3z2aw73ueggidxklt4g/app.bsky.feed.post/3lb4myci6tk2y",
+            "label": [
+                0.9983565211296082,
+                0.0007493281154893339,
+                0.00035285711055621505,
+                0.0001613088243175298,
+                3.909306906280108e-05,
+                6.735860370099545e-05,
+                0.0001725712645566091,
+                0.00010100341751240194
+            ]
+        }
+    ]
+}

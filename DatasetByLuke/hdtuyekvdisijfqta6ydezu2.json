@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "もくれんさんTwitterから完全にいなくなっちゃうのは寂しいな"
+                },
+                {
+                    "author": "did:plc:sugyimvw3szajdgp6kexnhzl",
+                    "type": 2,
+                    "utter": "わかる"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "さっと1秒でリプ済まさないで‼️"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3lbvmatgqdc25",
+            "label": [
+                0.009610116481781006,
+                0.18626020848751068,
+                0.004072335083037615,
+                0.422544002532959,
+                0.27192041277885437,
+                0.04389719292521477,
+                0.057533152401447296,
+                0.004162617027759552
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "さっと1秒でリプ済まさないで‼️"
+                },
+                {
+                    "author": "did:plc:m5zuecb7ydpri3h3kwqxsksj",
+                    "type": 2,
+                    "utter": "わかる‼️"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "わからない‼️"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3lbvmxhqwi225",
+            "label": [
+                0.0007453130674548447,
+                0.9943432807922363,
+                0.00013718781701754779,
+                0.0020116965752094984,
+                0.0006286816205829382,
+                0.0005450290045700967,
+                0.001529789180494845,
+                5.8947272918885574e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "最近雑率上がってきた⁉️"
+                },
+                {
+                    "author": "did:plc:m5zuecb7ydpri3h3kwqxsksj",
+                    "type": 2,
+                    "utter": "それだけ仲良くなってるってコトだ‼️😎"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "あざす助かるナイスやったーさすが‼️"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3lbwe7bugtc22",
+            "label": [
+                0.9996117949485779,
+                4.292639277991839e-05,
+                0.0001178946258733049,
+                7.663206633878872e-05,
+                2.808086537697818e-05,
+                3.539740646374412e-05,
+                4.6252327592810616e-05,
+                4.110708323423751e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "触り心地もざらざらしてて良かったしこれで600円だもん"
+                },
+                {
+                    "author": "did:plc:m5zuecb7ydpri3h3kwqxsksj",
+                    "type": 2,
+                    "utter": "安っ⁉️思ったより安くてびっくり😲\n良かったねぇ☺️"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "やすってなるよね！\nこれ買えるなら1000円くらいでも買うなーって思ってたから即決だったw\nただ湯呑みは使わないという問題"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3leqtdk3ni22r",
+            "label": [
+                0.9970394968986511,
+                0.00013926098472438753,
+                0.0017468949081376195,
+                0.0004204980796203017,
+                7.939727220218629e-05,
+                0.0001994591293623671,
+                9.943682380253449e-05,
+                0.00027549127116799355
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "やすってなるよね！\nこれ買えるなら1000円くらいでも買うなーって思ってたから即決だったw\nただ湯呑みは使わないという問題"
+                },
+                {
+                    "author": "did:plc:sugyimvw3szajdgp6kexnhzl",
+                    "type": 2,
+                    "utter": "かわい！やすっ！\nどこかの寿司屋さんで見ていいじゃん！ってなったことあるw"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "ここチェーン店だから見たかもね！\nこんなに凝っててこのお値段は良心的でした🎯"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3leqww2mvr22a",
+            "label": [
+                0.9996134638786316,
+                4.1124796553049237e-05,
+                7.570409070467576e-05,
+                9.985823999159038e-05,
+                2.8314056180533953e-05,
+                3.7762463762192056e-05,
+                4.8473677452420816e-05,
+                5.529557165573351e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "富士急行きます\nノリで"
+                },
+                {
+                    "author": "did:plc:m5zuecb7ydpri3h3kwqxsksj",
+                    "type": 2,
+                    "utter": "アクティブすぎ😂"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "その分年末年始は思いっきりゆっくりする🫠"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3leg5h4o4gs2e",
+            "label": [
+                0.10487639904022217,
+                0.0010365417692810297,
+                0.8924490809440613,
+                0.0003186137764714658,
+                0.0002659702149685472,
+                0.00043386302422732115,
+                0.0002808047865983099,
+                0.00033873977372422814
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "その分年末年始は思いっきりゆっくりする🫠"
+                },
+                {
+                    "author": "did:plc:sugyimvw3szajdgp6kexnhzl",
+                    "type": 2,
+                    "utter": "ジェットコースター何回乗った⁉️"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "いやまだ来月の話‼️\n安すぎてびっくりした！"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3legcbpbwdc2e",
+            "label": [
+                0.0010269738268107176,
+                0.0003264694823883474,
+                0.0006603077636100352,
+                0.9971649050712585,
+                0.0002582778688520193,
+                0.00021592849225271493,
+                0.00020882851094938815,
+                0.00013828137889504433
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "絶叫優先チケットは取るよ！！！\n17回はしんじゃう！"
+                },
+                {
+                    "author": "did:plc:sugyimvw3szajdgp6kexnhzl",
+                    "type": 2,
+                    "utter": "絶叫優先チケットは草😂\n初耳だけどだいたい言いたいことわかる"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "ほんとに絶叫優先チケットってのが売ってて絶叫系のアトラクションにすぐ乗れるらしいよ！\n戦慄迷宮っていう国内でもめちゃくちゃ怖いって言われてる?やついきたいの"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3lehdvfz3hs2e",
+            "label": [
+                0.0008476360817439854,
+                0.0002654806012287736,
+                0.998343825340271,
+                0.00022730421915184706,
+                4.8365549446316436e-05,
+                0.00016890285769477487,
+                4.5687284000450745e-05,
+                5.271051486488432e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "ピコパークもどこかでやりたい🤗"
+                },
+                {
+                    "author": "did:plc:m5zuecb7ydpri3h3kwqxsksj",
+                    "type": 2,
+                    "utter": "私いつでもやれます🖐️"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "おっけー！\n俺もいつでもどこでも！"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3leeihzjd3k2e",
+            "label": [
+                0.9963911175727844,
+                0.00013740193389821798,
+                0.002947527915239334,
+                0.00013191001198720187,
+                8.023516420507804e-05,
+                7.250800263136625e-05,
+                9.77766903815791e-05,
+                0.00014163450396154076
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 1,
+                    "utter": "おっけー！\n俺もいつでもどこでも！"
+                },
+                {
+                    "author": "did:plc:m5zuecb7ydpri3h3kwqxsksj",
+                    "type": 2,
+                    "utter": "そろそろピコパ不足🤯"
+                },
+                {
+                    "author": "did:plc:hdtuyekvdisijfqta6ydezu2",
+                    "type": 3,
+                    "utter": "わかるわかる\n楽しかったもんねぇ"
+                }
+            ],
+            "uri": "at://did:plc:hdtuyekvdisijfqta6ydezu2/app.bsky.feed.post/3leekcjuzt22e",
+            "label": [
+                0.9993459582328796,
+                9.328031592303887e-05,
+                0.00029007764533162117,
+                5.205981506151147e-05,
+                3.650346116046421e-05,
+                4.478725168155506e-05,
+                6.555858271894976e-05,
+                7.188921881606802e-05
+            ]
+        }
+    ]
+}

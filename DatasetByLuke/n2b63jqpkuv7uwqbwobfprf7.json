@@ -1,0 +1,874 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "やっぱ季節の変わり目は風邪引くねえ …"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "お前、また引いたンか!! 寝ろ寝56せや"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "うんもうバッチリ 。 高熱も出た 、 助けて欲しい (  ？  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7zupxjwc722",
+            "label": [
+                0.0012370384065434337,
+                0.8859613537788391,
+                0.0010537091875448823,
+                0.0013385764323174953,
+                0.0008153793751262128,
+                0.10532163828611374,
+                0.004076208919286728,
+                0.00019613889162428677
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "うんもうバッチリ 。 高熱も出た 、 助けて欲しい (  ？  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "相変わらずクソヨェェェェェなッ、薬は飲んだか？ 確り身体休めて確り寝56せや!! 水分忘れンなよ"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "本当にね … 風邪引きやすい体質で困っちゃう 。 今朝熱測ったら 40度だったわ … 確り水分取って寝ます 、 ありがとね (  ふふ  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3la3lklp7au23",
+            "label": [
+                0.0016792848473414779,
+                0.9898521304130554,
+                0.00047189841279760003,
+                0.000671232701279223,
+                6.921809836057946e-05,
+                0.00611594645306468,
+                0.001078785047866404,
+                6.152858259156346e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "本当にね … 風邪引きやすい体質で困っちゃう 。 今朝熱測ったら 40度だったわ … 確り水分取って寝ます 、 ありがとね (  ふふ  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "否、ンな所に顔だしてないで寝56せや、オラ横になれ!! マスク着けろ、周りにクソ菌撒き散らすなよ。\n水分は近くに用意しろ、ンで薬飲んだか？着替えも汗かいた時ように用意しとけ。わァッたな"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "寝すぎて寝れないのよ … あととても暇 。はあいママ 、 ちゃんとマスクして水分取ってお薬飲むよ … (   こくこく   )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3la3sdjlulj2p",
+            "label": [
+                0.0009476783452555537,
+                0.9961374402046204,
+                0.0006192213040776551,
+                0.0002392463939031586,
+                8.535215602023527e-05,
+                0.0007472213474102318,
+                0.0011856366181746125,
+                3.8235168176470324e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "寝すぎて寝れないのよ … あととても暇 。はあいママ 、 ちゃんとマスクして水分取ってお薬飲むよ … (   こくこく   )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "其れは分からなくもねェわ、体調崩したらキツくて寝れなくてついつい携帯触るけど暇だから来るところ決まるよな(笑)\n誰がママだ、ぶっ飛ばァァァァァす←\n良い子に寝56せ"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "そうなんだよねえ … 寝れなくなっちゃった 。 いやほんとそうなのよ (  笑  ) だってほぼママじゃん … 勝己ママ だね 。 ん 、 ちゃんと寝るよ 。"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3la44sezway2x",
+            "label": [
+                0.10746580362319946,
+                0.7529853582382202,
+                0.01258757896721363,
+                0.03234938904643059,
+                0.0029921524692326784,
+                0.07637164741754532,
+                0.012788987718522549,
+                0.0024589865934103727
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "そうなんだよねえ … 寝れなくなっちゃった 。 いやほんとそうなのよ (  笑  ) だってほぼママじゃん … 勝己ママ だね 。 ん 、 ちゃんと寝るよ 。"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "昨日は来れンかッたわ、ばんわ。\n体調はどォだ？ クソ生意気に悪化してねェだろォな？ だぁれがママだぶっ飛ばすぞゴラァ(笑)"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "撃沈してる 。 あ 、 でも今はまだマシな方 。 (  ぐっじょぶ   )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3ladbrm25ez2w",
+            "label": [
+                0.0002594070974737406,
+                0.9989157915115356,
+                0.00015219722990877926,
+                0.00010809941886691377,
+                5.811334995087236e-05,
+                0.000261075358139351,
+                0.00021764602570328861,
+                2.7727857741410844e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "早く夏にならないかな … (  遠い目  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "早いだろ← なったばっかだわ"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "既に夏が恋しいよ …… (  寸  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lcpissilgs2f",
+            "label": [
+                0.0035351330880075693,
+                0.9889440536499023,
+                0.004769540391862392,
+                0.00029832549626007676,
+                7.216263475129381e-05,
+                0.0010619846871122718,
+                0.0012327334843575954,
+                8.611256635049358e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "既に夏が恋しいよ …… (  寸  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "未だあと10ヶ月は先かもな"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "瀬呂くんは絶望しました 。 冬眠します 。"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lcprn6l2sc2g",
+            "label": [
+                0.0003601298085413873,
+                0.9986226558685303,
+                0.0002930888149421662,
+                0.00011796940816566348,
+                3.88839325751178e-05,
+                0.0003348127647768706,
+                0.00020251800015103072,
+                2.9967275622766465e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "瀬呂くんは絶望しました 。 冬眠します 。"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "すンな、これやるから(今食べ始めたウサギ林檎の煮えたぎったの渡し)"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ん …… ？ なんでうさぎの形した林檎が煮えたぎっちゃってんの …… ？？  (  混乱  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lcpsfscv6s2a",
+            "label": [
+                0.0006093477713875473,
+                0.0006958993035368621,
+                0.00044140289537608624,
+                0.9968683123588562,
+                0.0001851013075793162,
+                0.0009186756215058267,
+                0.00020253601542208344,
+                7.871120033087209e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "ん …… ？ なんでうさぎの形した林檎が煮えたぎっちゃってんの …… ？？  (  混乱  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "今、縁者の奴等と闇鍋しとってな。俺の具材がウサギ林檎だったからやる←"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "あら 、 楽しそうなことしてるねえ 。 …… 林檎は要らないけど (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lcpsnvmbs22j",
+            "label": [
+                0.991818904876709,
+                0.0012019466375932097,
+                0.003497839206829667,
+                0.0015834904043003917,
+                8.659331797389314e-05,
+                0.000871795229613781,
+                0.000641383056063205,
+                0.0002980677818413824
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "あら 、 楽しそうなことしてるねえ 。 …… 林檎は要らないけど (  笑  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "否食えやァァァァァ!! ほら、遠慮すンな"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "食べる前から分かってるじゃん 、 絶対美味しくないの …… (  顔顰めた  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lcpt2pf45c2y",
+            "label": [
+                0.002994501031935215,
+                0.9465654492378235,
+                0.0004571129393298179,
+                0.0007728253258392215,
+                0.0012569436803460121,
+                0.0174617487937212,
+                0.03022855333983898,
+                0.0002627971989568323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "朝から雪降ってるねえ … (   ⛄️  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "朝から雪だァ!? 俺のｲ固性が出にくくなる季節だな、アホ面に爆破噛ませなくなる。"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "そう 、 ずっと降ってる 。 寒い 。 ふは 、 可哀想だからやめたげて (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3ladbqfscsh2t",
+            "label": [
+                0.016437118873000145,
+                0.9076725244522095,
+                0.0018721906235441566,
+                0.00333432131446898,
+                0.00042808856233023107,
+                0.012474571354687214,
+                0.057381220161914825,
+                0.00039986424962989986
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "そう 、 ずっと降ってる 。 寒い 。 ふは 、 可哀想だからやめたげて (  笑  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "ずッと!? 俺がﾀﾋねるレベルじゃねェか"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "なんなら積もってるもん 。 ふは 、 そんなレベルなんだ (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3ladclpajyn2q",
+            "label": [
+                0.0029566162265837193,
+                0.002095023635774851,
+                0.0004712808004114777,
+                0.9918873906135559,
+                0.0001633316423976794,
+                0.0012734998017549515,
+                0.0009905085898935795,
+                0.00016234458598773926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "なんなら積もってるもん 。 ふは 、 そんなレベルなんだ (  笑  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "積も!? 積もってるだァァァァァ!? お、俺が動けなくなる"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "積もってるねえ … 今日も溶けてなかった 。さむい 。"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lag232hemg2g",
+            "label": [
+                0.00037643680116161704,
+                0.9954142570495605,
+                0.00019612825417425483,
+                0.00043040968012064695,
+                0.00012639693159144372,
+                0.0005277635646052659,
+                0.0028914385475218296,
+                3.7080837500980124e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "積もってるねえ … 今日も溶けてなかった 。さむい 。"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "日、跨いじまッたが返事させろ←\n常に雪降っとるイメージになるな、寒いのは風邪も引いとるからだわ、しっかり休み56せ。\n復帰したからッて気ぃ抜くなや"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "まあこの季節はねえ … ん 、 まだ後遺症 ( ？ ) 的なの残ってるけど 。 はいはい 、 分かりました (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3layeapuhec2h",
+            "label": [
+                0.34481683373451233,
+                0.5516400933265686,
+                0.00921150203794241,
+                0.004621026571840048,
+                0.0007680535200051963,
+                0.06172579899430275,
+                0.025484714657068253,
+                0.0017318911850452423
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "まあこの季節はねえ … ん 、 まだ後遺症 ( ？ ) 的なの残ってるけど 。 はいはい 、 分かりました (  笑  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "はよ、体調崩してねェかよ。\n因みに俺はこの間ﾀﾋにかけた位、激務してきたわ"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "あれから体調崩してないけど 、 何か … ちょっと色々あって大変だった 。 (  笑  )\n激務お疲れ様 、あらら … 今は大丈夫 ？"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3lbtrbg2fi22n",
+            "label": [
+                0.046883583068847656,
+                0.2897827923297882,
+                0.012926683761179447,
+                0.12599441409111023,
+                0.0008953416254371405,
+                0.5170624256134033,
+                0.004497846122831106,
+                0.0019569071009755135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "かっちゃんズ 、 ってなんか …… 可愛らしいなと思って …… (  笑  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "...可愛くはねェが、爆/勝とペアッぽいのは素直に...まァアレだ。"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "もう1人の爆豪と纏められてんの面白いなと思って 。 あら 、 嬉しいんだ ？ 素直じゃないねえ (  ほっこり  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7xvoipv4f2x",
+            "label": [
+                0.9996354579925537,
+                5.461390901473351e-05,
+                8.405146945733577e-05,
+                7.179451495176181e-05,
+                2.45181072386913e-05,
+                4.1024013626156375e-05,
+                5.0763275794452056e-05,
+                3.773302159970626e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "もう1人の爆豪と纏められてんの面白いなと思って 。 あら 、 嬉しいんだ ？ 素直じゃないねえ (  ほっこり  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "...彼奴と纏められるのは個人的に嬉しいが←素直\n彼奴に悪いとも感じるから出来りゃもっと格好いいのを希望する。例えばW大爆/殺_神ダイ:ナマイトとかよ"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "お 、素直 。 かっちゃんズの方が親しみやすさがあるけどねえ  (  ふふ  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7xwc4jcki2r",
+            "label": [
+                0.9995641112327576,
+                6.872582889627665e-05,
+                0.00010144782572751865,
+                0.00011375472968211398,
+                2.1184381694183685e-05,
+                3.652564191725105e-05,
+                5.114698433317244e-05,
+                4.29988322139252e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "お 、素直 。 かっちゃんズの方が親しみやすさがあるけどねえ  (  ふふ  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "だろォが、俺は常に素直だけどな。テメェには嘘なんざ意味ねェし、相手に見えてないから言いやすい←"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "確かに割と素直だよねえ … ふは 、意味無いんだ (  笑  ) 相手に見えてないなら確かに言いやすいかも 。"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3la3lm4t5d62r",
+            "label": [
+                0.5641695261001587,
+                0.00448822695761919,
+                0.3908891975879669,
+                0.028831342235207558,
+                0.0006078120786696672,
+                0.004824316129088402,
+                0.0024624266661703587,
+                0.0037271585315465927
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "確かに割と素直だよねえ … ふは 、意味無いんだ (  笑  ) 相手に見えてないなら確かに言いやすいかも 。"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "フンッ、相手が見てりゃ別だが...態々俺なンざの彼奴の自慢を見てたら逆に喜びで俺が卒倒するだけだわ。"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ふは 、 ちょっと待って 。 ポカリ鼻に入った 。卒倒するの ？ (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3la3seq4uoo2u",
+            "label": [
+                0.016035856679081917,
+                0.003489607945084572,
+                0.003311815671622753,
+                0.9451145529747009,
+                0.000322936539305374,
+                0.030667651444673538,
+                0.0007023086072877049,
+                0.00035526155261322856
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "11月の天気予報 、 早速雪マーク何個か付いてて笑っちゃった 。 もう冬だねえ 。"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "え、早くない??"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ほんと今年早いのよ 、 既に炬燵から出られなくなってる 。 (  寸  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7is2n732o2m",
+            "label": [
+                0.00322130648419261,
+                0.9285728335380554,
+                0.0007000119658187032,
+                0.0037731477059423923,
+                0.00027065110043622553,
+                0.06105860695242882,
+                0.002275529783219099,
+                0.0001278733543585986
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "ほんと今年早いのよ 、 既に炬燵から出られなくなってる 。 (  寸  )"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "炬燵…!!さすがにまだ出さなさそうだなぁ…"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "お 、 そっちはまだ暖かい方なの ？ (  首傾  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7islgu64z2g",
+            "label": [
+                0.0008537035319022834,
+                0.0003629259008448571,
+                0.0013990206643939018,
+                0.9967052340507507,
+                0.00013097518240101635,
+                0.00029090364114381373,
+                0.00015463674208149314,
+                0.00010263667354593053
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "お 、 そっちはまだ暖かい方なの ？ (  首傾  )"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "うん、こっちはまだ全然!!"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ふふ 、 そっか 。 なら良かった 。\n寒いの嫌だからねえ …"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7it65e3fe2a",
+            "label": [
+                0.9989846348762512,
+                0.00019859640451613814,
+                0.0004598575469572097,
+                0.00010180234676226974,
+                1.9324392269481905e-05,
+                7.905248639872298e-05,
+                0.00010581631067907438,
+                5.091794810141437e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "ふふ 、 そっか 。 なら良かった 。\n寒いの嫌だからねえ …"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "暑いのか寒いのかだったら、寒い方が好きだなぁ…"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "え 、 そうなの ？ なんか勝手に寒いの苦手だと思ってた …… (  吃驚  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7itty3hlq2e",
+            "label": [
+                0.00042388259316794574,
+                0.0003502659092191607,
+                0.0005122442380525172,
+                0.9978910088539124,
+                0.0002344669192098081,
+                0.00026711414102464914,
+                0.00020411910372786224,
+                0.00011697988520609215
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "え 、 そうなの ？ なんか勝手に寒いの苦手だと思ってた …… (  吃驚  )"
+                },
+                {
+                    "author": "did:plc:l7wxavhknlqaxwrqa7zurcqw",
+                    "type": 2,
+                    "utter": "寒いのは着込めばなんとかなる…!!\nあとはイベント多くて好き…(笑)\n冬の方が景色も綺麗だしね??"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ふふ 、確かにそうね 。 \n分かる … 寒いの苦手だけど冬は景色綺麗でいいよね 。 (  頷いた  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7jpnr4dii2a",
+            "label": [
+                0.9994112253189087,
+                5.41219997103326e-05,
+                0.00027968245558440685,
+                6.585807568626478e-05,
+                2.9397629987215623e-05,
+                4.15480972151272e-05,
+                5.744523150497116e-05,
+                6.067356662242673e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "11月の天気予報 、 早速雪マーク何個か付いてて笑っちゃった 。 もう冬だねえ 。"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "雪マーク付くの早いな、ハロウィンすら来てねェぞ"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ふふ 、ほんとにまだハロウィンすら来てないのにねえ 。 今年は寒くなるの早い 。 (  寸  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7iq3d2kpw2n",
+            "label": [
+                0.9893434047698975,
+                0.0032168047036975622,
+                0.0008133584633469582,
+                0.0035388160031288862,
+                8.707665983820334e-05,
+                0.0020224808249622583,
+                0.0007392595871351659,
+                0.00023883282847236842
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "ふふ 、ほんとにまだハロウィンすら来てないのにねえ 。 今年は寒くなるの早い 。 (  寸  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "ハロウィンと言えば、しょーゆは何かするのか？\nあっちで何かしても良いけどな"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "あ 、 そういえば何かしようかなって思ってたのに何も考えてなかった 。 あっちですんのもいいねえ … ちなみに爆豪は ？ なんかする予定あるの ？"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7iqhczdln2j",
+            "label": [
+                0.4319021999835968,
+                0.05508141964673996,
+                0.035744354128837585,
+                0.45548608899116516,
+                0.0008050816832110286,
+                0.014144929125905037,
+                0.004055440425872803,
+                0.002780498471111059
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "あ 、 そういえば何かしようかなって思ってたのに何も考えてなかった 。 あっちですんのもいいねえ … ちなみに爆豪は ？ なんかする予定あるの ？"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "ハロウィンは毎年、青/鳥で縁者の奴がお菓子くれとッたな。 俺事態は毎年なんもしねェ…でもしょーゆ達驚かす何かを考えとくかな。"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "へえ 、 お菓子貰ってたのね … 良いねえ 、ハロウィンっぽい 。 ふは 、 驚かす何かを考えるんだ ？"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7irc45lrd2m",
+            "label": [
+                0.7548749446868896,
+                0.0019461119081825018,
+                0.011026546359062195,
+                0.22963359951972961,
+                0.0003466708294581622,
+                0.0005501836421899498,
+                0.0007934799650683999,
+                0.0008284802315756679
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "へえ 、 お菓子貰ってたのね … 良いねえ 、ハロウィンっぽい 。 ふは 、 驚かす何かを考えるんだ ？"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "今年も配られたら貰ったら一緒に食わしたる(ニヤリ) 驚かし56して俺がTRICK1位になったる"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "え 、 良いの ？ じゃあ楽しみにしてよっと 。\nふは 、 相変わらず物騒 。 そんでTRICK1位って何 ？ (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7is54ztgg2a",
+            "label": [
+                0.1406591385602951,
+                0.007792075630277395,
+                0.30712491273880005,
+                0.5353497862815857,
+                0.0007385772769339383,
+                0.005200112238526344,
+                0.0014775870367884636,
+                0.0016577349742874503
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 1,
+                    "utter": "え 、 良いの ？ じゃあ楽しみにしてよっと 。\nふは 、 相変わらず物騒 。 そんでTRICK1位って何 ？ (  笑  )"
+                },
+                {
+                    "author": "did:plc:eqfesri4w6g6gm2tvhquok42",
+                    "type": 2,
+                    "utter": "菓子何がくッかなと毎年ワクワクしとる。\n悪戯でも俺がTOP？←"
+                },
+                {
+                    "author": "did:plc:n2b63jqpkuv7uwqbwobfprf7",
+                    "type": 3,
+                    "utter": "ふは 、 毎年ワクワクしてるんだ 。 \nなるほどね 、 常に向上心高くていいね (  笑  )"
+                }
+            ],
+            "uri": "at://did:plc:n2b63jqpkuv7uwqbwobfprf7/app.bsky.feed.post/3l7k6rmvhzc2u",
+            "label": [
+                0.994310736656189,
+                0.00016427166701760143,
+                0.001982705434784293,
+                0.003001191420480609,
+                7.855614239815623e-05,
+                0.00010203567217104137,
+                0.00014942791312932968,
+                0.00021104812913108617
+            ]
+        }
+    ]
+}

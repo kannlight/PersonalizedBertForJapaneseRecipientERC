@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "待てよ\n今日しか観れんか？"
+                },
+                {
+                    "author": "did:plc:otqim3di5ufqa5xwctaasa3t",
+                    "type": 2,
+                    "utter": "ぅむ"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "ﾏｼﾞｶﾖ"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbogthn2p22y",
+            "label": [
+                0.0027785440906882286,
+                0.004966025706380606,
+                0.0004749816725961864,
+                0.9703114032745361,
+                0.005777911748737097,
+                0.0023525503929704428,
+                0.01294206827878952,
+                0.0003964731586165726
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "ﾏｼﾞｶﾖ"
+                },
+                {
+                    "author": "did:plc:otqim3di5ufqa5xwctaasa3t",
+                    "type": 2,
+                    "utter": "(最悪今日2本DMMで見れなくもない)"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "ｳｫｰﾝ（今帰り際）"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbopri5pec2h",
+            "label": [
+                0.9882318377494812,
+                0.003330598585307598,
+                0.001410743105225265,
+                0.000884364708326757,
+                0.00021301451488398015,
+                0.0019306658068671823,
+                0.00332913501188159,
+                0.0006696563796140254
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "ｳｫｰﾝ（今帰り際）"
+                },
+                {
+                    "author": "did:plc:otqim3di5ufqa5xwctaasa3t",
+                    "type": 2,
+                    "utter": "無理しなくてもよろしなのでな…………"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "でも今からなら間に合うし観るぞ"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbos7wjmhc2h",
+            "label": [
+                0.002138543175533414,
+                0.00023450920707546175,
+                0.9971109628677368,
+                0.00013846867659594864,
+                9.581662743585184e-05,
+                0.00011734986037481576,
+                8.117895049508661e-05,
+                8.324494410771877e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "でも今からなら間に合うし観るぞ"
+                },
+                {
+                    "author": "did:plc:otqim3di5ufqa5xwctaasa3t",
+                    "type": 2,
+                    "utter": "(途中合流になりそうだけど一緒に見る？)"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "（Discord開けるかい？）（『』\n祈り』始まったばっかりや）"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbostsrurk2r",
+            "label": [
+                0.0013224967988207936,
+                0.0005035583162680268,
+                0.9976966977119446,
+                0.0001130424061557278,
+                6.255416519707069e-05,
+                0.00014582015865016729,
+                7.647693564649671e-05,
+                7.942444790387526e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "（Discord開けるかい？）（『』\n祈り』始まったばっかりや）"
+                },
+                {
+                    "author": "did:plc:otqim3di5ufqa5xwctaasa3t",
+                    "type": 2,
+                    "utter": "(飯食い終わったら仕掛けるから待ってて)"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "（ほいほい）"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbosvk67mk2r",
+            "label": [
+                0.003543337108567357,
+                0.0007003250648267567,
+                0.995192289352417,
+                0.00010738674609456211,
+                9.71699264482595e-05,
+                0.00013139983639121056,
+                0.00014550919877365232,
+                8.258170419139788e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "待てよ\n今日しか観れんか？"
+                },
+                {
+                    "author": "did:plc:7hdsgijz3wnwys6jmcasecq2",
+                    "type": 2,
+                    "utter": "2本とも23時59分までやぞ"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "終わった\nさよならお姉様"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbom4i37ss2y",
+            "label": [
+                0.1039903312921524,
+                0.8871049284934998,
+                0.0008905939175747335,
+                0.0014426512643694878,
+                0.0001475433964515105,
+                0.001528166700154543,
+                0.004563610069453716,
+                0.0003322092234157026
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "終わった\nさよならお姉様"
+                },
+                {
+                    "author": "did:plc:7hdsgijz3wnwys6jmcasecq2",
+                    "type": 2,
+                    "utter": "厳しい？"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "今帰ってるで"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lboq4hxyyc2h",
+            "label": [
+                0.9993234872817993,
+                0.00014238238509278744,
+                0.0001217456956510432,
+                6.310207390924916e-05,
+                2.8440161258913577e-05,
+                8.465776772936806e-05,
+                0.00017262839537579566,
+                6.359226244967431e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "今帰ってるで"
+                },
+                {
+                    "author": "did:plc:7hdsgijz3wnwys6jmcasecq2",
+                    "type": 2,
+                    "utter": "①が1時間ちょっと、②が2時間くらいだから、頑張れば観終えられると思う"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "ほう"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lboqk3eazc2h",
+            "label": [
+                0.9932281374931335,
+                0.0007980457157827914,
+                0.002108706394210458,
+                0.0028510885313153267,
+                9.835897799348459e-05,
+                0.00026781478663906455,
+                0.00042535903048701584,
+                0.00022251484915614128
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "ほう"
+                },
+                {
+                    "author": "did:plc:7hdsgijz3wnwys6jmcasecq2",
+                    "type": 2,
+                    "utter": "合計3時間くらいなので…"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "ほほーん"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbor4mncis2h",
+            "label": [
+                0.9989093542098999,
+                0.0001950903533725068,
+                0.00021876396203879267,
+                0.0002118158299708739,
+                3.56718992406968e-05,
+                6.827239849371836e-05,
+                0.0002719206386245787,
+                8.897099178284407e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 1,
+                    "utter": "ほほーん"
+                },
+                {
+                    "author": "did:plc:7hdsgijz3wnwys6jmcasecq2",
+                    "type": 2,
+                    "utter": "なのよ"
+                },
+                {
+                    "author": "did:plc:gewtujslg2rsppf27zy2vrap",
+                    "type": 3,
+                    "utter": "ほむほむ"
+                }
+            ],
+            "uri": "at://did:plc:gewtujslg2rsppf27zy2vrap/app.bsky.feed.post/3lbosavksok2h",
+            "label": [
+                0.9992740750312805,
+                0.00012184874503873289,
+                0.0003072138933930546,
+                6.794249202357605e-05,
+                3.262024620198645e-05,
+                3.767292946577072e-05,
+                0.0001090873047360219,
+                4.9445101467426866e-05
+            ]
+        }
+    ]
+}

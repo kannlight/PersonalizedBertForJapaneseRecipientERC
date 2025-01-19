@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "お疲れ様\n\nラーメンでも食べて帰るよ"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "おつかれ〜\n味噌ラーメン食べちゃお"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "味噌ラーメンあんま好きちゃうからなぁ"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbw4efdb5k2p",
+            "label": [
+                0.9981704950332642,
+                0.00045754676102660596,
+                0.0005301174824126065,
+                0.0002578705025371164,
+                5.615249392576516e-05,
+                0.00025416980497539043,
+                0.0001287599588977173,
+                0.0001449209521524608
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "何なんだろうこれ"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "えっ…自分で頼んだのに…？"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "覚えてなくない？"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbw6bjzfik2p",
+            "label": [
+                0.0427737832069397,
+                0.16190297901630402,
+                0.004783648531883955,
+                0.6905081868171692,
+                0.004809780512005091,
+                0.046151302754879,
+                0.04655260965228081,
+                0.0025177833158522844
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "覚えてなくない？"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "流石の短期記憶だなってなってる"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "必要なもののために温存してるんです\n記憶領域を"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbw6ff3ynk2p",
+            "label": [
+                0.002071729628369212,
+                0.0006238651694729924,
+                0.9963506460189819,
+                9.490457159699872e-05,
+                7.834292046027258e-05,
+                0.00046839870628900826,
+                0.0001347578945569694,
+                0.0001772913965396583
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "そういえば褒められて伸びるタイプなので褒めてください\n\n全てにおいてね"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "絵めっちゃかわいくてすごいしあちこち出かける行動力とか見習いたいしお仕事も頑張っててすごいし趣味をしっかり維持できてるのもすごい\n人との距離感も絶妙で感心するし努力を苦と思わずに日々インプットしてるのもめっちゃ尊敬する"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "いえーい✌️✌️\n\nベタ褒めありがとう〜\nやべえさんのダメージを気にせず懐に潜り込むタイプの距離感も私が出来ないから凄いと思いながら見てるよ"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbnsse2wbc2e",
+            "label": [
+                0.9995991587638855,
+                4.092682502232492e-05,
+                0.000109811284346506,
+                8.791012078290805e-05,
+                2.611198215163313e-05,
+                3.9605605707038194e-05,
+                4.541888120002113e-05,
+                5.1109764171997085e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "いえーい✌️✌️\n\nベタ褒めありがとう〜\nやべえさんのダメージを気にせず懐に潜り込むタイプの距離感も私が出来ないから凄いと思いながら見てるよ"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "あれ今上手いことダメ出しされてる？"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "それでこそやべえさんみたいなところあるからいいんじゃない？\n私は別にネガティブだと思ってないよ\nすごいな(皮肉でない)と思いながら見てる"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbnsyekko22e",
+            "label": [
+                0.5637608170509338,
+                0.0010217393282800913,
+                0.4198257327079773,
+                0.004029443021863699,
+                0.0015855372184887528,
+                0.000843426794745028,
+                0.0023900019004940987,
+                0.006543295923620462
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "それでこそやべえさんみたいなところあるからいいんじゃない？\n私は別にネガティブだと思ってないよ\nすごいな(皮肉でない)と思いながら見てる"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "マジ？へへへ…\nダマキさんも真似してくれていいよ"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "急に私がやったら嫌われそうで怖い！！！"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbnt5w6ifs2e",
+            "label": [
+                0.0006659645005129278,
+                0.0011459378292784095,
+                0.0008551671635359526,
+                0.0018937677377834916,
+                0.0005729111726395786,
+                0.9941710829734802,
+                0.00048183981562033296,
+                0.00021328470029402524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "急に私がやったら嫌われそうで怖い！！！"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "大丈夫大丈夫みんなダマキさんともっと仲良くしたいんだから"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "ほんとうにーー？？？？"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbnth7i4wk2e",
+            "label": [
+                0.00045474147191271186,
+                0.0005619839648716152,
+                0.0006254413165152073,
+                0.9973709583282471,
+                0.00024131829559337348,
+                0.0004268035991117358,
+                0.00022049401013646275,
+                9.837788820732385e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 1,
+                    "utter": "ほんとうにーー？？？？"
+                },
+                {
+                    "author": "did:plc:mv6ph2m2oct66bhsfxsw3juk",
+                    "type": 2,
+                    "utter": "マジマジ\nちょっと試しに誰かに急接近してみてよ\n多分大丈夫だから"
+                },
+                {
+                    "author": "did:plc:nejxfhj4ultji3vjtpliilms",
+                    "type": 3,
+                    "utter": "絶対大丈夫じゃないやつやん！！"
+                }
+            ],
+            "uri": "at://did:plc:nejxfhj4ultji3vjtpliilms/app.bsky.feed.post/3lbntkmllik2e",
+            "label": [
+                0.007276472635567188,
+                0.28959450125694275,
+                0.0031980096828192472,
+                0.34080901741981506,
+                0.04236025735735893,
+                0.2900690734386444,
+                0.025129511952400208,
+                0.0015631179558113217
+            ]
+        }
+    ]
+}

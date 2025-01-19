@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "とにかく来てみたけど、サムネお気に入り〜🫰"
+                },
+                {
+                    "author": "did:plc:f46atqwze53gq2nj3n2eqeaf",
+                    "type": 2,
+                    "utter": "玲央〜！"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "兄貴ーー！！(飛びつき"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmbpnojlph2n",
+            "label": [
+                0.9983447790145874,
+                0.000143484678119421,
+                0.0004897654871456325,
+                0.0005951132625341415,
+                0.00012117228470742702,
+                4.231621278449893e-05,
+                9.666530240792781e-05,
+                0.0001667417527642101
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "兄貴ーー！！(飛びつき"
+                },
+                {
+                    "author": "did:plc:f46atqwze53gq2nj3n2eqeaf",
+                    "type": 2,
+                    "utter": "玲央ー！(抱き締め"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "兄貴とこうやって話せて幸せ💞(ぎゅーっと抱きしめ"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmbqp4ncq72p",
+            "label": [
+                0.9996308088302612,
+                4.995530252926983e-05,
+                0.00010571322491159663,
+                5.344527744455263e-05,
+                2.7659065381158143e-05,
+                4.214950604364276e-05,
+                4.790945240529254e-05,
+                4.2340510844951496e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "兄貴とこうやって話せて幸せ💞(ぎゅーっと抱きしめ"
+                },
+                {
+                    "author": "did:plc:f46atqwze53gq2nj3n2eqeaf",
+                    "type": 2,
+                    "utter": "ほうやなぁ！俺もゴキケンさんや！(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "僕も、ごきげんさんだよ♡(強く抱きしめ"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmbzhzkeao2s",
+            "label": [
+                0.9995054006576538,
+                7.214287325041369e-05,
+                0.00019385175255592912,
+                4.421286575961858e-05,
+                2.7888003387488425e-05,
+                4.343042382970452e-05,
+                5.3174728236626834e-05,
+                5.995633182465099e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "僕も、ごきげんさんだよ♡(強く抱きしめ"
+                },
+                {
+                    "author": "did:plc:f46atqwze53gq2nj3n2eqeaf",
+                    "type": 2,
+                    "utter": "んー！ええ事や！"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "今日はお疲れ様〜兄貴！"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmcyfxzk7m26",
+            "label": [
+                0.999530553817749,
+                6.582230707863346e-05,
+                0.00011322339560138062,
+                8.20128625491634e-05,
+                3.093661507591605e-05,
+                3.3837499358924106e-05,
+                7.79958427301608e-05,
+                6.561779446201399e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "今日はお疲れ様〜兄貴！"
+                },
+                {
+                    "author": "did:plc:f46atqwze53gq2nj3n2eqeaf",
+                    "type": 2,
+                    "utter": "疲れたなぁ…"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "ちゃんと休んでね、兄貴！"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmfj3ncl3c2s",
+            "label": [
+                0.0028179839719086885,
+                0.11292567849159241,
+                0.7403432130813599,
+                0.004156044684350491,
+                0.09332127869129181,
+                0.01942187361419201,
+                0.02308661863207817,
+                0.003927319776266813
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "とにかく来てみたけど、サムネお気に入り〜🫰"
+                },
+                {
+                    "author": "did:plc:bzedm3dglwceyxbjacqksn7o",
+                    "type": 2,
+                    "utter": "玲央くん、いらっしゃい！サムネも相変わらずキミらしいね！"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "キュートでしょ？♡"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmbpny7dxl2p",
+            "label": [
+                0.9995449185371399,
+                4.782312680617906e-05,
+                0.00018160868785344064,
+                6.477421266026795e-05,
+                2.9814655135851353e-05,
+                4.0150811400962994e-05,
+                4.767112841363996e-05,
+                4.321737287682481e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "キュートでしょ？♡"
+                },
+                {
+                    "author": "did:plc:bzedm3dglwceyxbjacqksn7o",
+                    "type": 2,
+                    "utter": "嗚呼！キュートだね！"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "ありがとう😊"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmbqnkvbcn22",
+            "label": [
+                0.999638557434082,
+                4.9302827392239124e-05,
+                9.016651893034577e-05,
+                6.466786726377904e-05,
+                2.6534253265708685e-05,
+                3.925931378034875e-05,
+                4.8830122977960855e-05,
+                4.273026206647046e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "ありがとう😊"
+                },
+                {
+                    "author": "did:plc:bzedm3dglwceyxbjacqksn7o",
+                    "type": 2,
+                    "utter": "当然だよ！(｀･ω･´)ｷﾘｯ"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "善兄だ！！"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmc4jcufjh2s",
+            "label": [
+                0.9991040825843811,
+                8.528488251613453e-05,
+                0.00019948901899624616,
+                0.0001922769588418305,
+                7.468271360266954e-05,
+                4.2419742385391146e-05,
+                0.00010950816795229912,
+                0.00019227256416343153
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "善兄だ！！"
+                },
+                {
+                    "author": "did:plc:bzedm3dglwceyxbjacqksn7o",
+                    "type": 2,
+                    "utter": "そうだろうか？"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "そうだよ！！"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmc76c7xit2h",
+            "label": [
+                0.9876518249511719,
+                0.0003559121978469193,
+                0.006438992917537689,
+                0.003241591155529022,
+                0.0005961945280432701,
+                0.0001271805667784065,
+                0.0004728166968561709,
+                0.0011155373649671674
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "そうだよ！！"
+                },
+                {
+                    "author": "did:plc:bzedm3dglwceyxbjacqksn7o",
+                    "type": 2,
+                    "utter": "玲央くん、地震は大丈夫だったかな？"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "大丈夫だったよ〜♪善兄は大丈夫だった？"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmcyglfa5g22",
+            "label": [
+                0.9988380074501038,
+                8.258307207142934e-05,
+                0.00039701859350316226,
+                0.00011652678222162649,
+                3.438112617004663e-05,
+                0.0003246689448133111,
+                7.119580550352111e-05,
+                0.00013568023859988898
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "可愛い結ちゃんだぁ♪よろしくね♥️"
+                },
+                {
+                    "author": "did:plc:ijtxrpuvzdbcomp3eh3m3szi",
+                    "type": 2,
+                    "utter": "玲央のお姉ちゃん！よろしく😊🙏"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "お姉ちゃん…？"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmhkgbm3i526",
+            "label": [
+                0.0008097582613117993,
+                0.0002889827301260084,
+                0.0008814304019324481,
+                0.9973357319831848,
+                0.00015131832333281636,
+                0.00024431615020148456,
+                0.0001763000327628106,
+                0.00011209079821128398
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "お姉ちゃん…？"
+                },
+                {
+                    "author": "did:plc:ijtxrpuvzdbcomp3eh3m3szi",
+                    "type": 2,
+                    "utter": "( ˙꒳˙ )ゞｳｲｯお姉ちゃんであります！"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "なんで？僕男だよ？"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmjlgcqi6b2v",
+            "label": [
+                0.0004310944932512939,
+                0.0013263362925499678,
+                0.00035154688521288335,
+                0.9963968396186829,
+                0.0005083957221359015,
+                0.0005084114382043481,
+                0.0003825420280918479,
+                9.473859972786158e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "なんで？僕男だよ？"
+                },
+                {
+                    "author": "did:plc:ijtxrpuvzdbcomp3eh3m3szi",
+                    "type": 2,
+                    "utter": "んー？そんな感じだったから？かな？"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "…あ！キュートって事だね？"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmmkoz55wl2p",
+            "label": [
+                0.980485200881958,
+                0.0005681898910552263,
+                0.010547252371907234,
+                0.006970340386033058,
+                0.00019793541287072003,
+                0.0001457963662687689,
+                0.00043787347385659814,
+                0.0006473881076090038
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 1,
+                    "utter": "…あ！キュートって事だね？"
+                },
+                {
+                    "author": "did:plc:ijtxrpuvzdbcomp3eh3m3szi",
+                    "type": 2,
+                    "utter": "そうだね！💕︎キュートだね💕︎"
+                },
+                {
+                    "author": "did:plc:cfpwphjbkdxmirkn5ywmdohu",
+                    "type": 3,
+                    "utter": "やったね！僕は天使でもあるし、悪魔でもあるよ？💕︎"
+                }
+            ],
+            "uri": "at://did:plc:cfpwphjbkdxmirkn5ywmdohu/app.bsky.feed.post/3kmqhqr3vrj2p",
+            "label": [
+                0.9995861649513245,
+                5.430034070741385e-05,
+                0.00013962015509605408,
+                7.156716310419142e-05,
+                2.6733923732535914e-05,
+                3.7520741898333654e-05,
+                4.37708331446629e-05,
+                4.040811472805217e-05
+            ]
+        }
+    ]
+}

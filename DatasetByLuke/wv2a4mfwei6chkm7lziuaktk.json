@@ -1,0 +1,394 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "たまに動かすと良いですよ、エックスも"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "たまにですかぃ…w\n一応、見てはいるんですけどね、見ては…"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "一番は同時利用てすけど"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3lbtk5httu22c",
+            "label": [
+                0.8998875021934509,
+                0.0035083782859146595,
+                0.08551013469696045,
+                0.0016003460623323917,
+                0.0011356424074620008,
+                0.0020280620083212852,
+                0.00301475846208632,
+                0.0033152319956570864
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "一番は同時利用てすけど"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "と、言いますか、変なテコ入れと改悪とかがなければ、Ｘが良いんです…\nいや、私にはどうでしょうね…w"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "これからも改悪はあるとおもいますから"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3lbtv5vbevs2c",
+            "label": [
+                0.026332026347517967,
+                0.017944812774658203,
+                0.6208622455596924,
+                0.00043237561476416886,
+                0.003440653206780553,
+                0.31195294857025146,
+                0.014383873902261257,
+                0.004651032388210297
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "これからも改悪はあるとおもいますから"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "もはや、鈴の実さんも改良とは思っていない件についてw\n日本人の半分がいたバベルの塔も、終わりの時ですかねぇ…\nそして言葉（SNS）が判断されると…"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "アップデートなんて大抵改悪なんです\n何処も"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3lbtvfz7dpk2e",
+            "label": [
+                0.00610043341293931,
+                0.5601122379302979,
+                0.0017603033920750022,
+                0.0009762783301994205,
+                0.002716252114623785,
+                0.008001914247870445,
+                0.4195418655872345,
+                0.0007907628896646202
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "アップデートなんて大抵改悪なんです\n何処も"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "いずれここも、床板が腐るのかなぁ…？"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "長く続けはばいずれはそうなるでしょうね"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3lbtwe24ehk2g",
+            "label": [
+                0.3543762266635895,
+                0.015443364158272743,
+                0.584369421005249,
+                0.0016994373872876167,
+                0.0007243822910822928,
+                0.036185190081596375,
+                0.0034322196152061224,
+                0.003769748145714402
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "Xでも伝えましたが\npcが壊れました\nブルスク、グリーンスクリーン等々でましたねー\n何も出来ない"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "ありゃあ…　スマホで何か描けないものですかね？\nじゃなければ思い切って、映画とかでネタとかセリフ回しの勉強？"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "スマホは過去にやりました\n合いませんでした\n暫くは何も出来ないですね\n干し芋とかくれば早くはなりますが"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3leguzghh322a",
+            "label": [
+                0.00016302758012898266,
+                0.9982894062995911,
+                0.00025037844898179173,
+                0.00012991979019716382,
+                8.501784031977877e-05,
+                0.0006090144743211567,
+                0.00043922639451920986,
+                3.393131555640139e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "スマホは過去にやりました\n合いませんでした\n暫くは何も出来ないですね\n干し芋とかくれば早くはなりますが"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "描けりゃ何でも良いって訳には行きませんか…\n辛そうだなぁ…"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "創作できないのがつまらないし\n報告する事も出すことも出来ないので\nまぁXとブルースカイは\n動かなくなりますね"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3legvramm722v",
+            "label": [
+                0.0006038069259375334,
+                0.9981344938278198,
+                0.000283347733784467,
+                0.00011491678014863282,
+                5.3113144531380385e-05,
+                0.00017834561003837734,
+                0.0005955772357992828,
+                3.627251862781122e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "創作できないのがつまらないし\n報告する事も出すことも出来ないので\nまぁXとブルースカイは\n動かなくなりますね"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "世間話とか…\nでも、私だってPCが壊れたら最優先だからなぁ…\n\nWindows11の問題、どうしよ？"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "買い直すしか無いですよ"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3legw4qehic2v",
+            "label": [
+                0.0006091350805945694,
+                0.9959982633590698,
+                0.001198618090711534,
+                0.0001771548413671553,
+                0.00014781484787818044,
+                0.0010836030123755336,
+                0.0007219922263175249,
+                6.348398892441764e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "買い直すしか無いですよ"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "う〜ん…　OSを別のものにするって選択肢もありますからねぇ。\nUbuntuなら、Windowsとそんなに操作性は変わりませんし…\n\nでも、決定的には違うからなぁ…"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "互換大丈夫ならOSだけでいけますからね"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3legwjnt6cc2c",
+            "label": [
+                0.004144342616200447,
+                0.0002800908696372062,
+                0.9949454665184021,
+                0.00010874692088691518,
+                7.944500976009294e-05,
+                0.0001968645374290645,
+                0.0001095432962756604,
+                0.00013540950021706522
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "互換大丈夫ならOSだけでいけますからね"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "Voicevoxは行けましたっけ？　Linux。\nVoicePeakは行けるんですよね。\n駄目なのはVOICEROIDかぁ…"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "そこら辺は私はわかりませんねー"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3legwqclsbk2o",
+            "label": [
+                0.5664243698120117,
+                0.0965433418750763,
+                0.004410974215716124,
+                0.00261736405082047,
+                0.0009918604046106339,
+                0.31572800874710083,
+                0.01029862929135561,
+                0.002985390368849039
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "Xでも、そう言われましたね\nもち子さんの服ですねー"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "やっぱりもち子さんのでしたかw\n最近、こっちじゃ静かになっちゃいましたねぇ、もち子さん…"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "他の方に着せたの書けっていってましたから\n書きました"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3le5zlupzns2i",
+            "label": [
+                0.8628813624382019,
+                0.0006023862515576184,
+                0.1344960331916809,
+                0.0004009934200439602,
+                0.0002404021070105955,
+                0.00037684576818719506,
+                0.00048349020653404295,
+                0.0005185040063224733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "他の方に着せたの書けっていってましたから\n書きました"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "確かに、イタコさんならサイズは合うはず…\nあれ？　そう言えばもち子さんって、すごく小さかった気が…w\n142cm!?\nきりたんと７cmしか違わねぇ！w"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "正直あれだけ小さいのに\n足太いのって…とか思ってたりします"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3le5zutsqbc2g",
+            "label": [
+                0.04159208759665489,
+                0.06059887632727623,
+                0.0018317743670195341,
+                0.027011239901185036,
+                0.0011325622908771038,
+                0.8252089619636536,
+                0.0406368263065815,
+                0.001987716183066368
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "正直あれだけ小さいのに\n足太いのって…とか思ってたりします"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "正直、ウェストを隠したら、ぽっちゃりさんに見えそうですねぇ…w\nそれであのスリーサイズなら、そりゃ土偶って言われるわ…(ﾎﾞｿｯ"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "あ〜なるほどそれで…"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3le6262adi22h",
+            "label": [
+                0.14906875789165497,
+                0.0035150323528796434,
+                0.021546101197600365,
+                0.8204100131988525,
+                0.0006731310859322548,
+                0.0011691019171848893,
+                0.0018541247118264437,
+                0.0017637641867622733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 1,
+                    "utter": "あ〜なるほどそれで…"
+                },
+                {
+                    "author": "did:plc:ocgtlw3edycg725a7sqdpfd3",
+                    "type": 2,
+                    "utter": "納得しちゃったよ…w\n絵師さんと話してると、そろそろ何か…　って気になってきたなぁ…\nまだ小康状態かもしれないけど。"
+                },
+                {
+                    "author": "did:plc:wv2a4mfwei6chkm7lziuaktk",
+                    "type": 3,
+                    "utter": "気が向いたら書くといいですよ"
+                }
+            ],
+            "uri": "at://did:plc:wv2a4mfwei6chkm7lziuaktk/app.bsky.feed.post/3le62cqlap224",
+            "label": [
+                0.002409508917480707,
+                0.00022423725749831647,
+                0.9967879056930542,
+                0.00013419003516901284,
+                9.371503256261349e-05,
+                0.00013939802011009306,
+                9.889873035717756e-05,
+                0.00011227693175897002
+            ]
+        }
+    ]
+}

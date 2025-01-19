@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "ｶﾞｵｰ"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "わぁぁーー！！(往復ビンタw)"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "ﾌﾍﾞｯ\nひどくないかい!!!??ホントに噛んじゃうぞ"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3lbnuft4cjs2h",
+            "label": [
+                0.0016562831588089466,
+                0.0030224877409636974,
+                0.0012362695997580886,
+                0.9162977933883667,
+                0.003642226569354534,
+                0.07196429371833801,
+                0.0017640864243730903,
+                0.0004165629216004163
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "ﾌﾍﾞｯ\nひどくないかい!!!??ホントに噛んじゃうぞ"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "あ...()\nテヘペロ(´>ω∂`)w"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "……………………\nｶﾞﾌﾞｧ!!!!!"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3lborelvs422x",
+            "label": [
+                0.008780495263636112,
+                0.8973524570465088,
+                0.0010955900652334094,
+                0.07878843694925308,
+                0.0014641250018030405,
+                0.0065505169332027435,
+                0.005617132410407066,
+                0.00035132045741192997
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "……………………\nｶﾞﾌﾞｧ!!!!!"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "ふんっ！！！\nｶｷｰﾝ！(パリィ音w)"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "牙はなぁ!\n上下に1列ずつあるんだよ!!!!!(下顎吹き飛んだまま上顎の牙を突き刺しにかかる)"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3lborjuov2s2a",
+            "label": [
+                0.1469174027442932,
+                0.051326826214790344,
+                0.08191541582345963,
+                0.5308300852775574,
+                0.09511057287454605,
+                0.06630661338567734,
+                0.011493334546685219,
+                0.016099711880087852
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "牙はなぁ!\n上下に1列ずつあるんだよ!!!!!(下顎吹き飛んだまま上顎の牙を突き刺しにかかる)"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "こっちには足だってあるんだよぉ！！\n(刺さってだばぁーってなりながら蹴りあげるww)"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "ぐえっ\n普通の相手なら両顎なくなっとるぞ全くもう(生えてくる顎)"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3lbors2ykps2k",
+            "label": [
+                0.005400218069553375,
+                0.390402615070343,
+                0.0018777652876451612,
+                0.17770346999168396,
+                0.01992782950401306,
+                0.3904631435871124,
+                0.0128670958802104,
+                0.0013578146463260055
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "カツ丼だったら「また捕まって取調中か」って言ってた"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "残念でーしたw"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "よし、カツ丼口に詰め込むか("
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3kuptbjkakr2g",
+            "label": [
+                0.006706958636641502,
+                0.000617520825471729,
+                0.9920016527175903,
+                0.00013963379024062306,
+                8.181176235666499e-05,
+                0.00022137933410704136,
+                0.0001350138772977516,
+                9.590778063284233e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "よし、カツ丼口に詰め込むか("
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "なぜ！！？w"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "取り調べにカツ丼って付きものじゃん?\n実際のとこ、取り調べる側が奢るとダメなんだけど。"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3kuq6s4f4n62u",
+            "label": [
+                0.0632985457777977,
+                0.00865598302334547,
+                0.007618424482643604,
+                0.8494436740875244,
+                0.007420207839459181,
+                0.009763460606336594,
+                0.04772399738430977,
+                0.006075732409954071
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "取り調べにカツ丼って付きものじゃん?\n実際のとこ、取り調べる側が奢るとダメなんだけど。"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "おごってぇーw"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "ダメ！このカツ丼はあたいの！！"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3kuqkp3zulr2a",
+            "label": [
+                0.0018550533568486571,
+                0.9657388925552368,
+                0.00048777033225633204,
+                0.0033510206267237663,
+                0.0005936948582530022,
+                0.004062141291797161,
+                0.023714933544397354,
+                0.00019642406550701708
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 1,
+                    "utter": "ダメ！このカツ丼はあたいの！！"
+                },
+                {
+                    "author": "did:plc:dxa4g6im5x7mppcflgco3lup",
+                    "type": 2,
+                    "utter": "ガシッ！w"
+                },
+                {
+                    "author": "did:plc:ppr73n34ktvmo4qxxfuzvoq3",
+                    "type": 3,
+                    "utter": "やっ！！！！！(ブンブン)"
+                }
+            ],
+            "uri": "at://did:plc:ppr73n34ktvmo4qxxfuzvoq3/app.bsky.feed.post/3kuqnl6ceab2l",
+            "label": [
+                0.9354989528656006,
+                0.000723987293895334,
+                0.0023573206271976233,
+                0.05989528447389603,
+                0.00043158381595276296,
+                0.00016644957941025496,
+                0.00041100874659605324,
+                0.0005153174861334264
+            ]
+        }
+    ]
+}

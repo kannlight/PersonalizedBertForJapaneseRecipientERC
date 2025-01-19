@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "どんなチクチク言葉だよww"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "だってそう思ってしまったんだもの………w"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "リアルに想像してそうｗ"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3lbix5xrrie2r",
+            "label": [
+                0.513403594493866,
+                0.003010194282978773,
+                0.35647934675216675,
+                0.07592905312776566,
+                0.000929342582821846,
+                0.04161927476525307,
+                0.005304089281708002,
+                0.0033250628039240837
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "リアルに想像してそうｗ"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "そんなことないっすよーw"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "でもなんかちょっと好みっぽそうだしｗ"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3lbj62umcbs24",
+            "label": [
+                0.022634798660874367,
+                0.00042013658094219863,
+                0.9758529663085938,
+                0.00024302452220581472,
+                0.00014489736349787563,
+                0.00033936655381694436,
+                0.0002024927962338552,
+                0.00016234499344136566
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "でもなんかちょっと好みっぽそうだしｗ"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "ただの幼馴染だよ！！\n若干ショタコンの気があるけどね！！"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "ショタコン同士！？"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3lbjopekhsp24",
+            "label": [
+                0.001321375835686922,
+                0.0002683187776710838,
+                0.0011720308102667332,
+                0.9964970946311951,
+                0.00020159261475782841,
+                0.00019552989397197962,
+                0.0001931993756443262,
+                0.00015082470781635493
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "ショタコン同士！？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "ガチのショタコンじゃないしおまけにホモじゃないし……ね？"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "かもしんないよ・・・？"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3lbjt3muidq2r",
+            "label": [
+                0.06832900643348694,
+                0.009802768938243389,
+                0.8434666395187378,
+                0.006344130262732506,
+                0.0002668515080586076,
+                0.070222869515419,
+                0.0007505163666792214,
+                0.000817272171843797
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "頭ぶつけた？？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "いつもぶつけてるわ！！！；；"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "もっと上を見て歩いて！！"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3ler5lii2fs26",
+            "label": [
+                0.00041663306183181703,
+                0.00020378715998958796,
+                0.9989263415336609,
+                0.00016705351299606264,
+                9.233968012267724e-05,
+                6.467032653745264e-05,
+                6.287028372753412e-05,
+                6.626173126278445e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "もっと上を見て歩いて！！"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "背が高いと自然と下向きになるんだよ…w"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "じゃあぶつけるしかないね・・・"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3ler6uqzufs26",
+            "label": [
+                0.011949639767408371,
+                0.2029300481081009,
+                0.2668059170246124,
+                0.0038874601013958454,
+                0.002359521808102727,
+                0.505484402179718,
+                0.005276003386825323,
+                0.0013070000568404794
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "じゃあぶつけるしかないね・・・"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "いやです；；"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "んじゃあ上見よ？"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3leraswjqkc26",
+            "label": [
+                0.004554755054414272,
+                0.0003190785355400294,
+                0.994515597820282,
+                0.00017373761511407793,
+                0.00010990093869622797,
+                0.00012239028001204133,
+                0.00010779110016301274,
+                9.669180144555867e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 1,
+                    "utter": "んじゃあ上見よ？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 2,
+                    "utter": "上見てたらゆーたさんのこと視界に入らなくなる…；；"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 3,
+                    "utter": "あ゙あ゙あ゙あ゙あ゙あ゙ん！？！？"
+                }
+            ],
+            "uri": "at://did:plc:qwndaltjeqh6caz4llvbvoch/app.bsky.feed.post/3letwvxrnqc26",
+            "label": [
+                0.0005945136654190719,
+                0.00036300570354796946,
+                0.00058837077813223,
+                0.9976491332054138,
+                0.00028835819102823734,
+                0.00021829927572980523,
+                0.00018771164468489587,
+                0.00011054590140702203
+            ]
+        }
+    ]
+}

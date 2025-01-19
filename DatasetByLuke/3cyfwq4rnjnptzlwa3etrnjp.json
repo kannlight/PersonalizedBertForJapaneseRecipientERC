@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "みんなこの時期は忙しいな💦無理をしてはいけない。まるたまは優し過ぎるからな…"
+                },
+                {
+                    "author": "did:plc:lr6ck7ahkeopknzh2vznfrxi",
+                    "type": 2,
+                    "utter": "そうですねえ。いや優しい人はこんなことでブチ切れませんよ笑"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "いや、今回だけの事で言ってる訳じゃなく…他の方への対応の仕方とか見てて思った。気遣いというか✨"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lbtcnxcinc2w",
+            "label": [
+                0.9992052912712097,
+                5.277556920191273e-05,
+                0.00014841316442470998,
+                0.00020759193284902722,
+                5.996737672830932e-05,
+                4.06191247748211e-05,
+                0.00011397588241379708,
+                0.00017137991380877793
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "いや、今回だけの事で言ってる訳じゃなく…他の方への対応の仕方とか見てて思った。気遣いというか✨"
+                },
+                {
+                    "author": "did:plc:lr6ck7ahkeopknzh2vznfrxi",
+                    "type": 2,
+                    "utter": "え？他の人…？どんな対応だろう…でも皆が優しくしてくれるからね。それはこちらも丁寧にしますよ勿論。(雑な時もある)(ごんばこさんとか)"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "いやいやいや、ごんたまに対してもとても優しいなと私は感じている。対応に差がないって結構難しい事だよ。"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lbtdfdadhc2w",
+            "label": [
+                0.7943128943443298,
+                0.0013721726136282086,
+                0.0032314294949173927,
+                0.1868014931678772,
+                0.0014004885451868176,
+                0.0013278084807097912,
+                0.002676883013918996,
+                0.008876907639205456
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "いやいやいや、ごんたまに対してもとても優しいなと私は感じている。対応に差がないって結構難しい事だよ。"
+                },
+                {
+                    "author": "did:plc:lr6ck7ahkeopknzh2vznfrxi",
+                    "type": 2,
+                    "utter": "お？そ、そか……なんか照れますね。\n草花さんが不快に思ってないのならよかったよ🌻"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "不快なんて感じた事ないし、対応がとても大人だ✨草花も見習わネバダww"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lbthd64mqs2w",
+            "label": [
+                0.9991932511329651,
+                5.265945219434798e-05,
+                0.0001426552189514041,
+                0.00031919096363708377,
+                5.146309922565706e-05,
+                3.983949500252493e-05,
+                8.103434811346233e-05,
+                0.00011990500206593424
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "不快なんて感じた事ないし、対応がとても大人だ✨草花も見習わネバダww"
+                },
+                {
+                    "author": "did:plc:lr6ck7ahkeopknzh2vznfrxi",
+                    "type": 2,
+                    "utter": "それはよかった😌あんしんしました…🌻\n突然のネバダに笑ってるwww"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "ネバダから来ています…"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lbtjsngifs2w",
+            "label": [
+                0.27915844321250916,
+                0.48729845881462097,
+                0.0578702874481678,
+                0.008865989744663239,
+                0.0010086706606671214,
+                0.15391205251216888,
+                0.009156249463558197,
+                0.0027298624627292156
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "コレ、分かる❗️長ければ縛っちゃえば解決するけど…短いと縛れないし寝癖ってしぶといもんね💦頑張れ、ばぢ🤣‼️"
+                },
+                {
+                    "author": "did:plc:4jayjonlzeh3bkxhlcacwvyr",
+                    "type": 2,
+                    "utter": "と、ゆ〜コトゎ、草花たまゎ、髪の毛が長い、と…✍️🤗有益な情報GETだじぇ✊🎶ごんゎ、髪の毛がみぢかいカラ、ちぷのキモチがよく分かるニョ🥹‪🥹‪後ろ髪についてる寝癖ってナカナカ気付かないのんょなぁ🥹🥹"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "今はセミロで少し前はばぢ位長かったよ🔆"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3ldrw2ej3gs2d",
+            "label": [
+                0.7354447245597839,
+                0.006106259301304817,
+                0.006324943155050278,
+                0.24383103847503662,
+                0.0008544750744476914,
+                0.0032929708249866962,
+                0.0017774997977539897,
+                0.002368133282288909
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "今はセミロで少し前はばぢ位長かったよ🔆"
+                },
+                {
+                    "author": "did:plc:4jayjonlzeh3bkxhlcacwvyr",
+                    "type": 2,
+                    "utter": "キャーッ🎶💓新鮮な現在の草花たまの情報ゲト🎶💓セミロもロングも似合うステチな女性♡なんだろぉナ🎶ナ🎶"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "あ、なんかいけたから送ったよー🔆ミラクルクソババアだから…そこはゴメン💦"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3ldsedmqhqc2d",
+            "label": [
+                0.9994931221008301,
+                0.0001062636511051096,
+                8.078101382125169e-05,
+                6.041857704985887e-05,
+                2.0431651137187146e-05,
+                0.00011508571333251894,
+                7.65067306929268e-05,
+                4.741693555843085e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "あ、なんかいけたから送ったよー🔆ミラクルクソババアだから…そこはゴメン💦"
+                },
+                {
+                    "author": "did:plc:4jayjonlzeh3bkxhlcacwvyr",
+                    "type": 2,
+                    "utter": "く、く、くさばなたままま？！？！🫨🫨だめだめだめ！！！！🫨🫨ジブンの大切なおかおをネッツなどにアゲちゃダメょ！！！！🫨🫨もしごんが変なアカウンコに乗っ取られて悪用されたらどうするのぉ゙ン゙！！😭😭えっくすクンなんかもぉ゙信用ならないンだヵㇻァ゙！！😭😭(Ｘ側から消される発言)草花たま、自分ウォだいぢにしてェ！！😭😭\nごんまだ、見てないカラ、けしけししなさい！！😭😭草花たまの大切なお顔が悪用されたらやだよう！！😭😭\nお顔は実際に合うトキの楽しみにとっておくのょ！！ネ゙！！🫂🫂💓💓ﾁｭ!💋💋(どさくさに紛れてKISS)"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "未読なら私が削除すれば大丈夫なのかしら⁉️"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3ldt4m2m3sc2d",
+            "label": [
+                0.05960668623447418,
+                0.0012383355060592294,
+                0.9099432826042175,
+                0.021458687260746956,
+                0.0002823183895088732,
+                0.006151176523417234,
+                0.0003283167025074363,
+                0.0009911919478327036
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "未読なら私が削除すれば大丈夫なのかしら⁉️"
+                },
+                {
+                    "author": "did:plc:4jayjonlzeh3bkxhlcacwvyr",
+                    "type": 2,
+                    "utter": "そうょそうょ🫂👏えっくすクンは今や安全な場所でゎないヵㇻ油断ゎ、禁物ゎょ😠😠(他のSNSもそうカモだ㌔…🫢🫢)\n草花たまのうつくしお姿ゎ、いずれ東京で、この目で、拝見いたしたいゎょぇ…🤗🤗💓💓"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "美しくはないのだが…とんだ期待外れになる可能性大💔私もごんたまにお会いしてみたいけど、とても細くて体力的に心配とまるたまから伺っているので無理はして欲しくないジレンマ😭💦"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3ldt5aszf4s2d",
+            "label": [
+                0.0018913529347628355,
+                0.00849982164800167,
+                0.0018371999030932784,
+                0.0005079639959149063,
+                0.0002635020937304944,
+                0.9860450625419617,
+                0.0007508682319894433,
+                0.00020413253514561802
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "なんだ、そうだったの😳⁉️コラボだからって値上げしてただけか💦高過ぎて行けない💔って同行者と言ってました…"
+                },
+                {
+                    "author": "did:plc:wgvv7ie6jbead4o232ysiulr",
+                    "type": 2,
+                    "utter": "ぜひ何もコラボってないときに行ってみてください✨\n烏龍茶チーズケーキ、オススメです🧀🫖🫧"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "2月に横浜来るなら…お会いしたいものですが🔆また、お忙しいスケジュールなのかな💦"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lchdkavam22u",
+            "label": [
+                0.00884245615452528,
+                0.6713533401489258,
+                0.31584906578063965,
+                0.0007043681107461452,
+                0.00017913547344505787,
+                0.0019399657612666488,
+                0.0007698372937738895,
+                0.00036182356416247785
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "2月に横浜来るなら…お会いしたいものですが🔆また、お忙しいスケジュールなのかな💦"
+                },
+                {
+                    "author": "did:plc:wgvv7ie6jbead4o232ysiulr",
+                    "type": 2,
+                    "utter": "貧乏性なのですぐに予定を詰め詰めにしてしまいました😣\n残念ッ😭😭😭"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "やはりそうですよね💔"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lchumo7q6s2u",
+            "label": [
+                0.9303774833679199,
+                0.002387364860624075,
+                0.05188528075814247,
+                0.006240101996809244,
+                0.0008602848392911255,
+                0.0013800085289403796,
+                0.0011705872602760792,
+                0.005698901601135731
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 1,
+                    "utter": "やはりそうですよね💔"
+                },
+                {
+                    "author": "did:plc:wgvv7ie6jbead4o232ysiulr",
+                    "type": 2,
+                    "utter": "友情羅威舞は行かれないんですか？"
+                },
+                {
+                    "author": "did:plc:3cyfwq4rnjnptzlwa3etrnjp",
+                    "type": 3,
+                    "utter": "行かないですね💔"
+                }
+            ],
+            "uri": "at://did:plc:3cyfwq4rnjnptzlwa3etrnjp/app.bsky.feed.post/3lcjto6papk2u",
+            "label": [
+                0.7888750433921814,
+                0.044288698583841324,
+                0.05427326634526253,
+                0.00470570707693696,
+                0.0015568789094686508,
+                0.024465292692184448,
+                0.0728072077035904,
+                0.00902791228145361
+            ]
+        }
+    ]
+}

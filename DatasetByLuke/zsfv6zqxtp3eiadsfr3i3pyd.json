@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "あそこ「今だけ」って言いながら年がら年中プレミアムの割引勧誘してるなって思った"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "わかる。めっちゃ来る。"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "夏頃から体感的に、割引が終わった翌週にまた割引キャンペーンやってるイメージ"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3lbted6l34s2o",
+            "label": [
+                0.4444149136543274,
+                0.0006316635990515351,
+                0.5253369808197021,
+                0.01873166672885418,
+                0.0012386506423354149,
+                0.0023591325152665377,
+                0.0020895565394312143,
+                0.005197395104914904
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "夏頃から体感的に、割引が終わった翌週にまた割引キャンペーンやってるイメージ"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "前はひっそりとしてたのに、今だと全面的に課金させようとしてきて萎えちゃう。"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "課金する事のメリットが格段に多いんなら悪くはないんだけど、活動スタイルに対して得られる部分があまりに無さ過ぎるから勧誘がノイズ過ぎる"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3lbteq2dhns2y",
+            "label": [
+                0.004199840594083071,
+                0.004259827546775341,
+                0.0015366380102932453,
+                0.0014802018413320184,
+                0.0022255657240748405,
+                0.0018521776655688882,
+                0.9837836623191833,
+                0.0006619879277423024
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "課金する事のメリットが格段に多いんなら悪くはないんだけど、活動スタイルに対して得られる部分があまりに無さ過ぎるから勧誘がノイズ過ぎる"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "分かる。今じゃ課金=インプレッションで金稼ぎみたいなイメージもついちゃったし、広告も安いやつじゃ半分しか消せないのも腹立つし。"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "もしかしたら閲覧環境によるのかもなんすが…最近ぶち抜き広告が増えてポストの上に覆い被さるのほんま…ってなってる"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3lbtgaez4js2i",
+            "label": [
+                0.003972043748944998,
+                0.13455243408679962,
+                0.0006462791934609413,
+                0.009958114475011826,
+                0.005962485447525978,
+                0.009206967428326607,
+                0.8351439833641052,
+                0.0005576638504862785
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "もしかしたら閲覧環境によるのかもなんすが…最近ぶち抜き広告が増えてポストの上に覆い被さるのほんま…ってなってる"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "結構長めの広告とかあったりして、私はスマホだとたまにしかX見てないですね。版権ガン無視ゲームとか出てきますし。"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "私は作業休憩の時に流れでipadでそのまま開いちゃったりしますねー\n版権無視っていうと昨日か一昨日位に超サイヤ人悟空が使われてる謎ゲーの広告は見ましたねぇ（）"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3lbtuk4jn6c2j",
+            "label": [
+                0.22950001060962677,
+                0.0012206638930365443,
+                0.016097765415906906,
+                0.7429893016815186,
+                0.00047866819659247994,
+                0.006915953475981951,
+                0.001431796932592988,
+                0.0013659006217494607
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "私は作業休憩の時に流れでipadでそのまま開いちゃったりしますねー\n版権無視っていうと昨日か一昨日位に超サイヤ人悟空が使われてる謎ゲーの広告は見ましたねぇ（）"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "それです！あと通販サイトのへんなTシャツとかの広告も嫌ですねぇ…"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "幸いにもそれはまだ見てないかもですね\n代わりに不動産系の広告を見せられてますねぇ…"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3lbtv2eesek2j",
+            "label": [
+                0.2820054590702057,
+                0.3887896239757538,
+                0.01837952621281147,
+                0.040477391332387924,
+                0.0016410259995609522,
+                0.2508082389831543,
+                0.01305486261844635,
+                0.0048439158126711845
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "こういうの見かけるとまたにじGTAやらないかなって思っちゃう"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "いまだに🌈GTA、いろんな視点見返してます"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "分かります…終了直後は言わずもがなでしたけど何度見ても味がするんで今でも定期的に見ちゃいますね☺️"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3ld4ny4s3d22r",
+            "label": [
+                0.9994400143623352,
+                5.12743390572723e-05,
+                0.00022802999592386186,
+                4.9031419621314853e-05,
+                3.285995262558572e-05,
+                5.520605554920621e-05,
+                5.358102498576045e-05,
+                8.98794096428901e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "分かります…終了直後は言わずもがなでしたけど何度見ても味がするんで今でも定期的に見ちゃいますね☺️"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "私はにじGTAのおかげで、ヒスイさんとか見るようになりましたねぇ…"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "良いっすねぇ✨\nそのままセレ女も見れてお得ルートに👀"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3ld5w7ceywc2s",
+            "label": [
+                0.9996065497398376,
+                4.2911433411063626e-05,
+                0.0001273152738576755,
+                6.077994839870371e-05,
+                3.13357450067997e-05,
+                4.041394640807994e-05,
+                4.7226618335116655e-05,
+                4.3454951082821935e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "良いっすねぇ✨\nそのままセレ女も見れてお得ルートに👀"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "にじGTAは新たな🌈の扉を広げてくれるから助かるっす！"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "ヒスピ視点だと職業的にも色々な勢力の動向見易いんで、それも良かったりするんですよねー"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3ld6ferk4tc2f",
+            "label": [
+                0.9993842840194702,
+                4.25754114985466e-05,
+                0.0002956982934847474,
+                4.8034460633061826e-05,
+                4.377668665256351e-05,
+                5.142220834386535e-05,
+                6.057948121451773e-05,
+                7.364774501184002e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "ヒスピ視点だと職業的にも色々な勢力の動向見易いんで、それも良かったりするんですよねー"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "250万で買われるチャイちゃんに笑っちゃいました"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "どんどん値切られていくの本当に草"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3ld6ftznxs22f",
+            "label": [
+                0.2007085382938385,
+                0.001633929554373026,
+                0.0007200260879471898,
+                0.7926990985870361,
+                0.0004333321121521294,
+                0.002097231801599264,
+                0.0011793267913162708,
+                0.0005285703227855265
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 1,
+                    "utter": "どんどん値切られていくの本当に草"
+                },
+                {
+                    "author": "did:plc:qs72r4kldvspm664ag63e4dd",
+                    "type": 2,
+                    "utter": "ドーラ様がかっ飛ばしてきて、ヒスピに「270万で買います？」て言われて即「あ、いいです」って言われてたのも笑った。"
+                },
+                {
+                    "author": "did:plc:zsfv6zqxtp3eiadsfr3i3pyd",
+                    "type": 3,
+                    "utter": "雑に弄られるチャイちゃんやっぱ面白過ぎる"
+                }
+            ],
+            "uri": "at://did:plc:zsfv6zqxtp3eiadsfr3i3pyd/app.bsky.feed.post/3ld6gq2mcfk2v",
+            "label": [
+                0.999637246131897,
+                3.649920108728111e-05,
+                9.103136835619807e-05,
+                7.03835830790922e-05,
+                3.2021092920331284e-05,
+                4.195595101919025e-05,
+                4.6809265768388286e-05,
+                4.4006210373481736e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,344 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "現在マゾの翼\nデュカリオン→現状メイン\nフリード→諦め\nベータ→最低限\nラジエル→頑張ってるけどむず過ぎ\nケルビム→ラジエルの試用期間終わったら触る\nシャオリン→絶対メインにしないけど抑止力として持つ"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "めっちゃ考えてるじゃん\n編成的考えは私のほうが浅くてくさ\n\nとりあえずドラフトにはシャオリン入れておいてバンのカカシにしてる"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "キャラコロしてるだけだぜ！！！\nBANピックに怯えて3キャラは使えるように準備してる"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lbvivo6ynp2p",
+            "label": [
+                0.02559514343738556,
+                0.003405933966860175,
+                0.8547693490982056,
+                0.0012697579804807901,
+                0.0005531065980903804,
+                0.1129721850156784,
+                0.0005818569916300476,
+                0.0008526992169208825
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "キャラコロしてるだけだぜ！！！\nBANピックに怯えて3キャラは使えるように準備してる"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "私も使えるキャラ増やそうとして練習してる\nまたやるぞ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "今から行けるぜ！"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lbvkjjtwig2z",
+            "label": [
+                0.9679070115089417,
+                0.0003568590327631682,
+                0.03063693828880787,
+                0.00040461859316565096,
+                0.00016402181063313037,
+                0.00018817212549038231,
+                0.00014851878222543746,
+                0.00019380683079361916
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "今から行けるぜ！"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "お、休憩か やるか"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "休憩終わり近くなったらまた言うぜ！"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lbvkteygzl2j",
+            "label": [
+                0.002570891985669732,
+                0.0003068932273890823,
+                0.9966235160827637,
+                0.00012895543477497995,
+                8.349445124622434e-05,
+                0.00011950199404964224,
+                8.570122008677572e-05,
+                8.107159374048933e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "休憩終わり近くなったらまた言うぜ！"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "あい！\n\n25あと落ちすると250くらいしかないから\n同じくらいになるように前貼るといいぞ！"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "同じ体力割合になるよう立ち回るってこと？\nコスト周りはセオリー覚えていかんとな…"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lbvle6xuy42q",
+            "label": [
+                0.00570850633084774,
+                0.00048136545228771865,
+                0.9924424886703491,
+                0.000301355350529775,
+                6.130724796094e-05,
+                0.0007239160477183759,
+                0.00010822411422850564,
+                0.00017288325761910528
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "同じ体力割合になるよう立ち回るってこと？\nコスト周りはセオリー覚えていかんとな…"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "うむ！\n極端な例だけど\nかりにマゾ3コス落ちて\n私2.5が直後に落ちると全快のマゾと瀕死の私が並ぶことになる"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "全快のやつが好き放題やるってことね！\n覚えておくぜ"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lbvlipm2oo2z",
+            "label": [
+                0.3155468702316284,
+                0.002463939832523465,
+                0.6516405940055847,
+                0.013565209694206715,
+                0.003374887630343437,
+                0.003968155011534691,
+                0.0027195459697395563,
+                0.006720774807035923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "3000以上なったし多分ランクマ行けっぞ！"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "やるかー(半分寝てるけど)"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "見せてやるか…実力"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lcfr7pqiis2l",
+            "label": [
+                0.000945165054872632,
+                0.0008290400146506727,
+                0.9947935938835144,
+                0.00039818958612158895,
+                0.001928127370774746,
+                0.0005687156808562577,
+                0.00026920123491436243,
+                0.00026792523567564785
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "見せてやるか…実力"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "きゃりーしてくれ！"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "すごい上にいるシャオリンってどうやってカットすんのこれ\n弾撃っても当たらんぞ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "シャープこいつおかしくない？"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lcfromcmkg2q",
+            "label": [
+                0.0005747818504460156,
+                0.0002845330454874784,
+                0.0006390544003807008,
+                0.9969711303710938,
+                0.0002155390684492886,
+                0.0008999529527500272,
+                0.0003032054810319096,
+                0.00011183320748386905
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "すごい上にいるシャオリンってどうやってカットすんのこれ\n弾撃っても当たらんぞ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "シャープこいつおかしくない？"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "あそこまで行ったら2回目落ちちゃっていいよ"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "了解っす\n前出るキャラ選んだ方がええかな…全員射撃寄りなんすよね"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lcfsomj3ui2j",
+            "label": [
+                0.9792988300323486,
+                0.00035697600105777383,
+                0.019065484404563904,
+                0.00019824266200885177,
+                0.00010873404971789569,
+                0.00035767286317422986,
+                0.0002204620250267908,
+                0.0003936706343665719
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "デュカの次のメインを18号にする予定だけどこのままだとチーム厨房になる"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "シャオリン始めました"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "シャオさん始まったか…\n俺も18号動き始めた"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lc6e7rvm2n2b",
+            "label": [
+                0.0026350258849561214,
+                0.0005364912794902921,
+                0.9961555600166321,
+                0.0002159173891413957,
+                4.7046349209267646e-05,
+                0.0002687973319552839,
+                6.989411485847086e-05,
+                7.123806426534429e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "シャオさん始まったか…\n俺も18号動き始めた"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "スキン買ったから(単純)"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "スキン買ったんだ…\n見た目だけなら咲迦のやつが気になるんだけど今取るの厳しすぎる"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lc7ox32nv62y",
+            "label": [
+                0.01909506320953369,
+                0.04637439548969269,
+                0.9269063472747803,
+                0.0009291954920627177,
+                0.0002677568409126252,
+                0.005275875795632601,
+                0.0006876391125842929,
+                0.00046375952661037445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 1,
+                    "utter": "いいっすね〜\nスキン揺らぐ"
+                },
+                {
+                    "author": "did:plc:eb4bbdz3zjnycf67hblbt7ah",
+                    "type": 2,
+                    "utter": "明日から私は休みだぞ！\nいつでも行くぞ！"
+                },
+                {
+                    "author": "did:plc:5xf2ckaxovrlwne47g25yir5",
+                    "type": 3,
+                    "utter": "ついに来たか\n夜ならほぼいける"
+                }
+            ],
+            "uri": "at://did:plc:5xf2ckaxovrlwne47g25yir5/app.bsky.feed.post/3lcao5wod3m2h",
+            "label": [
+                0.9660778045654297,
+                0.0004204125143587589,
+                0.03209114819765091,
+                0.0005779374623671174,
+                0.00013658458192367107,
+                0.000251566554652527,
+                0.0001735998666845262,
+                0.0002709628315642476
+            ]
+        }
+    ]
+}

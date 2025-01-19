@@ -1,0 +1,579 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "鶏皮美味しそう(*´﹃｀*)"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "新世界って居酒屋の伝串を再現しました🎵"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "まさかの自作だったのですね！\nとても美味しそうです！(*´﹃｀*)"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lbvn6z2wxs2r",
+            "label": [
+                0.9882533550262451,
+                0.0001939091889653355,
+                0.0043262699618935585,
+                0.006572014186531305,
+                0.0001501019869465381,
+                0.00011346404062351212,
+                0.00012999304453842342,
+                0.0002609168877825141
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "まさかの自作だったのですね！\nとても美味しそうです！(*´﹃｀*)"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "ビール飲みながら台所立ってた動画は載せられないのですなー証拠不十分w\nたくさん調べて作りました♪\n今は満足して寝るだけw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "調べて作れるのすごいです！👏👏\nゆっくり休まれてください！"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lbvnz4nhrs2h",
+            "label": [
+                0.08386766165494919,
+                0.0010389341041445732,
+                0.02372772991657257,
+                0.8863736391067505,
+                0.0010654533980414271,
+                0.0004351613752078265,
+                0.0009258840582333505,
+                0.002565566450357437
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "調べて作れるのすごいです！👏👏\nゆっくり休まれてください！"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "もう昼から泥酔ですw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "たまにはそういうのも良いですねw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lbvoyitpok2u",
+            "label": [
+                0.9995476603507996,
+                4.062355219502933e-05,
+                0.00017790167476050556,
+                6.280682282522321e-05,
+                3.120602559647523e-05,
+                4.427908788784407e-05,
+                4.903740045847371e-05,
+                4.6420285798376426e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "たまにはそういうのも良いですねw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "たまにと言うか、結構なのは反省しなきゃいけませんw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "そうなんですか？😳"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lbw7jhqi7k2c",
+            "label": [
+                0.0008068067254498601,
+                0.00038032172597013414,
+                0.000784240837674588,
+                0.9973300695419312,
+                0.0001832866546465084,
+                0.000193292842595838,
+                0.00020695016428362578,
+                0.00011499358515720814
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "そうなんですか？😳"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "お酒好きなもんでw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "お酒お好きなんですね🤭\n私もお酒好きなんですけど実家暮らしなので、滅多なことがない限り夜しか飲めませんw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lbxpe3vexs2b",
+            "label": [
+                0.7053148150444031,
+                0.15067677199840546,
+                0.029291372746229172,
+                0.05006491392850876,
+                0.0008860830566845834,
+                0.05626731738448143,
+                0.0025881801266223192,
+                0.004910516552627087
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "眼は専門外だけど……習ったからな……たぶんこれかなってのはあるけど…私医者じゃないから診断はできない"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "でも助かりますよʕ•̫͡•ʔ♬✧"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "眼科に勤めてたらもう少し詳しく絞れたかもしれないんですけど😓"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3ldmmvhpfbs2i",
+            "label": [
+                0.0007108356221579015,
+                0.995551347732544,
+                0.0027559699956327677,
+                9.826099267229438e-05,
+                7.876908057369292e-05,
+                0.0003784476430155337,
+                0.00036486631142906845,
+                6.142462370917201e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "眼科に勤めてたらもう少し詳しく絞れたかもしれないんですけど😓"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "いえ！かなり助かりました！\n診察スムーズにいけて大助かりでした！"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "私何もしてないですよ…？💦\n症状ちょっと聞いただけですし😅"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3ldn62bwnyc2e",
+            "label": [
+                0.012600281275808811,
+                0.01076615322381258,
+                0.0013888546964153647,
+                0.9142175316810608,
+                0.007846198044717312,
+                0.02944488637149334,
+                0.02187439426779747,
+                0.0018617382738739252
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "私何もしてないですよ…？💦\n症状ちょっと聞いただけですし😅"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "聞いてくれるだけで不安が少し消えるのですw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "それ病棟にいた時に患者さんにも言われましたw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3ldnljj6cv222",
+            "label": [
+                0.7536121606826782,
+                0.0018210953567177057,
+                0.0015050688525661826,
+                0.23397302627563477,
+                0.0007129485020413995,
+                0.003709853161126375,
+                0.002027454087510705,
+                0.002638388890773058
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "それ病棟にいた時に患者さんにも言われましたw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "ケアって大事なんですよねーw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "ケアは大事ですね〜w\n一時の間は大変かと思いますが早くよくなるといいですね☺️"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3ldnqofeebc2p",
+            "label": [
+                0.0005432292236946523,
+                0.0003918596194125712,
+                0.998654842376709,
+                7.691195060033351e-05,
+                6.192839646246284e-05,
+                0.0001241888530785218,
+                7.61124465498142e-05,
+                7.098494097590446e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "ケアは大事ですね〜w\n一時の間は大変かと思いますが早くよくなるといいですね☺️"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "4、5日はかかるらしいので気長に待ちますw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "眼を触る時はきれいに洗った手で、目薬しっかりさしてください☺️\nあとは風邪とかにもならないようお気をつけくださいませ😌"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3ldontxt4j22k",
+            "label": [
+                0.0011205509072169662,
+                0.0006918343133293092,
+                0.9912531971931458,
+                0.00020298500021453947,
+                0.00021948936046101153,
+                0.005881393328309059,
+                0.0003020250587724149,
+                0.00032852834556251764
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "今インスタで知らん男の人がDMしてきてるんだけど、出身が分かると私の出身の方言使ってきてるのはまだ許せる……けど、無理して使ってる感あるから敬語で話すか、方言使うかどっちかにしてくれ。\n違和感がすごいんだ(("
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "人間無理はあかんねw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "せめてどっちかに統一してほしいですw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lcd4u2zol22h",
+            "label": [
+                0.0006285769632086158,
+                0.0004202108539175242,
+                0.9983773231506348,
+                9.859377314569429e-05,
+                9.766683069756255e-05,
+                9.456458064960316e-05,
+                0.00021163398923818022,
+                7.148783333832398e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "せめてどっちかに統一してほしいですw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "方言はほんとにわかだとバレるw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "自分はそんな気にならないだろうなとか思っていたんですけど、ダメでしたw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lcm2opb6a22z",
+            "label": [
+                0.01317866612225771,
+                0.9534243941307068,
+                0.0006978365126997232,
+                0.022329745814204216,
+                0.00013578872312791646,
+                0.008935289457440376,
+                0.0010592179605737329,
+                0.00023919004888739437
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "自分はそんな気にならないだろうなとか思っていたんですけど、ダメでしたw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "ラルさんがいゃだと思ったら近づかないのが吉ですよw\n私は飯さえあれば絡みますけどw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "飲みに誘われましたが運良く仕事が被ってたので断りましたw\n肉うどんさんみたいにお話してたら良いですけど、今まで話したこともない初めましての異性の方にいきなりご飯に誘われるのはさすがにちょっと怖いですw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lcn35njcc22h",
+            "label": [
+                0.0010434910655021667,
+                0.0007635042420588434,
+                0.000854861515108496,
+                0.0022290735505521297,
+                0.0005561714642681181,
+                0.9937713742256165,
+                0.000525403767824173,
+                0.00025610189186409116
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "飲みに誘われましたが運良く仕事が被ってたので断りましたw\n肉うどんさんみたいにお話してたら良いですけど、今まで話したこともない初めましての異性の方にいきなりご飯に誘われるのはさすがにちょっと怖いですw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "それは怖いw\n出かけなくても今はSNSがあるからここで自分のタイミングで絡むのが負担なくていいですよw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "そうですよねw\nなぜ誘ってきたか疑問です😂"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lcn7mftzus2b",
+            "label": [
+                0.01056272629648447,
+                0.0018482572631910443,
+                0.0016609966987743974,
+                0.8383026719093323,
+                0.006898283492773771,
+                0.014032474718987942,
+                0.12519951164722443,
+                0.0014951344346627593
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "そうですよねw\nなぜ誘ってきたか疑問です😂"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "まぁなぜ誘ってきたのかは好意があるのはわかるんですけどねーw\nやはり物事には順序がw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "出身しかわかってないのに好意があるのはすごいですw\n順番間違えたらお・わ・り♪😃"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lcndw2tnv22l",
+            "label": [
+                0.0024842149578034878,
+                0.00040758782415650785,
+                0.000606768298894167,
+                0.9956183433532715,
+                0.00011590927897486836,
+                0.0004507422854658216,
+                0.0001909181009978056,
+                0.00012560012692119926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "昨日のとある配信者様のところで概要欄の所に書いてあるのに、配信とは関係ない話結構しちゃったなと後悔してるから、コメントするの控えようかと思う。\nコメント欄お騒がせしてすみませんでした……💦\n\n彼女さんできてほやほやな方が来られた時はコメントするの控えてたのに、昨日に限って拾っちゃったよ……何やってんだか…"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "あんまり気にすることはないよーw\n拾ってあげなきゃ可哀想でしょーw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "配信の方が何も言ってなかったと思うし、ラルさん大丈夫よーどんどん話してあげましょう🎵"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "肉うどんさん…🥺\n拾ってあげなきゃ可哀想でしょのところで笑ってしまいましたw\n\n配信者様が何も言ってなかったからいいですかね……？\nならどんどんお話します‪(*ˊ˘ˋ*)♪‬"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lb4dmck4x22q",
+            "label": [
+                0.8889368176460266,
+                0.0005975180538371205,
+                0.10887456685304642,
+                0.0003488723887130618,
+                0.00023602161672897637,
+                0.0003547494125086814,
+                0.00032347836531698704,
+                0.00032796149025671184
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "肉うどんさん…🥺\n拾ってあげなきゃ可哀想でしょのところで笑ってしまいましたw\n\n配信者様が何も言ってなかったからいいですかね……？\nならどんどんお話します‪(*ˊ˘ˋ*)♪‬"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "私は最初拾ってあげたら、しょうがないので拾ってあげたら…\n無視されたのでやめましたw\nそちゃたちが何か言ったらやめるでいいと思いますよーw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "肉うどんさん優しい…\n無視されたらそれはやめていいと思いますw\n分かりました！\n先輩リスナー様のアドバイスでいこうと思います(๑•̀ㅂ•́)و✧"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lb4eelkg6c2q",
+            "label": [
+                0.07619477808475494,
+                0.001479395548813045,
+                0.9200335144996643,
+                0.0005282506463117898,
+                0.00021799287060275674,
+                0.0005822120583616197,
+                0.00034501898335292935,
+                0.0006188187981024384
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "肉うどんさん優しい…\n無視されたらそれはやめていいと思いますw\n分かりました！\n先輩リスナー様のアドバイスでいこうと思います(๑•̀ㅂ•́)و✧"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "ラルさん先輩も後輩もないですよー同じリスナーですよ🎵\nあまり気にせず、楽しく配信見ましょ🎵\nわしは個人的に奴は楽しめないだけなのでw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "明らかに肉うどんさんの方がリスナー歴長いと思うのですが…同じリスナー…だと！？\n1リスナーとして今後も楽しく配信見ますー⸜(*ˊᗜˋ*)⸝♪\n私も個人的にあの方には初めてお見かけした時から思うところはあるので、触れずにそっと見守りますw"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lb4fbgpcrc2h",
+            "label": [
+                0.9966742992401123,
+                9.492462413618341e-05,
+                0.002768301870673895,
+                0.00013752830273006111,
+                6.314767961157486e-05,
+                7.93121216702275e-05,
+                7.54508437239565e-05,
+                0.00010710224887588993
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 1,
+                    "utter": "明らかに肉うどんさんの方がリスナー歴長いと思うのですが…同じリスナー…だと！？\n1リスナーとして今後も楽しく配信見ますー⸜(*ˊᗜˋ*)⸝♪\n私も個人的にあの方には初めてお見かけした時から思うところはあるので、触れずにそっと見守りますw"
+                },
+                {
+                    "author": "did:plc:r4r6vcxwqgq3mrournfbrd75",
+                    "type": 2,
+                    "utter": "長さは関係ないです！想いです！w\n心掛けてることは私だけの配信者ではないと常に思ってるのでw\n揉めると配信者の方に悪いのでブロックして目の前から消すことでモーマンタイかなって思ってますw"
+                },
+                {
+                    "author": "did:plc:sxki7wtr5vezhw3twvppokdg",
+                    "type": 3,
+                    "utter": "想いはみんな同じですからね！w\nその心がけ大事ですよね〜\nその対策は良いと思いますw\n配信者様のご迷惑になることだけは避けたいですね( ˘꒳˘  )"
+                }
+            ],
+            "uri": "at://did:plc:sxki7wtr5vezhw3twvppokdg/app.bsky.feed.post/3lb4g2ytu4c2g",
+            "label": [
+                0.0008565618772991002,
+                0.00022286355670075864,
+                0.9975025057792664,
+                0.00010892870341194794,
+                0.000150588050018996,
+                0.0007347483187913895,
+                0.00019751583749894053,
+                0.000226241274503991
+            ]
+        }
+    ]
+}

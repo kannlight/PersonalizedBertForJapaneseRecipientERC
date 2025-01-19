@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "おはよ"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "ん、おはよう、アカネ"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "ん、寒い。シロコのアウター貸して"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3laddw46mq72f",
+            "label": [
+                0.001672907848842442,
+                0.14862467348575592,
+                0.8437768816947937,
+                0.0004836012376472354,
+                0.00028602671227417886,
+                0.003383709117770195,
+                0.00151734403334558,
+                0.0002548792108427733
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "ん、寒い。シロコのアウター貸して"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "ん、これ？...だめ、これは私にとって大切な物だから"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "カーディガン持ってこればよかった"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3ladeekg6mn2e",
+            "label": [
+                0.00029063023976050317,
+                0.9989503026008606,
+                0.0002044390857918188,
+                0.00013454681902658194,
+                7.483403896912932e-05,
+                0.00011928773164981976,
+                0.00019364450417924672,
+                3.2289171940647066e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "カーディガン持ってこればよかった"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "アカネなら作れるんじゃないかな？"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "服を私が作るの？"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3ladusntksq2j",
+            "label": [
+                0.008044516667723656,
+                0.0016279920237138867,
+                0.016687609255313873,
+                0.9710404872894287,
+                0.0004218580143060535,
+                0.0011901429388672113,
+                0.00043795586680062115,
+                0.0005495115183293819
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "服を私が作るの？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "うん、ほらインスタンスなんとかって言ったら作れるでしょ？"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "そっか、それでサイクリングシロコ作っちゃお"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3ladw6ycyrt26",
+            "label": [
+                0.011188860982656479,
+                0.0004020565247628838,
+                0.9876593947410583,
+                0.0002574840618763119,
+                0.0001017328177113086,
+                0.00015567400259897113,
+                0.00011290927795926109,
+                0.0001219136975123547
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "来てくれてありがとうね！\n私は新条アカネ\n\nえっと…文化祭楽しんでる？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "私は八奈見杏奈だよ。文化祭もそうだけど今はハロウィン近いからね！\nお菓子もらえそうな格好でいるんだよ"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "八奈見はお菓子欲しいんだ\nバナナはおやつに入る？"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l7a5o6pqiz2j",
+            "label": [
+                0.0036075259558856487,
+                0.0005991624784655869,
+                0.9952215552330017,
+                0.00019321797299198806,
+                6.84279075358063e-05,
+                0.00012861717550549656,
+                0.00010062060027848929,
+                8.094141230685636e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "八奈見はお菓子欲しいんだ\nバナナはおやつに入る？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "欲しい！\nあ、しちゃう？バナナはおやつか否か問題？？"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "本質に気がつきはじめたね。\nまずはバナナがおやつかどうか判断してくれないと次には進まないね"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l7ar25zvti23",
+            "label": [
+                0.2528485357761383,
+                0.0010309196077287197,
+                0.7433856725692749,
+                0.0007367874495685101,
+                0.0002778946072794497,
+                0.0006910100928507745,
+                0.00040258202352561057,
+                0.0006266639684326947
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "本質に気がつきはじめたね。\nまずはバナナがおやつかどうか判断してくれないと次には進まないね"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "チッチッチ、もう答えは決まっているんだよバナナはおやつでもありお弁当でもあるんだよ！\nこれは古くからの理で現代における多様性の先駆けだったんだ。(カッコつけて"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "じゃあ、バナナチップスは？"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l7dcdoiofl2h",
+            "label": [
+                0.0014771546702831984,
+                0.00026215071557089686,
+                0.9977772831916809,
+                0.0001982871617656201,
+                6.08175978413783e-05,
+                9.337187657365575e-05,
+                6.228591519175097e-05,
+                6.867740012239665e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "じゃあ、バナナチップスは？"
+                },
+                {
+                    "author": "did:plc:he54lqugehz7p6conlfdg2mg",
+                    "type": 2,
+                    "utter": "お菓子！"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "チョコバナナは？"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l7dg64c26b2g",
+            "label": [
+                0.581096887588501,
+                0.004937035962939262,
+                0.3878008723258972,
+                0.01572304032742977,
+                0.0014088201569393277,
+                0.0023827136028558016,
+                0.0028426535427570343,
+                0.003808005014434457
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "流石にこの状態ならオープンキャンパスも難しそう"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "ん、そうだね…でもアカネがお金を落としてくれたら返済に充てれる"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "まって！？\n私から取るの！？"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l6zapdnyux2o",
+            "label": [
+                0.0005456408252939582,
+                0.0003922859323211014,
+                0.0006080419407226145,
+                0.9976407289505005,
+                0.0002807553391903639,
+                0.00021949905203655362,
+                0.00021145363280083984,
+                0.00010170504538109526
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "まって！？\n私から取るの！？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "ん、少しだけなら、アビドスにも商店街があるし"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "オススメは何かな"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l6zca5dvs42g",
+            "label": [
+                0.001248456654138863,
+                0.00024611153639853,
+                0.9980764389038086,
+                8.58779894770123e-05,
+                5.91787465964444e-05,
+                0.00014199154975358397,
+                6.573093560291454e-05,
+                7.628434832440689e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "オススメは何かな"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "ん、まずはロードバイク、私と一緒に走るべき…軽く200Km"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "ん、二台乗れる？"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l6zcj2nyas26",
+            "label": [
+                0.0009994340362027287,
+                0.00033061535214073956,
+                0.001169624156318605,
+                0.996788501739502,
+                0.0001741049491101876,
+                0.00026967391022481024,
+                0.00016351202793885022,
+                0.00010462383215781301
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 1,
+                    "utter": "ん、二台乗れる？"
+                },
+                {
+                    "author": "did:plc:yyxv2ikno2lkv5il72tqiom4",
+                    "type": 2,
+                    "utter": "乗れない、頑張って私に付いてきて、適度に休憩は入れるから"
+                },
+                {
+                    "author": "did:plc:yfi5rf4b63lmbrsmoiejlr57",
+                    "type": 3,
+                    "utter": "シロコ、とりあえず落ち着こう。\nお金の話からただのツーリングになってる。\nそれで落とすのはお金じゃないよ。\n体重だから"
+                }
+            ],
+            "uri": "at://did:plc:yfi5rf4b63lmbrsmoiejlr57/app.bsky.feed.post/3l6zco3ahk42g",
+            "label": [
+                0.2249707579612732,
+                0.1094103679060936,
+                0.07124153524637222,
+                0.07238923013210297,
+                0.003458708059042692,
+                0.48938706517219543,
+                0.022982366383075714,
+                0.006159930489957333
+            ]
+        }
+    ]
+}

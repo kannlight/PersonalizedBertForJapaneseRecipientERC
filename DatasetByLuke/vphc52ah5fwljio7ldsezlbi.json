@@ -1,0 +1,754 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "来年は積読が減りますように"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "積んじゃったかぁ・・・\n私も積みプラ消化しないと"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "※年末だったかにプラモも増えます\n※近々やるSteamのオータムセールでゲームも増えます"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3lbuc4kmhhc2n",
+            "label": [
+                0.3403443992137909,
+                0.0012551266700029373,
+                0.655892550945282,
+                0.0006364980945363641,
+                0.0004060810897499323,
+                0.0005944271688349545,
+                0.0004013185389339924,
+                0.00046953605487942696
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "※年末だったかにプラモも増えます\n※近々やるSteamのオータムセールでゲームも増えます"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "Oh...\nプラモ何買うん？"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "戦隊のミニプラよ〜\nちっちゃいけど数が多い"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3lbucgzvqek2n",
+            "label": [
+                0.9367680549621582,
+                0.000924070249311626,
+                0.05988487973809242,
+                0.0009177669417113066,
+                0.00022004278434906155,
+                0.00030171056278049946,
+                0.0004971895832568407,
+                0.0004863611829932779
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "戦隊のミニプラよ〜\nちっちゃいけど数が多い"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "なるへそなー\n合体とかするん？"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "するよー\nブンドドできる！"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3lbucr6hpwk2n",
+            "label": [
+                0.010562371462583542,
+                0.0005784957320429385,
+                0.9880919456481934,
+                0.00019024383800569922,
+                0.00010591167665552348,
+                0.00022042084310669452,
+                0.00012613659782800823,
+                0.00012438371777534485
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "するよー\nブンドドできる！"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "たくさん遊べる！\n艦船はなー空中線張ると動かせんのよねぇ"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "艦船は作ったら観賞用やもんなぁ"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3lbudxgqzr22n",
+            "label": [
+                0.04449499398469925,
+                0.0013250095071271062,
+                0.9528585076332092,
+                0.00024911033688113093,
+                0.00012595028965733945,
+                0.0003510815149638802,
+                0.0002959330740850419,
+                0.00029939517844468355
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "艦船は作ったら観賞用やもんなぁ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "バトルシップばりに大和を動かしてみたかった"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "大和でドリフトとか…カッコいいじゃん…"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3lbuedqnva22u",
+            "label": [
+                0.3802756071090698,
+                0.0011959701078012586,
+                0.6157389879226685,
+                0.0009414603118784726,
+                0.00038718050927855074,
+                0.0004985937848687172,
+                0.00038385583320632577,
+                0.0005782975349575281
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "プレバンからSHFのアンケートで、SHFにして欲しい実在の人物がいたら記入してってあったからマツコ・デラックスって書いた"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "うーんボリューミー・・・"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "ぱっと思いついたのがマツコだけだったのもある"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kwhiar6sqs2j",
+            "label": [
+                0.2892409563064575,
+                0.5094312429428101,
+                0.0017370327841490507,
+                0.05588705465197563,
+                0.0012191489804536104,
+                0.1341562718153,
+                0.006039658095687628,
+                0.0022885568905621767
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "ぱっと思いついたのがマツコだけだったのもある"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "実際あーいう体格の可動フィギュア見たこと無い"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "同じく\n作れるんかねぇ？"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kwhjgcanjj2x",
+            "label": [
+                0.0004998291260562837,
+                0.0005626602214761078,
+                0.9984716773033142,
+                8.384192187804729e-05,
+                4.1092363971984014e-05,
+                0.00022616497881244868,
+                7.042612560326234e-05,
+                4.4155432988191023e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "同じく\n作れるんかねぇ？"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "置物タイプならともかく、可動はなぁ・・・"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "だがあったら楽しいと思う"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kwhjpqmy262x",
+            "label": [
+                0.0017810057615861297,
+                0.0003422753943596035,
+                0.9974642992019653,
+                0.0001047915720846504,
+                5.7347220717929304e-05,
+                0.0001005987505777739,
+                8.057153172558174e-05,
+                6.906228372827172e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "だがあったら楽しいと思う"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "大きい分高くなりそう"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "ありそうだなぁ\n1万超えそう"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kwhkefnh2i2d",
+            "label": [
+                0.002960211830213666,
+                0.0006513652624562383,
+                0.9908666610717773,
+                0.0007917613256722689,
+                9.738306107465178e-05,
+                0.004374051932245493,
+                0.00013316881086211652,
+                0.00012543048069346696
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "ありそうだなぁ\n1万超えそう"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "最近のfigmaは万越え普通だから安く感じる"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "たっか…"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kwhkpc2x2l2o",
+            "label": [
+                0.12723341584205627,
+                0.029406080022454262,
+                0.0038912389427423477,
+                0.8219900131225586,
+                0.0007260129787027836,
+                0.004202461801469326,
+                0.011037001386284828,
+                0.0015138440066948533
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "バカ殿きた"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "可動フィギュア？"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "そうよ\nSHFシリーズのやつ"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kvs6cf5ucc25",
+            "label": [
+                0.6439321041107178,
+                0.004267682321369648,
+                0.3427373468875885,
+                0.002304094610735774,
+                0.0013599261874333024,
+                0.0008604798349551857,
+                0.0023776369635015726,
+                0.0021607112139463425
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "そうよ\nSHFシリーズのやつ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "他の可動フィギュアと一緒に置くだけでコントの場面になりそうで"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "上様と変なおじさん持ってるよ"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kvsdo4kjhc2y",
+            "label": [
+                0.9845464825630188,
+                0.0016171641182154417,
+                0.003747744718566537,
+                0.006608123425394297,
+                0.00026039601652882993,
+                0.0012761607067659497,
+                0.0009876008844003081,
+                0.0009563040221109986
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "上様と変なおじさん持ってるよ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "ストップモーションアニメが捗るなぁ\n作った事無いけど"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "作れないゾ"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kvsdwni6yk2p",
+            "label": [
+                0.00036461628042161465,
+                0.9987667798995972,
+                0.00011139369598822668,
+                0.0001673313236096874,
+                7.014439324848354e-05,
+                0.0002423319820081815,
+                0.0002512530190870166,
+                2.6260233426000923e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "作れないゾ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "難しいし、可動部の寿命がアカン"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "oh…"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kvsebu4j6k2x",
+            "label": [
+                0.0002666208310984075,
+                0.9986170530319214,
+                0.0001376949658151716,
+                0.0001832678244682029,
+                6.797654350521043e-05,
+                0.00020912423497065902,
+                0.0004939261707477272,
+                2.4372291591134854e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "oh…"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "1/350大和作ったら戦艦ドリフト動画作りたいとか思ってたけど、重いし精密箇所多いしで無理だって悟った"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "無理はやめよう…"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kvsekrbp222r",
+            "label": [
+                0.0042547243647277355,
+                0.5246055722236633,
+                0.007947802543640137,
+                0.0008933381759561598,
+                0.00047031344729475677,
+                0.4570862352848053,
+                0.0043151187710464,
+                0.00042689352994784713
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "記念すべき100ポスト目がケモい"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "やはりさりげなく描く動物が上手い"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "ありが㌧"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kpu264r4cr2r",
+            "label": [
+                0.9996298551559448,
+                5.2370036428328604e-05,
+                9.156110172625631e-05,
+                6.181924254633486e-05,
+                2.499887159501668e-05,
+                4.414261638885364e-05,
+                5.384560427046381e-05,
+                4.14124624512624e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "ありが㌧"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "にしても最近の狂さんのトレンドがわからぬ・・・"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "グノーシア…かなぁ"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kpu3ccdmng2u",
+            "label": [
+                0.0041852910071611404,
+                0.0005436913343146443,
+                0.9947524070739746,
+                0.00012921476445626467,
+                5.460553438751958e-05,
+                0.00016634297207929194,
+                8.189964137272909e-05,
+                8.658265142003074e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "グノーシア…かなぁ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "なんかぶっ刺さる子でもおったのかい？"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "SQとジナとセツが一位タイ\nみんな違ってみんな良いというか"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kpu3mo56eg2u",
+            "label": [
+                0.9996203184127808,
+                4.5128144847694784e-05,
+                9.392568608745933e-05,
+                6.943502376088873e-05,
+                2.7314286853652447e-05,
+                3.3689742849674076e-05,
+                4.9500555178383365e-05,
+                6.064639819669537e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "SQとジナとセツが一位タイ\nみんな違ってみんな良いというか"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "ふーむそうかー"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "せやでー"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kpu4etog3c2x",
+            "label": [
+                0.1093875914812088,
+                0.5557004809379578,
+                0.008357974700629711,
+                0.0834013819694519,
+                0.014444386586546898,
+                0.02478197030723095,
+                0.20025333762168884,
+                0.0036728172563016415
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "せやでー"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "あとで詳しく調べよう"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "検索ついでにゲームも買うのじゃー"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kpu4nhqywn2f",
+            "label": [
+                0.0033580174203962088,
+                0.00028215290512889624,
+                0.9958305954933167,
+                0.00013729465717915446,
+                9.635604510549456e-05,
+                0.00012755257193930447,
+                8.094238000921905e-05,
+                8.706944208825007e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "グノーシア化SQちゃんに首輪を嵌められた\nいや儂が特殊なアレで比喩的に言ってる訳ではなくてだな\nそういうスチルっていうの？あるんじゃよ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "首輪・・・（アイコンを見ながら）"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "飼い犬になっちゃった…"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3klsy7letw22w",
+            "label": [
+                0.4986831247806549,
+                0.47800859808921814,
+                0.004728102590888739,
+                0.008983416482806206,
+                0.00018064428877551109,
+                0.0074893939308822155,
+                0.00114003149792552,
+                0.0007866622181609273
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "飼い犬になっちゃった…"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "犬の首輪って抜けやすいのよね～\nハーネスにしないと"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "ハーネスかぁ"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3klto4r4swf26",
+            "label": [
+                0.5806916952133179,
+                0.061316799372434616,
+                0.02926478162407875,
+                0.2816464602947235,
+                0.0008755635353736579,
+                0.0299371387809515,
+                0.012130330316722393,
+                0.004137273877859116
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "ハーネスかぁ"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "ハーネスは嫌かい？"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "やったことないからなぁ\n…飼い主としても主観的にも"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kltrawpm5o2t",
+            "label": [
+                0.7683008313179016,
+                0.03568970039486885,
+                0.02428898587822914,
+                0.001728661241941154,
+                0.0005429880111478269,
+                0.15854200720787048,
+                0.007808530703186989,
+                0.0030982475727796555
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "やったことないからなぁ\n…飼い主としても主観的にも"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "なおハーネスでも抜けてた我が家の犬"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "身体に合ってなかった…？"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3kltskwqtcw2g",
+            "label": [
+                0.0010087458649650216,
+                0.014726792462170124,
+                0.0009174199658446014,
+                0.9595261812210083,
+                0.00037595652975142,
+                0.02231505699455738,
+                0.0009547130903229117,
+                0.00017510911857243627
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 1,
+                    "utter": "身体に合ってなかった…？"
+                },
+                {
+                    "author": "did:plc:3ud7hawrrycmowfkugprzoq3",
+                    "type": 2,
+                    "utter": "毛量のせいで合わせられなかった"
+                },
+                {
+                    "author": "did:plc:vphc52ah5fwljio7ldsezlbi",
+                    "type": 3,
+                    "utter": "そういや、もふもふわんこだったね"
+                }
+            ],
+            "uri": "at://did:plc:vphc52ah5fwljio7ldsezlbi/app.bsky.feed.post/3klttz2rodo2q",
+            "label": [
+                0.9909295439720154,
+                0.0001988785807043314,
+                0.006534975487738848,
+                0.0015128353843465447,
+                0.00010386040230514482,
+                0.00012086258357157931,
+                0.0001671043282840401,
+                0.0004319171712268144
+            ]
+        }
+    ]
+}

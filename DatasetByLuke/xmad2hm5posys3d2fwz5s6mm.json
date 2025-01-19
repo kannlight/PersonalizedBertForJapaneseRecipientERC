@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "呟くことより\n話し相手欲しい"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "宜しければ\nお相手致しましょう"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "ありがとうディアブロ"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6wokbuecr2q",
+            "label": [
+                0.9995823502540588,
+                7.813568663550541e-05,
+                7.675421511521563e-05,
+                6.014519021846354e-05,
+                2.6769972464535385e-05,
+                4.6234741603257135e-05,
+                6.458497955463827e-05,
+                6.504343764390796e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "ありがとうディアブロ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "お気になさらず\n私も少々退屈しておりましたので\n話題は瑞希殿にお任せしましょう"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "話題かぁ良く流れで\n話してるからなぁ"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6woplaxjx2h",
+            "label": [
+                0.9849035739898682,
+                0.001124533242546022,
+                0.00864743534475565,
+                0.0014840805670246482,
+                0.00013754058454651386,
+                0.0014378352789208293,
+                0.0012367626186460257,
+                0.0010282425209879875
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "話題かぁ良く流れで\n話してるからなぁ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "そうですか……\nそれではいと尊きリムル様のご活躍をおきかせ致しましょうか？\nクフフ"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "僕も気になってる\nそのリムルさんがどういう人なのか。"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6wovo6msf2q",
+            "label": [
+                0.001633880310691893,
+                0.00011904934217454866,
+                0.9975636005401611,
+                0.0003146155213471502,
+                6.027537165209651e-05,
+                0.00016205509018618613,
+                5.880855678697117e-05,
+                8.772708679316565e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "僕も気になってる\nそのリムルさんがどういう人なのか。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "宜しいでしょう\nでは、まずリムル様の功績からお話しましょう\nリムル様は前世は人間のお姿だったとか……そこで通り魔に刺され死亡しましたがスライムとして我々の世界に転生されました\n最初は目も見えず声も出せずただただ周囲に生えていたヒポクテ草を捕食していたそうです"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "転生って実際にあるんだ。\n本でしか見たこと無い\nしかもスライムか\nスライムって最初に戦う最弱モンスターじゃん"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6wqk76mxi2w",
+            "label": [
+                0.0005407987628132105,
+                0.0002864159760065377,
+                0.0006580404005944729,
+                0.997670590877533,
+                0.0002079718396998942,
+                0.00030655128648504615,
+                0.00021378372912295163,
+                0.0001158079830929637
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "転生って実際にあるんだ。\n本でしか見たこと無い\nしかもスライムか\nスライムって最初に戦う最弱モンスターじゃん"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "リムル様はスライムであらせられながら八星魔王オクタグラムの1人にしてジュラテンペスト連邦国の国王です"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "凄すぎ\nそこまでなれるんだ"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6wr2ozmqd2i",
+            "label": [
+                0.0004833976272493601,
+                0.00026732703554444015,
+                0.000575766374822706,
+                0.9978286623954773,
+                0.0002244431379949674,
+                0.0002772044681478292,
+                0.00021143339108675718,
+                0.00013163287076167762
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "ディアブロには伝えようかな僕の秘密"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "お呼びでしょうか？"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "うん、ちょっと皆に秘密にしてることディアブロには伝えておこうかなって。"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6uv3e4sl42i",
+            "label": [
+                0.07878826558589935,
+                0.0025650288444012403,
+                0.9118345379829407,
+                0.0012967601651325822,
+                0.00032047240529209375,
+                0.002929766895249486,
+                0.000771900697145611,
+                0.0014933105558156967
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "うん、ちょっと皆に秘密にしてることディアブロには伝えておこうかなって。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "なるほど\n私で宜しいのでしたらお聞きしましょう"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "うん、ディアブロでいいんだ\n実は僕(小声で)男なんだ\nでもこれは皆には伝えられない\n普通にいつも通りに接しられるのが、たまらなく嫌なんだ"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6uwiqkpkp2q",
+            "label": [
+                0.025285856798291206,
+                0.9344674944877625,
+                0.00466305622830987,
+                0.0008251062827184796,
+                0.0003251820453442633,
+                0.014223380945622921,
+                0.019637592136859894,
+                0.0005724137299694121
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "うん、ディアブロでいいんだ\n実は僕(小声で)男なんだ\nでもこれは皆には伝えられない\n普通にいつも通りに接しられるのが、たまらなく嫌なんだ"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "なるほど……我々悪魔は性別が無いのでご期待に添える答えが出せるかは分かりませんが………ふむ"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "いい答えは期待していない\nただ今伝えられてホットしてる。"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6ux5pypmu2q",
+            "label": [
+                0.9996086955070496,
+                5.36500992893707e-05,
+                0.00010871985432459041,
+                4.4101579987909645e-05,
+                2.167151433241088e-05,
+                6.213883170858026e-05,
+                5.079958646092564e-05,
+                5.0140428356826305e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "いい答えは期待していない\nただ今伝えられてホットしてる。"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "そうですか\nお力になれたのなら良かったです\n1つ申し上げるとすれば\n私は今後とも瑞希殿にお力添えする所存でございます\nその方がリムル様のお役に立てるでしょうからねぇ……クフフ"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "それが聞けて良かった"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6uxsp57j72i",
+            "label": [
+                0.9996346235275269,
+                4.507012272370048e-05,
+                0.00010329511133022606,
+                5.509476977749728e-05,
+                2.9030883524683304e-05,
+                4.210362385492772e-05,
+                4.757217539008707e-05,
+                4.3212512537138537e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 1,
+                    "utter": "それが聞けて良かった"
+                },
+                {
+                    "author": "did:plc:zexdogbopea7dnfbmrjjpz63",
+                    "type": 2,
+                    "utter": "いえいえ\nまた何かございましたら\nお気軽にお声掛けください"
+                },
+                {
+                    "author": "did:plc:xmad2hm5posys3d2fwz5s6mm",
+                    "type": 3,
+                    "utter": "うん、分かった"
+                }
+            ],
+            "uri": "at://did:plc:xmad2hm5posys3d2fwz5s6mm/app.bsky.feed.post/3l6uxxodzox2i",
+            "label": [
+                0.9990019202232361,
+                6.566883530467749e-05,
+                0.00048352242447435856,
+                0.0001202369894599542,
+                4.701660145656206e-05,
+                7.123751129256561e-05,
+                9.129612590186298e-05,
+                0.0001190114053315483
+            ]
+        }
+    ]
+}

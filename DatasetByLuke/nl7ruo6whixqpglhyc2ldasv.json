@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "なぜなのか…"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "ちょうど今忙しいタイミングでなかなか時間が取れずにいるんです😭"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "仕方ないなぁ…ちゃんと行くって約束するから許します"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3lc2pnmsifs2x",
+            "label": [
+                0.7734146118164062,
+                0.14555752277374268,
+                0.06437885016202927,
+                0.000528501404915005,
+                0.0008846124983392656,
+                0.0050317831337451935,
+                0.007640852127224207,
+                0.002563229063525796
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "仕方ないなぁ…ちゃんと行くって約束するから許します"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "行きます...！約束します！！\n但し年明けになっちゃいそうなんです..."
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "絶対ですよ！\nそれまで歯磨きサボらないって約束も追加で！！"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3lc2upyg2322l",
+            "label": [
+                0.00592010235413909,
+                0.000996659160591662,
+                0.9860323667526245,
+                0.0014714084099978209,
+                0.0028735294472426176,
+                0.0008127167238853872,
+                0.0006911719683557749,
+                0.0012021225411444902
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "絶対ですよ！\nそれまで歯磨きサボらないって約束も追加で！！"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "サボってもサボらなくても歯弱遺伝でどうしても虫歯できちゃうタイプなんで今後も歯医者行けって叱ってください←\nなるだけ早く歯医者行きます！！見守っててください👀✨"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "サボらなくてもむし歯できるとしても…ちゃんと磨くこと🦷\n歯が泣いてるよぉ🥺\n定期的に歯医者行けコール入るんで📞\n\nすなぎもさんの歯医者チャレンジですね✨\nできたらスタンプ1個。\n５つ貯まったら先生からご褒美が進呈されます(5回も行かせるのか…)"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3lc2yo7wuok2l",
+            "label": [
+                0.0009837724501267076,
+                0.001399573520757258,
+                0.9968171715736389,
+                0.00027394579956308007,
+                8.59233841765672e-05,
+                0.00025929248658940196,
+                9.4879578682594e-05,
+                8.552768849767745e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "サボらなくてもむし歯できるとしても…ちゃんと磨くこと🦷\n歯が泣いてるよぉ🥺\n定期的に歯医者行けコール入るんで📞\n\nすなぎもさんの歯医者チャレンジですね✨\nできたらスタンプ1個。\n５つ貯まったら先生からご褒美が進呈されます(5回も行かせるのか…)"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "はいっっ！！姉さんすみません！！！絶対にちゃんと磨きますんで！！！💪\n\n5回で済んだらいいですね！！(死んだ目)\nご褒美だひゃっふぅ〜🙌"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "えらい👏👏👏\n約束だぞ！\n\nやめて、2回くらいですんで欲しい🥺\n悪化しないことをいのるしかな🙏🙏🙏"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3lc3cug6y622l",
+            "label": [
+                0.0031448823865503073,
+                0.496644526720047,
+                0.18913081288337708,
+                0.00954891461879015,
+                0.03722253814339638,
+                0.23487384617328644,
+                0.026819858700037003,
+                0.002614640397951007
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "ニチアサがあっても終わってから起きる私は早起きに向いてないと思うんです。"
+                },
+                {
+                    "author": "did:plc:4wjc35nlr74wqvs4g4gyxply",
+                    "type": 2,
+                    "utter": "ニチアサ好きになればリアルタイムで見ようとして早起きしますよ！\nまぁ私もらいだーだけ好きなので、そのあと二度寝しちゃうけれども"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "録画してるから……ｽﾔｧ😌がきっとダメ。\n全部一応見てはいるんですけど……ｽﾔｧ😌"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3lexsfl2ozc2g",
+            "label": [
+                0.04027877375483513,
+                0.9086944460868835,
+                0.004912694450467825,
+                0.0016747120535001159,
+                0.0003140612388961017,
+                0.04167192429304123,
+                0.0019980650395154953,
+                0.0004554219776764512
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "録画してるから……ｽﾔｧ😌がきっとダメ。\n全部一応見てはいるんですけど……ｽﾔｧ😌"
+                },
+                {
+                    "author": "did:plc:4wjc35nlr74wqvs4g4gyxply",
+                    "type": 2,
+                    "utter": "ニチアサ民だった！！！"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "隠れキリシタンの気持ちです今。\nバレてしまったか…(隠してはいない)"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3lextpiqopk2g",
+            "label": [
+                0.0010237692622467875,
+                0.9692178964614868,
+                0.00040597267798148096,
+                0.0013354042312130332,
+                0.0002175084373448044,
+                0.027094455435872078,
+                0.0006096211727708578,
+                9.548960224492475e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "隠れキリシタンの気持ちです今。\nバレてしまったか…(隠してはいない)"
+                },
+                {
+                    "author": "did:plc:4wjc35nlr74wqvs4g4gyxply",
+                    "type": 2,
+                    "utter": "私は今期はライダーだけ見てるんでにわかですよ、ガヴの顔の踏み絵なら踏み躙れます←"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "アッ…見てるけど全体的にふわっとしか見てないんで…にわかです。\n戦隊はドンブラくらいクレイジーなのが戻ってきて欲しい。\n任せてください💪踏むくらいなら💪💪💪(やめろ)"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3ley4qtbpzc2g",
+            "label": [
+                0.004650070331990719,
+                0.28676944971084595,
+                0.6953003406524658,
+                0.0010190324392169714,
+                0.0007970942533574998,
+                0.005659548100084066,
+                0.005217821337282658,
+                0.0005865580751560628
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "アッ…見てるけど全体的にふわっとしか見てないんで…にわかです。\n戦隊はドンブラくらいクレイジーなのが戻ってきて欲しい。\n任せてください💪踏むくらいなら💪💪💪(やめろ)"
+                },
+                {
+                    "author": "did:plc:4wjc35nlr74wqvs4g4gyxply",
+                    "type": 2,
+                    "utter": "私、ひっさしぶりにライダー見てますね\n途中からハマったので見直してるとこです🤭\nマジでディケイド以来くらい←"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "な…ナンダッテーーーー！\nちょっとォ…ディケイド以降いいやついっぱいありますよ！！！"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3leycunuu4c2g",
+            "label": [
+                0.982693612575531,
+                0.004781042691320181,
+                0.0024900208227336407,
+                0.004675962962210178,
+                0.0020223038736730814,
+                0.0006796825909987092,
+                0.0016351515660062432,
+                0.0010222333949059248
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "泣いちゃう"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "今年もうダメかもしれない..."
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "ダメじゃない！！！\n次本気出す…って運がウォーミングアップしてるはず"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3leo5p2th3s27",
+            "label": [
+                0.0003123357892036438,
+                0.0002613286778796464,
+                0.9989748001098633,
+                0.00012612347200047225,
+                6.45461623207666e-05,
+                0.0001343206240562722,
+                6.026361006661318e-05,
+                6.632570148212835e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "ウォーミングアップ……長すぎませんか？\n叩き起こしますか💪💪💪"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "全力で叩き起こしてください\nもう時既に遅しかもしれませんが😭😭"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "思ったより重症負ってて辛い🫠\n次回頑張る…じゃないのよ！今頑張って運！！！！！(私も今回ダメです。揃いません)"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3leoibj6lhk27",
+            "label": [
+                0.00012949475785717368,
+                0.9985083937644958,
+                0.0004760746378451586,
+                0.00012270659499336034,
+                9.542218322167173e-05,
+                0.00037639238871634007,
+                0.00025900398031808436,
+                3.256589116062969e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 1,
+                    "utter": "思ったより重症負ってて辛い🫠\n次回頑張る…じゃないのよ！今頑張って運！！！！！(私も今回ダメです。揃いません)"
+                },
+                {
+                    "author": "did:plc:t4c4ijgem6jaqardi4gkqvah",
+                    "type": 2,
+                    "utter": "でも次回頑張る精神の運さん自分に似てて愛着湧きます😂\nきっとこれから本気出してくれるはず...！"
+                },
+                {
+                    "author": "did:plc:nl7ruo6whixqpglhyc2ldasv",
+                    "type": 3,
+                    "utter": "運「正月くらいは休みたい」\n\nあ…明日はきっと！！！！！！\n(とか言ってしっかり冬休み取るタイプの運かもしれない🤔)"
+                }
+            ],
+            "uri": "at://did:plc:nl7ruo6whixqpglhyc2ldasv/app.bsky.feed.post/3leonzo27hc27",
+            "label": [
+                0.000379816978238523,
+                0.0003424932947382331,
+                0.9989019632339478,
+                0.00011742830247385427,
+                5.029413296142593e-05,
+                9.72096313489601e-05,
+                5.932045678491704e-05,
+                5.148530544829555e-05
+            ]
+        }
+    ]
+}

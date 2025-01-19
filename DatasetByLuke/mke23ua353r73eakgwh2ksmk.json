@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "おはよう、今日からトレーニング、行ってくるね"
+                },
+                {
+                    "author": "did:plc:76ohajzoxvzvw4k6tgxbfwm5",
+                    "type": 2,
+                    "utter": "おはよう♪\nGood luck (*｀･ω･)ゞ"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "おはよ、ありがとうね"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l6y7wqoung2q",
+            "label": [
+                0.9996351003646851,
+                6.548974488396198e-05,
+                7.635031215613708e-05,
+                5.733461512136273e-05,
+                2.29630295507377e-05,
+                3.590865890146233e-05,
+                5.7963450672104955e-05,
+                4.8822315875440836e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "おはよ、ありがとうね"
+                },
+                {
+                    "author": "did:plc:76ohajzoxvzvw4k6tgxbfwm5",
+                    "type": 2,
+                    "utter": "寒くなってきてるからお互い気をつけよ♪"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "そうだね、昼間はちょっと暑すぎるけど"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l6ya35s2ws2m",
+            "label": [
+                0.9124630093574524,
+                0.003748032497242093,
+                0.053226590156555176,
+                0.005773268640041351,
+                0.0005681875627487898,
+                0.016155531629920006,
+                0.0035116015933454037,
+                0.004553740378469229
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "そうだね、昼間はちょっと暑すぎるけど"
+                },
+                {
+                    "author": "did:plc:76ohajzoxvzvw4k6tgxbfwm5",
+                    "type": 2,
+                    "utter": "薄い上着で調整しながら過ごす手かな？"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "そんな感じだね"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l6z7v6aq5y2a",
+            "label": [
+                0.9777904748916626,
+                0.0013653339119628072,
+                0.015181636437773705,
+                0.0009648235864005983,
+                0.0003334502980578691,
+                0.0009550292161293328,
+                0.002017672872170806,
+                0.0013916242169216275
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "そんな感じだね"
+                },
+                {
+                    "author": "did:plc:76ohajzoxvzvw4k6tgxbfwm5",
+                    "type": 2,
+                    "utter": "暑くなったら脱げばいいしな"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "まぁ限界はあるけどね\n冬の方が着込めるだけ"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l6zr4vrews2z",
+            "label": [
+                0.4366183876991272,
+                0.08364611864089966,
+                0.444645494222641,
+                0.002659066114574671,
+                0.0014676672872155905,
+                0.012202944606542587,
+                0.013704102486371994,
+                0.005056221503764391
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "まぁ限界はあるけどね\n冬の方が着込めるだけ"
+                },
+                {
+                    "author": "did:plc:76ohajzoxvzvw4k6tgxbfwm5",
+                    "type": 2,
+                    "utter": "この時期は難しいから…\n下に厚いシャツ着たら暑くなりすぎたり、薄かったら寒くなったりするからな"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "難しいものだね"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l732zil5vl2b",
+            "label": [
+                0.0069784424267709255,
+                0.9504666924476624,
+                0.0005941683193668723,
+                0.0009541524341329932,
+                0.00023625060566700995,
+                0.038812004029750824,
+                0.001724360859952867,
+                0.00023397436598315835
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "ええ、大丈夫よ、ありがとうこれから宜しくね"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "ああ、こちらこそ。\nオレはキソだ。お前に最高の青空生活を与えてやる。"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "アタシはメジロドーベル\n、随分と自信があるのね"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l6ya6osgns2b",
+            "label": [
+                0.04968244954943657,
+                0.003624321660026908,
+                0.012556220404803753,
+                0.9284358024597168,
+                0.0006011715158820152,
+                0.0028526317328214645,
+                0.0010824106866493821,
+                0.0011649109655991197
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "アタシはメジロドーベル\n、随分と自信があるのね"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "まあな。これでもオレは社交的な方なんだ。\n天……同僚と比べても子供のお守りには一日の長があるくらいだからな。"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "む……アタシさり気なく子供扱いされてるような"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l6z7umi3ad2o",
+            "label": [
+                0.0003141301276627928,
+                0.9985211491584778,
+                0.00013728342310059816,
+                0.0002080215490423143,
+                5.716785744880326e-05,
+                0.0003042444586753845,
+                0.0004339154693298042,
+                2.414481423329562e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "む……アタシさり気なく子供扱いされてるような"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "そういうつもりはなかったが……ここ数日で知り合った連中と比べてお前は平和な世界で生きていることがよく分かるからな。無意識にそんな扱いをしていたのかもしれない。悪く思わないでくれ。"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "…いやこっちこそごめんね"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l732xv34pn25",
+            "label": [
+                0.0005959574482403696,
+                0.996207594871521,
+                0.00012882162991445512,
+                0.0002998744894284755,
+                0.00015198899200186133,
+                0.001600765623152256,
+                0.0009494064725004137,
+                6.569663673872128e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 1,
+                    "utter": "…いやこっちこそごめんね"
+                },
+                {
+                    "author": "did:plc:c7ej5yfo5xs6m4vxkpkql5pp",
+                    "type": 2,
+                    "utter": "気にするな。……ときにその耳は本物なのか？"
+                },
+                {
+                    "author": "did:plc:mke23ua353r73eakgwh2ksmk",
+                    "type": 3,
+                    "utter": "ああ、これ?本物だよ、そもそもこれ以外に耳がないし(耳をピコピコしてみせて"
+                }
+            ],
+            "uri": "at://did:plc:mke23ua353r73eakgwh2ksmk/app.bsky.feed.post/3l746ujhju42a",
+            "label": [
+                0.6010043025016785,
+                0.0914645865559578,
+                0.09042349457740784,
+                0.13032977283000946,
+                0.004071105271577835,
+                0.058859650045633316,
+                0.014521823264658451,
+                0.009325298480689526
+            ]
+        }
+    ]
+}

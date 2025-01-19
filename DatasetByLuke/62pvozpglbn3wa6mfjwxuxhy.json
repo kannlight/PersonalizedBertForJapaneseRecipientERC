@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "ぼちぼち凍結解除されてる方居ますね🥹\nコツとかあったら知りたいな🥺気配無しです🥲"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "同じくなーんも成果なし😮‍💨 😮‍💨 😮‍💨\n\n１ヶ月たとうとしてるのに…"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "もう1ヶ月超えちゃったよ🫠\nつらつら🤮"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3kvdxw5q27x2w",
+            "label": [
+                0.00016069576668087393,
+                0.9988092184066772,
+                0.00014019169611856341,
+                0.00015991090913303196,
+                8.034762868192047e-05,
+                0.00024015086819417775,
+                0.00038171574124135077,
+                2.7698710255208425e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "もう1ヶ月超えちゃったよ🫠\nつらつら🤮"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "うち今日で１ヶ月🫠\n\n異議申立ても今日ラスト\n\nもうしないε-(`･ω･´)ﾌﾝｯ\n\n😷のばぁか"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "そっかー。\n私18日からやったから_(　_´ω`)_\nほんま😷ばあかばあか"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3kve72m4rus2d",
+            "label": [
+                0.9474582672119141,
+                0.014539272524416447,
+                0.014806082472205162,
+                0.01047323364764452,
+                0.0007478714105673134,
+                0.0035807134117931128,
+                0.004978981800377369,
+                0.0034155724570155144
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "そっかー。\n私18日からやったから_(　_´ω`)_\nほんま😷ばあかばあか"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "解除された人と何が違うんやろねぇ(´°-°  `)\n\nもう諦めたけどさ…\n\nあれって解除されましたとか✉️くるのかなぁ？"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "多分来ないはず🤔"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3kvecguuhgk2r",
+            "label": [
+                0.5838394165039062,
+                0.1065961942076683,
+                0.17050011456012726,
+                0.0015792909543961287,
+                0.0014030758757144213,
+                0.08766237646341324,
+                0.04115884378552437,
+                0.007260720711201429
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "多分来ないはず🤔"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "たまーには覗きに行かなきゃあかんってやつやね(•ᴗ•; )"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "違うので検索してもずーっと凍ってて萎え萎え😇"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3kvefvau2cs2d",
+            "label": [
+                0.00025667709996923804,
+                0.9988666772842407,
+                0.00018205211381427944,
+                0.00013449347170535475,
+                6.334871432045475e-05,
+                0.00011613550304900855,
+                0.0003525421489030123,
+                2.8107418984291144e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "違うので検索してもずーっと凍ってて萎え萎え😇"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "なんか残ってる人は人で👻🍞祭りみたいだし🥹‪\n\n楽しめる感じではないねぇ💦"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "もう1個のでちまちましてるけどやる気出ないし👻やし当たらんし楽しめないね💦\nあ、いまさっきすぺ行ったらロックかかった"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3kvegkehxa22b",
+            "label": [
+                0.00031940164626576006,
+                0.9983996748924255,
+                0.0001289713109144941,
+                0.0003212951705791056,
+                7.227614696603268e-05,
+                0.0001607774756848812,
+                0.0005722491187043488,
+                2.53094458457781e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "おはようございます‎\nX今日も解凍されなかった🫠\nがんばって異議申立て送ってるけど、見て貰えてないのかな💦\nそれとも文の書き方が悪いのかなぁ🥲"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "( *ˊᗜˋ)ﾉꕤ*.ﾟおはよ‪🌱‬☀️\n\nうちも今日も解凍されてない🥹‪\n毎日異議申し立て頑張る(ง •̀_•́)ง"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "1日3回してた人もいるみたいやし強弱つけて頑張ろ🔥"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ku7p6bvmtr2r",
+            "label": [
+                0.0008042468107305467,
+                0.00022624607663601637,
+                0.9985507130622864,
+                0.0001333082327619195,
+                6.102241968619637e-05,
+                0.00010074136662296951,
+                6.116715667303652e-05,
+                6.248037243494764e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "1日3回してた人もいるみたいやし強弱つけて頑張ろ🔥"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "3回Σ(OωO )⁉️そんなに\n\n毎日でも嫌がられそうなのにw\n回数増やしたがええのかな🥹‪\n同じ文面はよくないいうから毎回変えてたのかな…🤔"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "うんうん。\n今またしてきた。\nブラウザからの申請がいいこと。クッキーキャッシュとかは毎回消す方がいいって聞いたよ"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ku7phfps522c",
+            "label": [
+                0.6893177032470703,
+                0.001271287677809596,
+                0.3023265302181244,
+                0.0016608411679044366,
+                0.0006193994777277112,
+                0.0008097582031041384,
+                0.0011363066732883453,
+                0.002858209190890193
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "うんうん。\n今またしてきた。\nブラウザからの申請がいいこと。クッキーキャッシュとかは毎回消す方がいいって聞いたよ"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "アプリ申請ダメなのΣ(OωO )\n毎回アプリだわ💦\n\nクッキーも消せと🍪💦\nめんどくさい🥹‪\nそこまでしたら解凍されるならやっちゃう自分がいてるwww"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "まだ私も解凍されてないから分からないけど💦\nロボットじゃない確認の15ターンもあって毎回しんどっってなってたけどキャッシュクリアしたら今回なかった！"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ku7pwuqeks26",
+            "label": [
+                0.9990156888961792,
+                8.548276673536748e-05,
+                0.0001275408430956304,
+                0.00047269545029848814,
+                3.2606527383904904e-05,
+                5.250368485576473e-05,
+                0.00013947846309747547,
+                7.396746514132246e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "まだ私も解凍されてないから分からないけど💦\nロボットじゃない確認の15ターンもあって毎回しんどっってなってたけどキャッシュクリアしたら今回なかった！"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "ロボット確認？\nウェブからならそれあるの❓•́ω•̀)\n\nアプリからだとロボット確認見た事ないかも…"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "あるある。ロックかかった時にするやつで難易度めっちゃ高いの。しかも15回正解しないとダメなやつ🙅‍♀️"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ku7rjntuuk2d",
+            "label": [
+                0.6779312491416931,
+                0.010280773974955082,
+                0.03941260278224945,
+                0.2485520839691162,
+                0.0016613189363852143,
+                0.01331703644245863,
+                0.004503400530666113,
+                0.004341567866504192
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "あるある。ロックかかった時にするやつで難易度めっちゃ高いの。しかも15回正解しないとダメなやつ🙅‍♀️"
+                },
+                {
+                    "author": "did:plc:4airkgueceleklpagpnaxijk",
+                    "type": 2,
+                    "utter": "ウェブ版からしようとしたけど…なんでやろ🥹‪できへん😭\nクッキーやら削除してログインからやり直したのに(ᐡ. .ᐡ )\nロボット🤖のすらやる資格ないみたい🫠"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "ふむふむ。\nとりあえず1度アプリも全部ログアウトしてからした方がいいって聞いたのと、バスワードは必ず変更した方がいいって聞いたよ。\nログインしてダメって言われたら閉じて開いたらできるようになってたかも。"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3kuamrtyyrr2r",
+            "label": [
+                0.0012732652248814702,
+                0.0002159092400688678,
+                0.9980815649032593,
+                0.00011756437743315473,
+                5.591899389401078e-05,
+                0.00010565412230789661,
+                6.015043254592456e-05,
+                9.000625141197816e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "楽しくつぶやくのん"
+                },
+                {
+                    "author": "did:plc:gwfaptfmub62nrebbnzvbab6",
+                    "type": 2,
+                    "utter": "うん。つぶやきイチロウになろうと思う。"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "楽しみにしてる"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ktpibm2gr325",
+            "label": [
+                0.008556602522730827,
+                0.0003482899337541312,
+                0.9903475046157837,
+                0.0001972808240680024,
+                0.00012884086754638702,
+                0.00019928296387661248,
+                9.725028940010816e-05,
+                0.0001248704211320728
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "楽しみにしてる"
+                },
+                {
+                    "author": "did:plc:gwfaptfmub62nrebbnzvbab6",
+                    "type": 2,
+                    "utter": "ハードルあがった。\nとりあえず明日のミートソースと春雨サラダは完了した。"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "えっ？\nてづくり？\nすぎょい😳"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ktprcpgnt32b",
+            "label": [
+                0.0007732034428045154,
+                0.00043720711255446076,
+                0.0008192420937120914,
+                0.9973147511482239,
+                0.00017188557831104845,
+                0.00019105036335531622,
+                0.00019172075553797185,
+                0.00010095654579345137
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "えっ？\nてづくり？\nすぎょい😳"
+                },
+                {
+                    "author": "did:plc:gwfaptfmub62nrebbnzvbab6",
+                    "type": 2,
+                    "utter": "家庭的なおじいちゃんだから笑"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "手作りミートソースはパスタ？\nセロリも入れてるのかな😳\n食べたーい🍝"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ktrmjca2p22c",
+            "label": [
+                0.0007272615330293775,
+                0.00018866876780521125,
+                0.9987086057662964,
+                0.00013356817362364382,
+                4.892997822025791e-05,
+                8.820567018119618e-05,
+                5.03300252603367e-05,
+                5.432546095107682e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 1,
+                    "utter": "手作りミートソースはパスタ？\nセロリも入れてるのかな😳\n食べたーい🍝"
+                },
+                {
+                    "author": "did:plc:gwfaptfmub62nrebbnzvbab6",
+                    "type": 2,
+                    "utter": "今回は喫茶店をテーマにしたから椎茸と人参と玉ねぎにしたよ。\nまたミートソース熱あがってきた。"
+                },
+                {
+                    "author": "did:plc:62pvozpglbn3wa6mfjwxuxhy",
+                    "type": 3,
+                    "utter": "具沢山で絶対おいしいやつだね(∩˘~˘∩ )♡\nずっとかき混ぜないとくっつくからなかなか難しい"
+                }
+            ],
+            "uri": "at://did:plc:62pvozpglbn3wa6mfjwxuxhy/app.bsky.feed.post/3ktuinfbu2k2l",
+            "label": [
+                0.24674057960510254,
+                0.0012066323542967439,
+                0.7497783303260803,
+                0.0004806838696822524,
+                0.0003872762608807534,
+                0.0005550739006139338,
+                0.0004056462785229087,
+                0.0004457180039025843
+            ]
+        }
+    ]
+}

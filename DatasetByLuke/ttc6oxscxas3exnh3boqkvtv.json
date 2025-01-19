@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "ゲーミングPC買っちゃおうかなー"
+                },
+                {
+                    "author": "did:plc:dff6xtvgv6olvacgumojh5aw",
+                    "type": 2,
+                    "utter": "いけいけー！！"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "心がとても揺らいでます笑"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3lbql74vegs26",
+            "label": [
+                0.7771963477134705,
+                0.0021640390623360872,
+                0.07007598131895065,
+                0.025928150862455368,
+                0.0006982440245337784,
+                0.12060431391000748,
+                0.000690254382789135,
+                0.0026427004486322403
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "心がとても揺らいでます笑"
+                },
+                {
+                    "author": "did:plc:6f3fxkxnswxhzehjetqklaxx",
+                    "type": 2,
+                    "utter": "ゲーミングPCは良いものです。\nですが1つだけ私の経験から注意する点を。\nPCだと、ゲームをSteamで買って遊ぶことになるとおもうのですが、稀にSteamでは出さない、出しても遅れてリリースされる、他のプラットフォームと比べるとバージョンが古い等が発生することがあります。\n稀なこととは思いますが、そういうこともあるよと、、、"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "Steamは割と置き去りになるんですね…悲しい笑\nでも僕のクソ雑魚PCがスト6で悲鳴を上げてます😇"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3lbriuqj2fs2v",
+            "label": [
+                0.00032173984800465405,
+                0.9989323019981384,
+                0.00012689012510236353,
+                0.0001684852031758055,
+                4.8764639359433204e-05,
+                0.0001882131618913263,
+                0.0001891376741696149,
+                2.4384029529755935e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "Steamは割と置き去りになるんですね…悲しい笑\nでも僕のクソ雑魚PCがスト6で悲鳴を上げてます😇"
+                },
+                {
+                    "author": "did:plc:6f3fxkxnswxhzehjetqklaxx",
+                    "type": 2,
+                    "utter": "些細なことですし、買っちゃいますかー。\nグラボはどの辺りを。\nRTX4060あたりで十分そうですが、モンハンとか見据えて4070tiSUPERあたりいっときますか！？"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "確かにモンハンできると…それ絶対高いグラボですよね！？\n前チラ見してたのは4060Tiのやつでした！諸々いれたら25万くらいするんですよねー😂"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3lbrmoatvlk2v",
+            "label": [
+                0.028932150453329086,
+                0.002084791660308838,
+                0.9099646210670471,
+                0.05374860391020775,
+                0.0004298292042221874,
+                0.002988278865814209,
+                0.0003732786572072655,
+                0.0014783780789002776
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "今日はモダンの人とのマッチが多いな"
+                },
+                {
+                    "author": "did:plc:dff6xtvgv6olvacgumojh5aw",
+                    "type": 2,
+                    "utter": "しゃんぺさんはクラシックなんですか？"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "クラシックの初心者です！レバーレス初めて買いました😎"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3lath5ywbh22v",
+            "label": [
+                0.22569122910499573,
+                0.0005714018479920924,
+                0.770189642906189,
+                0.0014747760724276304,
+                0.0004415891016833484,
+                0.0004682957078330219,
+                0.0003646235272753984,
+                0.0007985614356584847
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "クラシックの初心者です！レバーレス初めて買いました😎"
+                },
+                {
+                    "author": "did:plc:dff6xtvgv6olvacgumojh5aw",
+                    "type": 2,
+                    "utter": "‼️\nなんと！私も同じです！アケコンですがww\n初心者でクラシックの方に出会うことがあまりないので嬉しいです🥳ﾅｶｰﾏ"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "アケコンの方が始めるのすごいですー！クラシック仲間！ゴールドから全然ランクが上がらない😂"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3latiqo34zc2v",
+            "label": [
+                0.03136053681373596,
+                0.2432447075843811,
+                0.01764107681810856,
+                0.7002108097076416,
+                0.0008272212580777705,
+                0.003651394508779049,
+                0.0013744622701779008,
+                0.0016897374298423529
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "アケコンの方が始めるのすごいですー！クラシック仲間！ゴールドから全然ランクが上がらない😂"
+                },
+                {
+                    "author": "did:plc:dff6xtvgv6olvacgumojh5aw",
+                    "type": 2,
+                    "utter": "いやレバレスの方が無理ですww移動とガードがヤバすぎます😂\nゴールド…！そこまで行けるように頑張ります😭wwちなみになんのキャラを使ってるんですか？！"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "レバーだとそんな違うんですね😅ゴールドは全然行けると思いますよ‼️キャミィを使ってますが最近は豪鬼とかも気になってます…👀"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3laujw4fgos2v",
+            "label": [
+                0.0021561053581535816,
+                0.0002084641164401546,
+                0.9970533847808838,
+                0.00023867684649303555,
+                8.53602759889327e-05,
+                0.00010353446123190224,
+                6.261831731535494e-05,
+                9.19187514227815e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "レバーだとそんな違うんですね😅ゴールドは全然行けると思いますよ‼️キャミィを使ってますが最近は豪鬼とかも気になってます…👀"
+                },
+                {
+                    "author": "did:plc:dff6xtvgv6olvacgumojh5aw",
+                    "type": 2,
+                    "utter": "私が使ってるのは「カチカチ」と入力方向に音が鳴るのでコマンド入れるときわかりやすいです！\nキャミィなんですか！使い勝手よさそうですねー🤤"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "音が鳴るの確かにいいですねー😃レバレスがダメだったら考えようかなぁ笑\n動画とかだとキャミィは強キャラなんですが、自分が使うと全然なんです…😂yoshinoさんはどのキャラ使ってます？？"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3law4rmxdu22s",
+            "label": [
+                0.008388619869947433,
+                0.0018306918209418654,
+                0.9891267418861389,
+                0.0001806124928407371,
+                8.18737898953259e-05,
+                0.00015293675824068487,
+                0.00011032421753043309,
+                0.00012807587336283177
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 1,
+                    "utter": "音が鳴るの確かにいいですねー😃レバレスがダメだったら考えようかなぁ笑\n動画とかだとキャミィは強キャラなんですが、自分が使うと全然なんです…😂yoshinoさんはどのキャラ使ってます？？"
+                },
+                {
+                    "author": "did:plc:dff6xtvgv6olvacgumojh5aw",
+                    "type": 2,
+                    "utter": "パッドが大きくなった！みたいな感じなのでやりやすさはありますwwお手軽ですww\nキャミィ苦手です…一応マノン使っててキャミィ有利らしいんですけど全然勝てないです😂"
+                },
+                {
+                    "author": "did:plc:ttc6oxscxas3exnh3boqkvtv",
+                    "type": 3,
+                    "utter": "マノン…！投げられまくった記憶しかないです笑\nキャミィにも弾があれば😂"
+                }
+            ],
+            "uri": "at://did:plc:ttc6oxscxas3exnh3boqkvtv/app.bsky.feed.post/3layhqxcoz22w",
+            "label": [
+                0.07540792971849442,
+                0.7793421149253845,
+                0.04746080935001373,
+                0.06715905666351318,
+                0.001073305495083332,
+                0.02388926036655903,
+                0.0035403091460466385,
+                0.0021272089798003435
+            ]
+        }
+    ]
+}

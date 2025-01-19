@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "青空ちゃんのほうがえっくすより自我強めだから煩かったらごめんなさいねｯｯ🥹酔っ払いで楽しいよ～！"
+                },
+                {
+                    "author": "did:plc:tbo2mbo2uefxzzv3utljdnjt",
+                    "type": 2,
+                    "utter": "酔っ払い千歳さん👏👏👏"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "元気に酔っ払いです！！ここから一人で家に帰るというミッションが発生します！！"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3lbj5a3jpnc23",
+            "label": [
+                0.9964499473571777,
+                0.0003725110727827996,
+                0.0012876573018729687,
+                0.00017318122263532132,
+                9.358191164210439e-05,
+                0.0010767000494524837,
+                0.0002876073122024536,
+                0.0002587765920907259
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "元気に酔っ払いです！！ここから一人で家に帰るというミッションが発生します！！"
+                },
+                {
+                    "author": "did:plc:tbo2mbo2uefxzzv3utljdnjt",
+                    "type": 2,
+                    "utter": "頑張ってください😂🙏🙏\n怪我しないでくださいねwwwwww"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "走らなければ大丈夫です！！走ったら靭帯切ると学んだ民なので！！"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3lbj5go4sz223",
+            "label": [
+                0.014670023694634438,
+                0.007669909857213497,
+                0.18611963093280792,
+                0.0021394158247858286,
+                0.00225993525236845,
+                0.7811044454574585,
+                0.002001240151003003,
+                0.0040353769436478615
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "走らなければ大丈夫です！！走ったら靭帯切ると学んだ民なので！！"
+                },
+                {
+                    "author": "did:plc:tbo2mbo2uefxzzv3utljdnjt",
+                    "type": 2,
+                    "utter": "多分走っても切れないですよwwwwwwwww"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "私は切れてしまった女なんです…そして切れやすくなってしまったので飲んだら走るなを教訓にしてます🥹"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3lbj64jw5wc27",
+            "label": [
+                0.0003647423873189837,
+                0.997725784778595,
+                0.0002354749449295923,
+                0.00021134426060598344,
+                5.8624966186471283e-05,
+                0.0011596719268709421,
+                0.00020878763461951166,
+                3.555356670403853e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "私は切れてしまった女なんです…そして切れやすくなってしまったので飲んだら走るなを教訓にしてます🥹"
+                },
+                {
+                    "author": "did:plc:tbo2mbo2uefxzzv3utljdnjt",
+                    "type": 2,
+                    "utter": "めっちゃ悲しき酒飲み千歳さん……🥹\nやっぱりお酒程々にした方がいいんじゃないんですか😂！？"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "最近は怪我してないのでセーフです！記憶はなくしますが！！\nソファ寝落ちしなくなったので成長してますよ👍"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3lbjisqdw5s2i",
+            "label": [
+                0.9995837807655334,
+                5.014826820115559e-05,
+                0.000133787514641881,
+                4.4738691940438e-05,
+                2.747261714830529e-05,
+                5.1722581702051684e-05,
+                4.516231274465099e-05,
+                6.312512414297089e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "最近は怪我してないのでセーフです！記憶はなくしますが！！\nソファ寝落ちしなくなったので成長してますよ👍"
+                },
+                {
+                    "author": "did:plc:tbo2mbo2uefxzzv3utljdnjt",
+                    "type": 2,
+                    "utter": "怪我してないのは進化です。千歳さんすごい👏👏👏\nソファで寝落ちもしなくなったんですか😂！？めっちゃ成長してますね……。そのままお酒も減らしたら多分もっと進化できますよ……"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "毎日ちゃんと布団にいけるようになりましたよ！！\n私の中で二日酔いにならなければセーフです🥹"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3lbjm2hkjds2p",
+            "label": [
+                0.9990968704223633,
+                7.163309055613354e-05,
+                0.0005586588522419333,
+                5.166884875507094e-05,
+                3.673431638162583e-05,
+                6.296094215940684e-05,
+                5.6155848142225295e-05,
+                6.539445166708902e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "本能游戏でオメガバ話思いついたけどめっちゃしんどくなりそう🥹"
+                },
+                {
+                    "author": "did:plc:5lzvztssief4xdsujqirsi6a",
+                    "type": 2,
+                    "utter": "読みたいです！！！"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "やった！！！その言葉で書くことを決心した👏👏"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3l22xh3eqzw26",
+            "label": [
+                0.9982616305351257,
+                9.711535676615313e-05,
+                0.0012693185126408935,
+                0.00012124390195822343,
+                4.953445022692904e-05,
+                4.8987199988914654e-05,
+                5.8841571444645524e-05,
+                9.338583913631737e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "やった！！！その言葉で書くことを決心した👏👏"
+                },
+                {
+                    "author": "did:plc:5lzvztssief4xdsujqirsi6a",
+                    "type": 2,
+                    "utter": "やったー！\nオメガバ大好き侍なので完成を楽しみにしてる🥹"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "実は究惑でもオメガバ書いたし信息素も書いてるしで白杨いったら闇鍋本で三つもオメガバネタになる🤣オメガバ芸人になるわ🥹"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3l24q4nvknp2h",
+            "label": [
+                0.003167265560477972,
+                0.00038921990199014544,
+                0.9957565665245056,
+                0.0002767127298284322,
+                8.347601396963e-05,
+                0.00013296132965479046,
+                9.755501378094777e-05,
+                9.626007522456348e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "実は究惑でもオメガバ書いたし信息素も書いてるしで白杨いったら闇鍋本で三つもオメガバネタになる🤣オメガバ芸人になるわ🥹"
+                },
+                {
+                    "author": "did:plc:5lzvztssief4xdsujqirsi6a",
+                    "type": 2,
+                    "utter": "まじかー！\nオメガバなら何杯でもおかわりしたいから嬉しい🥺♡\nこの調子で添望もいっとこう♡"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "気付いたら増殖してた🤣全部違った設定にしたから是非読んで♡\n添望は本編しんどすぎて電マでtkb責めする話書いちゃったwww書いた中で一番えろ特化してるのが某某よ🫣💕"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3l25h353fep25",
+            "label": [
+                0.9737643599510193,
+                0.0003727017901837826,
+                0.024858763441443443,
+                0.0003681817906908691,
+                0.00011498700041556731,
+                0.00015186362725216895,
+                0.00014972123608458787,
+                0.000219330468098633
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "気付いたら増殖してた🤣全部違った設定にしたから是非読んで♡\n添望は本編しんどすぎて電マでtkb責めする話書いちゃったwww書いた中で一番えろ特化してるのが某某よ🫣💕"
+                },
+                {
+                    "author": "did:plc:5lzvztssief4xdsujqirsi6a",
+                    "type": 2,
+                    "utter": "現代tkb責めだ！！！\nｳﾞｨｰｰ((((🎤))))ｰｰﾝ\n読むの楽しみすぎる🥺\n\nお...、もしや4作目...？🤔\n千歳ちゃんの執筆ペース早過ぎてびっくりだよ🤣"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "その電マ表現好きすぎる🤣使える道具は使っていかないとね！！！\n\n最終的に5作品くらいになりそうwwwすけべにかける情熱が高すぎて筆が進み過ぎちゃって🥹"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3l27zd54ndh2a",
+            "label": [
+                0.9995608925819397,
+                4.66879500891082e-05,
+                0.00012965091445948929,
+                0.00010387623478891328,
+                2.655358002812136e-05,
+                4.8530706408200786e-05,
+                3.3603668271098286e-05,
+                5.021881588618271e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 1,
+                    "utter": "その電マ表現好きすぎる🤣使える道具は使っていかないとね！！！\n\n最終的に5作品くらいになりそうwwwすけべにかける情熱が高すぎて筆が進み過ぎちゃって🥹"
+                },
+                {
+                    "author": "did:plc:5lzvztssief4xdsujqirsi6a",
+                    "type": 2,
+                    "utter": "全年齢電マ表現！( ᐛ ✌︎)✧\n\n5作品.ᐟ‪.ᐟ‪🫨🫨🫨\n千歳ちゃんのすけべへの情熱を全力で受け止めるわ🥹"
+                },
+                {
+                    "author": "did:plc:xbedoejyksyjchpytuoevqun",
+                    "type": 3,
+                    "utter": "電マはマッサージ器具だもんね♡全年齢だよ♡\n\n受け止めてくれるかなみちゃんに𝑩𝑰𝑮 𝑳𝑶𝑽𝑬を送るわ🥹💕全作品ALLすけべてお送りします🫶"
+                }
+            ],
+            "uri": "at://did:plc:xbedoejyksyjchpytuoevqun/app.bsky.feed.post/3l2civ3iaop2t",
+            "label": [
+                0.9817222952842712,
+                0.0004171549517195672,
+                0.01705569215118885,
+                0.00014512082270812243,
+                0.00012618480832315981,
+                0.00015186300151981413,
+                0.0001741278829285875,
+                0.0002075881347991526
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "この時間は人いないので園芸を上げるか🫠"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "ギャザクラ頑張ってるの偉い"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "自給自足したいのと地図掘れるようになりたいの！"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3lby26smowc2j",
+            "label": [
+                0.00043417542474344373,
+                0.00017285488138440996,
+                0.9990173578262329,
+                0.00011334045848343521,
+                6.413398659788072e-05,
+                8.196426642825827e-05,
+                5.682199844159186e-05,
+                5.9401874750619754e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "自給自足したいのと地図掘れるようになりたいの！"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "偉みが最高か？？？\nでも私も薬と飯代が深刻だからどっちかあげて節約したいなぁ。"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "私ご飯作るしぷりーさん薬とかいかが？？？"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3lby5nu3uqc2p",
+            "label": [
+                0.00046659662621095777,
+                0.0004957718774676323,
+                0.9986384510993958,
+                7.95135201769881e-05,
+                4.99948400829453e-05,
+                0.00012640886416193098,
+                9.261102240998298e-05,
+                5.0732382078422233e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "私ご飯作るしぷりーさん薬とかいかが？？？"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "やっぱりそれがいいよね？？？錬金頑張ります。"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "そのうち錬金もあげるけどどうせなら役割分担もありかな？と思って！\nぷりーさんが調理やりたいならそれでも！"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3lby6dhhrlc2y",
+            "label": [
+                0.0060501703992486,
+                0.0002833528851624578,
+                0.9929800629615784,
+                0.00019002686894964427,
+                0.00013091332220938057,
+                0.00012470695946831256,
+                0.00012057390995323658,
+                0.00012019229325233027
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "そのうち錬金もあげるけどどうせなら役割分担もありかな？と思って！\nぷりーさんが調理やりたいならそれでも！"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "薬いるコンテンツ結構いくもんね。あって困ることはない。\nどっちにしろほぼ1からになるんだけど、錬金かな。モーションが面白くて好きなんだよねww"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "薬もご飯もいるね！\nおっけおっけ\n錬金頑張ろー！私もムケッカ作れるようにしなきゃ..."
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3lby6nekeyc2y",
+            "label": [
+                0.18228919804096222,
+                0.0012733753537759185,
+                0.8146933317184448,
+                0.0004412261478137225,
+                0.0002511212951503694,
+                0.00034536607563495636,
+                0.00034365805913694203,
+                0.0003626951656769961
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "薬もご飯もいるね！\nおっけおっけ\n錬金頑張ろー！私もムケッカ作れるようにしなきゃ..."
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "ジャンポもやぶさかではない気持ちでレベリングするわ。\nコンテンツの入り口でムケッカ流し込むヒカセンの図を思うと面白すぎるんだよな。基本2杯食べる食いしん坊です。"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "ギャザクラジャンポできるんだっけ？リーヴ納品でなんとかなるから大丈夫よ！\nwww美味しそうに食べるの可愛いからよし！"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3lby6tp65hc2y",
+            "label": [
+                0.9989953637123108,
+                7.040529453661293e-05,
+                0.0006673519965261221,
+                5.678450906998478e-05,
+                3.5191151255276054e-05,
+                5.891335604246706e-05,
+                5.3673709771828726e-05,
+                6.237177149159834e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "今日こそ滅行くからな！！！"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "何時に行く？"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "22時半以降かなー"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3le3wdgonh227",
+            "label": [
+                0.0009333979105576873,
+                0.00024657006724737585,
+                0.9984351992607117,
+                8.482258999720216e-05,
+                5.1601455197669566e-05,
+                0.0001270977227250114,
+                6.49969297228381e-05,
+                5.624124241876416e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "22時半以降かなー"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "ご一緒さーせて"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "初見未予習突入だけどよければ！"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3le3yjx6rm227",
+            "label": [
+                0.0017592193325981498,
+                0.0002540966379456222,
+                0.9975233674049377,
+                0.00010484925587661564,
+                7.624549471074715e-05,
+                0.00011288402311038226,
+                8.422721293754876e-05,
+                8.511300256941468e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "初見未予習突入だけどよければ！"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "ギミック超えれてないから実質初見未予習だから大丈夫"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "wwww\n結構ガチめの話し合いするけど気にしないでね🫠"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3le3z2wbhrc27",
+            "label": [
+                0.8954595923423767,
+                0.0018729877192527056,
+                0.035079702734947205,
+                0.01856192573904991,
+                0.0010619377717375755,
+                0.04096510633826256,
+                0.0027925099711865187,
+                0.00420626625418663
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "wwww\n結構ガチめの話し合いするけど気にしないでね🫠"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "すげーって思いながら空気徹するから大丈夫よ。気にせずタンク会議して。"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "意見あったらしてね！これこうじゃないみたいなの欲しいよ！！！\n多分ぱいせんタンクじゃないんじゃないかなー"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3le42hj2k5227",
+            "label": [
+                0.00027931859949603677,
+                0.00019016726582776755,
+                0.9991530179977417,
+                0.00010593350452836603,
+                7.329252548515797e-05,
+                7.60236507630907e-05,
+                7.196031219791621e-05,
+                5.039863390265964e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 1,
+                    "utter": "意見あったらしてね！これこうじゃないみたいなの欲しいよ！！！\n多分ぱいせんタンクじゃないんじゃないかなー"
+                },
+                {
+                    "author": "did:plc:5b6dfzthlihxmcyuggu2cqh6",
+                    "type": 2,
+                    "utter": "おけおけ。私もわからないことばっかりだから、不確定要素しかないけども。\nありゃDPS？昨日時点ではヒラは多そうだったよ。"
+                },
+                {
+                    "author": "did:plc:vi6hf5udxpsfzn6t3z5clx6f",
+                    "type": 3,
+                    "utter": "やってる中で理解するのが私楽しくて好きだから前情報は伏せてやってる時の気づいたこと教えてくれたら嬉しい〜\n多分DPSじゃないかなー私がタンクだすから。\nヒラ多いの！？"
+                }
+            ],
+            "uri": "at://did:plc:vi6hf5udxpsfzn6t3z5clx6f/app.bsky.feed.post/3le42vvsirk27",
+            "label": [
+                0.002218355657532811,
+                0.00028049395768903196,
+                0.9970256686210632,
+                0.00013058519107289612,
+                7.742481830064207e-05,
+                9.098986629396677e-05,
+                8.587392949266359e-05,
+                9.057456918526441e-05
+            ]
+        }
+    ]
+}

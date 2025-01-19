@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "はぐしていいの？"
+                },
+                {
+                    "author": "did:plc:rqnryst2qj7tcgudxw77x2vk",
+                    "type": 2,
+                    "utter": "はぐして～！"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "じゃあぎゅー！\n土曜日にもぎゅーするね！"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lbzg4xoszc27",
+            "label": [
+                0.02636873908340931,
+                0.0008576958207413554,
+                0.9717276692390442,
+                0.00030920750577934086,
+                0.0001808998640626669,
+                0.00019406074716243893,
+                0.0001827505766414106,
+                0.0001790202659321949
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "じゃあぎゅー！\n土曜日にもぎゅーするね！"
+                },
+                {
+                    "author": "did:plc:rqnryst2qj7tcgudxw77x2vk",
+                    "type": 2,
+                    "utter": "ぎゅっぎゅ　ありがとう😭"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "他PLの2/3情緒首締め勢やけど…"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lbzgd2zsbc27",
+            "label": [
+                0.046167440712451935,
+                0.7030189037322998,
+                0.0022743321023881435,
+                0.01789352111518383,
+                0.0021190091501921415,
+                0.1929609775543213,
+                0.03422288969159126,
+                0.0013428659876808524
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "他PLの2/3情緒首締め勢やけど…"
+                },
+                {
+                    "author": "did:plc:rqnryst2qj7tcgudxw77x2vk",
+                    "type": 2,
+                    "utter": "ちょんすけさんの光のぱわーで頼む"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "私に光出せる…？？？🤔"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lbzgp7gaa227",
+            "label": [
+                0.0011806333204731345,
+                0.0016209043096750975,
+                0.9922616481781006,
+                0.0003636285837274045,
+                6.878545536892489e-05,
+                0.004310009069740772,
+                8.79391809576191e-05,
+                0.00010644163558026776
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "私に光出せる…？？？🤔"
+                },
+                {
+                    "author": "did:plc:rqnryst2qj7tcgudxw77x2vk",
+                    "type": 2,
+                    "utter": "…………ノーコメントで。\nでも、いつも優しくぎゅってしてくれるなって思ってる"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "ずっと腕の中にいてね〜😊"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lbzie7bpsc27",
+            "label": [
+                0.9905096292495728,
+                0.0006382187129929662,
+                0.00823920127004385,
+                0.00010890784324146807,
+                6.390539783751592e-05,
+                0.00013468178804032505,
+                0.00014200386067386717,
+                0.0001635352527955547
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "喉は治ったけど熱出たのでふて寝だYO"
+                },
+                {
+                    "author": "did:plc:5tbonu2tk3ugcqctcfb7pmlp",
+                    "type": 2,
+                    "utter": "エン😭‎ご自愛なさってください😭‎"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "寝正月するね〜"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lekuzaqqvs2i",
+            "label": [
+                0.9008702039718628,
+                0.00383797287940979,
+                0.09212858229875565,
+                0.00036833889316767454,
+                0.0001222634018631652,
+                0.0009662680677138269,
+                0.0012697874335572124,
+                0.00043666717829182744
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "寝正月するね〜"
+                },
+                {
+                    "author": "did:plc:5tbonu2tk3ugcqctcfb7pmlp",
+                    "type": 2,
+                    "utter": "お布団でぬくぬくしてください😢"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "残念だったな！今はスープデリなうだ！おいしい！"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lekyddwotc2i",
+            "label": [
+                0.9993902444839478,
+                9.576894080964848e-05,
+                0.0002776178880594671,
+                6.188074621604756e-05,
+                2.6911640816251747e-05,
+                3.6341403756523505e-05,
+                5.251590482657775e-05,
+                5.868134758202359e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "残念だったな！今はスープデリなうだ！おいしい！"
+                },
+                {
+                    "author": "did:plc:5tbonu2tk3ugcqctcfb7pmlp",
+                    "type": 2,
+                    "utter": "ご飯食べれてえらい！！！\nスープデリ美味しいですよね😋"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "心配ありがとうねぇ\nやった〜最近ね、おいしさに気づいてしまったのよ…！！"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lekzdulayk2i",
+            "label": [
+                0.9996271133422852,
+                6.225059769349173e-05,
+                0.0001134020640165545,
+                5.432255784398876e-05,
+                2.2126771000330336e-05,
+                4.074015305377543e-05,
+                4.347205685917288e-05,
+                3.6573572288034484e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "心配ありがとうねぇ\nやった〜最近ね、おいしさに気づいてしまったのよ…！！"
+                },
+                {
+                    "author": "did:plc:5tbonu2tk3ugcqctcfb7pmlp",
+                    "type": 2,
+                    "utter": "早く良くなるよう念を飛ばしておきますからね...！！\n\n スープデリマジで美味しくってぇ.....\nちなみにな時味食べてるんです？"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "ありがとありがと〜大好き〜！\nえとね、サーモンとほうれん草のやつ！"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lel3aygymc2i",
+            "label": [
+                0.9996315240859985,
+                4.174935747869313e-05,
+                0.00010844088683370501,
+                5.9023099311161786e-05,
+                2.9512326364056207e-05,
+                3.87465552194044e-05,
+                4.660152262658812e-05,
+                4.433900539879687e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 1,
+                    "utter": "ありがとありがと〜大好き〜！\nえとね、サーモンとほうれん草のやつ！"
+                },
+                {
+                    "author": "did:plc:5tbonu2tk3ugcqctcfb7pmlp",
+                    "type": 2,
+                    "utter": "私もスッキスッスキ💋\n\n一番美味しいやつ！！私もそれが一番好き！！！！！！！！！！！"
+                },
+                {
+                    "author": "did:plc:tvkfhqnnaxvshpuw7gmkfd5m",
+                    "type": 3,
+                    "utter": "だよねだよね！お湯入れるだけなのに何故あんなに美味しくなるのか…！\n私もお気に入りになった！"
+                }
+            ],
+            "uri": "at://did:plc:tvkfhqnnaxvshpuw7gmkfd5m/app.bsky.feed.post/3lel4fe3wnc2d",
+            "label": [
+                0.9993519186973572,
+                5.0090566219296306e-05,
+                0.000149478655657731,
+                0.00025418930454179645,
+                4.190255640423857e-05,
+                3.7180081562837586e-05,
+                4.984305996913463e-05,
+                6.53965471428819e-05
+            ]
+        }
+    ]
+}

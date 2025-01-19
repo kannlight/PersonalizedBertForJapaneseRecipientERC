@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "転職したいん？"
+                },
+                {
+                    "author": "did:plc:q2oj3ebgs4yek77tnow626tj",
+                    "type": 2,
+                    "utter": "いや、そういうわけではないんだけど多分決まった生活リズムに何かしら刺激が足りないんだと思う\n年寄りみたいな考えしとるわ…"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "本州に渡ってIT企業に入ろうべ"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwtm2pdos2o",
+            "label": [
+                0.000440524541772902,
+                0.0002637851284816861,
+                0.9989246726036072,
+                0.00011521358828758821,
+                5.308710387907922e-05,
+                8.645003981655464e-05,
+                6.124499486759305e-05,
+                5.50755430595018e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "本州に渡ってIT企業に入ろうべ"
+                },
+                {
+                    "author": "did:plc:q2oj3ebgs4yek77tnow626tj",
+                    "type": 2,
+                    "utter": "20代だったら割と真面目に思ったかもしれねえ…\nただ今が全然おもろないわけじゃないからなぁ\nなんかふと考えてしまった😔"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "経験したことないけど、人間の機嫌に左右されない農業はやりがいありそうだよね\nニラくれ"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwtuyh4yp2l",
+            "label": [
+                0.0003523034101817757,
+                0.0001775254204403609,
+                0.9991169571876526,
+                9.822227730182931e-05,
+                5.563140439335257e-05,
+                8.68841161718592e-05,
+                5.906161823077127e-05,
+                5.3426621889229864e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "経験したことないけど、人間の機嫌に左右されない農業はやりがいありそうだよね\nニラくれ"
+                },
+                {
+                    "author": "did:plc:q2oj3ebgs4yek77tnow626tj",
+                    "type": 2,
+                    "utter": "そうねぇ、他人の顔色見ながら仕事するのに疲れた結果の道だけど今は後悔してないかな〜\n近くにいたらお裾分けするから引っ越してきて"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "今の家賃で高知にいったらどんな賃貸すめるのかなってしらべたら2LDKって出てきて泣いてる\n2LDKの家で猫数匹とのびのび暮らしたいわほんと"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwu4tkoa22a",
+            "label": [
+                0.000824792543426156,
+                0.9896803498268127,
+                0.008363330736756325,
+                0.00020214445248711854,
+                0.00011583363084355369,
+                0.00020634262182284147,
+                0.0005264622741378844,
+                8.080801489995793e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "今の家賃で高知にいったらどんな賃貸すめるのかなってしらべたら2LDKって出てきて泣いてる\n2LDKの家で猫数匹とのびのび暮らしたいわほんと"
+                },
+                {
+                    "author": "did:plc:q2oj3ebgs4yek77tnow626tj",
+                    "type": 2,
+                    "utter": "1人暮らしで2LDKは十分すぎるぐらいやな…\n都会と比べたらまぁ不便の方が目立つから、住みやすいかと言われたらｳｰｰｰﾝなのが悲しい"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "そうだよね～　ネットスーパーが存在してない可能性も十分ありうる\n結局現状から変わりたいなと思いつつ死ぬまで今のままなんやろなって思った"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwuo4zqds24",
+            "label": [
+                0.006660472601652145,
+                0.9010502099990845,
+                0.002101197838783264,
+                0.0008806504774838686,
+                0.00021653772273566574,
+                0.08695569634437561,
+                0.0018824745202437043,
+                0.00025274313520640135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "かわいいけどほこりがきになる……シャリタツもほこりっぽいなって顔してる"
+                },
+                {
+                    "author": "did:plc:fypea5kp2htmbm4oannwkukz",
+                    "type": 2,
+                    "utter": "すまない、ホコリ被ってそうとは思ったけどよう見えてなかったw ふいといてあげるわ"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "そうかごめん目がくり抜かれてるんだった\nきれいになったからシャリタツも笑顔になったわ"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwoxthhxw2g",
+            "label": [
+                0.9996232986450195,
+                6.129600660642609e-05,
+                9.889821376418695e-05,
+                6.719926750520244e-05,
+                2.3091644834494218e-05,
+                3.880795702571049e-05,
+                4.809051097254269e-05,
+                3.9324964745901525e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "そうかごめん目がくり抜かれてるんだった\nきれいになったからシャリタツも笑顔になったわ"
+                },
+                {
+                    "author": "did:plc:fypea5kp2htmbm4oannwkukz",
+                    "type": 2,
+                    "utter": "よかったよかったありがとう\nこれ好きなポケモンいたらかっちゃうんよな〜"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "これはポケモンコレクション？ではなさそう…？"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwq2jmt6c2f",
+            "label": [
+                0.23199813067913055,
+                0.004670565947890282,
+                0.2369784265756607,
+                0.5039967894554138,
+                0.000496070715598762,
+                0.017806069925427437,
+                0.0013937026960775256,
+                0.002660183236002922
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "これはポケモンコレクション？ではなさそう…？"
+                },
+                {
+                    "author": "did:plc:fypea5kp2htmbm4oannwkukz",
+                    "type": 2,
+                    "utter": "これポケモンキッズっていう指人形のシリーズ 俺が3cmくらいの小さい時からあるよ多分"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "それ今日発売されたものにも言えるから注意してね\nそんなにピケモン好きならモンコレもプレゼントしてあげたいわ～クオリティ高いし本当にかわいい"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwqe4ak6w24",
+            "label": [
+                0.9801079630851746,
+                0.0003363443538546562,
+                0.018550094217061996,
+                0.00018422225548420101,
+                0.00014550791820511222,
+                0.0002106305182678625,
+                0.00017107653548009694,
+                0.00029420192004181445
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 1,
+                    "utter": "それ今日発売されたものにも言えるから注意してね\nそんなにピケモン好きならモンコレもプレゼントしてあげたいわ～クオリティ高いし本当にかわいい"
+                },
+                {
+                    "author": "did:plc:fypea5kp2htmbm4oannwkukz",
+                    "type": 2,
+                    "utter": "誰が今日も3cmやねん\nピケモンコレわからんな〜けどクオリティ高いならええな！"
+                },
+                {
+                    "author": "did:plc:o5jbpz4qbt2y4eeqbelrrqeq",
+                    "type": 3,
+                    "utter": "ポケモンキッズはわかんないけど、モンコレはたぶん全種類あるよ！コンプしたくなるよねこういうの～～"
+                }
+            ],
+            "uri": "at://did:plc:o5jbpz4qbt2y4eeqbelrrqeq/app.bsky.feed.post/3lbwqs5xynx2l",
+            "label": [
+                0.021510405465960503,
+                0.0005520315608009696,
+                0.9768998622894287,
+                0.00028927254606969655,
+                0.00014344385999720544,
+                0.0002787114353850484,
+                0.00013600304373539984,
+                0.00019020502804778516
+            ]
+        }
+    ]
+}

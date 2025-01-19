@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "ジュースやめろ"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "ジュースはせいぜいりんご酢くらいなんよね🤔\n基本は常温の水\n量は1日500mlペットボトルが空になればいい方だからめっちゃ少ないと思うけど…"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "ジュース飲まないのめっちゃえらい！！！\nほんならちゃんと食べてちゃんと運動するだけでええと思うんよね。あとはお菓子の種類を考えるとか。"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbred2zqvc2i",
+            "label": [
+                0.27886900305747986,
+                0.0014918199740350246,
+                0.5683821439743042,
+                0.13791124522686005,
+                0.004579602740705013,
+                0.00046238963841460645,
+                0.0025735392700880766,
+                0.0057302494533360004
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "ジュース飲まないのめっちゃえらい！！！\nほんならちゃんと食べてちゃんと運動するだけでええと思うんよね。あとはお菓子の種類を考えるとか。"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "褒められた( *ˊᵕˋ*)\nお菓子の種類かぁ…\nどうしてもチョコとか食べちゃうからナッツとかドライフルーツに変えるとか？"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "チョコの種類を高カカオのやつに変えるとかでもええで！カカオポリフェノールはむしろ身体にええ！食べ過ぎはよくないけど🥺"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbreqeowt22i",
+            "label": [
+                0.005047772079706192,
+                0.00028371645021252334,
+                0.9926756024360657,
+                0.00047163167619146407,
+                0.0004348885559011251,
+                0.00014962958812247962,
+                0.0003735280188266188,
+                0.0005632982356473804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "チョコの種類を高カカオのやつに変えるとかでもええで！カカオポリフェノールはむしろ身体にええ！食べ過ぎはよくないけど🥺"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "それででんでんさんが食べてるのはチョコレート効果なのか！！！\nあれ秒で1箱開けれる😇😇\n自制出来る自信が無いのでやっぱフィットボクシング頑張るしかないかも🥊"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "(ミルクチョコ大好きだけど嫁ちゃんが食うならこっちにしろって)目安は1日5枚じゃ😇\n運動大事！！！"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbrfz2h7sc2i",
+            "label": [
+                0.0017094843788072467,
+                0.0004576826759148389,
+                0.996217668056488,
+                0.0006527876830659807,
+                0.00019839622837025672,
+                0.00019588580471463501,
+                0.0001829195680329576,
+                0.00038526576827280223
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "(ミルクチョコ大好きだけど嫁ちゃんが食うならこっちにしろって)目安は1日5枚じゃ😇\n運動大事！！！"
+                },
+                {
+                    "author": "did:plc:33irmzwz2dawv7qhnj3bbrgp",
+                    "type": 2,
+                    "utter": "ましゅさんが言うことは絶対なのでしょうがない🧸🍀\n5枚で泊まれる自身が欠けらも無い！…とまるんじゃねぇぞ！って心の中の私が囁いてくる！\n引っ越したら寝室とゲーム部屋離れるから運動しやすい環境できるし言い訳しないで頑張る🥲‎"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "チョコレート効果は身体にいいけど脂質がね…😇\n5枚だけ出してあとはしまっちゃうのがいいよ！デスク周りにお菓子おかない！"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbrhj4lbs22i",
+            "label": [
+                0.007274939212948084,
+                0.003354001324623823,
+                0.9814947843551636,
+                0.00082954834215343,
+                0.00029035055194981396,
+                0.00436254171654582,
+                0.0011970881605520844,
+                0.0011968312319368124
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "うまそ。おやすみさん的には？"
+                },
+                {
+                    "author": "did:plc:nynljljq6xqpr2wfbb6ke2kj",
+                    "type": 2,
+                    "utter": "うーん、名前からもう少し爽やかなのを想定していたので甘すぎですね…🙅‍♀️"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "アカンかぁ。甘いなら今度買ってみよ😋"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbve22l4kc2q",
+            "label": [
+                0.0012822061544284225,
+                0.0003639651695266366,
+                0.9979277849197388,
+                0.00016818435688037425,
+                4.171052569290623e-05,
+                0.00010312906670151278,
+                5.834744297317229e-05,
+                5.470545147545636e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "アカンかぁ。甘いなら今度買ってみよ😋"
+                },
+                {
+                    "author": "did:plc:nynljljq6xqpr2wfbb6ke2kj",
+                    "type": 2,
+                    "utter": "いろはすの果物の味ついてるやつとか苦手なんですよねぇ\nあれっぽい感じです"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "味薄そう🥹"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbvgtpe2gk2q",
+            "label": [
+                0.06454316526651382,
+                0.14892153441905975,
+                0.05204004794359207,
+                0.004187838174402714,
+                0.0003786119632422924,
+                0.7125427722930908,
+                0.016231494024395943,
+                0.001154593424871564
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "味薄そう🥹"
+                },
+                {
+                    "author": "did:plc:nynljljq6xqpr2wfbb6ke2kj",
+                    "type": 2,
+                    "utter": "いや！私的に味はめちゃついてます"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "これはもう買ってみないとわからない…！"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbvlfbkii22d",
+            "label": [
+                0.012120929546654224,
+                0.0003146310045849532,
+                0.9863870143890381,
+                0.00037203668034635484,
+                0.00010740981088019907,
+                0.0004313829413149506,
+                8.735920710023493e-05,
+                0.00017927782027982175
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 1,
+                    "utter": "これはもう買ってみないとわからない…！"
+                },
+                {
+                    "author": "did:plc:nynljljq6xqpr2wfbb6ke2kj",
+                    "type": 2,
+                    "utter": "いやでもまぁこれはやっぱマスカット味のいろはすですわ…いろはすだと思って買ってください…\n私は\"おしゃれカフェにあるレモンが入ってる水\"くらいの感覚で求めてたので…"
+                },
+                {
+                    "author": "did:plc:wg4whfyxxcis23jhbvvxpvva",
+                    "type": 3,
+                    "utter": "なるほど…ほなぶどうジュース買うか…"
+                }
+            ],
+            "uri": "at://did:plc:wg4whfyxxcis23jhbvvxpvva/app.bsky.feed.post/3lbvlycde6c2d",
+            "label": [
+                0.011559835635125637,
+                0.00121544289868325,
+                0.9862610697746277,
+                0.00040715112118050456,
+                8.19754131953232e-05,
+                0.00017644539184402674,
+                0.0001425151713192463,
+                0.0001556310016894713
+            ]
+        }
+    ]
+}

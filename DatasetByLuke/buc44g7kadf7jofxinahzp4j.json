@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "名古屋で途中下車しよう！！！！！"
+                },
+                {
+                    "author": "did:plc:hgti75j6hsigfy3g5tbxhuh5",
+                    "type": 2,
+                    "utter": "名古屋集合？火の鳥のっていこか？"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "定期的に愛知岐阜メンバ達と会っているから、おかかさん近鉄特急に乗って来てもよくてよっ！"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3ldiunkidcs2z",
+            "label": [
+                0.9995750784873962,
+                7.703607116127387e-05,
+                9.571215196046978e-05,
+                5.9885824157390743e-05,
+                2.6103984055225737e-05,
+                4.053549491800368e-05,
+                6.971472612349316e-05,
+                5.597623749054037e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "ﾇｷﾞｯ"
+                },
+                {
+                    "author": "did:plc:5jcifgvaseyamlptl64qjcq2",
+                    "type": 2,
+                    "utter": "そんな簡単に脱ぐんじゃない！"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "え？正装だよ？？？？"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3ldiwcj64tc2o",
+            "label": [
+                0.000638894212897867,
+                0.00044376502046361566,
+                0.0006306095165200531,
+                0.9975571632385254,
+                0.00019814945699181408,
+                0.00022768029884900898,
+                0.00020441172819118947,
+                9.931308159139007e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "鍛えが足りませんねぇ！"
+                },
+                {
+                    "author": "did:plc:hgti75j6hsigfy3g5tbxhuh5",
+                    "type": 2,
+                    "utter": "オイリンちゃんは耐えてるのか？"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "まずはこの夏、午前中はエアコンはつけませんね！\n午後も全くつけない日が増えてきましたね！！"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3l44bftwpwo22",
+            "label": [
+                0.01879281923174858,
+                0.0008346745162270963,
+                0.005438255611807108,
+                0.9688149094581604,
+                0.0005032090120948851,
+                0.0038529590237885714,
+                0.000555848702788353,
+                0.001207344583235681
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "まずはこの夏、午前中はエアコンはつけませんね！\n午後も全くつけない日が増えてきましたね！！"
+                },
+                {
+                    "author": "did:plc:hgti75j6hsigfy3g5tbxhuh5",
+                    "type": 2,
+                    "utter": "まじか・・・"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "梅雨明けるまでつけてなかったし、\n夜は原則つけない、寝るときはつけない\n鍛えが違うのよ！！\n良い子は マネをしたらだめよ！"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3l44ezkfbnl2u",
+            "label": [
+                0.01950063370168209,
+                0.08286979049444199,
+                0.010379930026829243,
+                0.4332961440086365,
+                0.26632219552993774,
+                0.09759178757667542,
+                0.07768713682889938,
+                0.012352448888123035
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "梅雨明けるまでつけてなかったし、\n夜は原則つけない、寝るときはつけない\n鍛えが違うのよ！！\n良い子は マネをしたらだめよ！"
+                },
+                {
+                    "author": "did:plc:hgti75j6hsigfy3g5tbxhuh5",
+                    "type": 2,
+                    "utter": "プクリポだったらカビ生えてるぞ"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "まいにち、おふろはいっているからだいじょうぶ！"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3l4a5ukqegy2m",
+            "label": [
+                0.9987103939056396,
+                0.0001319915463682264,
+                0.0007315872353501618,
+                5.8259476645616814e-05,
+                3.4277505619684234e-05,
+                0.00012257722846698016,
+                8.619985601399094e-05,
+                0.00012471027730498463
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "まいにち、おふろはいっているからだいじょうぶ！"
+                },
+                {
+                    "author": "did:plc:hgti75j6hsigfy3g5tbxhuh5",
+                    "type": 2,
+                    "utter": "毎日お風呂入っててもカビははえるときゃはえるんだ"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "抗菌シャンプーだからねっ！！！"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3l4b7qdug7y2l",
+            "label": [
+                0.8571000695228577,
+                0.0014958905521780252,
+                0.13464687764644623,
+                0.0027070059441030025,
+                0.000960914941970259,
+                0.0003840667777694762,
+                0.0011321884812787175,
+                0.0015729587757959962
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "ﾋﾟｷﾋﾟｷ（#^ω^）"
+                },
+                {
+                    "author": "did:plc:5jcifgvaseyamlptl64qjcq2",
+                    "type": 2,
+                    "utter": "なんとこれから絵を仕上げようかなと思ってるんですよ？？？？？？？"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "よろしい"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3kuzzmj2mci2q",
+            "label": [
+                0.999594509601593,
+                4.526317570707761e-05,
+                0.00010512438166188076,
+                5.917466478422284e-05,
+                3.42649182130117e-05,
+                5.0658087275223807e-05,
+                6.149097316665575e-05,
+                4.951249502482824e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 1,
+                    "utter": "なお、表紙だけ見て買った一緒に同人誌、\nBL本だった模様"
+                },
+                {
+                    "author": "did:plc:5jcifgvaseyamlptl64qjcq2",
+                    "type": 2,
+                    "utter": "いらっしゃいませ（？"
+                },
+                {
+                    "author": "did:plc:buc44g7kadf7jofxinahzp4j",
+                    "type": 3,
+                    "utter": "R15指定だし、まぁ。お友達以上の関係！？\nという内容で読んでいた。\nタバコ表現が多いから、そこで指定したのかな～\nギャグ系強めだね～～～～と思ってたけど、\n最後の最後で本領が出てきましたよ。\nいきませんよ！！！（）"
+                }
+            ],
+            "uri": "at://did:plc:buc44g7kadf7jofxinahzp4j/app.bsky.feed.post/3kswjd47gn32h",
+            "label": [
+                0.9397308230400085,
+                0.0009678169153630733,
+                0.003629527986049652,
+                0.05390523001551628,
+                0.0003106787917204201,
+                0.0005397966597229242,
+                0.00039667909732088447,
+                0.000519474153406918
+            ]
+        }
+    ]
+}

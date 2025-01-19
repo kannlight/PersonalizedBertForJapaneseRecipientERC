@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "あらら残念\nでも乗り気じゃないのに受けたら相手にも失礼だししゃーないね"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "資料送ってもらったけど、結構あの……ネズミ講……て思ってしまった笑"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "ええぇ、そんな感じだったんだ意外"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3lbxvy72vgc22",
+            "label": [
+                0.0005034504574723542,
+                0.000363011728040874,
+                0.0005831649177707732,
+                0.9977327585220337,
+                0.00022922160860616714,
+                0.000221368478378281,
+                0.00024609253159724176,
+                0.00012101844913559034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "ええぇ、そんな感じだったんだ意外"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "サプリ一袋、レトルトカレー2こ、コラボノベルティ5,000円を、「定期的に」購入"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "定期はなかなか敷居高いわね～"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3lbxwkpllmc22",
+            "label": [
+                0.18862462043762207,
+                0.1682477742433548,
+                0.01634521782398224,
+                0.047480084002017975,
+                0.0005232658586464822,
+                0.5722616314888,
+                0.0048308116383850574,
+                0.0016865956131368876
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "定期はなかなか敷居高いわね～"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "余程盲目じゃないとその値段は出さないだろうし、実際アンバサダーしてるVの動画見たけど、なんでこんな人に頼んだんだろ？てなるレベルやた"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "さらっと見てきたけど手あたり次第案件出してる感じだねぇ"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3lbxwvfatuk2p",
+            "label": [
+                0.05095482990145683,
+                0.0003625771787483245,
+                0.007302155252546072,
+                0.9354748725891113,
+                0.000413876143284142,
+                0.001861812430433929,
+                0.002558317733928561,
+                0.001071538426913321
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "さらっと見てきたけど手あたり次第案件出してる感じだねぇ"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "ね、チャンネル何万でも、何千でも結構色々\nまぁそれはいいんだけど、カレー2こを5000円で勧める勇気はないかな……"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "ノベルティあったとしてもだよねぇ\n定期購入だと毎回同じ？ノベルティ貰ってもな感はあるよね"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3lbxx64pkuc2p",
+            "label": [
+                0.026729080826044083,
+                0.04532577469944954,
+                0.001992895035073161,
+                0.009106375277042389,
+                0.0013311757938936353,
+                0.00946084875613451,
+                0.9043712019920349,
+                0.0016827831277623773
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "繋ぎの椅子干芋に入れなよって書いたけど消しちゃったw"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "だよね？！何故かおやすみモードでも通知出てくるから、配信中見えたんだぜ"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "ファンボ500にしてハーマンでもいいかーと思って消したんだけど在庫切れてたw"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3ldgx32iqb22k",
+            "label": [
+                0.017061587423086166,
+                0.1797805279493332,
+                0.001314084860496223,
+                0.7931944727897644,
+                0.0003515181306283921,
+                0.006594333332031965,
+                0.0013284235028550029,
+                0.0003749800380319357
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "ファンボ500にしてハーマンでもいいかーと思って消したんだけど在庫切れてたw"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "それはえぐい！！！！ｗｗｗｗｧｰﾀ大富豪？\nなんか良い椅子あるかなぁ、ピンキリすぎるし、今のも3万くらいだったのに結構すぐいったな･･･重いですか･･･そうですか･･･"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "富豪では無いw\nオットマン使ったことないからどんな感じのがいいとか分からんのよねー"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3ldgxfvsb322k",
+            "label": [
+                0.4371035397052765,
+                0.22835123538970947,
+                0.26372119784355164,
+                0.0019366556080058217,
+                0.0006264223484322429,
+                0.06118763983249664,
+                0.004906182177364826,
+                0.002167108003050089
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "富豪では無いw\nオットマン使ったことないからどんな感じのがいいとか分からんのよねー"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "ハーマンミラーも色んなの出してるから、どれがいいんかなとかな～あるよなあ\n足、下に下げなさすぎて、パネルヒーター買った意味ガチで謎だった去年ｗｗ"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "ずっと足伸ばしてる感じなのねw\n芋に入ってたのはオットマンなしタイプっぽい？？"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3ldgxqzfby22k",
+            "label": [
+                0.12808550894260406,
+                0.0008933306089602411,
+                0.046875618398189545,
+                0.8208944797515869,
+                0.000528360775206238,
+                0.0009020495344884694,
+                0.0006213573506101966,
+                0.0011992662912234664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 1,
+                    "utter": "ずっと足伸ばしてる感じなのねw\n芋に入ってたのはオットマンなしタイプっぽい？？"
+                },
+                {
+                    "author": "did:plc:6hsaycblkdcqyev2gyraa6ce",
+                    "type": 2,
+                    "utter": "そう、でも姿勢悪くなるから、この際なしでもいいんかなぁ、今更戻れるのか･･･？\n今寒いから、足伸ばして電気毛布がいい感じなのよ･･\n\nハーマンミラーは多分どれもオットマンないんだよね、1回座ったときの感動が忘れられねえんだ、あと有名？だしな･･･\nでも椅子なんて別になんでも、という気もしてしまう、どうせ姿勢が悪い・・・"
+                },
+                {
+                    "author": "did:plc:3zqablupiytmnbjhqjyoluul",
+                    "type": 3,
+                    "utter": "オットマン使う姿勢が身体に良くないからハーマンでは付いてないのかなぁ\nオットマン付き3万ぐらいならどれも大差なさそうな気もする"
+                }
+            ],
+            "uri": "at://did:plc:3zqablupiytmnbjhqjyoluul/app.bsky.feed.post/3ldgyei35vs2k",
+            "label": [
+                0.0037763183936476707,
+                0.0006629349081777036,
+                0.9947054982185364,
+                0.00011305755469948053,
+                3.87934414902702e-05,
+                0.00048520040581934154,
+                0.00011345362145220861,
+                0.00010473548900336027
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "アロナ"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "a.r.o.n.a\n先生を呼ぶ時の呼び方そろそろ変えたいですね"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "『あの人』？\nでも、プラナは同じ人認定はしてるらしいからテセウスの船問題を抱えてはいない"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3lffbi3mj4c2x",
+            "label": [
+                0.006547283846884966,
+                0.0009342829580418766,
+                0.0048591666854918,
+                0.9851582646369934,
+                0.00019906247325707227,
+                0.0012538457522168756,
+                0.0005004377453587949,
+                0.000547669071238488
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "『あの人』？\nでも、プラナは同じ人認定はしてるらしいからテセウスの船問題を抱えてはいない"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "あの人先生ってのも語呂の悪さ…とりあえずおもいだして欲しいので\nプレナパテス先生\nにしてるんですがもっとこう…曇るのを…"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "あーそういう\n無難に私の先生とかでいいんじゃないでしょうか"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3lffot7epdk2g",
+            "label": [
+                0.004370216745883226,
+                0.00035869740531779826,
+                0.9944314360618591,
+                0.00013661818229593337,
+                0.00012275502376724035,
+                0.0001648894976824522,
+                0.00022027418890502304,
+                0.00019504866213537753
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "あーそういう\n無難に私の先生とかでいいんじゃないでしょうか"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "ぽよぽよ…"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "ぽよぉ……"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3lfhur4g27s24",
+            "label": [
+                0.19857686758041382,
+                0.7432489395141602,
+                0.006054956000298262,
+                0.008353803306818008,
+                0.0004894629237242043,
+                0.01775539666414261,
+                0.024832770228385925,
+                0.0006877538398839533
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "ぽよぉ……"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "ぽよよ！"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "ぽよぽよぽよぽよぽよぽよぽよ"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3lfi266curc2y",
+            "label": [
+                0.9989970326423645,
+                0.00011354489106452093,
+                0.0005807782872579992,
+                5.64770853088703e-05,
+                4.104796607862227e-05,
+                5.1972496294183657e-05,
+                0.00010046951501863077,
+                5.87094655202236e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "俺自身が色彩になることだ───"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "一瞬黄金樹に見えた"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "黄金樹なわけ……"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3levwpjxqxs2p",
+            "label": [
+                0.13582555949687958,
+                0.051690708845853806,
+                0.009339636191725731,
+                0.7617215514183044,
+                0.0024900210555642843,
+                0.022588679566979408,
+                0.01226479560136795,
+                0.004079044796526432
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "黄金樹なわけ……"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "アイコンがコロコロ変わっていくね"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "アイコンわかんなくなっちゃった"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3lexrseokyk2q",
+            "label": [
+                0.0003894526162184775,
+                0.998723566532135,
+                0.00012556856381706893,
+                0.00020601029973477125,
+                7.77880777604878e-05,
+                0.00021742637909483165,
+                0.000230671968893148,
+                2.9452976377797313e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "アイコンわかんなくなっちゃった"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "かおす"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "おすすめのアイコンないです？\nプラナ+その他抱き合わせでいいんで"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3leyf3s3lxc2f",
+            "label": [
+                0.0004390096291899681,
+                0.00025370047660544515,
+                0.9989645481109619,
+                8.848714060150087e-05,
+                5.2496288844849914e-05,
+                8.757290925132111e-05,
+                6.231134466361254e-05,
+                5.197685459279455e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "おすすめのアイコンないです？\nプラナ+その他抱き合わせでいいんで"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "手当たり次第にプラナを送りつける妖怪になってしまう"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "平常運転ヨシッ！\nプラナちゃんいっぱいだね"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3leyy326yjc24",
+            "label": [
+                0.9995941519737244,
+                4.787006037076935e-05,
+                0.000145002719364129,
+                6.1461039877031e-05,
+                2.6114767024409957e-05,
+                3.552983616827987e-05,
+                4.750233711092733e-05,
+                4.2389296140754595e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 1,
+                    "utter": "平常運転ヨシッ！\nプラナちゃんいっぱいだね"
+                },
+                {
+                    "author": "did:plc:4utue6ik2huwraqht5kydkdl",
+                    "type": 2,
+                    "utter": "とりあえず2000枚送りつけるよ"
+                },
+                {
+                    "author": "did:plc:xczyeulpazn5ryqwzbc6mmx4",
+                    "type": 3,
+                    "utter": "極の番｢うずまき｣"
+                }
+            ],
+            "uri": "at://did:plc:xczyeulpazn5ryqwzbc6mmx4/app.bsky.feed.post/3lf2hovuijc27",
+            "label": [
+                0.9992214441299438,
+                0.00014779609045945108,
+                0.00033754610922187567,
+                6.043027315172367e-05,
+                2.9736183932982385e-05,
+                4.8495581722818315e-05,
+                8.840343070914969e-05,
+                6.608512921957299e-05
+            ]
+        }
+    ]
+}

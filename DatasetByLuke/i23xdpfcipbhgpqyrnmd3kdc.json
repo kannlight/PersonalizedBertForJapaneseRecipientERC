@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "冒頭先輩がなんかやってるのが終盤わかるという熱い展開ですよね"
+                },
+                {
+                    "author": "did:plc:frgakne2e4jc2fhtncx7rfb5",
+                    "type": 2,
+                    "utter": "あの銃、絶対先輩…！！ってなって。涙ぐんじゃいますね。本当に名作でした。"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "あそこでスマートピストルっていうのが前作やってた身としては胸熱なんスよ、、、、！"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3leehz34q3k26",
+            "label": [
+                0.999442994594574,
+                5.530496855499223e-05,
+                0.00028683480923064053,
+                5.815339318360202e-05,
+                3.1806888728169724e-05,
+                3.932739491574466e-05,
+                3.886673221131787e-05,
+                4.669945337809622e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "あそこでスマートピストルっていうのが前作やってた身としては胸熱なんスよ、、、、！"
+                },
+                {
+                    "author": "did:plc:frgakne2e4jc2fhtncx7rfb5",
+                    "type": 2,
+                    "utter": "ああああ！前作もやらねば！？"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "その必要はないですねー\n2の舞台が1から20年後だったかでその時代でも1の武器スマートピストルが現役な事がファンの心を掴んだってだけなので\nAPEXは2から更に30年後だとか、、、"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3legdhumyjs2h",
+            "label": [
+                0.17584235966205597,
+                0.014892252162098885,
+                0.005402664188295603,
+                0.10246967524290085,
+                0.01355861034244299,
+                0.009147478267550468,
+                0.6696913838386536,
+                0.008995522744953632
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "その必要はないですねー\n2の舞台が1から20年後だったかでその時代でも1の武器スマートピストルが現役な事がファンの心を掴んだってだけなので\nAPEXは2から更に30年後だとか、、、"
+                },
+                {
+                    "author": "did:plc:frgakne2e4jc2fhtncx7rfb5",
+                    "type": 2,
+                    "utter": "あ！やはりAPEXが関係してるんですね。こちらはやる気ないのですが（マルチ前提なので）TitanFall1作目を回収しなくて良いならそれはそれで良かったー。それを知れただけでも有り難いです！でも1からプレイしてたら現役武器だと分かると感無量ですねぇ。"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "1もマルチプレイオンリーでゲーム内ルールにそのままストーリー性を設けているゲーム性でした\nAPEX人気ですけどあのキャラ達パイロットじゃないからタイタン呼べないんですよね、、、"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3legenabpck26",
+            "label": [
+                0.0005902297561988235,
+                0.9987002611160278,
+                0.00019870295363944024,
+                0.00012704261462204158,
+                4.106541018700227e-05,
+                0.00014659207954537123,
+                0.0001653765357332304,
+                3.0661623895866796e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "1もマルチプレイオンリーでゲーム内ルールにそのままストーリー性を設けているゲーム性でした\nAPEX人気ですけどあのキャラ達パイロットじゃないからタイタン呼べないんですよね、、、"
+                },
+                {
+                    "author": "did:plc:frgakne2e4jc2fhtncx7rfb5",
+                    "type": 2,
+                    "utter": "おおお、マルチオンリー…どのみち遊べなかった。\n2が人気あってシナリオも良いというのは、ソロのキャンペーンあるからなんですね。\nなんか勿体無いなぁ、パイロット作っても良い感じしますけど。\nてか、伏線気になるのでTitanFall3を作って欲しいです。なんか無理っぽいですけど…"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "あの世界でのパイロットって現場最高ランクの達人っていう位置づけで、APEXの連中全員が束になっても勝てないという(どう頑張ってもタイタン呼ばれたら終わりですし)らしいですね\nさらに高度なパイロットは死んでも復活できるとか、、、\n\nTITANFALLは2でやりたいこととやっちゃってるし、売り上げ気にしちゃうと3はコスト面で厳しいっぽいですし難しいですよね"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3legfddpz3k26",
+            "label": [
+                0.09054939448833466,
+                0.019355112686753273,
+                0.018122533336281776,
+                0.010121147148311138,
+                0.0003236096235923469,
+                0.8590718507766724,
+                0.0013351253001019359,
+                0.0011211938690394163
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "愛の形は人それぞれなのだ、、、"
+                },
+                {
+                    "author": "did:plc:hbbryqpj3ebirig7yoquowtb",
+                    "type": 2,
+                    "utter": "そんな白い目で見るのはやめるのだ"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "ん？そういうの好きよ？"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3lffd2a3ug22e",
+            "label": [
+                0.9995315074920654,
+                4.350634117145091e-05,
+                0.0001684740709606558,
+                4.7383044147863984e-05,
+                4.0507340600015596e-05,
+                4.211667328490876e-05,
+                6.785850564483553e-05,
+                5.8762336266227067e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "ん？そういうの好きよ？"
+                },
+                {
+                    "author": "did:plc:hbbryqpj3ebirig7yoquowtb",
+                    "type": 2,
+                    "utter": "やったーーーー🙌🙌🙌🙌🙌\nやったやったーーーーーー🙌🙌🙌🙌🙌🙌🙌\n🤝🤝🤝🤝🤝🤝🤝🫂🫂🫂🫂🫂🫂"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "ただ生理はさすがに実感持てないからわからないけど、、、"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3lffdd4eyss2e",
+            "label": [
+                0.41134902834892273,
+                0.12458888441324234,
+                0.00789577141404152,
+                0.013028061017394066,
+                0.0007233043434098363,
+                0.43150049448013306,
+                0.007831756956875324,
+                0.0030826875008642673
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "ただ生理はさすがに実感持てないからわからないけど、、、"
+                },
+                {
+                    "author": "did:plc:hbbryqpj3ebirig7yoquowtb",
+                    "type": 2,
+                    "utter": "まぁまぁまぁそこはね"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "タイやブラジルなんかでは男が女になるのは割と「ある」らしいけど、女性は生やせないから不平等ですよねー"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3lffeyp4em22e",
+            "label": [
+                0.0005813862662762403,
+                0.9969263672828674,
+                0.0001278857234865427,
+                0.0003002305456902832,
+                0.00021324219414964318,
+                0.00019627393339760602,
+                0.0016032427083700895,
+                5.127226177137345e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 1,
+                    "utter": "タイやブラジルなんかでは男が女になるのは割と「ある」らしいけど、女性は生やせないから不平等ですよねー"
+                },
+                {
+                    "author": "did:plc:hbbryqpj3ebirig7yoquowtb",
+                    "type": 2,
+                    "utter": "この一方通行性がまたイイですよねぇ〜もう後戻りできないんだぞって感じで☺️"
+                },
+                {
+                    "author": "did:plc:i23xdpfcipbhgpqyrnmd3kdc",
+                    "type": 3,
+                    "utter": "女体の神秘とはよく言うが前立腺や乳首を開発したら普通に性感帯になる男の体も変だよなとは思います"
+                }
+            ],
+            "uri": "at://did:plc:i23xdpfcipbhgpqyrnmd3kdc/app.bsky.feed.post/3lffg4oqebk2e",
+            "label": [
+                0.002809809986501932,
+                0.0007556250784546137,
+                0.0004909825511276722,
+                0.984836995601654,
+                0.00023239912115968764,
+                0.008794794790446758,
+                0.0017955416115000844,
+                0.00028386423946358263
+            ]
+        }
+    ]
+}

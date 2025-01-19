@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "心臓マッサージならまかせて"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "感謝。AEDも頼んだ。"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "私心臓マッサージ専門だからAEDは誰かに頼も"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lbemsnikuc22",
+            "label": [
+                0.5848008394241333,
+                0.012601292692124844,
+                0.3659211993217468,
+                0.001816048170439899,
+                0.0011470259632915258,
+                0.019248640164732933,
+                0.006138300057500601,
+                0.008326714858412743
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "私心臓マッサージ専門だからAEDは誰かに頼も"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "ここはやっぱりにうちゃかな。距離的にはアイリスさん呼ぶか…"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "AEDはにのちゃんで救急車よぶのアイリスさんにしよ"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lbg7hy6c5c2p",
+            "label": [
+                0.004365934990346432,
+                0.00039504392771050334,
+                0.9946507811546326,
+                0.00015787182201165706,
+                7.132540486054495e-05,
+                0.00016969720309134573,
+                7.299484423128888e-05,
+                0.0001163024062407203
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "AEDはにのちゃんで救急車よぶのアイリスさんにしよ"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "なんだその豪華メンバー私嬉死する"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "アイリスさん▶︎にのちゃん▶︎私に介抱されるししょー"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lbhnxotpn22z",
+            "label": [
+                0.9971086382865906,
+                0.001331470673903823,
+                0.0007275586831383407,
+                0.00030491186771541834,
+                3.6910787457600236e-05,
+                0.00019754878303501755,
+                0.000176945177372545,
+                0.00011590611393330619
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "アイリスさん▶︎にのちゃん▶︎私に介抱されるししょー"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "嬉しいね。そのままみんなでご飯行こ。"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "その場合ししょーは病院だよ？？\n私たちだけでいくね"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lbildlqmns24",
+            "label": [
+                0.006589713506400585,
+                0.09734427183866501,
+                0.005802584812045097,
+                0.007343085017055273,
+                0.0039261747151613235,
+                0.872981071472168,
+                0.0047595808282494545,
+                0.0012535550631582737
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "かわいいね"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "かわ…？？"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "だんなさんすきいいいいってことでしょ？？\nかわいじゃん"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lfa2fmzbgc2w",
+            "label": [
+                0.0035652569495141506,
+                0.9951269626617432,
+                0.00027054789825342596,
+                0.00042131662485189736,
+                5.2476621931418777e-05,
+                0.00019028125097975135,
+                0.0003173612931277603,
+                5.5857344705145806e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "だんなさんすきいいいいってことでしょ？？\nかわいじゃん"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "ぐぅ…そう言われると何だか認めたくない…何だこの気持ちは🙃"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "それは素直じゃないって言うんだよ☆"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lfbcmtjemk26",
+            "label": [
+                0.02013767883181572,
+                0.29508188366889954,
+                0.0013834992423653603,
+                0.006888898089528084,
+                0.00987603422254324,
+                0.01319236122071743,
+                0.6515482664108276,
+                0.001891397056169808
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "それは素直じゃないって言うんだよ☆"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "それでもあいしてくれまさかー！！"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "誤字ってるからアウト"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lfffmtaelk2h",
+            "label": [
+                0.0070259468629956245,
+                0.048300739377737045,
+                0.0004896330065093935,
+                0.002538305940106511,
+                0.005511490628123283,
+                0.016357820481061935,
+                0.9186593294143677,
+                0.0011167582124471664
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "誤字ってるからアウト"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "なんだ…誤字ってたら愛してくれないんだ…私への愛はその程度だったのね！！！！！ひどいわ！！！"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "ﾎｼﾞ(￣d¨b￣)ﾎｼﾞ"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lfffqwbtyk2m",
+            "label": [
+                0.8851720094680786,
+                0.006374124903231859,
+                0.09415590763092041,
+                0.0006859336281195283,
+                0.0018688003765419126,
+                0.002411856781691313,
+                0.007386496290564537,
+                0.0019449284300208092
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "うたたねパテで埋めてあげる"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "すてき。でっかい春巻きの皮で包もうぜ"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "生春巻きがいいなぁ"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lelea2mbgc25",
+            "label": [
+                0.0038467473350465298,
+                0.00040055211866274476,
+                0.9952548742294312,
+                0.0001291569060413167,
+                7.541894592577592e-05,
+                0.00011151246872032061,
+                8.851142774801701e-05,
+                9.330490865977481e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "生春巻きがいいなぁ"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "うわ、めっちゃ美味しいやん。チリソースつけよ。"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "ありすぎる\nエビ入れよ"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lelr5jfvbc2x",
+            "label": [
+                0.0033936311956495047,
+                0.0019091395661234856,
+                0.9939340949058533,
+                0.00018969480879604816,
+                9.621538629289716e-05,
+                0.00017510505858808756,
+                0.00019917800091207027,
+                0.00010287937766406685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "ありすぎる\nエビ入れよ"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "絶対うまいやつ"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "サーモンも良きじゃない？？"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lemaxmnvs22u",
+            "label": [
+                0.9993963241577148,
+                5.067563324701041e-05,
+                0.00029386216192506254,
+                7.471416756743565e-05,
+                3.729143281816505e-05,
+                4.01543038606178e-05,
+                4.9445967306382954e-05,
+                5.750401032855734e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 1,
+                    "utter": "サーモンも良きじゃない？？"
+                },
+                {
+                    "author": "did:plc:zlan4lqzrarvkxd5hm3nas6m",
+                    "type": 2,
+                    "utter": "いいね、別のは生ハムにチーズアボカド…"
+                },
+                {
+                    "author": "did:plc:aztrwony7qvpepomduscaoep",
+                    "type": 3,
+                    "utter": "ぐあっ想像しただけでダメージが！！"
+                }
+            ],
+            "uri": "at://did:plc:aztrwony7qvpepomduscaoep/app.bsky.feed.post/3lemd6vfifk2n",
+            "label": [
+                0.0016653641359880567,
+                0.4678066670894623,
+                0.0010169027373194695,
+                0.007251320872455835,
+                0.0025491879787296057,
+                0.5161417126655579,
+                0.003093249164521694,
+                0.00047557795187458396
+            ]
+        }
+    ]
+}

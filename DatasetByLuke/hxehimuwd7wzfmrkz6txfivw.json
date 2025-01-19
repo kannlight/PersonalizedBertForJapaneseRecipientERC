@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "おはよ"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "おーはよ"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "旅に出よう"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lepg6pyfqs2x",
+            "label": [
+                0.0009038906428031623,
+                0.00018831828492693603,
+                0.9985288381576538,
+                0.00011436283239163458,
+                5.980340574751608e-05,
+                7.979809015523642e-05,
+                5.8435227401787415e-05,
+                6.650468276347965e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "旅に出よう"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "神戸来てくれたら一緒に旅に行けるよ"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "今から新潟行こうスキーしよう"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lepgcs5gys2x",
+            "label": [
+                0.0009047749335877597,
+                0.00020883799879811704,
+                0.9985005855560303,
+                0.00010001739428844303,
+                6.39585341559723e-05,
+                9.51855763560161e-05,
+                6.57134733046405e-05,
+                6.089617090765387e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "今から新潟行こうスキーしよう"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "新潟とおw\nもっと近場絶対ある"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "がおさんスキーとかスノボとかできるの？"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lepkyc3orc2x",
+            "label": [
+                0.008912511169910431,
+                0.0005698379245586693,
+                0.9856017231941223,
+                0.0033536991104483604,
+                9.555347787681967e-05,
+                0.0011600467842072248,
+                0.00010715043754316866,
+                0.0001994335325434804
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "がおさんスキーとかスノボとかできるの？"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "スキーもスノボーも1回しかやったことない！\nけど普通に滑るだけなら出来ると思うよ！って言おうと思ったけど最後にやったのが5,6年前とかだから無理かも"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "いつか行こうね\nがおさんが死ぬ前に"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lepl57zfjc2x",
+            "label": [
+                0.0007767158094793558,
+                0.0003333216009195894,
+                0.9985230565071106,
+                9.67558880802244e-05,
+                4.995422204956412e-05,
+                9.693996980786324e-05,
+                6.176245369715616e-05,
+                6.143900100141764e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "おめ"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "この時間のリプは確実に初日の出見る人の起きる時間だ！！！！"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "全然寝落ちしこの時間に起きた人類"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lemtxptxqs2s",
+            "label": [
+                0.007848437875509262,
+                0.7447640895843506,
+                0.0006180705386213958,
+                0.14277637004852295,
+                0.001370105193927884,
+                0.09182341396808624,
+                0.010381901636719704,
+                0.0004175540816504508
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "全然寝落ちしこの時間に起きた人類"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "なんでやねん\nせっかく起きたなら初日の出見に行こう\n外寒いから暖かくしていくんやで"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "お布団から出られないや"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lemu4ggea22s",
+            "label": [
+                0.00037774225347675383,
+                0.9976220726966858,
+                0.0002270407130708918,
+                0.00018371507758274674,
+                9.617736213840544e-05,
+                0.00046829116763547063,
+                0.0009961811592802405,
+                2.8702754207188264e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "お布団から出られないや"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "わかる！！！！\n現在僕もそれでもがき苦しんでる"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "明日の日の出見るからそれで許して欲しい"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lemuk2j7vc2s",
+            "label": [
+                0.001235068659298122,
+                0.0024914646055549383,
+                0.9956705570220947,
+                7.98345499788411e-05,
+                7.012428250163794e-05,
+                0.0002010559692280367,
+                0.00015996868023648858,
+                9.18996156542562e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 1,
+                    "utter": "明日の日の出見るからそれで許して欲しい"
+                },
+                {
+                    "author": "did:plc:52h5kbm3k77tw42wyn7glpm3",
+                    "type": 2,
+                    "utter": "僕はお布団から出ました\nさぁあなたも起きていきましょ"
+                },
+                {
+                    "author": "did:plc:hxehimuwd7wzfmrkz6txfivw",
+                    "type": 3,
+                    "utter": "ﾔ!\n一人で行くの寂しくない？"
+                }
+            ],
+            "uri": "at://did:plc:hxehimuwd7wzfmrkz6txfivw/app.bsky.feed.post/3lemuqprazs2s",
+            "label": [
+                0.022679882124066353,
+                0.9438859224319458,
+                0.004195740446448326,
+                0.0077759274281561375,
+                0.00023201739531941712,
+                0.018782922998070717,
+                0.002103895880281925,
+                0.0003435747348703444
+            ]
+        }
+    ]
+}

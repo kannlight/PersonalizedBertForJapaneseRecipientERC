@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰優しい...やっぱり好き..."
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "オレよか那由汰のが優しいだろ"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "うーん、そうかな？おあいこ？"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3l7cildekcp2m",
+            "label": [
+                0.8485432863235474,
+                0.03130713105201721,
+                0.08822370320558548,
+                0.0025340167339891195,
+                0.0005888420273549855,
+                0.020511915907263756,
+                0.005686490330845118,
+                0.0026046556886285543
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "うーん、そうかな？おあいこ？"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "おあいこ、な？(にっ"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "ん、おあいこ(にっ"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3l7ciwa3h3g2d",
+            "label": [
+                0.9813328385353088,
+                0.004439699929207563,
+                0.009976139292120934,
+                0.0002755918831098825,
+                0.00021191430278122425,
+                0.0014102697605267167,
+                0.0018718609353527427,
+                0.0004816556174773723
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "ん、おあいこ(にっ"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "可愛いかよ…"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "可愛い、かな？"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3laiyegdpfp22",
+            "label": [
+                0.9995697140693665,
+                4.557161082630046e-05,
+                0.00016460953338537365,
+                5.997277548885904e-05,
+                2.704259895836003e-05,
+                4.419231481733732e-05,
+                4.65622179035563e-05,
+                4.232944411342032e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "可愛い、かな？"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "可愛い可愛い俺の那由汰だよ(笑み"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "あり、がと//"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3larxfngwns2w",
+            "label": [
+                0.9836215376853943,
+                0.0050907437689602375,
+                0.004855724982917309,
+                0.0018450836651027203,
+                0.0005157436244189739,
+                0.0011942125856876373,
+                0.0020541322883218527,
+                0.0008229166851378977
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "あり、がと//"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "どういたしまして"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "珂波汰に言われると嬉しい…"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3lb6vi3qyuc2g",
+            "label": [
+                0.999647855758667,
+                4.7008299588924274e-05,
+                0.0001011527783703059,
+                5.601310112979263e-05,
+                2.4943168682511896e-05,
+                4.012183489976451e-05,
+                4.252645157976076e-05,
+                4.0335606172448024e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰、来た。缶バッジも欲しかったけど、仕方ない！Gプリは来てくれたし"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "缶バッジも欲しかったな…でも、Gプリもマジ最高"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "Gプリ大勝利、と言いたいところだけど誰かさんがね〜"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kopzedl76l2p",
+            "label": [
+                0.48518601059913635,
+                0.32540398836135864,
+                0.014816675335168839,
+                0.04946116730570793,
+                0.0027747878339141607,
+                0.1030719056725502,
+                0.015313119627535343,
+                0.003972282167524099
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "Gプリ大勝利、と言いたいところだけど誰かさんがね〜"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "あれは…狡い…"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "なんで来ないかな？"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3koypq4pyaa2r",
+            "label": [
+                0.007756171282380819,
+                0.8191665410995483,
+                0.1592063009738922,
+                0.001681058551184833,
+                0.00128214864525944,
+                0.0019919208716601133,
+                0.008276578970253468,
+                0.0006392699433490634
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "なんで来ないかな？"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "なーゆた"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "珂波汰！(ぎゅむ"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kzaymjaxfc2l",
+            "label": [
+                0.6600371599197388,
+                0.06656225770711899,
+                0.07962258905172348,
+                0.15715038776397705,
+                0.005947244353592396,
+                0.012766586616635323,
+                0.013188905082643032,
+                0.004724845755845308
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰！(ぎゅむ"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "待たせた、ごめんな？(大事そうに抱き締め"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "俺待たせちゃった...(強く抱き締め"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3l7bplvgdui2o",
+            "label": [
+                0.00036213232669979334,
+                0.9988659620285034,
+                0.00013108861458022147,
+                0.00010699436097638682,
+                7.80370319262147e-05,
+                0.00020794042211491615,
+                0.0002144184400094673,
+                3.351817576913163e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "俺待たせちゃった...(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "大丈夫大丈夫、お互い様だろ？(強く抱き締め"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "うん、だよな(強く抱き締めたまま"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3l7cikm6chx2h",
+            "label": [
+                0.9841598868370056,
+                0.0026618209667503834,
+                0.007228916976600885,
+                0.0006433239323087037,
+                0.00037696523941121995,
+                0.002007468603551388,
+                0.0009618363110348582,
+                0.0019597860518842936
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰…早く来ないかな…"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "なーゆた"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "珂波汰！(ぎゅむ"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kmbnsbnzjc2c",
+            "label": [
+                0.6600371599197388,
+                0.06656225770711899,
+                0.07962258905172348,
+                0.15715038776397705,
+                0.005947244353592396,
+                0.012766586616635323,
+                0.013188905082643032,
+                0.004724845755845308
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰！(ぎゅむ"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "那由汰…(ぎゅむっ"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "珂波汰…へへ(ぎゅむぅ"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kmbpr3zmq22c",
+            "label": [
+                0.9915074110031128,
+                0.0039736260659992695,
+                0.0014209143118932843,
+                0.0006982565391808748,
+                0.00010723398736445233,
+                0.0008567767217755318,
+                0.0012062052264809608,
+                0.00022957161127123982
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰…へへ(ぎゅむぅ"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "那由汰…マジ嬉しい…(むぎゅう"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "俺も嬉しいよ？(むぎゅう"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kmbyrvc4fk2c",
+            "label": [
+                0.9996111989021301,
+                4.860072658630088e-05,
+                0.00012245553079992533,
+                5.82658831262961e-05,
+                2.7573192710406147e-05,
+                4.3988322431687266e-05,
+                4.9218226195080206e-05,
+                3.878247662214562e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "俺も嬉しいよ？(むぎゅう"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "良かった(むぎゅう"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "珂波汰…みんな心細そうだね？(むぎゅ"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kmchqxznaj2e",
+            "label": [
+                0.001151992124505341,
+                0.9959740042686462,
+                0.0004227581957820803,
+                0.0004585951683111489,
+                6.144888902781531e-05,
+                0.0016573891043663025,
+                0.00021595979342237115,
+                5.7871297030942515e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 1,
+                    "utter": "珂波汰…みんな心細そうだね？(むぎゅ"
+                },
+                {
+                    "author": "did:plc:uuebyyycgr4myfwkh2bm6rbw",
+                    "type": 2,
+                    "utter": "あぁ、ホントな…(むぎゅう"
+                },
+                {
+                    "author": "did:plc:jusljt2cd6n7ugwn4syezd5f",
+                    "type": 3,
+                    "utter": "大丈夫だからね？珂波汰(むぎゅ"
+                }
+            ],
+            "uri": "at://did:plc:jusljt2cd6n7ugwn4syezd5f/app.bsky.feed.post/3kmchwuxl2e2z",
+            "label": [
+                0.4156768321990967,
+                0.011559723876416683,
+                0.5304911136627197,
+                0.0014621299924328923,
+                0.0012527992948889732,
+                0.03358449414372444,
+                0.0026454729959368706,
+                0.003327370388433337
+            ]
+        }
+    ]
+}

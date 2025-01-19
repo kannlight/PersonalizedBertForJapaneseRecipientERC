@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "今気づいたけど主人公リリカの改変？"
+                },
+                {
+                    "author": "did:plc:rutjs25gto4bvkp4l7pijhes",
+                    "type": 2,
+                    "utter": "俺のベースキャラはリリカ・プリズムリバーです！\nリリカLove(っ´>ω<))ω<`)ｷﾞｭｯ♡"
+                },
+                {
+                    "author": "did:plc:rutjs25gto4bvkp4l7pijhes",
+                    "type": 2,
+                    "utter": "そういえば、はくたか自身の改変キャラってどれ？(誰？)"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "いない(´･ω･`)"
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lbmlpkx3ym2j",
+            "label": [
+                0.00031847148784436285,
+                0.998991072177887,
+                0.0001504288229625672,
+                0.0001595535286469385,
+                5.774321107310243e-05,
+                0.000116558643640019,
+                0.00017683059559203684,
+                2.9267859645187855e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "いない(´･ω･`)"
+                },
+                {
+                    "author": "did:plc:rutjs25gto4bvkp4l7pijhes",
+                    "type": 2,
+                    "utter": "作ってみようか？基本1キャラ×3パターンだから製作には結構時間かかるけどいる？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "自分はオリキャラ居なくても大丈夫かな()"
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lbmm4gdirm2r",
+            "label": [
+                0.10786242038011551,
+                0.004835353698581457,
+                0.8606339693069458,
+                0.001051740488037467,
+                0.00024167339142877609,
+                0.023038778454065323,
+                0.0011619183933362365,
+                0.001174179371446371
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "自分はオリキャラ居なくても大丈夫かな()"
+                },
+                {
+                    "author": "did:plc:rutjs25gto4bvkp4l7pijhes",
+                    "type": 2,
+                    "utter": "( ´･ω･`)そう？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "心配しないで()"
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lbmm6n4xve2r",
+            "label": [
+                0.37176355719566345,
+                0.015510589815676212,
+                0.45359063148498535,
+                0.0018480155849829316,
+                0.0016830031527206302,
+                0.14015433192253113,
+                0.00820290856063366,
+                0.00724696135148406
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "心配しないで()"
+                },
+                {
+                    "author": "did:plc:rutjs25gto4bvkp4l7pijhes",
+                    "type": 2,
+                    "utter": "依頼台本に、はくたかを入れようとしてた()"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "その依頼台本だけど、東方キャラだけで大丈夫()\nオリキャラは入れない方針だから((("
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lbmme4bgbp2o",
+            "label": [
+                0.9065044522285461,
+                0.0015946871135383844,
+                0.0654224306344986,
+                0.0005026011494919658,
+                0.0005534919910132885,
+                0.020572824403643608,
+                0.001826946041546762,
+                0.0030225703958421946
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "おはよう\n\n早寝早起きが大事だと言われてるのに昨日午前2時まで寝が覚めてた人です(???)"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 2,
+                    "utter": "あかんやん()\nカメックスドロップイベントの編集してたの？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "discord鯖でしりとりしてました(?????)"
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lfiwn7yrrk2h",
+            "label": [
+                0.999129593372345,
+                6.0373047745088115e-05,
+                0.0005526053137145936,
+                5.905943544348702e-05,
+                3.450581425568089e-05,
+                4.543713293969631e-05,
+                6.192740693222731e-05,
+                5.647924990626052e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "discord鯖でしりとりしてました(?????)"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 2,
+                    "utter": "？？？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "なんか最近のブームで()"
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lfj26eg5br2y",
+            "label": [
+                0.9991436004638672,
+                5.2437044359976426e-05,
+                0.00040296444785781205,
+                0.00014807067054789513,
+                3.695033228723332e-05,
+                6.963042687857524e-05,
+                7.218714745249599e-05,
+                7.417084270855412e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "なんか最近のブームで()"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 2,
+                    "utter": "やるのはいいけどちゃんと寝なよ？"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "うん()\n不規則な生活だと編集出来なくなるかも()"
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lfj2ftxlau2f",
+            "label": [
+                0.00147641496732831,
+                0.0023618561681360006,
+                0.0011946501908823848,
+                0.0015321943210437894,
+                0.00027811105246655643,
+                0.9926763772964478,
+                0.0003040351439267397,
+                0.00017631948867347091
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 1,
+                    "utter": "うん()\n不規則な生活だと編集出来なくなるかも()"
+                },
+                {
+                    "author": "did:plc:ptb65wg6hwxpavqfll5h224z",
+                    "type": 2,
+                    "utter": "それはダメ動画楽しみにしてるもん！"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 3,
+                    "utter": "やりますやります()\nあと数日待って((("
+                }
+            ],
+            "uri": "at://did:plc:ijbcnqkfnftpdslgh2dk5lrh/app.bsky.feed.post/3lfj2jp7ide2f",
+            "label": [
+                0.0016034505097195506,
+                0.0004042050859425217,
+                0.9974607229232788,
+                0.00011333698785165325,
+                6.160268094390631e-05,
+                0.00021173147251829505,
+                7.672363426536322e-05,
+                6.825451418990269e-05
+            ]
+        }
+    ]
+}

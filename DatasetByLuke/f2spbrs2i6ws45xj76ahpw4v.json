@@ -1,0 +1,289 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "おぉ！ナイス〜！"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "途中でつまづきかけたけどね……水飲み場とか水飲み場とか水飲み場とか……"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "ん〜なんでだろう敵構成覚えてる気がするなぁ〜w"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lc352mqhn22z",
+            "label": [
+                0.005292573943734169,
+                0.0004164303245488554,
+                0.0009035126422531903,
+                0.992159903049469,
+                0.00012453804083634168,
+                0.0007046082755550742,
+                0.00023982200946193188,
+                0.0001586403086548671
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "ん〜なんでだろう敵構成覚えてる気がするなぁ〜w"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "あと真伝説のはじまりムッズい()"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "最初あそこめちゃむずいよねwww"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lc3gv6kxtk2z",
+            "label": [
+                0.016221005469560623,
+                0.0013129881117492914,
+                0.002091652015224099,
+                0.9765506386756897,
+                0.0001893419394036755,
+                0.0028722749557346106,
+                0.0004152099136263132,
+                0.0003468454524409026
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "最初あそこめちゃむずいよねwww"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "ｹﾃ…ﾀｽｹﾃ……()"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "久しぶりに教えようか？w"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lc3mbtzl7s2z",
+            "label": [
+                0.04257797449827194,
+                0.0008633955731056631,
+                0.955233097076416,
+                0.0003057786379940808,
+                0.0001555208582431078,
+                0.0003735521750058979,
+                0.0002818566281348467,
+                0.00020886462880298495
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "久しぶりに教えようか？w"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "頼んます……w"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "おっけ〜w"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "ツイッターのDMでいい？"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lc3mmjwy7s2z",
+            "label": [
+                0.999376118183136,
+                4.761483069160022e-05,
+                0.00031734188087284565,
+                6.0320136981317773e-05,
+                3.5429009585641325e-05,
+                4.7384080971824005e-05,
+                6.208747072378173e-05,
+                5.376821354730055e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "おはよ〜！"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "おはよー！"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "今日周年だね！"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lawx3mzx4c2x",
+            "label": [
+                0.9995452761650085,
+                5.076585875940509e-05,
+                0.00010922435467364267,
+                0.0001276917028008029,
+                3.3127453207271174e-05,
+                2.872399454645347e-05,
+                4.623928543878719e-05,
+                5.885871360078454e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "今日周年だね！"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "やね〜！\nサーファーとスイマー欲しいなぁ()"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "ガチャ引きまくろう！\nまぁその前に俺は病院行かんとw"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lawyeb3sus2x",
+            "label": [
+                0.0030408077873289585,
+                0.0034549804404377937,
+                0.9329854249954224,
+                0.0006468180217780173,
+                0.0003509602975100279,
+                0.05858403816819191,
+                0.0005514489021152258,
+                0.0003856005787383765
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "ガチャ引きまくろう！\nまぁその前に俺は病院行かんとw"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "あぁ、指折ってもうたんやっけ？お大事に〜"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "ありがと！"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "まさかの今日手術するw"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lawymky6hc2x",
+            "label": [
+                0.8600150942802429,
+                0.01786092482507229,
+                0.006705415900796652,
+                0.1054474487900734,
+                0.0003476778801996261,
+                0.006988156586885452,
+                0.001117513864301145,
+                0.0015177411260083318
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "ありがと！"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "まさかの今日手術するw"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 2,
+                    "utter": "今日手術マ！？\nがんばれ！！！"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "がんばる！"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lax6ginw522x",
+            "label": [
+                0.0007513000746257603,
+                0.0002469982428010553,
+                0.9985859394073486,
+                0.00013184551789890975,
+                6.15456810919568e-05,
+                9.63653510552831e-05,
+                6.379616388585418e-05,
+                6.22933148406446e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 1,
+                    "utter": "いやぁやっちゃったよねw"
+                },
+                {
+                    "author": "did:plc:ijbcnqkfnftpdslgh2dk5lrh",
+                    "type": 2,
+                    "utter": "え、\n大丈夫そ…？"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 3,
+                    "utter": "大丈夫ではないですね…w"
+                }
+            ],
+            "uri": "at://did:plc:f2spbrs2i6ws45xj76ahpw4v/app.bsky.feed.post/3lax2ge4wrk2x",
+            "label": [
+                0.0011027982691302896,
+                0.002878093160688877,
+                0.0006638032500632107,
+                0.0016984896501526237,
+                0.00028391985688358545,
+                0.9927575588226318,
+                0.0004505024116951972,
+                0.00016490199777763337
+            ]
+        }
+    ]
+}

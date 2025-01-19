@@ -1,0 +1,674 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "そういう情報仕入れてきて食べに行こ！！ってフッ軽な旦那さん羨ましい…"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "食べ物に関しては本当早いんだよね…でもダイエット中って言ってるのにめちゃくちゃ外食の誘惑してくるからそれは困ってるｗｗｗｗｗｗかに達はどんな？？？"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "月1くらいの頻度で日帰りできるレベルの遠出をするんだけど、その時にガッツリ外で食べる感じwその他一緒に食べる時は自炊だな…たぶん、行こ！！って言えば行ってくれるけど自発でここ食べいこ！はなかなか無い…🫠"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3laus6afr3k2t",
+            "label": [
+                0.001638766028918326,
+                0.9971820116043091,
+                0.0001925262768054381,
+                0.00036497629480436444,
+                4.257276304997504e-05,
+                0.0003565876104403287,
+                0.0001752544048940763,
+                4.7283385356422514e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "月1くらいの頻度で日帰りできるレベルの遠出をするんだけど、その時にガッツリ外で食べる感じwその他一緒に食べる時は自炊だな…たぶん、行こ！！って言えば行ってくれるけど自発でここ食べいこ！はなかなか無い…🫠"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "あー！！確かに！！かによく遠出してるイメージあった！！それいいな……うちは当日急に決まってすぐ行く！って感じだから近場がほとんどなんだよな……\nてか今もう同棲してる？！まだ1人暮らし？！"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "色々面倒でまだ一人暮らしてる…ww年明けに彼氏が転職するんだけど、それが少し落ち着いたタイミングで引っ越し&入籍になるかな〜って！でもなんか楽しみより手続きめんどいが勝っている…www"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lavfeharn22e",
+            "label": [
+                0.7182604074478149,
+                0.01551749836653471,
+                0.23597471415996552,
+                0.00257576210424304,
+                0.0005920855328440666,
+                0.020688029006123543,
+                0.004544244613498449,
+                0.0018472602823749185
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "色々面倒でまだ一人暮らしてる…ww年明けに彼氏が転職するんだけど、それが少し落ち着いたタイミングで引っ越し&入籍になるかな〜って！でもなんか楽しみより手続きめんどいが勝っている…www"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "年明けか！！パタパタしそうだな~~ｗｗｗ私も入籍と引っ越し同時にやったんだけどマジで本当に大変だった…ｗｗｗｗｗｗ家具とか見てたら少し楽しみ出てくるんじゃない？！私はそうだったｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "だよね絶対大変だよね…www仕事しながらとかマジ無理やない…？？家具見たり部屋見るのは楽しいんだけど家賃どんくらいで妥協するかーーとか既に頭抱えてる…ww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lavsenvwa22b",
+            "label": [
+                0.004824450239539146,
+                0.0029987592715770006,
+                0.0024224610533565283,
+                0.0018237183103337884,
+                0.00022269683540798724,
+                0.9869992136955261,
+                0.0004871815908700228,
+                0.00022139557404443622
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "だよね絶対大変だよね…www仕事しながらとかマジ無理やない…？？家具見たり部屋見るのは楽しいんだけど家賃どんくらいで妥協するかーーとか既に頭抱えてる…ww"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "そう！！仕事の合間で物件めっちゃ探して、やっと条件満たすとこ見つけたんだけど人気すぎて結局内見しないで家決めたんだよねｗｗｗ家賃なーｗｗｗかに達完全折半？？？"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "引っ越し費用は完全折版と思うけど、私が引っ越した後仕事辞めて副業手伝うって話になったら完全向こうもちだ…ww今まで自分が貯めた金を切り崩して無収入になるのは嫌だ！！ww　ちなみにちゃんは？？"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3layutqpbes2s",
+            "label": [
+                0.008229188621044159,
+                0.08883702009916306,
+                0.000878524559084326,
+                0.5989800691604614,
+                0.037972718477249146,
+                0.03430325537919998,
+                0.229674831032753,
+                0.0011243564076721668
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "羨ましいとか悔しいではなく、無課金者微課金だとマルチで戦う意味でかくて戦闘たのしい…！！助けてもらってばっかだけど"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "わかるすごく戦ってる…！を実感してめちゃくちゃ楽しい(語彙力)頑張ってクリアしような…"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "だよね、回避しないと厳しいとかゴリ押しが通じてないし戦ってる感がたのしい…！今はちゃんに負荷かかりまくってるけど2週間後見てて！！ww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfsx7r7s6k2i",
+            "label": [
+                0.9939952492713928,
+                0.0001835590082919225,
+                0.005347065627574921,
+                9.334034257335588e-05,
+                7.315112452488393e-05,
+                0.00011010520393028855,
+                9.352763299830258e-05,
+                0.00010400619794381782
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "だよね、回避しないと厳しいとかゴリ押しが通じてないし戦ってる感がたのしい…！今はちゃんに負荷かかりまくってるけど2週間後見てて！！ww"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "んね？！ちゃんと考えて戦ってる感じがすごく楽しい…プレイヤースキルも磨かねばの気持ちｗｗｗｗｗｗ楽しみにしてるで！！ｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "ソラランク50になりました！！！昨日の悔しさをバネにもくもく任務こなしまくって、でもなかなかあがらないな！！デイリー継続が一番良いかも…"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lftnfau4nc27",
+            "label": [
+                0.9963661432266235,
+                0.00020950130419805646,
+                0.003004451049491763,
+                8.053872443269938e-05,
+                5.552031143452041e-05,
+                8.251401595771313e-05,
+                8.667210204293951e-05,
+                0.00011460843234090135
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "ソラランク50になりました！！！昨日の悔しさをバネにもくもく任務こなしまくって、でもなかなかあがらないな！！デイリー継続が一番良いかも…"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "まって早くない？！？60までもう少しじゃんｗｗｗｗｗｗデイリーが一番効率いいよね！！！毎日コツコツやって任務も消化していく感じだねｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "あと10が長いわwwww！しかもそれでもまだちゃんに追い付けない…そしてボスがレベルあがって周回さらにきつくなったので宜しく…www"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lftu3iksqc2v",
+            "label": [
+                0.055487483739852905,
+                0.5721473097801208,
+                0.05865931883454323,
+                0.014350366778671741,
+                0.0015371220652014017,
+                0.29193565249443054,
+                0.00434976676478982,
+                0.0015329279704019427
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "あと10が長いわwwww！しかもそれでもまだちゃんに追い付けない…そしてボスがレベルあがって周回さらにきつくなったので宜しく…www"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "いやでも意外とすぐだよ？！？私も復帰した時50なんとかだったと思うしｗｗｗええで任せてくれ…かにがソラランク7になったらそっちでスタミナ使えるようになるから周回の手伝いよろしくねｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "そう！そうそう！！さっさとランク一緒にしてかにの恩返ししたいわwwwメインストとか伝説任務とかかたっぱしからすませても51なかなかならないから時間かかるかもやが待ってて…"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lftz3wjz622g",
+            "label": [
+                0.0005100029520690441,
+                0.0002082062273984775,
+                0.9989025592803955,
+                9.686958946986124e-05,
+                7.515902689192444e-05,
+                7.843099592719227e-05,
+                7.439342880388722e-05,
+                5.434922786662355e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "そう！そうそう！！さっさとランク一緒にしてかにの恩返ししたいわwwwメインストとか伝説任務とかかたっぱしからすませても51なかなかならないから時間かかるかもやが待ってて…"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "かにの恩返しｗｗｗｗｗｗこればかりはコツコツやってくしかないなｗｗｗあとは脆弱樹脂みたいなやつどんどん使ってくとかなんかな…いつまでも待ってる！！！！一緒にできるフレンドいるだけでモチベ上がってるｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "わかるやっぱ一緒にやってくれる人がいると頑張ろ！！ってなる！wwそしてその人数派少数で良い…！！\nモチベ上がった結果、70連引けるまでガチャ石溜まったでwwwww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfw5orphmk2n",
+            "label": [
+                0.9995773434638977,
+                4.936501500196755e-05,
+                0.000160696727107279,
+                6.300089444266632e-05,
+                2.733912151597906e-05,
+                3.5863773518940434e-05,
+                4.031822390970774e-05,
+                4.616938531398773e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "ネットまだまだ原因不明で繋がらなくて、せっかくの連休、夜ふかし楽しめない…！！"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "まだ直ってないの？！？！？！？！？"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "そうなの…プロバイダにも原因が分からなくて、光ファイバ自体に問題があるかを確認後、それでも分からなければ作業員さん派遣してくれるとかなんとか…　ゲームできないの辛すぎてストレス溜まってきてるwwww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfkfi2lo722t",
+            "label": [
+                0.00026683681062422693,
+                0.9957299828529358,
+                0.0002684330684132874,
+                0.00023954639618750662,
+                0.0007594901253469288,
+                0.0003216779150534421,
+                0.002353184623643756,
+                6.090682654757984e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "そうなの…プロバイダにも原因が分からなくて、光ファイバ自体に問題があるかを確認後、それでも分からなければ作業員さん派遣してくれるとかなんとか…　ゲームできないの辛すぎてストレス溜まってきてるwwww"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "結構長いな~~！！仕事できないのは別にいいけど()ゲームもアニメもダメとなると…中々厳しいなｗｗｗえ、今家で何して過ごしてるの？！？！？！"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "スマホで永遠にネサフかパズルゲームしてるwwwあとYou Tubeだけは何故か繋がるからぼーっと見てたり…でもいつもはYou Tube流しながら横で何かやってるから手持ち無沙汰で！！"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfliczpcck2a",
+            "label": [
+                0.8903218507766724,
+                0.03566625341773033,
+                0.028667451813817024,
+                0.019041620194911957,
+                0.0009736142819747329,
+                0.018842387944459915,
+                0.004260680638253689,
+                0.0022261685226112604
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "スマホで永遠にネサフかパズルゲームしてるwwwあとYou Tubeだけは何故か繋がるからぼーっと見てたり…でもいつもはYou Tube流しながら横で何かやってるから手持ち無沙汰で！！"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "ダメだそれ何も得るものがない休日ｗｗｗでも今日でやっとだね！！！現代人が非常にネットに依存しているということがかにを見ててわかったｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "wwwwwスマホのギガ数にまだ余裕あったから良かったけど、それも無くなってたらと思うとゾッとする…ほんとストレス溜まるで！！www"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfn3d4bj5c2q",
+            "label": [
+                0.0009817075915634632,
+                0.014758724719285965,
+                0.000900975544936955,
+                0.002028671558946371,
+                0.008120291866362095,
+                0.959724485874176,
+                0.012959598563611507,
+                0.00052552210399881
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "wwwwwスマホのギガ数にまだ余裕あったから良かったけど、それも無くなってたらと思うとゾッとする…ほんとストレス溜まるで！！www"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "そうだよな…？！？理由わかってないけどWi-Fiダメってことだもんな…？！？ギガなかったら本当に筋トレしかすることないやん………………"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "（運動なんにもしなかった……………………）\n\n喝お願いします"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfnzru5sfk2t",
+            "label": [
+                0.00032478722278028727,
+                0.9871031641960144,
+                0.009964697062969208,
+                0.00027138928999193013,
+                0.0003367567260283977,
+                0.0009760259417816997,
+                0.0009379485854879022,
+                8.528680336894467e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "（運動なんにもしなかった……………………）\n\n喝お願いします"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "ｳｯｯ私もサボりまくってて何も言えないです(小声)\nどうしよう…いつからはじめる？？ｗｗｗｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "おっとぉwwwww\nこれからバレンタインあるじゃないですか…？？自分のバレンタインチョコ買う気でいるんですよ…2月まで無理くない？？wwww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfrf7daor22n",
+            "label": [
+                0.14129352569580078,
+                0.10043248534202576,
+                0.5728110671043396,
+                0.08581150323152542,
+                0.0036488992627710104,
+                0.08456061035394669,
+                0.00707353837788105,
+                0.0043683601543307304
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "夕方に作業員さん来てくれることになった…それでだめならえぬててに依頼だって…　いやだ…いやだ…！！！"
+                },
+                {
+                    "author": "did:plc:5rdnv7njhvefipbmjxwf7476",
+                    "type": 2,
+                    "utter": "直ったら…マイクラしよう…"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "やる…やろ…\n一人でmod無しならマイクラ出来るんだけどサーバーじゃないとやる気が出ない…"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfluapzgbc2f",
+            "label": [
+                0.00923033058643341,
+                0.10894517600536346,
+                0.8656088709831238,
+                0.0006120593752712011,
+                0.0002434162888675928,
+                0.0131845036521554,
+                0.001780716935172677,
+                0.00039489963091909885
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "やる…やろ…\n一人でmod無しならマイクラ出来るんだけどサーバーじゃないとやる気が出ない…"
+                },
+                {
+                    "author": "did:plc:5rdnv7njhvefipbmjxwf7476",
+                    "type": 2,
+                    "utter": "シーランタン100個くらい持ち帰ったから池もほぼ完成させたよ～～！させたけど一人だとなんかやっぱさみしい　はよ帰ってきて…"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "ついに池完成したの！見たい！周辺栄えさせたい！！\nネット使えなくなり5日目、寂しくて吐きそう"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lflujktzfs2f",
+            "label": [
+                0.0019299903651699424,
+                0.3658819794654846,
+                0.6281641125679016,
+                0.0005143689922988415,
+                0.0005239475285634398,
+                0.0010594240156933665,
+                0.0015946074854582548,
+                0.00033152831019833684
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "ついに池完成したの！見たい！周辺栄えさせたい！！\nネット使えなくなり5日目、寂しくて吐きそう"
+                },
+                {
+                    "author": "did:plc:5rdnv7njhvefipbmjxwf7476",
+                    "type": 2,
+                    "utter": "隣に巨大桜の木を作りたくて今周辺に素材のための桜を乱立させてるけど後々全部伐採するから許せ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "良いねえ　許す\n自然いっぱいにさかえさせたまえ"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lflut77qyc2f",
+            "label": [
+                0.8904464840888977,
+                0.0012840452836826444,
+                0.10557501018047333,
+                0.0002829098957590759,
+                0.00050347950309515,
+                0.00033261446515098214,
+                0.0008589455392211676,
+                0.0007164360722526908
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "良いねえ　許す\n自然いっぱいにさかえさせたまえ"
+                },
+                {
+                    "author": "did:plc:5rdnv7njhvefipbmjxwf7476",
+                    "type": 2,
+                    "utter": "よっしゃ許可がでた　ちょっとやってこよっと"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "作業員さん今日来られなくなって明日になりそうだってさハッハッハ　　は……………　はぁ…"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lflvyohu5c2q",
+            "label": [
+                0.00022556695330422372,
+                0.9988180994987488,
+                0.0001015996458590962,
+                0.0003043462638743222,
+                8.806396363070235e-05,
+                0.00015729475126136094,
+                0.000280327774817124,
+                2.467932426952757e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "作業員さん今日来られなくなって明日になりそうだってさハッハッハ　　は……………　はぁ…"
+                },
+                {
+                    "author": "did:plc:5rdnv7njhvefipbmjxwf7476",
+                    "type": 2,
+                    "utter": "んぁ；；；；；；；"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "お絵かきしゅる…"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lflwd7a7vc2q",
+            "label": [
+                0.9989583492279053,
+                0.00015068909851834178,
+                0.0005871964967809618,
+                8.239492308348417e-05,
+                2.8838641810580157e-05,
+                4.808675657841377e-05,
+                8.979463746072724e-05,
+                5.461127148009837e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "くっwwwwwwwwそwwwwwなんだこれ笑うしかないwwwwww面白すぎるだろチョイスがwwwwww"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "かわいいでしょｗｗｗｗｗｗ郵便局のおじさんもﾌﾌってなってたｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "ちょっと欲しくなるやんけwwwww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfeixd5i622g",
+            "label": [
+                0.6824268102645874,
+                0.0007323946920223534,
+                0.3090163469314575,
+                0.005434821825474501,
+                0.0003604426747187972,
+                0.0010336327832192183,
+                0.0003881374141201377,
+                0.0006073514232411981
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "ちょっと欲しくなるやんけwwwww"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "お揃いしようｗｗｗかわいいよｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "私水色にしよかなwwww絶対笑われるけどwwww"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "エイリアンかと思って調べたらかたつむりでクッソ笑った"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfewy27oos2k",
+            "label": [
+                0.9990330934524536,
+                0.00010144789848709479,
+                0.0001716929255053401,
+                0.0003839598794002086,
+                2.6300951503799297e-05,
+                0.00014087870658840984,
+                8.78619248396717e-05,
+                5.48659372725524e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "私水色にしよかなwwww絶対笑われるけどwwww"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 1,
+                    "utter": "エイリアンかと思って調べたらかたつむりでクッソ笑った"
+                },
+                {
+                    "author": "did:plc:xsxkbiwdziwftrf6vvi6rxjr",
+                    "type": 2,
+                    "utter": "これやっぱカタツムリなんだ？！ｗｗｗ雑貨屋さんで見つけて買ったから何かわからなかったんだよねｗｗｗカラバリ豊富だったから選び放題だよｗｗｗ"
+                },
+                {
+                    "author": "did:plc:5yg5trbgcgqyccflaczrdzqn",
+                    "type": 3,
+                    "utter": "何か分かってなかったの！？www笑うwwwちゃん宅なんか色々面白いのありそうwww"
+                }
+            ],
+            "uri": "at://did:plc:5yg5trbgcgqyccflaczrdzqn/app.bsky.feed.post/3lfggqn4ox22r",
+            "label": [
+                0.5674025416374207,
+                0.0007600461831316352,
+                0.4213247299194336,
+                0.008465826511383057,
+                0.0004193854401819408,
+                0.0005988320335745811,
+                0.0003791605995502323,
+                0.0006494942936114967
+            ]
+        }
+    ]
+}

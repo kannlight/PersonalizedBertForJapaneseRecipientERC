@@ -1,0 +1,449 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "そうなんだ！私モンスターズインクかなり好き！"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "私もモンスターズインク好きだよ。夫氏のディズニー嫌いを緩和した作品でもある。"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "観るたびに、兄の泣き姿がチラつくとしたら集中できないねw"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "夫氏ディズニー嫌いだったんか！意外すぎる！\n私もモンスターズインクはピクサーの中でかなり上位です！！！"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lfbprb5iak2v",
+            "label": [
+                0.0006413752562366426,
+                0.00035374381695874035,
+                0.0006584057118743658,
+                0.9975663423538208,
+                0.000237759537412785,
+                0.00018942507449537516,
+                0.00021201191702857614,
+                0.00014093882055021822
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "スピ酔い？"
+                },
+                {
+                    "author": "did:plc:ucafs236ak4veqschhhn2ltw",
+                    "type": 2,
+                    "utter": "スピリチュアル酔いw"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "うん、スピリチュアルだな、とは思った。酔いとは？"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lejboo4vuc2o",
+            "label": [
+                0.022172836586833,
+                0.0009434380335733294,
+                0.04139333218336105,
+                0.9311435222625732,
+                0.000308045040583238,
+                0.0019468339160084724,
+                0.0007553206523880363,
+                0.001336683752015233
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "うん、スピリチュアルだな、とは思った。酔いとは？"
+                },
+                {
+                    "author": "did:plc:ucafs236ak4veqschhhn2ltw",
+                    "type": 2,
+                    "utter": "話聞きすぎて酔ったということ"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "スピリチュアル話聞いてきたってことか！ちょっと面白そうだけど😃"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lejm6gobxs2d",
+            "label": [
+                0.037694137543439865,
+                0.0003696227795444429,
+                0.9553488492965698,
+                0.005556148011237383,
+                0.0001812758855521679,
+                0.00028300867415964603,
+                0.00018851541972253472,
+                0.00037841268931515515
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "私はスピ系ってちょっとネタっぽく聞いちゃうところがあるからどうしてもまともに受け取らない自分がいるけど好きは好きなんだよね。この石を触ると幸福が訪れる！とか。この石を触るために遠方から皆集まる！とか。城を三周回ると道が拓ける、とか。そんなスピがあるのかわからんけど。\n本当に幸福が訪れることを信じてるわけじゃなくて、それをするために旅行して楽しむ行為にテンションが上がるというか。\nだから、話を聞くのは結構好き。\nホラー体験も。物語として面白いから。"
+                },
+                {
+                    "author": "did:plc:ucafs236ak4veqschhhn2ltw",
+                    "type": 2,
+                    "utter": "私は信じるというか、面白いから試してみたくなる　感じよ　最近は石のラジオが過去の周波数をひろうことがあるらしい　って話を聞いてときめいてますw"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "何それ。めっちゃ気になる。割と私もよねと同じ感覚かも"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lel3in4ubk22",
+            "label": [
+                0.045196954160928726,
+                0.00043436858686618507,
+                0.9133734107017517,
+                0.03876304626464844,
+                0.00043847732013091445,
+                0.0005897791706956923,
+                0.00034863303881138563,
+                0.0008553016814403236
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "私も1話試しに見たんだけど、確かに設定がちょっとわかりづらくて先に進めなかった。漫画からのほうがいいかな？"
+                },
+                {
+                    "author": "did:plc:ucafs236ak4veqschhhn2ltw",
+                    "type": 2,
+                    "utter": "見てくれたのねありがとう☺️ 漫画の方がいいかも…序盤は絵が全然違うけど今2キャンペーンで結構一気読みできるよ　ハマれば…ってところですが💦　気が向いたら読んでみて"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "ありがとう！見てみる。最近推し活することで嫌いなものや嫌なことが目についてしまっている自分がいて、なんかもうそういうのが嫌なので元々好きだった漫画の分量増やして心を落ち着かせたい。でも、あの社会問題に関してはもっとちゃんと罰せられるべきだと思う。当事者1人だけの問題なわけないのに、なんで幕引きしようとしてんねん！ってすっごく怒りが湧いてしまう"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "ごめん全然違う内容を入れ込んでしまった"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lel3rjjvoc22",
+            "label": [
+                0.002574893180280924,
+                0.025062445551156998,
+                0.012128538452088833,
+                0.007739710621535778,
+                0.8845183849334717,
+                0.007458634674549103,
+                0.05809187889099121,
+                0.002425527200102806
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "ありがとう！見てみる。最近推し活することで嫌いなものや嫌なことが目についてしまっている自分がいて、なんかもうそういうのが嫌なので元々好きだった漫画の分量増やして心を落ち着かせたい。でも、あの社会問題に関してはもっとちゃんと罰せられるべきだと思う。当事者1人だけの問題なわけないのに、なんで幕引きしようとしてんねん！ってすっごく怒りが湧いてしまう"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "ごめん全然違う内容を入れ込んでしまった"
+                },
+                {
+                    "author": "did:plc:ucafs236ak4veqschhhn2ltw",
+                    "type": 2,
+                    "utter": "風化させない世間の目は必要だよ！　私はまだ悍ましくて詳細見れない💦"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "ありがとう。だね。今起きてることがどうなっていくのか見ていきたいと思っているよ"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lel5xrdfss2j",
+            "label": [
+                0.003436484606936574,
+                0.00035316767753101885,
+                0.9956690073013306,
+                0.00012029924982925877,
+                7.44608769309707e-05,
+                0.00013915248564444482,
+                9.638324263505638e-05,
+                0.00011099980474682525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "面白いのですか？みなさんよく見つけるね！私は虎翼が未だ見れてないままなんか忙しくて動画見れてない"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "日常を描くドラマだよ。毎回、歴史上の人物が食べていたご飯をつくるっぽい。私はアマプラのオススメで出てきて見てみた次第だよ。"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "え、かなり私好みの予感"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3ldhjd76hxs2g",
+            "label": [
+                0.9821418523788452,
+                0.00013519111962523311,
+                0.01654576137661934,
+                0.0005514280637726188,
+                0.00012628568219952285,
+                0.0001685532188275829,
+                0.0001317023707088083,
+                0.00019909102411475033
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "10分くらいで描いてやったぜ"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "はやい！！！！さすが毎日描いてる人は違うね。私なんてもうすごい遅くなったわ〜"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "いやあ、想像して描くのと写真見て描くのは全然違うよね。やっぱり。迷いなく描けるから全然早い。Bちゃんも手を速める練習と思って！(巻き込みたいタイプ)私Bちゃんの絵が丁寧で昔から好きなんだよねー！"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "ていうのと、平野さんとBちゃんの大ファンなので、Bちゃんの描いた平野さんが見たい！！！！！"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcyreajr7s22",
+            "label": [
+                0.001184428809210658,
+                0.00020808602857869118,
+                0.9981489181518555,
+                0.00016075503663159907,
+                8.035494829528034e-05,
+                7.258274126797915e-05,
+                7.097367779351771e-05,
+                7.399884634651244e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "いやあ、想像して描くのと写真見て描くのは全然違うよね。やっぱり。迷いなく描けるから全然早い。Bちゃんも手を速める練習と思って！(巻き込みたいタイプ)私Bちゃんの絵が丁寧で昔から好きなんだよねー！"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "ていうのと、平野さんとBちゃんの大ファンなので、Bちゃんの描いた平野さんが見たい！！！！！"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "私、絵を描いた記憶が全然ないんだけどw、どんなのを見たんだろう？\n\nわたしはよねの奇天烈な絵が好きですよ（巻き込んでいくスタイルを継承）"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "あら！ヨネさん奇天烈な絵をお描きになるのね！ぜひ見たいです！\nBちゃん描いてるじゃーん！一緒に作品作ったじゃん！あの府中で皆で作ったあれですよ！！"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcysl2bcdc2k",
+            "label": [
+                0.004128303378820419,
+                0.00021897637634538114,
+                0.9938879609107971,
+                0.0013518014457076788,
+                0.00010346601629862562,
+                0.0001066295153577812,
+                7.267334149219096e-05,
+                0.0001302650198340416
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "あら！ヨネさん奇天烈な絵をお描きになるのね！ぜひ見たいです！\nBちゃん描いてるじゃーん！一緒に作品作ったじゃん！あの府中で皆で作ったあれですよ！！"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "？？？？…やばい、記憶がない！\n\nまてよ。なんか、一緒に作業はした気がする。泊まらせてもらったりした？\n\nでも、なにを作ったのかの記憶がありません！"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "音のやつ！"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcyxqraw3s2w",
+            "label": [
+                0.9429721832275391,
+                0.0023006133269518614,
+                0.02362808585166931,
+                0.02353964000940323,
+                0.0010851885890588164,
+                0.0008385604014620185,
+                0.003096213797107339,
+                0.0025395427364856005
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "微妙？"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "微妙っていうか…\n\n苦行タイム？"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "つまらないってことじゃないですか！"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcjxt2gbhc2v",
+            "label": [
+                0.006179767660796642,
+                0.8857981562614441,
+                0.001519179786555469,
+                0.018316857516765594,
+                0.012480192817747593,
+                0.004746094811707735,
+                0.0702521950006485,
+                0.0007075677858665586
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "つまらないってことじゃないですか！"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "とぅふふ！"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "はっきり言わないBちゃん優しい"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcjy2m6vps2r",
+            "label": [
+                0.9996330738067627,
+                6.099356323829852e-05,
+                6.688905705232173e-05,
+                6.666310946457088e-05,
+                2.4932001906563528e-05,
+                4.350014205556363e-05,
+                5.1230479584774e-05,
+                5.270941983326338e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "はっきり言わないBちゃん優しい"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "苦行はかなり言っちゃってるでしょ！"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "いや、はっきり言わないと分からない層がいるから大丈夫！(私)"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcjzlsdqf22r",
+            "label": [
+                0.027479154989123344,
+                0.0025814289692789316,
+                0.9043210744857788,
+                0.0007641929551027715,
+                0.0008056605001911521,
+                0.06067796051502228,
+                0.0012051290832459927,
+                0.00216535571962595
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 1,
+                    "utter": "いや、はっきり言わないと分からない層がいるから大丈夫！(私)"
+                },
+                {
+                    "author": "did:plc:55dyrgu5gtruqlgul6e7nmpb",
+                    "type": 2,
+                    "utter": "wwwwそうなの！"
+                },
+                {
+                    "author": "did:plc:bajlwdzzfpl3klolcvpfaffn",
+                    "type": 3,
+                    "utter": "全ての事象で私はそう。はっきり言ってもらわないと分からない。言葉濁されるの一番苦手。日本人向いてない"
+                }
+            ],
+            "uri": "at://did:plc:bajlwdzzfpl3klolcvpfaffn/app.bsky.feed.post/3lcjzv5fisk2r",
+            "label": [
+                0.003843981074169278,
+                0.110382080078125,
+                0.0016828636871650815,
+                0.0020257458090782166,
+                0.0015954822301864624,
+                0.013382150791585445,
+                0.8662301898002625,
+                0.0008574684616178274
+            ]
+        }
+    ]
+}

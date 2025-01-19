@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "身長高くてもいいことない！！！！"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 2,
+                    "utter": "頭ぶつけた？？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "いつもぶつけてるわ！！！；；"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3leqlibflhk2m",
+            "label": [
+                0.0005675710272043943,
+                0.9947432279586792,
+                9.92704663076438e-05,
+                0.002035875339061022,
+                0.0004957477794960141,
+                0.0010078889317810535,
+                0.000996599905192852,
+                5.384979158407077e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "いつもぶつけてるわ！！！；；"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 2,
+                    "utter": "もっと上を見て歩いて！！"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "背が高いと自然と下向きになるんだよ…w"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3ler6b4vfks2m",
+            "label": [
+                0.22086317837238312,
+                0.1089322566986084,
+                0.01554079819470644,
+                0.5406926274299622,
+                0.001710262382403016,
+                0.09882576763629913,
+                0.009514864534139633,
+                0.003920306917279959
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "背が高いと自然と下向きになるんだよ…w"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 2,
+                    "utter": "じゃあぶつけるしかないね・・・"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "いやです；；"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3lerajympyk2r",
+            "label": [
+                0.005928568076342344,
+                0.5032837390899658,
+                0.00270892889238894,
+                0.0021486403420567513,
+                0.0016520728822797537,
+                0.037271589040756226,
+                0.44633448123931885,
+                0.0006719318917021155
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "いやです；；"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 2,
+                    "utter": "んじゃあ上見よ？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "上見てたらゆーたさんのこと視界に入らなくなる…；；"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3lerbxod67s2r",
+            "label": [
+                0.0013435694854706526,
+                0.996884286403656,
+                0.00020138784020673484,
+                0.0008117525139823556,
+                4.500501017901115e-05,
+                0.0005509159527719021,
+                0.0001237168617080897,
+                3.9420898247044533e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "上見てたらゆーたさんのこと視界に入らなくなる…；；"
+                },
+                {
+                    "author": "did:plc:qwndaltjeqh6caz4llvbvoch",
+                    "type": 2,
+                    "utter": "あ゙あ゙あ゙あ゙あ゙あ゙ん！？！？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "上見て歩こうって言ったのゆーたさんなのにww"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3letx3opsqk2r",
+            "label": [
+                0.00259220483712852,
+                0.0007347241626121104,
+                0.000539937405847013,
+                0.9953098893165588,
+                0.00019072067516390234,
+                0.00026682522729970515,
+                0.00023887991847004741,
+                0.00012682389933615923
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "身長高くてもいいことない！！！！"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "待ち合わせですぐに見つけられる…？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "別に身体的特徴なんてそれ以外にも作ろうとしたら作れるし！；；"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3leql5stvgk2m",
+            "label": [
+                0.047234345227479935,
+                0.003533975686877966,
+                0.9366350173950195,
+                0.0021338355727493763,
+                0.002866155933588743,
+                0.0008075579535216093,
+                0.0039034441579133272,
+                0.0028856126591563225
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "別に身体的特徴なんてそれ以外にも作ろうとしたら作れるし！；；"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "じゃ、じゃあ…強そう！"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "俺強そうに見えるかな…？？？"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3leqytqbw6c2m",
+            "label": [
+                0.0010239379480481148,
+                0.000311987561872229,
+                0.9971855282783508,
+                0.00018508975335862488,
+                4.863686262979172e-05,
+                0.0011106985621154308,
+                5.907874947297387e-05,
+                7.49719692976214e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "俺強そうに見えるかな…？？？"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "会ったことないから正直分からんｗ\nでも同じ身長よりは背が高い方が強そうに見えるのは確か"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "全然強そうに見えないよぼくw"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3ler6aitjjk2m",
+            "label": [
+                0.049053486436605453,
+                0.6357571482658386,
+                0.0012484975159168243,
+                0.19259724020957947,
+                0.0005779932253062725,
+                0.1154976561665535,
+                0.004583946894854307,
+                0.0006840751157142222
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "全然強そうに見えないよぼくw"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "アイコンのせいかもしれないけど、朗らかそうだなーとは思うｗ"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "朗らかかも…🤔"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3leseytieor2e",
+            "label": [
+                0.9994912147521973,
+                6.59758152323775e-05,
+                0.00022320629796013236,
+                5.723071444663219e-05,
+                2.5214447305188514e-05,
+                4.6117442252580076e-05,
+                4.9501242756377906e-05,
+                4.1393217543372884e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "朗らかかも…🤔"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "犬か猫か、だと犬っぽいかも😌"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "おいら猫好きなのに悲しいなあ！！"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3letcjtzzbs2r",
+            "label": [
+                0.0002095344680128619,
+                0.9991056323051453,
+                0.00014892435865476727,
+                0.00014366456889547408,
+                6.252791354199871e-05,
+                0.00011592568625928834,
+                0.00018379763059783727,
+                3.0027840693946928e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "一度でいいので死ぬ前にバケツ一杯くらいの牛乳プリンを食べたい"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "年取ると食べられなくなるから、やるなら早いほうが…！"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "作るしかない…？"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3l7h2hjizuw2r",
+            "label": [
+                0.10851643979549408,
+                0.17799213528633118,
+                0.486162930727005,
+                0.03286772221326828,
+                0.0006399705889634788,
+                0.19047729671001434,
+                0.0018053763778880239,
+                0.0015381640987470746
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "作るしかない…？"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "思い立ったが…？"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "レッツYouTuber！？"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3l7hrd2tgtp2m",
+            "label": [
+                0.002957926830276847,
+                0.0002895530196838081,
+                0.00290509220212698,
+                0.9930243492126465,
+                0.00023367929679807276,
+                0.0002132126537617296,
+                0.0001825280924094841,
+                0.00019369403889868408
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "レッツYouTuber！？"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "お、楽しみにしてるゾ"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "プリン固めるのにバケツは冷蔵庫使えないやんどうすっかなって思ったら気候的にもはや外に置いといたら冷える説が提唱された"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3l7igmu4mh62j",
+            "label": [
+                0.17479433119297028,
+                0.007403559982776642,
+                0.07679122686386108,
+                0.7352162003517151,
+                0.0005630551022477448,
+                0.0027029658667743206,
+                0.0007053489098325372,
+                0.0018233133014291525
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "プリン固めるのにバケツは冷蔵庫使えないやんどうすっかなって思ったら気候的にもはや外に置いといたら冷える説が提唱された"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "こっちが思ってたのよりバケツがデカかった。てかそっちはもうそんなに寒いんや"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "バケツはバケツです…まじのバケツ並のやつ食べたい\nでもバケツから出した時に絶対崩れちゃうんだよね、暗殺教室でやったプリンみたいにこだわらないと…"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3l7ivo7i6a52w",
+            "label": [
+                0.013205313123762608,
+                0.290315717458725,
+                0.6708092093467712,
+                0.0012318246299400926,
+                0.00040121946949511766,
+                0.02139207348227501,
+                0.001884788740426302,
+                0.0007598813390359282
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 1,
+                    "utter": "バケツはバケツです…まじのバケツ並のやつ食べたい\nでもバケツから出した時に絶対崩れちゃうんだよね、暗殺教室でやったプリンみたいにこだわらないと…"
+                },
+                {
+                    "author": "did:plc:gkqb4pg4m4jwuzuwdsoznob2",
+                    "type": 2,
+                    "utter": "ゼラチンをたくさん入れるとか…？　突っいてプルルンさせるの絶対楽しい"
+                },
+                {
+                    "author": "did:plc:ivdbbnjvhifdunsj2hvnfnhp",
+                    "type": 3,
+                    "utter": "うわ楽しそう\nやるのか…？やるしかないか…？！"
+                }
+            ],
+            "uri": "at://did:plc:ivdbbnjvhifdunsj2hvnfnhp/app.bsky.feed.post/3l7kbxrvwgd2m",
+            "label": [
+                0.004995225928723812,
+                0.00041448359843343496,
+                0.9933752417564392,
+                0.0004811793623957783,
+                5.5915039411047474e-05,
+                0.0005122999427840114,
+                7.098431524354964e-05,
+                9.469879296375439e-05
+            ]
+        }
+    ]
+}

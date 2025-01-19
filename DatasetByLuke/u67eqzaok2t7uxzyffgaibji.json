@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "おつみとん！\n何か変な事になってるね💦フォロワーさんも急に垢凍結なった人ちらほら居るみたいだけど何が起きてるんだ…🙄"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "おつきなこ！\nちょいちょい凍結されちゃってる人いるよね😇\n私はすぐ解除されたから普通に使えるんだけど、またなったら嫌だからちょっとこっちに隠れてる😐"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "ついに私のｘもロックかかった😭\nいいね1回押した瞬間だよ…終わった😇"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3lbtq7plfw226",
+            "label": [
+                0.06772862374782562,
+                0.791098415851593,
+                0.003450342221185565,
+                0.023943807929754257,
+                0.0005233580013737082,
+                0.1097349226474762,
+                0.0025880911853164434,
+                0.0009324043057858944
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "ついに私のｘもロックかかった😭\nいいね1回押した瞬間だよ…終わった😇"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "え！きなこちゃんのアカウントも😭\n私の時もいいねポチポチしたらされたよ😇\nロック解除するための表示は出た？"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "英語表記だけどメールアドレス送れみたいなやつ🥺\n私のアカウント今見れる？"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3lbtquayw4c26",
+            "label": [
+                0.04622858762741089,
+                0.008293014019727707,
+                0.42615166306495667,
+                0.017654243856668472,
+                0.0005343287484720349,
+                0.497804194688797,
+                0.0021207653917372227,
+                0.0012132981792092323
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "英語表記だけどメールアドレス送れみたいなやつ🥺\n私のアカウント今見れる？"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "メアド送ったらすぐロックは解除されると思うんだけどなぁ…\n｢このアカウントは一時的に制限されています｣って出るね😭💦"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "メアド覚えてないんだよなあ…マジで詰んだかも\nサブ垢作る時ってでサインインとかじゃなかったっけ…"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3lbtrdl5mbc26",
+            "label": [
+                0.0004317514249123633,
+                0.9923978447914124,
+                0.000394919712562114,
+                0.000343367166351527,
+                0.00012821568816434592,
+                0.0058713010512292385,
+                0.0003754858043976128,
+                5.718100146623328e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "メアド覚えてないんだよなあ…マジで詰んだかも\nサブ垢作る時ってでサインインとかじゃなかったっけ…"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "ヘルプセンター調べたら、認証コードをメアドに送ってもらって入力する方法とかもあったよ！\nサブ垢作るときはAppleでサインインなの？😮"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "確かそうだった記憶あるんだけどめんどくさいから新垢作って来た🤧\n＠juju1207_pp"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3lbtzb3wxc226",
+            "label": [
+                0.37653183937072754,
+                0.0034942508209496737,
+                0.6112940907478333,
+                0.0015040269354358315,
+                0.0005976413376629353,
+                0.001606273464858532,
+                0.0035781189799308777,
+                0.001393707818351686
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "フォロバしたよ！ありがとう🥰\nゲームの方もフォローしとくね✨"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "上限いっぱいだった、残念😂"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "フォロバありがとう～🤗\nこちらでもよろしくお願いします！\n上限いっぱい泣いた🥺"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "こちらこそ☺️✨\n私はログインしてないフォロワーさん整理したからちょっと空いた、スッキリ😚"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3l6wpyzznme2v",
+            "label": [
+                0.9996052384376526,
+                4.4413754949346185e-05,
+                0.00012152976705692708,
+                6.194549496285617e-05,
+                2.982703153975308e-05,
+                4.126919884583913e-05,
+                5.36572806595359e-05,
+                4.2173116526100785e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "こちらこそ☺️✨\n私はログインしてないフォロワーさん整理したからちょっと空いた、スッキリ😚"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "そうなんだ！フォローしてもいい？\n私どっちもたくさん空いてるよ～😂笑"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "もちろん良いよ〜ぜひぜひ🥰"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3l6wt372onk2v",
+            "label": [
+                0.5491130352020264,
+                0.0010071349097415805,
+                0.4468945264816284,
+                0.0006201545475050807,
+                0.0006077181897126138,
+                0.0004706187464762479,
+                0.0005746789975091815,
+                0.0007122139795683324
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "もちろん良いよ〜ぜひぜひ🥰"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "ありがとう！フォローしたよ🥰\n空きができたらきなこちゃんのフォロー枠を狙っておく😎"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "わ〜ん嬉しいありがとう😭✨\n使ってないサブ垢消して速攻フォロバした🥹"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3l6wtzeymgw2b",
+            "label": [
+                0.9996362924575806,
+                3.892971290042624e-05,
+                0.00010843468771781772,
+                6.189396663103253e-05,
+                2.8742830181727186e-05,
+                3.951886901631951e-05,
+                4.45477053290233e-05,
+                4.167858787695877e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 1,
+                    "utter": "わ〜ん嬉しいありがとう😭✨\n使ってないサブ垢消して速攻フォロバした🥹"
+                },
+                {
+                    "author": "did:plc:r45xmshwwxr6qbezucnrki2b",
+                    "type": 2,
+                    "utter": "え！ありがとう😊💓\nきなこちゃんとファンパレも相互なの嬉しすぎる✨"
+                },
+                {
+                    "author": "did:plc:u67eqzaok2t7uxzyffgaibji",
+                    "type": 3,
+                    "utter": "せっかくなら᙭でも相互さんの人と繋がりたかったからこっちとしても嬉しい🫶🏻\nよろしくね☺️✨"
+                }
+            ],
+            "uri": "at://did:plc:u67eqzaok2t7uxzyffgaibji/app.bsky.feed.post/3l6wxp25nqc2t",
+            "label": [
+                0.9995718598365784,
+                4.4532815081765875e-05,
+                0.0001566102437209338,
+                5.841303209308535e-05,
+                3.283324258518405e-05,
+                3.984075738117099e-05,
+                5.008066727896221e-05,
+                4.567360520013608e-05
+            ]
+        }
+    ]
+}

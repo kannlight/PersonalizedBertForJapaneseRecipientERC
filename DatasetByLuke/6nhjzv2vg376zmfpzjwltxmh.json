@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "かつ、ポークですか？"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "はい。たまにキエフ風の鶏のも出ます"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "いいなあ\nNZはロシア料理屋なんてないよ"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lbw3dcmxok23",
+            "label": [
+                0.007491517346352339,
+                0.9819229245185852,
+                0.0005877799121662974,
+                0.007861535996198654,
+                0.00018081453163176775,
+                0.0009292009635828435,
+                0.0008652799879200757,
+                0.00016093069280032068
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "いいなあ\nNZはロシア料理屋なんてないよ"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "前にもおっしゃってましたね\nドイツ料理とロシア料理"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "ドイツとロシア\n鯖狂いが共通してますね"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lbyxu2dw3k27",
+            "label": [
+                0.0356527641415596,
+                0.023982182145118713,
+                0.0009841581340879202,
+                0.6695793271064758,
+                0.0018141932087019086,
+                0.1811905801296234,
+                0.0846046656370163,
+                0.0021921382285654545
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "ドイツとロシア\n鯖狂いが共通してますね"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "あっ知らなかった\n燻製とか酢漬けですか？"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "燻製、グリル、酢漬け、いろいろありますね\n大学のとき鯖サンド好きな人がいたのおぼえてる\n鯖に飢えていた"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lbz2xu2fnk27",
+            "label": [
+                0.6855343580245972,
+                0.001935493666678667,
+                0.30615508556365967,
+                0.0030902547296136618,
+                0.0003213849849998951,
+                0.0008019490051083267,
+                0.0005338485934771597,
+                0.001627525081858039
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "燻製、グリル、酢漬け、いろいろありますね\n大学のとき鯖サンド好きな人がいたのおぼえてる\n鯖に飢えていた"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "鯖サンド！フィレを挟むのですね。燻製も酢漬けでも美味しそう"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "鯖、最近、釣れたてを食べますが以前は食べたことがない鯖音痴なので沈黙"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lbz75tdvzs27",
+            "label": [
+                0.03368237614631653,
+                0.9121912121772766,
+                0.0013313909294083714,
+                0.004208548925817013,
+                0.00020329166727606207,
+                0.046830449253320694,
+                0.0011405048426240683,
+                0.00041220561251975596
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "おーうまそー\n\nこれって、日本で出てくるやつは味もテキスチャも違う「日本化中華」だとおもうんだけど、日本のほうがおいしかった気がする\n\n本来は「安かろう料理」だったのかしらね"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "お店の人は中国人なんだけど間違いなく日本式ですね\nここのお店はすりごま入りの辛い麺が名物でそちらのスープとも組み合わせられますが\n排骨麺はあっさりした醤油味が好みです\n\n昔ながらの中華そばとも、ちょっと違う独特なポジションのラーメン屋さんだと思います"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "いろいろなタイプの中華料理屋さんが入り乱れているでしょうね\n\nでも、わしが食べたいのは日式排骨麺！上に載ってる豚肉が違うんです\n\nNZのはマジな中華ポークリブ"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lfcmooc6kc2e",
+            "label": [
+                0.0011791697470471263,
+                0.0003001088625751436,
+                0.9980621933937073,
+                0.0001692248333711177,
+                5.688163946615532e-05,
+                0.00010478670446900651,
+                5.8362478739582e-05,
+                6.913980178069323e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "いろいろなタイプの中華料理屋さんが入り乱れているでしょうね\n\nでも、わしが食べたいのは日式排骨麺！上に載ってる豚肉が違うんです\n\nNZのはマジな中華ポークリブ"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "厚さ1センチの豚バラに、片栗粉にカレー粉少し入れた衣を付けて揚げて醤油ダレにつけたものという感じでした"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "そーゆーのがたべたいです\n\n（特にカレー粉）"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lfcnjioro22e",
+            "label": [
+                0.0006118332385085523,
+                0.00026754694408737123,
+                0.9987712502479553,
+                8.756265015108511e-05,
+                5.764589150203392e-05,
+                8.512509521096945e-05,
+                6.406470492947847e-05,
+                5.490348121384159e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "「カスピ海の怪物」ですね\n日本のリニアモーターカー、この世界の住人になりそこねて、おとなの現実の泥沼にはまってしまった"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "静岡県知事のせいにしていますが工事は難航していますね。泥沼を札束で埋めて意地でも作るでしょう"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "なりよりまず第一に、あんなに時間がかかっちゃダメですね"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lenddk3mrs27",
+            "label": [
+                0.0007781385211274028,
+                0.9887281656265259,
+                0.0003888437058776617,
+                0.0002861197863239795,
+                0.0014066490111872554,
+                0.00167938438244164,
+                0.006546840071678162,
+                0.00018591093248687685
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 1,
+                    "utter": "なりよりまず第一に、あんなに時間がかかっちゃダメですね"
+                },
+                {
+                    "author": "did:plc:23vrwzeox3gsyk6vw4srzkcw",
+                    "type": 2,
+                    "utter": "いつもの「始めてしまったから降りられない」なのでしょうね"
+                },
+                {
+                    "author": "did:plc:6nhjzv2vg376zmfpzjwltxmh",
+                    "type": 3,
+                    "utter": "やっぱり、そうなんですかね"
+                }
+            ],
+            "uri": "at://did:plc:6nhjzv2vg376zmfpzjwltxmh/app.bsky.feed.post/3lenly72r4k2d",
+            "label": [
+                0.8738058805465698,
+                0.025553017854690552,
+                0.020207315683364868,
+                0.05726949870586395,
+                0.0009554287535138428,
+                0.008908514864742756,
+                0.005035783629864454,
+                0.00826460961252451
+            ]
+        }
+    ]
+}

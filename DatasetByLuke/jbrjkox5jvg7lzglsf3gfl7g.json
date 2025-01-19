@@ -1,0 +1,484 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "ほんと？上手いって言って貰えてめっちゃ喜んでる🥰🥰🥰w\nこれどのセスリを選びますってやつなのか🤣wwwこれ上から1、2、3って続いてる感じにしてみた😎✨️(漫画風？ってやつ🤔)"
+                },
+                {
+                    "author": "did:plc:kytyuvj7un7wevblda5wyavp",
+                    "type": 2,
+                    "utter": "どのセスリのストーリーを進みますかって言うゲームにもなりそうww🤣"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "爆笑wwwまさかのセスリの設定決めれる系ゲームwwwそれはおもろすぎるwww上のセスリからどんな性格っぽく見える？🤭w"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3lb5gc5t4fs2z",
+            "label": [
+                0.9995809197425842,
+                4.213912689010613e-05,
+                0.0001312263630097732,
+                9.28274093894288e-05,
+                2.878430314012803e-05,
+                4.285009708837606e-05,
+                4.1896291804732755e-05,
+                3.9312570152105764e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "爆笑wwwまさかのセスリの設定決めれる系ゲームwwwそれはおもろすぎるwww上のセスリからどんな性格っぽく見える？🤭w"
+                },
+                {
+                    "author": "did:plc:kytyuvj7un7wevblda5wyavp",
+                    "type": 2,
+                    "utter": "ハイゼンみたいな堅物っぽい性格に見えるwwww"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "爆笑wwwたしかにwww\nじゃあ真ん中のセスリはどー？w"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3lbcpsyq22c25",
+            "label": [
+                0.9989100694656372,
+                5.3250507335178554e-05,
+                0.0005552800721488893,
+                0.0002421567332930863,
+                4.2109957576030865e-05,
+                5.49638170923572e-05,
+                6.649702845606953e-05,
+                7.554830517619848e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "爆笑wwwたしかにwww\nじゃあ真ん中のセスリはどー？w"
+                },
+                {
+                    "author": "did:plc:kytyuvj7un7wevblda5wyavp",
+                    "type": 2,
+                    "utter": "真ん中はクール系で困った時に「手伝ってやるよ」って感じの優しいタイプww"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "あーいざって時に頼りになるタイプのね😂w\nここまで来たら、一番下のセスリはどーなるんだ？🤣www"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3lbhobccu6c26",
+            "label": [
+                0.1861439049243927,
+                0.0013934947783127427,
+                0.8085448741912842,
+                0.0010056147584691644,
+                0.0002702203637454659,
+                0.0016693988582119346,
+                0.0003690921876113862,
+                0.0006033782847225666
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "あーいざって時に頼りになるタイプのね😂w\nここまで来たら、一番下のセスリはどーなるんだ？🤣www"
+                },
+                {
+                    "author": "did:plc:kytyuvj7un7wevblda5wyavp",
+                    "type": 2,
+                    "utter": "一番下のセスリは常に「なにか手伝えることは無いか？」って気にかけてくれるタイプかな🤔"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "たしかに想像出来る🤔\nふーちゃんの言ってるタイプが顔と合いすぎてわたしの妄想広がった😂\nそのセリフに言いたいことは｢早く復刻に来てくれ｣って言いたい🥴www"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3lbmrp7z4h22o",
+            "label": [
+                0.7190117239952087,
+                0.0012425126042217016,
+                0.2764148414134979,
+                0.0010359827429056168,
+                0.0003781793639063835,
+                0.0007134846528060734,
+                0.0005929643521085382,
+                0.0006102467305026948
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "おいおいおい大丈夫なのか？？？🫣\n普通に心配😇"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "寒くて死にそうですが、ゲームしてます。再熱ジャンルのゲームしたら予想以上にハマってコスしたくなってる🎮"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "もうそれは体調不良です😇絶対に休むべき時だ😇😇😇\nでもその気持ちは分からなくもないから否定することは出来ない🫣\nコスするんだ！迷うな！しろ！😎✨️"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3leh6dao4o227",
+            "label": [
+                0.000669789151288569,
+                0.0016881831688806415,
+                0.9909927845001221,
+                0.0003534408169798553,
+                0.0036547963973134756,
+                0.0007044888334348798,
+                0.0012889388017356396,
+                0.0006475396221503615
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "一瞬で振られたはおもろい🤣wwwｿｳｼﾛｳさんいいよね…私も好きやったな〜😍狼ゲームだとわたしもｿｳｼﾛｳさんかﾘﾝﾀﾛｳしたいって思ってた時期あったからな…🫣🫣🫣めっちゃなついんだけどwww"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "やっぱり通る道だよな……\nまじで光の速さで振られたからな……😭😭😭\nまじでアナザーの方のチャイナ服のイベと、◼️🟩のチャラい服装のストーリーでくっそ狂わされて死ぬ気でイベしてた思い出……"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "爆笑www\nちょっとｿｳｼﾛｳさんが初めて出てきたシーン忘れたからまた実況でも見ようかな😇w\nチャイナ服もあった記憶あるなwwwまじ記憶がそこまでだからもっかい見るべきだわわたしwww"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3lewruwamtk2n",
+            "label": [
+                0.9981228709220886,
+                0.0001078919303836301,
+                0.0013834686251357198,
+                0.00012505076301749796,
+                4.212993735563941e-05,
+                6.479398143710569e-05,
+                6.328054587356746e-05,
+                9.04759144759737e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "爆笑www\nちょっとｿｳｼﾛｳさんが初めて出てきたシーン忘れたからまた実況でも見ようかな😇w\nチャイナ服もあった記憶あるなwwwまじ記憶がそこまでだからもっかい見るべきだわわたしwww"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "見てみて〜\nてか、ストーリーとかイベ更新無くなっててほぼサ終で死ぬ……いいゲームだったのに……"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "最近話聞かないなって思ってたけどやっぱ更新してないのか😇\n普通に話面白かったんだけどなー🫠"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3lf2u6hi2dk26",
+            "label": [
+                0.003011169843375683,
+                0.9796608090400696,
+                0.00044227970647625625,
+                0.014899712055921555,
+                8.593540405854583e-05,
+                0.0007029629778116941,
+                0.0011115656234323978,
+                8.559285925002769e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "今年最後に買う衣装は…\n鶴丸だと思っていた😇\nしかし、わたしはまた今週に衣装を買おうとしている😇😇😇アホだ…"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "誰買うのよ"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "まぉちしってるか分からないけど｢マギ｣のキャラ衣装を買おうかと😇"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6i6u6sby2p",
+            "label": [
+                0.000994569738395512,
+                0.00019471037376206368,
+                0.9984233379364014,
+                0.00010525015386519954,
+                5.517741010407917e-05,
+                0.00011391634325264022,
+                5.321532444213517e-05,
+                5.986709948047064e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "まぉちしってるか分からないけど｢マギ｣のキャラ衣装を買おうかと😇"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "有名なやつよね?確か……(わかんない)\n誰するの〜女の子?男の子?"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "有名なのかな？www\nやるのは女の子だねw"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6ohmomx72p",
+            "label": [
+                0.9722486734390259,
+                0.0005497669917531312,
+                0.014697046019136906,
+                0.010693684220314026,
+                0.00017685686179902405,
+                0.0004618475213646889,
+                0.0003859850694425404,
+                0.0007862175116315484
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "有名なのかな？www\nやるのは女の子だねw"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "有名じゃないか?\nピンクの子は見たことある"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "ピンクの子はモルさんのことか？それとも煌帝国併せとかか？？？🤔"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6ovkhjhy2s",
+            "label": [
+                0.08047059178352356,
+                0.0008232802501879632,
+                0.9049590826034546,
+                0.011612548492848873,
+                0.00025164493126794696,
+                0.0008484072750434279,
+                0.0002669471432454884,
+                0.0007675114320591092
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "ピンクの子はモルさんのことか？それとも煌帝国併せとかか？？？🤔"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "え……なんか主人公と一緒におる子……"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "じゃあモルさんのことかな？www残念ながらその子では無いよ😎\nピンク(?)ではあるけどw\n木曜日にコスチャ行ってまだあったら買おうかなって思って🤭"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6qaiamj72l",
+            "label": [
+                0.005309851374477148,
+                0.0005028980085626245,
+                0.9935816526412964,
+                0.0001508029381511733,
+                6.783512071706355e-05,
+                0.0001686903997324407,
+                9.835215314524248e-05,
+                0.00011993455700576305
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "じゃあモルさんのことかな？www残念ながらその子では無いよ😎\nピンク(?)ではあるけどw\n木曜日にコスチャ行ってまだあったら買おうかなって思って🤭"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "コスしたら教えてな?個人で"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "個人で！？www知らないキャラだと思うけどほしいか？www"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la7kgwpqrj2n",
+            "label": [
+                0.15157046914100647,
+                0.0019572433084249496,
+                0.49312785267829895,
+                0.34786251187324524,
+                0.001030684681609273,
+                0.0016981373773887753,
+                0.001046848250553012,
+                0.0017063035629689693
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "してくださいお願いします"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "好きブランドのホリデーシーズンのコスメが出ればワンチャン……"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "私のためにしてくれないんですか…？？？してくれるなら白露する…"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la4n27xse42r",
+            "label": [
+                0.0007940787472762167,
+                0.9624178409576416,
+                0.0011448061559349298,
+                0.001029721461236477,
+                0.013926180079579353,
+                0.0018332190811634064,
+                0.01858465187251568,
+                0.000269430922344327
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "私のためにしてくれないんですか…？？？してくれるなら白露する…"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "ガガガ…………\n今する方向で考えてます……\nだが、あれでイベ行くの至難の業なんよな〜そこでちょい踏みとどまってる……😭"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "なに！？やってくれるんすか？？？やってくれるんすか！？😍😍😍\nこれわたしが白露しなくてもやってくれるやつ？？？😳いや行けるだろ！行ってくれ隣を歩いてくれ頼む🥹🥹🥹🥹🥹🥹"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6i53fur52j",
+            "label": [
+                0.0011437316425144672,
+                0.0010541508672758937,
+                0.9836751818656921,
+                0.01286398246884346,
+                0.0005492569180205464,
+                0.00026607979089021683,
+                0.00023152849462348968,
+                0.00021607824601233006
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "なに！？やってくれるんすか？？？やってくれるんすか！？😍😍😍\nこれわたしが白露しなくてもやってくれるやつ？？？😳いや行けるだろ！行ってくれ隣を歩いてくれ頼む🥹🥹🥹🥹🥹🥹"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "行けるかなぁ〜……\nワンチャン次の倉コスで出す可能性大いにありです……\nカラコンはある"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "え？え？え？え？まじ？？？飲月くんやってくれるの？倉コスで？無理やり着いてくぞこら😠😠😠w\n待てカラコンだけはなぜあるんだwww"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6ojm35y72y",
+            "label": [
+                0.03847314417362213,
+                0.0022118601482361555,
+                0.03708096593618393,
+                0.9203472137451172,
+                0.0004672413633670658,
+                0.0004887505201622844,
+                0.00037633406464010477,
+                0.0005544829764403403
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 1,
+                    "utter": "え？え？え？え？まじ？？？飲月くんやってくれるの？倉コスで？無理やり着いてくぞこら😠😠😠w\n待てカラコンだけはなぜあるんだwww"
+                },
+                {
+                    "author": "did:plc:cxuuhfqsmktoeje3qgwjw66q",
+                    "type": 2,
+                    "utter": "ワンチャンねぇ〜\n\nカラコンは歌i仙ちゃんと同じもの使う予定なのであるんだなぁ……これが"
+                },
+                {
+                    "author": "did:plc:jbrjkox5jvg7lzglsf3gfl7g",
+                    "type": 3,
+                    "utter": "なん...だと…？\n雅と同じなのか？？？目"
+                }
+            ],
+            "uri": "at://did:plc:jbrjkox5jvg7lzglsf3gfl7g/app.bsky.feed.post/3la6ow55t4o2j",
+            "label": [
+                0.00051152054220438,
+                0.00031329187913797796,
+                0.0007133404142223299,
+                0.997711181640625,
+                0.000225070834858343,
+                0.0002499558322597295,
+                0.00017504931020084769,
+                0.00010045288217952475
+            ]
+        }
+    ]
+}

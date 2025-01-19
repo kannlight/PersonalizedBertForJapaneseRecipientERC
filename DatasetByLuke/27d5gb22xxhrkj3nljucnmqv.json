@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "明日会議なんやけど前で発表せにゃならんなってだるいし、発表後に爆速で職場戻ってヘルプだからさらにだるい"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "がんば"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "原稿とか考えるのすら嫌すぎてぶっつけでやる"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3lbzfmespus2o",
+            "label": [
+                0.010857411660254002,
+                0.18288585543632507,
+                0.41082796454429626,
+                0.003544796723872423,
+                0.002686524298042059,
+                0.11680599302053452,
+                0.27056214213371277,
+                0.0018293153261765838
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "原稿とか考えるのすら嫌すぎてぶっつけでやる"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "今度お土産と賄賂その他諸々送り付けるから元気出して"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "わーーーーお、げんきでた\n寝ないかんのに元気いっぱいだわなんてこった"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3lbzfudd2zc2o",
+            "label": [
+                0.9995883107185364,
+                6.508304068120196e-05,
+                7.835881842765957e-05,
+                0.00010692970681702718,
+                2.092323120450601e-05,
+                5.4437186918221414e-05,
+                4.4534564949572086e-05,
+                4.146922947256826e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "わーーーーお、げんきでた\n寝ないかんのに元気いっぱいだわなんてこった"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "早よ寝ろォォ"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "打ち返すぜその言葉ァァ"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3lbzgaeyygc2o",
+            "label": [
+                0.0028133769519627094,
+                0.009774504229426384,
+                0.012488024309277534,
+                0.007594321854412556,
+                0.9514918327331543,
+                0.005777604412287474,
+                0.006941238883882761,
+                0.003119071712717414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "打ち返すぜその言葉ァァ"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "いま布団乾燥機が頑張ってるんだよォォ"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "自分を信じて潜り込めええ"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3lbzgn5o74s2o",
+            "label": [
+                0.00017977504467125982,
+                0.00022914116561878473,
+                0.9991305470466614,
+                0.00011173350503668189,
+                8.812890155240893e-05,
+                0.00012795449583791196,
+                6.927509093657136e-05,
+                6.340118125081062e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "自分を信じて潜り込めええ"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "真冬になるとガチで布団乾燥機かけながら布団潜り込む人間です"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "今年の解禁はもうしたのか"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3lbzhltfj622e",
+            "label": [
+                0.7947250008583069,
+                0.0033658992033451796,
+                0.08127414435148239,
+                0.1177443116903305,
+                0.0003077983856201172,
+                0.0010529871797189116,
+                0.0004583025292959064,
+                0.0010715121170505881
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "推し活手帳ねぇ……"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "作るんです？"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "はやいはやいびっくりした"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3la2m5hgkqt2b",
+            "label": [
+                0.000584724242798984,
+                0.00028225078131072223,
+                0.0005731448763981462,
+                0.9976734519004822,
+                0.00028929486870765686,
+                0.00023049557057674974,
+                0.00023119256366044283,
+                0.00013548677088692784
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "はやいはやいびっくりした"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "ちょうどTL見てたから即反応してしまった"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "まぁた知らん間に包囲網組まれてんのかと思ったぜ……"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3la2mc2j3f527",
+            "label": [
+                0.00041857571341097355,
+                0.0013229615287855268,
+                0.00025622930843383074,
+                0.9956293106079102,
+                0.0003172430442646146,
+                0.0016129586147144437,
+                0.0003453948302194476,
+                9.735082858242095e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "まぁた知らん間に包囲網組まれてんのかと思ったぜ……"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "手帳複数使いできない我には推し活手帳は運用できぬのじゃ…"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "わかりみのりみりみ\n\n推し活手帳にある意味近いのがゲームとかのこと書き込んでるなんでもノートかなぁ"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3la2mkfa2ct22",
+            "label": [
+                0.8912194967269897,
+                0.0019143542740494013,
+                0.10218782722949982,
+                0.0010117675410583615,
+                0.0003631089348345995,
+                0.0010584729025140405,
+                0.0007936434703879058,
+                0.0014512783382087946
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 1,
+                    "utter": "わかりみのりみりみ\n\n推し活手帳にある意味近いのがゲームとかのこと書き込んでるなんでもノートかなぁ"
+                },
+                {
+                    "author": "did:plc:zizzamycy7cfn4ueatwk4lue",
+                    "type": 2,
+                    "utter": "アイドル好きさんはテレビとか雑誌発売とか日程管理大変そうだから専用手帳作ったほうが良いんかもなぁ"
+                },
+                {
+                    "author": "did:plc:27d5gb22xxhrkj3nljucnmqv",
+                    "type": 3,
+                    "utter": "案外、ツイステとか魔法使い？とかのやつで作ってる人多い印象ある"
+                }
+            ],
+            "uri": "at://did:plc:27d5gb22xxhrkj3nljucnmqv/app.bsky.feed.post/3la2mw7q77f2x",
+            "label": [
+                0.004260838497430086,
+                0.0003801714919973165,
+                0.0027597728185355663,
+                0.9914421439170837,
+                0.00022990112483967096,
+                0.0002813223691191524,
+                0.0003249765431974083,
+                0.0003208530542906374
+            ]
+        }
+    ]
+}

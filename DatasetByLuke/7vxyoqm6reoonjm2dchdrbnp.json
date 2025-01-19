@@ -1,0 +1,249 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "途中でつまづきかけたけどね……水飲み場とか水飲み場とか水飲み場とか……"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "ん〜なんでだろう敵構成覚えてる気がするなぁ〜w"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "あと真伝説のはじまりムッズい()"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lc3da4njl22m",
+            "label": [
+                0.9990285634994507,
+                9.123972267843783e-05,
+                0.0005414135521277785,
+                0.0001182291453005746,
+                3.556436058715917e-05,
+                4.5527871407102793e-05,
+                7.633025234099478e-05,
+                6.308772572083399e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "あと真伝説のはじまりムッズい()"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "最初あそこめちゃむずいよねwww"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "ｹﾃ…ﾀｽｹﾃ……()"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lc3kaixqzs2m",
+            "label": [
+                0.5191227197647095,
+                0.27891939878463745,
+                0.03929010406136513,
+                0.03739149123430252,
+                0.006261749193072319,
+                0.06327267736196518,
+                0.05007673054933548,
+                0.005665028002113104
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "ｹﾃ…ﾀｽｹﾃ……()"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "久しぶりに教えようか？w"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "頼んます……w"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lc3mlsvyac2n",
+            "label": [
+                0.015740249305963516,
+                0.03452358394861221,
+                0.9405576586723328,
+                0.000594668963458389,
+                0.0004698614066001028,
+                0.006041537970304489,
+                0.0014637730782851577,
+                0.0006087066722102463
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "おはよー！"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "今日周年だね！"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "やね〜！\nサーファーとスイマー欲しいなぁ()"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lawxsp7ir22j",
+            "label": [
+                0.0005595321417786181,
+                0.0002047442103503272,
+                0.9988862872123718,
+                0.0001030350467772223,
+                4.813696796190925e-05,
+                8.708153472980484e-05,
+                5.838299330207519e-05,
+                5.288607280817814e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "やね〜！\nサーファーとスイマー欲しいなぁ()"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "ガチャ引きまくろう！\nまぁその前に俺は病院行かんとw"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "あぁ、指折ってもうたんやっけ？お大事に〜"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lawyh2ypgc24",
+            "label": [
+                0.0018212564755231142,
+                0.8973122835159302,
+                0.0006610537529923022,
+                0.08430292457342148,
+                0.00036158214788883924,
+                0.014036519452929497,
+                0.001272293971851468,
+                0.0002319867635378614
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "あぁ、指折ってもうたんやっけ？お大事に〜"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "ありがと！"
+                },
+                {
+                    "author": "did:plc:f2spbrs2i6ws45xj76ahpw4v",
+                    "type": 2,
+                    "utter": "まさかの今日手術するw"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "今日手術マ！？\nがんばれ！！！"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lax5vr5ros2m",
+            "label": [
+                0.00041435007005929947,
+                0.00018438287952449173,
+                0.9984356760978699,
+                0.0005788410780951381,
+                6.356328231049702e-05,
+                0.0002017445513047278,
+                4.515365435509011e-05,
+                7.641223055543378e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "最近ワシャられてなくてしょんぼりしてたので存分にワシャって下さい😊\n\n来夏「そそそそそんな訳ないじゃない！？」"
+                },
+                {
+                    "author": "did:plc:5co5tldsi4u6rsncc3w5pr4j",
+                    "type": 2,
+                    "utter": "ミスト君の許可も得たし、さぁ来夏ちゃんこっちにおいで～～～!!!!!!頭ワシャワシャとほっぺプニプニさせて～～～～!!!!!!!"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "来夏「ほ、ほっぺも！？///」"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lbu6bdczuc2z",
+            "label": [
+                0.9917287230491638,
+                0.000595876423176378,
+                0.003546428168192506,
+                0.0035525078419595957,
+                8.720107871340588e-05,
+                0.00013170648890081793,
+                0.0001710777432890609,
+                0.00018635975720826536
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 1,
+                    "utter": "来夏「ほ、ほっぺも！？///」"
+                },
+                {
+                    "author": "did:plc:5co5tldsi4u6rsncc3w5pr4j",
+                    "type": 2,
+                    "utter": "( * ˙꒳​˙ )ﾉ\")`꒳​˙ )ﾑﾆﾑﾆ\n(*/▽＼*)ｷｬｯ"
+                },
+                {
+                    "author": "did:plc:7vxyoqm6reoonjm2dchdrbnp",
+                    "type": 3,
+                    "utter": "来夏「ふにゃっ!?///σ)˙¯˙*)」"
+                }
+            ],
+            "uri": "at://did:plc:7vxyoqm6reoonjm2dchdrbnp/app.bsky.feed.post/3lbv4kyi76s2l",
+            "label": [
+                0.0036119732540100813,
+                0.0004926519468426704,
+                0.9953680038452148,
+                0.00016824992781039327,
+                6.51776063023135e-05,
+                0.00013804140326101333,
+                8.911611803341657e-05,
+                6.672299059573561e-05
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "うぉうりゃ！！(°ε°((⊂(`ω´∩)"
+                },
+                {
+                    "author": "did:plc:4rlucem2jpzhqq2sd6gyplgk",
+                    "type": 2,
+                    "utter": "トドメの一撃！！\n_:(´ཀ`」 ∠):_"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "これもあいるさんのためだ( ≖ᴗ≖​)ﾆﾔｯ"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3lamxefkcws2i",
+            "label": [
+                0.9992497563362122,
+                9.934193803928792e-05,
+                0.0004095087351743132,
+                4.3526113586267456e-05,
+                3.0863870051689446e-05,
+                5.2894974942319095e-05,
+                5.934399814577773e-05,
+                5.4715736041544005e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "これもあいるさんのためだ( ≖ᴗ≖​)ﾆﾔｯ"
+                },
+                {
+                    "author": "did:plc:4rlucem2jpzhqq2sd6gyplgk",
+                    "type": 2,
+                    "utter": "('ω' )殴りたかっただけでは！？"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "(;˙³˙)〜♪"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3lamy2qx3cc2i",
+            "label": [
+                0.987968921661377,
+                0.0017547181341797113,
+                0.0081251822412014,
+                0.00030890622292645276,
+                0.00017996410315390676,
+                0.0004794808919541538,
+                0.0008103715954348445,
+                0.00037240597885102034
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "珍しい👀\n大丈夫？今度ボーリング行こうぜ🎳"
+                },
+                {
+                    "author": "did:plc:4rlucem2jpzhqq2sd6gyplgk",
+                    "type": 2,
+                    "utter": "寝不足なのかメンタル不調なのか…\n\nいいね('ω' )\n最近運動してないから今度一緒に行こうぜ！"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "お、これで今年にやることリスト増えたね！"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3l3cqw65cf62z",
+            "label": [
+                0.9993880987167358,
+                5.606726699625142e-05,
+                0.0003174098383169621,
+                7.41910480428487e-05,
+                3.2295378332491964e-05,
+                3.701528476085514e-05,
+                4.6892579121049494e-05,
+                4.7978195652831346e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "お、これで今年にやることリスト増えたね！"
+                },
+                {
+                    "author": "did:plc:4rlucem2jpzhqq2sd6gyplgk",
+                    "type": 2,
+                    "utter": "( ᐛ )やったぜ！"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "いやぁ、ブルスカ疲れないねぇ\nXデマ飛び交ってすっごい疲れたw"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3l3ctkfhg5h2n",
+            "label": [
+                0.726459264755249,
+                0.029111942276358604,
+                0.0035325149074196815,
+                0.18041375279426575,
+                0.0005860836827196181,
+                0.0426613874733448,
+                0.015100146643817425,
+                0.0021348604932427406
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "いやぁ、ブルスカ疲れないねぇ\nXデマ飛び交ってすっごい疲れたw"
+                },
+                {
+                    "author": "did:plc:4rlucem2jpzhqq2sd6gyplgk",
+                    "type": 2,
+                    "utter": "それ。\n安心してNGS_SSとか友達の投稿だけ見られる('ω' )\n\nカールストの地に立ち〜\n思う時の流れ〜\n雨風に磨かれ〜凛と広ーがる〜www\n大地のぉ〜ww恵みを受けて〜ww\nみなぎるこの気概〜ww\n元気いっぱい我ら〜ww\n宇部マテリアルズ〜wwwww"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "歌うな歌うなwww"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3l3czddwlmp26",
+            "label": [
+                0.7399128675460815,
+                0.01849127747118473,
+                0.037712760269641876,
+                0.04771014675498009,
+                0.02650824561715126,
+                0.09124787151813507,
+                0.029086241498589516,
+                0.009330575354397297
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "歌うな歌うなwww"
+                },
+                {
+                    "author": "did:plc:4rlucem2jpzhqq2sd6gyplgk",
+                    "type": 2,
+                    "utter": "え？通過儀礼じゃないの！？Σ( ᐛ )"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "通過儀礼では無いね？？w"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3l3dbwkniyt2y",
+            "label": [
+                0.4317266345024109,
+                0.03375483676791191,
+                0.03536321222782135,
+                0.4312625229358673,
+                0.003669869853183627,
+                0.02939322218298912,
+                0.02698022685945034,
+                0.007849506102502346
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "お疲れ様です、あいるさん\nいろいろストレスや痛みなどで\n大変な思いをお過ごしかと思われます\nあいるさんの体調いち早く良くなることをお祈りします\n\nあいるさん優しいから\nそんな人ほど生きていて欲しいです"
+                },
+                {
+                    "author": "did:plc:szdjqtaixnrel6yezmxydsd2",
+                    "type": 2,
+                    "utter": "ありがとうございます！\nスカーさんも優しくて素敵な人なので長生きしてくださいね！100歳とは言わず200歳まで！約束ですよ！！！"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "出来たら80歳までかな？w\nまぁただあいるさんに言われたら\n頑張るしかないかな(^^)\n\nでも今あいるさんの病気の内容とか見たら結構きつい感じですね…"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3kxpd7fw5na2m",
+            "label": [
+                0.0009177507599815726,
+                0.002833320526406169,
+                0.9905349612236023,
+                0.00039213531999848783,
+                8.372349111596122e-05,
+                0.004938791505992413,
+                0.00015542721666861326,
+                0.00014395946345757693
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "出来たら80歳までかな？w\nまぁただあいるさんに言われたら\n頑張るしかないかな(^^)\n\nでも今あいるさんの病気の内容とか見たら結構きつい感じですね…"
+                },
+                {
+                    "author": "did:plc:szdjqtaixnrel6yezmxydsd2",
+                    "type": 2,
+                    "utter": "なんか膠原病っていう免疫系の病気のどれかが可能性高いらしくて🫠\n一応ちゃんと治療すれば完治はできませんが薬なしで生活できるくらい寛解はできるらしいです！また再発する可能性もあるらしいですが( ; ; )\n来週検査結果聞きに病院行くの怖いですw"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "紫外線に当たらないことがいちばんいいみたいですね\n結果が出るまでは何も分からない\nこれ程きついことをなぜあいるさんに…\n\n僕本当に何も出来ないけど\n割引とか、いい情報とかあれば教えるね！"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3kxpdysvxme2c",
+            "label": [
+                0.0003329071623738855,
+                0.9933992624282837,
+                0.0031352094374597073,
+                0.00023514618806075305,
+                0.0001290333311771974,
+                0.0023070410825312138,
+                0.0003876066184602678,
+                7.380893657682464e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "紫外線に当たらないことがいちばんいいみたいですね\n結果が出るまでは何も分からない\nこれ程きついことをなぜあいるさんに…\n\n僕本当に何も出来ないけど\n割引とか、いい情報とかあれば教えるね！"
+                },
+                {
+                    "author": "did:plc:szdjqtaixnrel6yezmxydsd2",
+                    "type": 2,
+                    "utter": "シースルーとはいえこんな暑い日何が楽しくて長袖着てるって感じです\n幼少期から割と波乱万丈な人生歩んで来ましたが病気まで来るとは思っても見ませんでした(遠い目)\n\nうわあああ😭スカーさんいい人😭ありがとうございます😭😭😭😭"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "そうだよね、暑いのに長袖着たくないもんな…\nもしホントなんかあったら僕と天音頼ってね！\n\n膠原病って美人さんがかかりやすい病気らしいですよ(´・ω・｀)"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3kxpizqpo2e2c",
+            "label": [
+                0.008789438754320145,
+                0.11978945136070251,
+                0.3071414828300476,
+                0.004236392676830292,
+                0.0007031011627987027,
+                0.5560882687568665,
+                0.0019996915943920612,
+                0.0012521743774414062
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 1,
+                    "utter": "そうだよね、暑いのに長袖着たくないもんな…\nもしホントなんかあったら僕と天音頼ってね！\n\n膠原病って美人さんがかかりやすい病気らしいですよ(´・ω・｀)"
+                },
+                {
+                    "author": "did:plc:szdjqtaixnrel6yezmxydsd2",
+                    "type": 2,
+                    "utter": "うえええん😭こないだ天音にこの事言ったらもう一緒にゲームできないねって言われたんで私の代わりにしばいといてください((((((((((殴\n\nやだ！私美人/////⇽"
+                },
+                {
+                    "author": "did:plc:sjbniazgk4xujji74cqvgcsl",
+                    "type": 3,
+                    "utter": "おい天音www\n何を言ったんだチミはwww\n私の親友がすまぬ…(´・ω・｀)w\n膠原病は美人病って呼ばれてるらしいよ！"
+                }
+            ],
+            "uri": "at://did:plc:sjbniazgk4xujji74cqvgcsl/app.bsky.feed.post/3kxpkr4f5ge2d",
+            "label": [
+                0.0006087890360504389,
+                0.9944333434104919,
+                0.00017424242105334997,
+                0.001285806531086564,
+                0.0005176318227313459,
+                0.001997401937842369,
+                0.0009186463430523872,
+                6.416675023501739e-05
+            ]
+        }
+    ]
+}

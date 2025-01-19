@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "ピッカーがゴーストバン垢も拾てくれたら、もうちょいやる気出んねんけどなー"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "ほんとそれ！\nやる気なんてどっか行っちまったわｗ"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "おはよう☀\n\nピッカーに拾われるようにしてくれたらゴーストバン解除されへんでもええわ。"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kvzr7glna52x",
+            "label": [
+                0.13824401795864105,
+                0.023511815816164017,
+                0.7729524374008179,
+                0.0016335493419319391,
+                0.006138189695775509,
+                0.0009493257384747267,
+                0.05322536453604698,
+                0.003345340956002474
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "おはよう☀\n\nピッカーに拾われるようにしてくれたらゴーストバン解除されへんでもええわ。"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "だよね！\nリプ抽選とか絡みが出来ないだけだしね‼️\n拾われさえすればいいのに🥹"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "ゴーストバンでやり続けても凍結せえへんのは俺が証明してるからな(笑)、あとはピッカーに仕様変えてもらうか、企画者さんがあたるってぃーしか使えへんようにしてくれるかしてくれたら、ええんやけどなー"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kvzsvdjdie23",
+            "label": [
+                0.0002987922925967723,
+                0.00031865417258813977,
+                0.9989951252937317,
+                8.461091056233272e-05,
+                7.281087164301425e-05,
+                8.189821528503671e-05,
+                9.461803711019456e-05,
+                5.346077523427084e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "ゴーストバンでやり続けても凍結せえへんのは俺が証明してるからな(笑)、あとはピッカーに仕様変えてもらうか、企画者さんがあたるってぃーしか使えへんようにしてくれるかしてくれたら、ええんやけどなー"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "ほんとだよ、えぬパパが凍らないの証明してるけどこれも個人差あるのかねー🤔\n\nそそそ、企画者さんがみんなあたるってぃーに変えてくれたらありがたいんだけどね🥹"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "SNSのアカウントに個人差なんかあんの？"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kw2eyvxg5j2u",
+            "label": [
+                0.0004902674700133502,
+                0.00028573250165209174,
+                0.00044651111238636076,
+                0.9968865513801575,
+                0.0004143624391872436,
+                0.0006505055935122073,
+                0.0006733814370818436,
+                0.00015274349425453693
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "SNSのアカウントに個人差なんかあんの？"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "分からないꉂ🤣𐤔\nありそうじゃない？\n個体差的な？🙄"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "ちょうどさっき、アルゴリズム的に強いアカウントに育つとか何やら聞いたわ。"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kw2gowfylh2n",
+            "label": [
+                0.25976622104644775,
+                0.0012816368835046887,
+                0.247395858168602,
+                0.4857966899871826,
+                0.0006243081879802048,
+                0.001956542721018195,
+                0.0009518727310933173,
+                0.002226868411526084
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "ちょうどさっき、アルゴリズム的に強いアカウントに育つとか何やら聞いたわ。"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "マジか！\nやっぱりそうなんだね🤔\nえぬパパの垢は強い子なんだよ(งดี౪ดี)ง\n私の垢は軟弱よꉂ🤣𐤔"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "なるほどなー、せやけどそれはどないして育ったんや？(笑)\n\n正直俺他の人よりやる量えげつないやん？"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kw2hnl3qgz2u",
+            "label": [
+                0.009095439687371254,
+                0.06558665633201599,
+                0.001604569493792951,
+                0.8829687833786011,
+                0.0020529727917164564,
+                0.030338849872350693,
+                0.00748605839908123,
+                0.0008667457150295377
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "ピッカーがゴーストバン垢も拾てくれたら、もうちょいやる気出んねんけどなー"
+                },
+                {
+                    "author": "did:plc:b5zwofedfznxkp6tipqhlsng",
+                    "type": 2,
+                    "utter": "ゴーストで動くの危険すぎない😵‍💫"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "おはようございます☀️\n\n確か3週間以上前にゴーストバンになりましたけど、最初の2週間はタグ投稿だけ控えていつも通りに、今週からは全ていつも通りにやっています。\n僕のことですから、余裕で500以上やってんちゃいますか？\n\n卒業する理由が欲しいので、凍結覚悟でやってるんですよ(笑)"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kvzmp5bz3l2y",
+            "label": [
+                0.7452518939971924,
+                0.01143990270793438,
+                0.15114791691303253,
+                0.009067444130778313,
+                0.002113377908244729,
+                0.06678276509046555,
+                0.007427716162055731,
+                0.0067690033465623856
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "おはようございます☀️\n\n確か3週間以上前にゴーストバンになりましたけど、最初の2週間はタグ投稿だけ控えていつも通りに、今週からは全ていつも通りにやっています。\n僕のことですから、余裕で500以上やってんちゃいますか？\n\n卒業する理由が欲しいので、凍結覚悟でやってるんですよ(笑)"
+                },
+                {
+                    "author": "did:plc:b5zwofedfznxkp6tipqhlsng",
+                    "type": 2,
+                    "utter": "強いww\n\n凍結してもやめるきっかけにはならんかった人はここです🙋🏻‍♀️w"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "僕も5,000以下の時に2回凍結したんですけど、今はこんだけやっても凍結せえへんので、してる方との差は何なんですかね？\n\nそれは残念でしたね(笑)\n僕は凍結したら懸賞は卒業しますよ、もう見合うてへんのであほらしいです。"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kvznylwhjv2x",
+            "label": [
+                0.012216907925903797,
+                0.5904080867767334,
+                0.001764529151841998,
+                0.009691514074802399,
+                0.001589487656019628,
+                0.023933811113238335,
+                0.35929083824157715,
+                0.0011048498563468456
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "僕も5,000以下の時に2回凍結したんですけど、今はこんだけやっても凍結せえへんので、してる方との差は何なんですかね？\n\nそれは残念でしたね(笑)\n僕は凍結したら懸賞は卒業しますよ、もう見合うてへんのであほらしいです。"
+                },
+                {
+                    "author": "did:plc:b5zwofedfznxkp6tipqhlsng",
+                    "type": 2,
+                    "utter": "こうやって絡んでる人がいなくなるのはやっぱり寂しいので凍らない事願ってるよ😭\nまたスペースでえぬパパの真似させてね😖w"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "凍結したらスペース専用の鍵垢作る予定ですので、またその際は宜しくお願い致します🙇\n\n僕るるぴさんが真似されてる程声低ないですよ(笑)"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kvzoh4jgpf2e",
+            "label": [
+                0.002923972439020872,
+                0.00029133158386684954,
+                0.9962115287780762,
+                0.00010546622797846794,
+                9.581897029420361e-05,
+                0.0001375234714942053,
+                0.00011584965977817774,
+                0.00011850651208078489
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "凍結したらスペース専用の鍵垢作る予定ですので、またその際は宜しくお願い致します🙇\n\n僕るるぴさんが真似されてる程声低ないですよ(笑)"
+                },
+                {
+                    "author": "did:plc:b5zwofedfznxkp6tipqhlsng",
+                    "type": 2,
+                    "utter": "いやいや🤣\n懸賞界隈で1番低いです☝️ww"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "可愛い系癒しボイスで売っていますので、堪忍して下さい🙇"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kw22gdwswj24",
+            "label": [
+                0.028421254828572273,
+                0.007888802327215672,
+                0.9614915251731873,
+                0.00020444420806597918,
+                0.0001668085460551083,
+                0.0010865455260500312,
+                0.0004226200981065631,
+                0.00031800789292901754
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "可愛い系癒しボイスで売っていますので、堪忍して下さい🙇"
+                },
+                {
+                    "author": "did:plc:b5zwofedfznxkp6tipqhlsng",
+                    "type": 2,
+                    "utter": "🤣🤣🤣\nえぬパパの可愛い系ボイス聞いてみたいw"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "いやいや、いつも聴いてはりますやん。"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3kw2e4im3gr2u",
+            "label": [
+                0.998275637626648,
+                0.00016817271534819156,
+                0.000616706267464906,
+                0.00015988477389328182,
+                0.00011604188330238685,
+                0.00011488261952763423,
+                0.00023611600045114756,
+                0.00031259917886927724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "ゴーストバンにでもなったん？"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "おはよー( *・ω・)ノ\nなってないよ🥹\nなんかさ、ホント当たらなくなってるしモチベ下がりすぎて💨\n心を無にしてポチポチしてるけど疲れた‪‪‪w‪w‪w"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "こんばんは。\n\nなってへんねんやったら俺よりましや、まだまだいけるで！\n俺はゴーストバン生活9か月目に入ったわ。\n俺の分ももうちょい頑張って！"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3lb7oqspzcs2g",
+            "label": [
+                0.0003268574073445052,
+                0.0002812352904584259,
+                0.9989564418792725,
+                0.00012340782268438488,
+                8.832134335534647e-05,
+                8.330457785632461e-05,
+                7.405144424410537e-05,
+                6.641892105108127e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "こんばんは。\n\nなってへんねんやったら俺よりましや、まだまだいけるで！\n俺はゴーストバン生活9か月目に入ったわ。\n俺の分ももうちょい頑張って！"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "こんばんはこんばんは🌙*ﾟそしてこんばんは🌙*ﾟ\n\n課金して仮ラベル外れてからはバンにはならなくなったけど、ホント当たらないわなー💨\n頑張れるだけ頑張って突然卒業するかも‪‪‪w‪w‪w"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "卒業流行ってんの？(笑)"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3lb7pzdu53c2b",
+            "label": [
+                0.001440158812329173,
+                0.0003438933636061847,
+                0.0013116373447701335,
+                0.9961947202682495,
+                0.00012186625826871023,
+                0.0002743696386460215,
+                0.00020367732213344425,
+                0.00010969056893372908
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "卒業流行ってんの？(笑)"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "え？流行ってなくない？\nむしろ流行の最先端かもよｗ"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "先陣切るわ(笑)"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3lb7qpljk422b",
+            "label": [
+                0.3459499478340149,
+                0.0009802321437746286,
+                0.648550808429718,
+                0.001110680284909904,
+                0.0007590542081743479,
+                0.0009189537377096713,
+                0.0008259174064733088,
+                0.0009043883765116334
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 1,
+                    "utter": "先陣切るわ(笑)"
+                },
+                {
+                    "author": "did:plc:kvlzrjaaxilpwyuoca5chfcj",
+                    "type": 2,
+                    "utter": "パ、パイセン……"
+                },
+                {
+                    "author": "did:plc:qgzeufoxsewqles5adbe4urr",
+                    "type": 3,
+                    "utter": "今月中に終わらせたいなー\n\nもう疲れたわ。"
+                }
+            ],
+            "uri": "at://did:plc:qgzeufoxsewqles5adbe4urr/app.bsky.feed.post/3lb7qxlidl22q",
+            "label": [
+                0.00037957626045681536,
+                0.9907068610191345,
+                0.0030594374984502792,
+                0.00016786194464657456,
+                0.00023727319785393775,
+                0.0016182486433535814,
+                0.0037619092036038637,
+                6.89731677994132e-05
+            ]
+        }
+    ]
+}

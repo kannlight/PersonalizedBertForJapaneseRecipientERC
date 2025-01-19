@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "空飛んでみるか？"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "飛んでみたいものですね"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "俺の機体でなら飛べるぞ？"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbxkx2dwu227",
+            "label": [
+                0.001724243862554431,
+                0.0003089059318881482,
+                0.9973437190055847,
+                0.00013575582124758512,
+                0.00013211523764766753,
+                0.00016771060472819954,
+                0.00010244848090223968,
+                8.50077994982712e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "俺の機体でなら飛べるぞ？"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "そういえば、がんだむ？でしたっけ？\nあの大きなのなら、びゅーんっと空飛べますね☆\nっということは、刹那さんはお空のプロですねっ！"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "そんなことないさ"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbxloccv4k27",
+            "label": [
+                0.9124802350997925,
+                0.0024474128149449825,
+                0.05565178021788597,
+                0.009934843517839909,
+                0.003330014878883958,
+                0.0017183428863063455,
+                0.004338513594120741,
+                0.010098973289132118
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "そんなことないさ"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "でも、お空は飛べるので迷わず色んな所いけそうですよ？"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "たしかに、それはそうだな"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbxmhnuw5227",
+            "label": [
+                0.9244294166564941,
+                0.0012336448999121785,
+                0.0240151509642601,
+                0.015452302061021328,
+                0.002175095723941922,
+                0.008893664926290512,
+                0.0062476214952766895,
+                0.017553120851516724
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "たしかに、それはそうだな"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "やっぱり凄いですね✨"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "そうか？"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lby3vgye4k2x",
+            "label": [
+                0.0033206769730895758,
+                0.0010954979807138443,
+                0.0011568668996915221,
+                0.9932851791381836,
+                0.0002047246234724298,
+                0.0002524282317608595,
+                0.000498491688631475,
+                0.00018614133296068758
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "今日は水曜日"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "水曜日早い気がしますけど、まだ って感じがしますね…。"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "でも、すぐだろ"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbe7ojv3y22p",
+            "label": [
+                0.004609860014170408,
+                0.000424956320784986,
+                0.9942367076873779,
+                0.00014793935406487435,
+                8.901423279894516e-05,
+                0.00020839349599555135,
+                0.00014039046072866768,
+                0.00014264264609664679
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "でも、すぐだろ"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "すぐですけど、長い気がします…"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "早く終わってほしいのか？"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbegqcapzk2p",
+            "label": [
+                0.026593631133437157,
+                0.26140594482421875,
+                0.09986420720815659,
+                0.13591758906841278,
+                0.19831642508506775,
+                0.13453634083271027,
+                0.12927627563476562,
+                0.01408961322158575
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "早く終わってほしいのか？"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "むぅ～微妙ですね"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "微妙って"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbeh5hrrgs2p",
+            "label": [
+                0.054641243070364,
+                0.46089407801628113,
+                0.0014478975208476186,
+                0.013299854472279549,
+                0.002691104309633374,
+                0.05585870146751404,
+                0.4089883267879486,
+                0.0021787399891763926
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 1,
+                    "utter": "微妙って"
+                },
+                {
+                    "author": "did:plc:l6j5kmj4osp6tjzb7oqeeg4f",
+                    "type": 2,
+                    "utter": "早く終わったら終わったで、なんか残念な気もします。\nなので 微妙なのです。"
+                },
+                {
+                    "author": "did:plc:cj5sbepvv2p5dowjm5etjpjq",
+                    "type": 3,
+                    "utter": "また次の楽しみが待ってるって考えたらいいんじゃないか？"
+                }
+            ],
+            "uri": "at://did:plc:cj5sbepvv2p5dowjm5etjpjq/app.bsky.feed.post/3lbei6ghqhk2p",
+            "label": [
+                0.010814882814884186,
+                0.0004950443981215358,
+                0.9878761768341064,
+                0.00014609262871090323,
+                0.00015731285384390503,
+                0.00019176685600541532,
+                0.00014670623932033777,
+                0.00017197888519149274
+            ]
+        }
+    ]
+}

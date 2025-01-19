@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "|·̫• ͒ )じー"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "なおさんからの誘いまってるのに誘ってくれない˚‧·(´ฅωฅ｀)‧º·"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "ﾖｼﾖｼ(｡´･ω･)ﾉﾞ\nただのシャガルマガラじゃなかったよww"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lbu274a6as2l",
+            "label": [
+                0.9994609951972961,
+                5.641985626425594e-05,
+                0.000101595745945815,
+                0.00019950546266045421,
+                2.979310738737695e-05,
+                4.1406965465284884e-05,
+                5.8354718930786476e-05,
+                5.203865293879062e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "ﾖｼﾖｼ(｡´･ω･)ﾉﾞ\nただのシャガルマガラじゃなかったよww"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "誘って(ﾉｼ 'ω')ﾉｼ ﾊﾞﾝﾊﾞﾝ"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "わんこちゃん\nいまひま？"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lbu2bmayk22l",
+            "label": [
+                0.0599895603954792,
+                0.011505003087222576,
+                0.9199175834655762,
+                0.003546780673786998,
+                0.0003295784117653966,
+                0.002839215099811554,
+                0.0009532194235362113,
+                0.000919066893402487
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "わんこちゃん\nいまひま？"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "今仕事😗 ちゃんと 投稿みてないでしょ\n(  '-'   )"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "ww"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lbu2dv3frs2h",
+            "label": [
+                0.9991732239723206,
+                6.07062283961568e-05,
+                9.98603500192985e-05,
+                0.0004154085763730109,
+                4.2162006138823926e-05,
+                6.542690243804827e-05,
+                8.387379784835503e-05,
+                5.923541903030127e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "ww"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "ちゃんと 対等やないとわんこ は 許さないタイプです(-ω-´  )ぷい"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "ww"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lbu2k3kyr22h",
+            "label": [
+                0.9991732239723206,
+                6.07062283961568e-05,
+                9.98603500192985e-05,
+                0.0004154085763730109,
+                4.2162006138823926e-05,
+                6.542690243804827e-05,
+                8.387379784835503e-05,
+                5.923541903030127e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "可愛い寝顔🐶\n一緒に寝ていたいけど\nラス1だよー🙌🏻\n頑張ろうね〜楽しい休みが待っている♡"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "なおさん 年末年始あそんでくれないの？？🥺"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "タイミング合ったら遊んでね✨️"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3leayaaiocc2d",
+            "label": [
+                0.004066807217895985,
+                0.00030127831269055605,
+                0.9950845837593079,
+                0.00014991633361205459,
+                9.027761552715674e-05,
+                0.00012035849795211107,
+                9.528326336294413e-05,
+                9.160768240690231e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "タイミング合ったら遊んでね✨️"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "タイミングあわないの🥺悲しい"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "わんこちゃんは いつかま暇？"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lebih6tunc2i",
+            "label": [
+                0.2427314966917038,
+                0.3483480215072632,
+                0.03974773362278938,
+                0.27727457880973816,
+                0.002482751151546836,
+                0.06604880094528198,
+                0.01875079981982708,
+                0.00461583212018013
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "わんこちゃんは いつかま暇？"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "今日から夜は毎日暇ꉂ🤣𐤔"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "今日はご飯食べに行く"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lebiovh46c2j",
+            "label": [
+                0.06457314640283585,
+                0.0006942302570678294,
+                0.9333204030990601,
+                0.00033342873211950064,
+                0.0002426821447443217,
+                0.0003169742412865162,
+                0.0002770161663647741,
+                0.00024215852317865938
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "今日はご飯食べに行く"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "今日からだもん🥺"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "私も今日から休みだー🙌🏻\nいつにしようかなぁ\n明後日はどう？"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3lebjxxu7as2n",
+            "label": [
+                0.6252638697624207,
+                0.0010811638785526156,
+                0.37141022086143494,
+                0.0005427022115327418,
+                0.00035653545637615025,
+                0.0005019430536776781,
+                0.00044238611008040607,
+                0.00040119749610312283
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "計算苦手(。-`ω´-)ﾝｰ\n最近は わんこちゃんとの時間多いよ これからも沢山遊んでね〜♪"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "遊ぶから 時間をわんこで埋めて🤣"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "沢山埋めるぞ〜🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3ldnp7c5cpk2k",
+            "label": [
+                0.004932155832648277,
+                0.0002945995656773448,
+                0.994151771068573,
+                0.00016282463911920786,
+                0.0001233530492754653,
+                0.00012756447540596128,
+                0.00010334554826840758,
+                0.00010439705511089414
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "沢山埋めるぞ〜🤣🤣"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "なおさん違うゲームしよ🥺 マリオカートは？？マリオパーティは？？"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "マリカは持ってるよ🚗³₃\nあんまりやってないけど \nたまにはいいねぇ✨️"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3ldnphnhi4c2k",
+            "label": [
+                0.9996089339256287,
+                4.72886094939895e-05,
+                0.00012877593690063804,
+                5.558728662435897e-05,
+                2.8049149477737956e-05,
+                3.70816960639786e-05,
+                4.834271749132313e-05,
+                4.5998294808669016e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "マリカは持ってるよ🚗³₃\nあんまりやってないけど \nたまにはいいねぇ✨️"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "わんこさん、持ってるけどやらないから やろやろ🤣"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "日曜日にやろ〜う🤣🤣"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3ldnpofgfjk2k",
+            "label": [
+                0.004202516283839941,
+                0.00039219376049004495,
+                0.9948864579200745,
+                0.00012861691357102245,
+                8.023985719773918e-05,
+                0.00013697832764592022,
+                9.451969526708126e-05,
+                7.849241228541359e-05
+            ]
+        },
+        {
+            "talk": [
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 1,
+                    "utter": "日曜日にやろ〜う🤣🤣"
+                },
+                {
+                    "author": "did:plc:3x63myyvpync5dqdx7oa6el4",
+                    "type": 2,
+                    "utter": "いーよー🤣 (｀・ω・´)ﾏｶｾﾛﾘ\n下手くそだけど 自分🤣"
+                },
+                {
+                    "author": "did:plc:jkmcx7frtmwoo6jpbgeeoi4r",
+                    "type": 3,
+                    "utter": "どっちが下手くそか勝負しよ？🤣🤣私も下手くそ🤣"
+                }
+            ],
+            "uri": "at://did:plc:jkmcx7frtmwoo6jpbgeeoi4r/app.bsky.feed.post/3ldnpvxcf7k2k",
+            "label": [
+                0.001244621817022562,
+                0.0031729014590382576,
+                0.9940484762191772,
+                0.00015735278429929167,
+                0.00022913306020200253,
+                0.00030603373306803405,
+                0.0007096220506355166,
+                0.0001318690920015797
+            ]
+        }
+    ]
+}
