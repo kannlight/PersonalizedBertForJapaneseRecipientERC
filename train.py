@@ -308,8 +308,8 @@ def main():
     dataset_train = tokenize_pack('DatasetTrain.json')
     dataset_val = tokenize_pack('DatasetVal.json')
     # データローダ作成
-    dataloader_train = DataLoader(dataset_train, batch_size=4, shuffle=True)
-    dataloader_val = DataLoader(dataset_val, batch_size=4)
+    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=4, shuffle=True)
+    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
 
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
