@@ -312,7 +312,7 @@ def main():
     dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
 
     # ハイパーパラメータ
-    max_epochs = 10 # 学習のエポック数
+    max_epochs = 15 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
     lr = 3e-5 # 初期学習率
