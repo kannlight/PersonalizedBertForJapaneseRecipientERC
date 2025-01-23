@@ -305,8 +305,8 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
 
 def main():
     # データセットから対話パックをトークン化
-    dataset_train = tokenize_pack('DatasetTrain.json')
-    dataset_val = tokenize_pack('DatasetVal.json')
+    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=4, shuffle=True)
     dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
