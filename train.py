@@ -305,17 +305,17 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
 
 def main():
     # データセットから対話パックをトークン化
-    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
-    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
+    dataset_train = tokenize_pack('./DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetVal.json')
     # データローダ作成
     dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=4, shuffle=True)
     dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
 
     # ハイパーパラメータ
-    max_epochs = 15 # 学習のエポック数
+    max_epochs = 10 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    lr = 3e-5 # 初期学習率
+    lr = 1e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
