@@ -319,15 +319,15 @@ def main():
     acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
 
     # データローダ作成
-    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(4/acc_batches), shuffle=True)
-    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
+    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(16/acc_batches), shuffle=True)
+    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=16)
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
     if acc_batches is not None:
         total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    lr = 1e-5 # 初期学習率
+    lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
