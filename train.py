@@ -265,10 +265,16 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
             attention_mask=batch['attention_mask'],
             token_type_ids=batch['token_type_ids']
         )
+        
         # 損失関数にCEではなくICFを用いる
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
         loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
-        self.log('train_loss', loss)
+        
+        if self.trainer.accumulate_grad_batches is not None:
+            if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
+                self.log('train_loss', loss)
+        else:
+            self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
@@ -299,6 +305,8 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
                 num_warmup_steps=self.hparams.warmup_steps,
                 num_training_steps=self.hparams.total_steps
             )
+            if self.trainer.accumulate_grad_batches is not None:
+                return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
             return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
         else:
             return optimizer
@@ -307,13 +315,17 @@ def main():
     # データセットから対話パックをトークン化
     dataset_train = tokenize_pack('./DatasetTrain.json')
     dataset_val = tokenize_pack('./DatasetVal.json')
-    # データローダ作成
-    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=4, shuffle=True)
-    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
 
+    acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
+
+    # データローダ作成
+    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(4/acc_batches), shuffle=True)
+    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
     # ハイパーパラメータ
     max_epochs = 10 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
+    if acc_batches is not None:
+        total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
     lr = 1e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
@@ -329,6 +341,7 @@ def main():
     )
     # 学習方法の指定
     trainer = pl.Trainer(
+        accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
