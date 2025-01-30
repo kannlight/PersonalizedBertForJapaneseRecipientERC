@@ -5,6 +5,7 @@ from torch.utils.data import DataLoader
 from transformers import BertJapaneseTokenizer, BertPreTrainedModel, BertModel, get_scheduler
 from transformers.modeling_outputs import SequenceClassifierOutput
 import pytorch_lightning as pl
+from pytorch_lightning.callbacks import ModelCheckpoint, EarlyStopping
 from sklearn.metrics import classification_report
 import math
 
@@ -270,11 +271,11 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
         loss_func = torch.nn.CrossEntropyLoss(weight = ICFweight)
         loss = loss_func(output.logits.view(-1,self.hparams.num_labels), batch['labels'].view(-1,self.hparams.num_labels))
         
-        if self.trainer.accumulate_grad_batches is not None:
-            if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
-                self.log('train_loss', loss)
-        else:
-            self.log('train_loss', loss)
+        # if self.trainer.accumulate_grad_batches is not None:
+        #     if (batch_idx + 1) % self.trainer.accumulate_grad_batches == 0:
+        #         self.log('train_loss', loss)
+        # else:
+        self.log('train_loss', loss)
         return loss
     
     # 検証データを受け取って損失を返すメソッド
@@ -305,43 +306,51 @@ class PersonalizedBertForJapaneseRecepientERC(pl.LightningModule):
                 num_warmup_steps=self.hparams.warmup_steps,
                 num_training_steps=self.hparams.total_steps
             )
-            if self.trainer.accumulate_grad_batches is not None:
-                return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
+            # if self.trainer.accumulate_grad_batches is not None:
+            #     return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": self.trainer.accumulate_grad_batches}]
             return [optimizer], [{"scheduler": scheduler, "interval": "step", "frequency": 1}]
         else:
             return optimizer
 
 def main():
     # データセットから対話パックをトークン化
-    dataset_train = tokenize_pack('./DatasetTrain.json')
-    dataset_val = tokenize_pack('./DatasetVal.json')
+    dataset_train = tokenize_pack('./DatasetForExperiment2/DatasetTrain.json')
+    dataset_val = tokenize_pack('./DatasetForExperiment2/DatasetVal.json')
 
-    acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
+    # acc_batches = 4 # 累積勾配を適用するバッチサイズ(適用しないならNone)
 
     # データローダ作成
-    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(16/acc_batches), shuffle=True)
-    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=16)
+    # dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=int(16/acc_batches), shuffle=True)
+    dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=4, shuffle=True)
+    dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
     # ハイパーパラメータ
-    max_epochs = 10 # 学習のエポック数
+    max_epochs = 25 # 学習のエポック数
     total_steps = len(dataloader_train) * max_epochs
-    if acc_batches is not None:
-        total_steps /= acc_batches
+    # if acc_batches is not None:
+    #     total_steps /= acc_batches
     warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
+    warmup_steps = int(0.1 * len(dataloader_train) * 10) # ウォームアップの適用期間(比較に合わせた)
     lr = 3e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
     # ファインチューニングの設定
-    checkpoint = pl.callbacks.ModelCheckpoint(
+    checkpoint = ModelCheckpoint(
         monitor = 'val_loss',
         mode = 'min', # monitorの値が小さいモデルを保存
         save_top_k = 1, # 最小のモデルだけ保存
         save_weights_only = True, # モデルの重みのみを保存
         dirpath='model/' # 保存先
     )
+    # early stopping の設定
+    early_stopping = EarlyStopping(
+        monitor='val_loss',
+        patience=3,  # 3エポック性能が向上しなければ停止
+        mode='min'
+    )
     # 学習方法の指定
     trainer = pl.Trainer(
-        accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
+        # accumulate_grad_batches = acc_batches, # 累積勾配4ステップ分
         accelerator = 'gpu', # 学習にgpuを使用
         devices = 1, # gpuの個数
         max_epochs = max_epochs, # 学習のエポック数
