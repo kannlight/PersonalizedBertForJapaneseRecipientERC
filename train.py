@@ -324,14 +324,12 @@ def main():
     dataloader_train = DataLoader(dataset_train, num_workers=2, batch_size=4, shuffle=True)
     dataloader_val = DataLoader(dataset_val, num_workers=2, batch_size=4)
     # ハイパーパラメータ
-    max_epochs = 25 # 学習のエポック数
-    # total_steps = len(dataloader_train) * max_epochs
-    total_steps_comp = len(dataloader_train) * 10 # 比較モデルに合わせた
+    max_epochs = 20 # 学習のエポック数
+    total_steps = len(dataloader_train) * max_epochs
     # if acc_batches is not None:
     #     total_steps /= acc_batches
-    # warmup_steps = int(0.1 * total_steps) # ウォームアップの適用期間
-    warmup_steps = int(0.1 * total_steps_comp) # ウォームアップの適用期間
-    lr = 3e-5 # 初期学習率
+    warmup_steps = len(dataloader_train) # ウォームアップの適用期間
+    lr = 5e-5 # 初期学習率
     wd = 0.1 # 重み減衰率
     dropout = 0.1 # 全結合前のドロップアウト率
 
@@ -363,8 +361,7 @@ def main():
         weight_decay=wd,
         dropout=dropout,
         warmup_steps=warmup_steps,
-        # total_steps=total_steps
-        total_steps=total_steps_comp
+        total_steps=total_steps
     )
     # ファインチューニング
     trainer.fit(model, dataloader_train, dataloader_val)
